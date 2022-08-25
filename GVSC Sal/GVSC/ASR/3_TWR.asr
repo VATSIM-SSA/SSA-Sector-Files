@@ -1,0 +1,283 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GOGG:name
+Airports:GOGK:name
+Airports:GOGS:name
+Airports:GOOK:name
+Airports:GOOY:name
+Airports:GOSM:name
+Airports:GOSP:name
+Airports:GOSR:name
+Airports:GOSS:name
+Airports:GOTB:name
+Airports:GOTK:name
+Airports:GOTS:name
+Airports:GOTT:name
+Airports:GQNA:name
+Airports:GQNC:name
+Airports:GQND:name
+Airports:GQNE:name
+Airports:GQNF:name
+Airports:GQNH:name
+Airports:GQNI:name
+Airports:GQNK:name
+Airports:GQNL:name
+Airports:GQNN:name
+Airports:GQNO:name
+Airports:GQNS:name
+Airports:GQNT:name
+Airports:GQPA:name
+Airports:GQPP:name
+Airports:GQPT:name
+Airports:GQPZ:name
+Airports:GVAC:name
+Airports:GVBA:name
+Airports:GVMA:name
+Airports:GVNP:name
+Airports:GVSF:name
+Airports:GVSN:name
+Airports:GVSV:name
+ARTCC boundary:GVSC-TMA:
+ARTCC high boundary:GCCC:
+ARTCC high boundary:GOOO:
+ARTCC high boundary:GVSC:
+ARTCC high boundary:LPPO:
+ARTCC low boundary:GVAC-ATZ:
+ARTCC low boundary:GVBA-ATZ:
+ARTCC low boundary:GVNP-CTR:
+ARTCC low boundary:GVSV-CTR:
+Fixes:AGTIL:name
+Fixes:AGTIL:symbol
+Fixes:AMDOL:name
+Fixes:AMDOL:symbol
+Fixes:BAMUX:name
+Fixes:BAMUX:symbol
+Fixes:BIKOM:name
+Fixes:BIKOM:symbol
+Fixes:BORTA:name
+Fixes:BORTA:symbol
+Fixes:BOTNO:name
+Fixes:BOTNO:symbol
+Fixes:BULVO:name
+Fixes:BULVO:symbol
+Fixes:DENER:name
+Fixes:DENER:symbol
+Fixes:EDIPA:name
+Fixes:EDIPA:symbol
+Fixes:EDUMO:name
+Fixes:EDUMO:symbol
+Fixes:EVKAS:name
+Fixes:EVKAS:symbol
+Fixes:GARPO:name
+Fixes:GARPO:symbol
+Fixes:GUNET:name
+Fixes:GUNET:symbol
+Fixes:IPERA:name
+Fixes:IPERA:symbol
+Fixes:KENOX:name
+Fixes:KENOX:symbol
+Fixes:KESIK:name
+Fixes:KESIK:symbol
+Fixes:LININ:name
+Fixes:LININ:symbol
+Fixes:LUMPO:name
+Fixes:LUMPO:symbol
+Fixes:MOGSA:name
+Fixes:MOGSA:symbol
+Fixes:MOPAC:name
+Fixes:MOPAC:symbol
+Fixes:NATAS:name
+Fixes:NATAS:symbol
+Fixes:NEMDO:name
+Fixes:NEMDO:symbol
+Fixes:NINAU:name
+Fixes:NINAU:symbol
+Fixes:OBOMO:name
+Fixes:OBOMO:symbol
+Fixes:ONOBI:name
+Fixes:ONOBI:symbol
+Fixes:PINPO:name
+Fixes:PINPO:symbol
+Fixes:PISPU:name
+Fixes:PISPU:symbol
+Fixes:POLMO:name
+Fixes:POLMO:symbol
+Fixes:POMAT:name
+Fixes:POMAT:symbol
+Fixes:RAMOL:name
+Fixes:RAMOL:symbol
+Fixes:RUKAV:name
+Fixes:RUKAV:symbol
+Fixes:SISAU:name
+Fixes:SISAU:symbol
+Fixes:SONVA:name
+Fixes:SONVA:symbol
+Fixes:TARIM:name
+Fixes:TARIM:symbol
+Fixes:TEGTO:name
+Fixes:TEGTO:symbol
+Fixes:TENPA:name
+Fixes:TENPA:symbol
+Fixes:TUTLO:name
+Fixes:TUTLO:symbol
+Fixes:ULTEM:name
+Fixes:ULTEM:symbol
+Fixes:VEPOP:name
+Fixes:VEPOP:symbol
+Fixes:VONTO:name
+Fixes:VONTO:symbol
+Fixes:XIBOT:name
+Fixes:XIBOT:symbol
+Fixes:XIGLU:name
+Fixes:XIGLU:symbol
+Fixes:XUVIT:name
+Fixes:XUVIT:symbol
+Free Text:GV MSA\1700:freetext
+Free Text:GV MSA\2000:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\3400:freetext
+Free Text:GV MSA\3900:freetext
+Free Text:GV MSA\4600:freetext
+Free Text:GV MSA\6600:freetext
+Free Text:GV MSA\8500:freetext
+Free Text:GVAC Ground Labels\A1:freetext
+Free Text:GVAC Ground Labels\A2:freetext
+Free Text:GVAC Ground Labels\A3:freetext
+Free Text:GVAC Ground Labels\A4:freetext
+Free Text:GVAC Ground Labels\B:freetext
+Free Text:GVAC Ground Labels\C:freetext
+Free Text:GVAC Ground Labels\D:freetext
+Free Text:GVAC Ground Labels\E:freetext
+Free Text:GVAC Ground Labels\F:freetext
+Free Text:GVAC Ground Labels\Stand 1:freetext
+Free Text:GVAC Ground Labels\Stand 2:freetext
+Free Text:GVAC Ground Labels\Stand 3:freetext
+Free Text:GVAC Ground Labels\Stand 4:freetext
+Free Text:GVAC Ground Labels\Stand 5:freetext
+Free Text:GVAC Ground Labels\Stand 6:freetext
+Free Text:GVAC Ground Labels\Stand 7:freetext
+Free Text:GVAC Ground Labels\Terminal:freetext
+Free Text:GVAC Ground Labels\Tower:freetext
+Free Text:GVBA Ground Labels\1/1A:freetext
+Free Text:GVBA Ground Labels\2/2A/2B:freetext
+Free Text:GVBA Ground Labels\3/3A:freetext
+Free Text:GVBA Ground Labels\4:freetext
+Free Text:GVBA Ground Labels\5:freetext
+Free Text:GVBA Ground Labels\A:freetext
+Free Text:GVBA Ground Labels\Apron C:freetext
+Free Text:GVBA Ground Labels\B:freetext
+Free Text:GVBA Ground Labels\Terminal:freetext
+Free Text:GVNP Ground Labels\A:freetext
+Free Text:GVNP Ground Labels\B:freetext
+Free Text:GVNP Ground Labels\C:freetext
+Free Text:GVNP Ground Labels\Cargo:freetext
+Free Text:GVNP Ground Labels\Fire Station:freetext
+Free Text:GVNP Ground Labels\Stand 1:freetext
+Free Text:GVNP Ground Labels\Stand 2:freetext
+Free Text:GVNP Ground Labels\Stand 3:freetext
+Free Text:GVNP Ground Labels\Stand 4:freetext
+Free Text:GVNP Ground Labels\Stand 5:freetext
+Free Text:GVNP Ground Labels\Stand 6:freetext
+Free Text:GVNP Ground Labels\Stand 7/7A:freetext
+Free Text:GVNP Ground Labels\Stand 8/8A:freetext
+Free Text:GVNP Ground Labels\Terminal:freetext
+Free Text:GVSV Ground Labels\A:freetext
+Free Text:GVSV Ground Labels\B:freetext
+Free Text:GVSV Ground Labels\C:freetext
+Free Text:GVSV Ground Labels\C:freetext
+Free Text:GVSV Ground Labels\Stand 1:freetext
+Free Text:GVSV Ground Labels\Stand 2:freetext
+Free Text:GVSV Ground Labels\Stand 3:freetext
+Free Text:GVSV Ground Labels\Stand 4:freetext
+Free Text:GVSV Ground Labels\Stand 5:freetext
+Free Text:GVSV Ground Labels\Stand 6:freetext
+Free Text:GVSV Ground Labels\Stand 7:freetext
+Free Text:GVSV Ground Labels\Terminal:freetext
+Geo:GO Landmark Coast:
+Geo:GV Landmark Coast:
+Geo:GVAC Groundlayout:
+Geo:GVBA Groundlayout:
+Geo:GVMA Groundlayout:
+Geo:GVNP Groundlayout:
+Geo:GVSF Groundlayout:
+Geo:GVSN Groundlayout:
+Geo:GVSV Groundlayout:
+NDBs:BVT:name
+NDBs:BVT:symbol
+NDBs:NCL:name
+NDBs:NCL:symbol
+NDBs:SVT:name
+NDBs:SVT:symbol
+Regions:GVAC Ground Layout:polygon
+Regions:GVBA Ground Layout:polygon
+Regions:GVMA Ground Layout:polygon
+Regions:GVNP Ground Layout:polygon
+Regions:GVSF Ground Layout:polygon
+Regions:GVSN Ground Layout:polygon
+Regions:GVSV Ground Layout:polygon
+Runways:GVAC 01-19:extended centerline 1
+Runways:GVAC 01-19:extended centerline 1 left ticks
+Runways:GVAC 01-19:extended centerline 1 right ticks
+Runways:GVAC 01-19:extended centerline 2
+Runways:GVAC 01-19:extended centerline 2 left ticks
+Runways:GVAC 01-19:extended centerline 2 right ticks
+Runways:GVBA 03-21:centerline
+Runways:GVBA 03-21:extended centerline 1
+Runways:GVBA 03-21:extended centerline 1 left ticks
+Runways:GVBA 03-21:extended centerline 1 right ticks
+Runways:GVBA 03-21:extended centerline 2
+Runways:GVBA 03-21:extended centerline 2 left ticks
+Runways:GVBA 03-21:extended centerline 2 right ticks
+Runways:GVMA 01-19:extended centerline 1
+Runways:GVMA 01-19:extended centerline 1 left ticks
+Runways:GVMA 01-19:extended centerline 1 right ticks
+Runways:GVMA 01-19:extended centerline 2
+Runways:GVMA 01-19:extended centerline 2 left ticks
+Runways:GVMA 01-19:extended centerline 2 right ticks
+Runways:GVNP 03-21:centerline
+Runways:GVNP 03-21:extended centerline 1
+Runways:GVNP 03-21:extended centerline 1 left ticks
+Runways:GVNP 03-21:extended centerline 1 right ticks
+Runways:GVNP 03-21:extended centerline 2
+Runways:GVNP 03-21:extended centerline 2 left ticks
+Runways:GVNP 03-21:extended centerline 2 right ticks
+Runways:GVSF 14-32:extended centerline 1
+Runways:GVSF 14-32:extended centerline 1 left ticks
+Runways:GVSF 14-32:extended centerline 1 right ticks
+Runways:GVSF 14-32:extended centerline 2
+Runways:GVSF 14-32:extended centerline 2 left ticks
+Runways:GVSF 14-32:extended centerline 2 right ticks
+Runways:GVSN 01-19:centerline
+Runways:GVSN 01-19:extended centerline 1
+Runways:GVSN 01-19:extended centerline 1 left ticks
+Runways:GVSN 01-19:extended centerline 1 right ticks
+Runways:GVSN 01-19:extended centerline 2
+Runways:GVSN 01-19:extended centerline 2 left ticks
+Runways:GVSN 01-19:extended centerline 2 right ticks
+VORs:BJ:symbol
+VORs:CVS:name
+VORs:CVS:symbol
+VORs:PE:symbol
+VORs:SNT:name
+VORs:SNT:symbol
+VORs:ZG:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:16.717321:-22.984540:16.754869:-22.913690

@@ -1,0 +1,322 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:HBBA:
+ARTCC boundary:HRYR:
+ARTCC high boundary:FACA:
+ARTCC high boundary:FAJA:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FIMP:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FSIA:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:FVHF:
+ARTCC high boundary:FWLL:
+ARTCC high boundary:FYWH:
+ARTCC high boundary:FZZA:
+ARTCC high boundary:GOOC:
+ARTCC high boundary:HAAA:
+ARTCC high boundary:HCSM:
+ARTCC high boundary:HKNA:
+ARTCC high boundary:HSSS:
+ARTCC high boundary:HTDC:
+ARTCC high boundary:HUEC:
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast NW:
+Geo:FA Landmark Coast S:
+Geo:FA Landmark Lakes:
+Geo:FACA Landmark Islands:
+Geo:FACA Landmark Lakes:
+Geo:FB Landmark Okavanga Delta:
+Geo:FC Landmark Coast S:
+Geo:FH Landmark Coast:
+Geo:FI Landmark Coast:
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FI Landmark Coast Diego Garcia:
+Geo:FL Landmark Lakes:
+Geo:FM Landmark Coast Bassas da India:
+Geo:FM Landmark Coast Comores:
+Geo:FM Landmark Coast Europe Island:
+Geo:FM Landmark Coast Juan de Nova:
+Geo:FM Landmark Coast Madagascar:
+Geo:FM Landmark Coast Mayotte:
+Geo:FM Landmark Coast Reunion:
+Geo:FM Landmark Coast Tromelin:
+Geo:FN Landmark Coast N:
+Geo:FN Landmark Coast S:
+Geo:FQ Landmark Coast M:
+Geo:FQ Landmark Coast N:
+Geo:FQ Landmark Coast S:
+Geo:FQ Landmark Lago de Cahora Bassa:
+Geo:FQ Landmark Lakes:
+Geo:FS Landmark Coast:
+Geo:FS Landmark Coast Astove Island:
+Geo:FS Landmark Coast Farquhar Island:
+Geo:FV Landmark Lake Kariba:
+Geo:FV Landmark Victoria Falls:
+Geo:FW Landmark Lake Malawi:
+Geo:FW Landmark Lakes:
+Geo:FY Landmark Coast M:
+Geo:FY Landmark Coast N:
+Geo:FY Landmark Coast S:
+Geo:FY Landmark Etosha:
+Geo:FY Landmark Lakes:
+Geo:FZ Landmark Lakes:
+Geo:HC Landmark Coast S:
+Geo:HK Landmark Coast:
+Geo:HK Landmark Lake Turkana:
+Geo:HK Landmark Lakes:
+Geo:HR Landmark Lakes:
+Geo:HT Landmark Coast N:
+Geo:HT Landmark Coast S:
+Geo:HT Landmark Lake Tanganyika:
+Geo:HT Landmark Lake Victoria:
+Geo:HT Landmark Lakes:
+Geo:HU Landmark Lakes:
+VORs:AAT:symbol
+VORs:ABC:symbol
+VORs:ABV:symbol
+VORs:ACC:symbol
+VORs:AD:symbol
+VORs:ADS:symbol
+VORs:AGV:symbol
+VORs:AKW:symbol
+VORs:BCH:symbol
+VORs:BD:symbol
+VORs:BDA:symbol
+VORs:BDR:symbol
+VORs:BEB:symbol
+VORs:BEN:symbol
+VORs:BF:symbol
+VORs:BJA:symbol
+VORs:BKY:symbol
+VORs:BLT:symbol
+VORs:BLV:symbol
+VORs:BOV:symbol
+VORs:BRO:symbol
+VORs:BT:symbol
+VORs:BTA:symbol
+VORs:BUN:symbol
+VORs:BUT:symbol
+VORs:BZ:symbol
+VORs:CAL:symbol
+VORs:CDV:symbol
+VORs:CF:symbol
+VORs:CLC:symbol
+VORs:CSV:symbol
+VORs:CTV:symbol
+VORs:DI:symbol
+VORs:DLA:symbol
+VORs:DPV:symbol
+VORs:DTI:symbol
+VORs:DUT:symbol
+VORs:DV:symbol
+VORs:DVL:symbol
+VORs:DWA:symbol
+VORs:DZP:symbol
+VORs:ELD:symbol
+VORs:ELV:symbol
+VORs:ENG:symbol
+VORs:ERV:symbol
+VORs:FDN:symbol
+VORs:FNV:symbol
+VORs:FRH:symbol
+VORs:FRV:symbol
+VORs:GAN:symbol
+VORs:GAR:symbol
+VORs:GAV:symbol
+VORs:GB:symbol
+VORs:GBV:symbol
+VORs:GBY:symbol
+VORs:GFV:symbol
+VORs:GIA:symbol
+VORs:GME:symbol
+VORs:GOM:symbol
+VORs:GRV:symbol
+VORs:GSV:symbol
+VORs:GV:symbol
+VORs:GWV:symbol
+VORs:GWZ:symbol
+VORs:GYV:symbol
+VORs:HAI:symbol
+VORs:HGV:symbol
+VORs:HMV:symbol
+VORs:HSV:symbol
+VORs:IA:symbol
+VORs:IBA:symbol
+VORs:ILR:symbol
+VORs:IRO:symbol
+VORs:IT:symbol
+VORs:JOS:symbol
+VORs:JSV:symbol
+VORs:JUB:symbol
+VORs:KDA:symbol
+VORs:KGI:symbol
+VORs:KGV:symbol
+VORs:KI:symbol
+VORs:KIN:symbol
+VORs:KIS:symbol
+VORs:KIT:symbol
+VORs:KIV:symbol
+VORs:KMB:symbol
+VORs:KMI:symbol
+VORs:KNM:symbol
+VORs:KRG:symbol
+VORs:KSA:symbol
+VORs:KSI:symbol
+VORs:KSV:symbol
+VORs:KTV:symbol
+VORs:KUA:symbol
+VORs:KV:symbol
+VORs:KYV:symbol
+VORs:LAG:symbol
+VORs:LE:symbol
+VORs:LGI:symbol
+VORs:LIV:symbol
+VORs:LJA:symbol
+VORs:LM:symbol
+VORs:LOV:symbol
+VORs:LTV:symbol
+VORs:LUB:symbol
+VORs:LV:symbol
+VORs:LWV:symbol
+VORs:LYV:symbol
+VORs:MAN:symbol
+VORs:MAV:symbol
+VORs:MBA:symbol
+VORs:MBO:symbol
+VORs:MBY:symbol
+VORs:MEV:symbol
+VORs:MF:symbol
+VORs:MG:symbol
+VORs:MGU:symbol
+VORs:MGY:symbol
+VORs:MHV:symbol
+VORs:MIU:symbol
+VORs:MLD:symbol
+VORs:MLE:symbol
+VORs:MLK:symbol
+VORs:MMV:symbol
+VORs:MNA:symbol
+VORs:MNV:symbol
+VORs:MOV:symbol
+VORs:MPK:symbol
+VORs:MT:symbol
+VORs:MV:symbol
+VORs:MVR:symbol
+VORs:MZV:symbol
+VORs:NAK:symbol
+VORs:NLY:symbol
+VORs:NN:symbol
+VORs:NSB:symbol
+VORs:NT:symbol
+VORs:NV:symbol
+VORs:NVV:symbol
+VORs:OAV:symbol
+VORs:OBV:symbol
+VORs:ODN:symbol
+VORs:OE:symbol
+VORs:OSB:symbol
+VORs:OWR:symbol
+VORs:PA:symbol
+VORs:PAM:symbol
+VORs:PEV:symbol
+VORs:PG:symbol
+VORs:PHV:symbol
+VORs:PJV:symbol
+VORs:PKV:symbol
+VORs:PLS:symbol
+VORs:PMV:symbol
+VORs:PNV:symbol
+VORs:POT:symbol
+VORs:PPV:symbol
+VORs:PRA:symbol
+VORs:PRF:symbol
+VORs:PVV:symbol
+VORs:RAV:symbol
+VORs:RBV:symbol
+VORs:RIV:symbol
+VORs:ROB:symbol
+VORs:SB:symbol
+VORs:SDG:symbol
+VORs:SH:symbol
+VORs:SKO:symbol
+VORs:SLV:symbol
+VORs:SPO:symbol
+VORs:SSV:symbol
+VORs:STM:symbol
+VORs:STV:symbol
+VORs:SV:symbol
+VORs:SVV:symbol
+VORs:TD:symbol
+VORs:TGV:symbol
+VORs:TJN:symbol
+VORs:TJR:symbol
+VORs:TLE:symbol
+VORs:TNV:symbol
+VORs:TU:symbol
+VORs:TV:symbol
+VORs:TYE:symbol
+VORs:UL:symbol
+VORs:UPV:symbol
+VORs:VBR:symbol
+VORs:VBU:symbol
+VORs:VCA:symbol
+VORs:VCL:symbol
+VORs:VFA:symbol
+VORs:VFY:symbol
+VORs:VGO:symbol
+VORs:VHU:symbol
+VORs:VKA:symbol
+VORs:VLC:symbol
+VORs:VLI:symbol
+VORs:VLS:symbol
+VORs:VMA:symbol
+VORs:VMF:symbol
+VORs:VMO:symbol
+VORs:VMS:symbol
+VORs:VMV:symbol
+VORs:VMZ:symbol
+VORs:VNA:symbol
+VORs:VNC:symbol
+VORs:VND:symbol
+VORs:VNP:symbol
+VORs:VQL:symbol
+VORs:VSA:symbol
+VORs:VSB:symbol
+VORs:VSK:symbol
+VORs:VTL:symbol
+VORs:VTZ:symbol
+VORs:VUE:symbol
+VORs:VWN:symbol
+VORs:VWV:symbol
+VORs:WAV:symbol
+VORs:WBV:symbol
+VORs:WHV:symbol
+VORs:WIV:symbol
+VORs:WKV:symbol
+VORs:WMV:symbol
+VORs:WRV:symbol
+VORs:YAM:symbol
+VORs:YOL:symbol
+VORs:ZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-39.689960:-19.040866:6.495245:69.364497

@@ -1,0 +1,63 @@
+Settings	SettingsfileSYMBOLOGY	\DNKK\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\DNKK\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\DNKK\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\DNKK\Settings\Tags.txt
+Settings	SettingsfileSIL	\DNKK\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\DNKK\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\DNKK\Settings\DepartureList.txt
+Settings	SettingsfileARR	\DNKK\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\DNKK\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\DNKK\Settings\Plugins.txt
+Settings	Settingsfile	\DNKK\Settings\General.txt
+Settings	SettingsfileSCREEN	\DNKK\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\DNKK\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\DNKK\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\DNKK\Settings\PilotingList.txt
+Settings	alias	\DNKK\Alias\alias.txt
+Settings	airlines	\DNKK\ICAO\ICAO_Airlines.txt
+Settings	airports	\DNKK\ICAO\ICAO_Airports.txt
+Settings	aircraft	\DNKK\ICAO\ICAO_Aircraft.txt
+Settings	airways	\DNKK\NavData\airway.txt
+Settings	airportcoords	\DNKK\NavData\icao.txt
+RecentFiles	Recent1	\DNKK\ASR\1_CTR.asr
+RecentFiles	Recent2	\DNKK\ASR\2_APP.asr
+RecentFiles	Recent3	\DNKK\ASR\3_TWR.asr
+ASRFastKeys	1	\DNKK\ASR\1_CTR.asr
+ASRFastKeys	2	\DNKK\ASR\2_APP.asr
+ASRFastKeys	3	\DNKK\ASR\3_TWR.asr
+Settings	sector	\DNKK-Package_20220811182009-220801-0001.sct
+Plugins	Plugin0	\DNKK\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\DNKK\Sounds\handoff_accept.wav
+Sounds	Sound2	\DNKK\Sounds\conflict_alert.wav
+Sounds	Sound3	\DNKK\Sounds\radio_message.wav
+Sounds	Sound4	\DNKK\Sounds\private_message.wav
+Sounds	Sound5	\DNKK\Sounds\atc_message.wav
+Sounds	Sound6	\DNKK\Sounds\broadcast_message.wav
+Sounds	Sound7	\DNKK\Sounds\landline_request.wav
+Sounds	Sound8	\DNKK\Sounds\supervisor_message.wav
+Sounds	Sound9	\DNKK\Sounds\connected.wav
+Sounds	Sound10	\DNKK\Sounds\disconnected.wav
+Sounds	Sound11	\DNKK\Sounds\ongoing_request.wav
+Sounds	Sound12	\DNKK\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\DNKK\Sounds\ongoing_refused.wav
+Sounds	Sound14	\DNKK\Sounds\ongoing_manual.wav
+Sounds	Sound15	\DNKK\Sounds\new_atis.wav
+Sounds	Sound16	\DNKK\Sounds\handoff_refused.wav
+Sounds	Sound17	\DNKK\Sounds\pointout.wav
+Sounds	Sound18	\DNKK\Sounds\startup.wav
+Sounds	Sound19	\DNKK\Sounds\startup.wav
+Sounds	Sound20	\DNKK\Sounds\supervisor_message.wav
+Sounds	Sound0	\DNKK\Sounds\handoff_request.wav

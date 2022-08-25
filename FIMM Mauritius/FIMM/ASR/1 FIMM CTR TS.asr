@@ -1,0 +1,121 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FIML:name
+Airports:FIMP:name
+Airports:FIMR:name
+Airports:FJDG:name
+Airports:FMEE:name
+Airports:FMEP:name
+Free Text:FIMP Parkings\1:freetext
+Free Text:FIMP Parkings\10:freetext
+Free Text:FIMP Parkings\11:freetext
+Free Text:FIMP Parkings\12:freetext
+Free Text:FIMP Parkings\13:freetext
+Free Text:FIMP Parkings\14:freetext
+Free Text:FIMP Parkings\15:freetext
+Free Text:FIMP Parkings\16:freetext
+Free Text:FIMP Parkings\2:freetext
+Free Text:FIMP Parkings\3:freetext
+Free Text:FIMP Parkings\4:freetext
+Free Text:FIMP Parkings\41:freetext
+Free Text:FIMP Parkings\42:freetext
+Free Text:FIMP Parkings\43:freetext
+Free Text:FIMP Parkings\44:freetext
+Free Text:FIMP Parkings\45:freetext
+Free Text:FIMP Parkings\46:freetext
+Free Text:FIMP Parkings\47:freetext
+Free Text:FIMP Parkings\48:freetext
+Free Text:FIMP Parkings\5:freetext
+Free Text:FIMP Parkings\7:freetext
+Free Text:FIMP Parkings\8:freetext
+Free Text:FIMP Parkings\9:freetext
+Free Text:FIMP Taxiways\A:freetext
+Free Text:FIMP Taxiways\B:freetext
+Free Text:FIMP Taxiways\C:freetext
+Free Text:FIMP Taxiways\D:freetext
+Free Text:FIMP Taxiways\E:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\G:freetext
+Free Text:FIMP Taxiways\H:freetext
+Free Text:FIMP Taxiways\J:freetext
+Free Text:FIMP Taxiways\K:freetext
+Free Text:FIMP Taxiways\L:freetext
+Free Text:FIMP Taxiways\M:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\P:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMR Ground Labels\1:freetext
+Free Text:FIMR Ground Labels\2:freetext
+Free Text:FJDG Ground Labels\A:freetext
+Free Text:FJDG Ground Labels\A1:freetext
+Free Text:FJDG Ground Labels\B:freetext
+Free Text:FJDG Ground Labels\C:freetext
+Free Text:FJDG Ground Labels\D:freetext
+Free Text:FJDG Ground Labels\D1:freetext
+Free Text:FJDG Ground Labels\D2:freetext
+Free Text:FJDG Ground Labels\D3:freetext
+Free Text:FJDG Ground Labels\D4:freetext
+Free Text:FJDG Ground Labels\E:freetext
+Free Text:FJDG Ground Labels\F:freetext
+Free Text:FJDG Ground Labels\G:freetext
+Free Text:FJDG Ground Labels\H:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Free Text:FJDG Ground Labels\P:freetext
+Geo:FI Danger area D01 Canados Hill - GND/A030:
+Geo:FI Danger area D02 Mountain St. Pierre - GND/A030:
+Geo:FI Danger area D03 Flat Island - GND/A105:
+Geo:FI Danger area D04 Pointe Aux Caves - GND/A060:
+Geo:FI Danger area D05 - GND/A400:
+Geo:FI Danger area D06 - GND/A400:
+Geo:FI Danger area D07 - GND/A400:
+Geo:FI Prohibited area P06 MBC Transmitter site - GND/A035:
+Geo:FI Prohibited area P07 St. Louis Power Station - GND/A035:
+Geo:FI Prohibited area P08 Fort Victoria Power Station - GND/A035:
+Geo:FI Prohibited area P09 Mauritius Telecommunication Services - GND/A035:
+Geo:FI Prohibited area P10 Shell Depot - GND/A035:
+Geo:FI Prohibited area R11 Hydro electric project - GND/A035:
+Geo:FI Restricted area R12 Met Headquarter - GND/A035:
+Geo:FI Restricted area R13 MBC Headquarters - GND/A035:
+Geo:FI Restricted area R14 Port Louis - GND/A035:
+Geo:FI Restricted area R15 State House - GND/A035:
+Geo:FI Restricted area R16 Police Headquarters - GND/A035:
+Geo:FIMP Groundlayout:
+Geo:FIMR Groundlayout:
+Geo:FJDG Groundlayout:
+Geo:GEO:
+Regions:FIMP Ground layout:polygon
+Regions:FIMR Ground layout:polygon
+Regions:FJDG Ground Layout:polygon
+Runways:FIML 12-30:centerline
+Runways:FIMP 14-32:centerline
+Runways:FIMR 12-30:centerline
+Runways:FJDG 13-31:centerline
+Runways:FMEE 12-30:centerline
+Runways:FMEE 14-32:centerline
+Runways:FMEP 15-33:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-22.012384:52.850201:-17.431542:61.716635
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:ShowMapData:FIMM

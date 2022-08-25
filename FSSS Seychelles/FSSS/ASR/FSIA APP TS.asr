@@ -1,0 +1,46 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FSIA Airport\13:freetext
+Free Text:FSIA Airport\31:freetext
+Free Text:FSIA Airport\A:freetext
+Free Text:FSIA Airport\APRON:freetext
+Free Text:FSIA Airport\B:freetext
+Free Text:FSIA Airport\Fire Station:freetext
+Free Text:FSIA Airport\Hangar:freetext
+Free Text:FSIA Airport\Light Aircraft:freetext
+Free Text:FSIA Airport\NPA1:freetext
+Free Text:FSIA Airport\NPA1=TWY not for AVBL for taxi. Largest ACFT that can be towed/pushed is A345:freetext
+Free Text:FSIA Airport\NPA2:freetext
+Free Text:FSIA Airport\Parking Area:freetext
+Free Text:FSIA Airport\Terminal:freetext
+Free Text:FSPP Airport\APRON:freetext
+Free Text:FSPP Airport\Terminal:freetext
+Geo:FS Landmark Coast:
+Geo:FS Landmark Coast Astove Island:
+Geo:FS Landmark Coast Farquhar Island:
+Geo:FS Restricted area Aride Island:
+Geo:FS Restricted area Bird Island:
+Geo:FS Restricted area Cousin Island:
+Geo:FS Restricted area Fregate Island:
+Geo:FSIA Groundlayout:
+Geo:GEO:
+Regions:FSIA Groundlayout:polygon
+Regions:FSPP Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-7.876925:48.397461:-0.534628:61.759360
+PLUGIN:TopSky plugin:ShowMapData:FSSS

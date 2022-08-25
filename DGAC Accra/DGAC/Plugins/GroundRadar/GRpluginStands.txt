@@ -1,0 +1,258 @@
+// ##################################################################
+//                 VATSSA | FIR DGAC | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.3
+// Update Date 17/07/2022
+
+// Active Airports
+// DG | DGAA
+// DX | DXNG, DXXX
+// DB | DBBB
+
+
+// ##################################################################
+//                 #1B AIRLINES v0.2
+// ##################################################################
+
+// AIRLINE ALLIANCES
+GROUP:STR:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:SIA:SAA:SWR:TAP:THA:THY:UAL
+GROUP:ONE:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
+GROUP:SKY:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
+
+// INDEPENDENT
+GROUP:INDY:UAE
+
+// LOW COST
+
+// CARGO
+GROUP:CARGO:BOX:CAO:GEC
+
+// CHARTER
+GROUP:CHARTER:TOM
+
+// EXECUTIVE
+
+// VIRTUAL AIRLINES
+
+
+// ##################################################################
+//                 DG GHANA
+// ##################################################################
+
+// ##################################################################
+//                 DGAA Accra
+// ##################################################################
+
+// APRON B | Cargo
+// Stand B1
+STAND:DGAA:B1:N005.35.51.2304:W000.10.25.7448:20
+USE:C
+
+// Stand B2
+STAND:DGAA:B2:N005.35.53.5668:W000.10.24.6936:20
+USE:C
+
+// Stand B3
+STAND:DGAA:B3:N005.35.55.7484:W000.10.23.862:20
+USE:C
+
+// APRON C | Terminal 3 (International)
+// Stand C1
+STAND:DGAA:C1:N005.35.59.3628:W000.10.21.9108:20
+USE:A
+NOTADEP:DG
+
+// Stand C2
+STAND:DGAA:C2:N005.36.01.5732:W000.10.21.09:20
+USE:A
+NOTADEP:DG
+
+// Stand C3
+STAND:DGAA:C3:N005.36.03.7332:W000.10.20.2872:20
+USE:A
+NOTADEP:DG
+
+// Stand C4
+STAND:DGAA:C4:N005.36.05.9724:W000.10.19.3152:20
+USE:A
+NOTADEP:DG
+PRIORITY:+3
+
+// Stand C5
+STAND:DGAA:C5:N005.36.08.0604:W000.10.18.4836:20
+USE:A
+NOTADEP:DG
+PRIORITY:+3
+
+// Stand C6
+STAND:DGAA:C6:N005.36.10.2492:W000.10.17.4792:20
+USE:A
+NOTADEP:DG
+
+// Stand C7
+STAND:DGAA:C7:N005.36.12.420:W000.10.16.572:20
+USE:A
+NOTADEP:DG
+
+// Stand C8
+STAND:DGAA:C8:N005.36.14.6988:W000.10.15.8196:20
+USE:A
+NOTADEP:DG
+
+// APRON D | Terminal 2 (Domestic)
+// Stand D1
+STAND:DGAA:D1:N005.36.17.8236:W000.10.15.9924:20
+
+// Stand D2
+STAND:DGAA:D2:N005.36.20.1672:W000.10.14.8152:20
+
+// Stand D3
+STAND:DGAA:D3:N005.36.22.302:W000.10.13.818:20
+
+// Stand D4
+STAND:DGAA:D4:N005.36.24.462:W000.10.12.9504:20
+
+// Stand D5
+STAND:DGAA:D5:N005.36.26.712:W000.10.12.0612:20
+
+// Stand D6
+STAND:DGAA:D6:N005.36.29.142:W000.10.11.0676:20
+
+// APRON
+// Stand E1
+STAND:DGAA:E1:N005.36.30.7656:W000.10.09.1956:20
+
+// Stand E2
+STAND:DGAA:E2:N005.36.32.8608:W000.10.07.986:20
+
+// Stand E3
+STAND:DGAA:E3:N005.36.35.0424:W000.10.07.2804:20
+
+// APRON J | VIP Apron
+// Stand J
+STAND:DGAA:J:N005.35.43.67:W000.10.25.82:20
+MANUAL
+
+
+// ##################################################################
+//                 DX TOGO
+// ##################################################################
+
+// ##################################################################
+//                 DXNG NIAMTOUGOU INTL
+// ##################################################################
+
+// DXNG
+STAND:DXNG:1:N009.46.37.45:E001.05.55.87:20
+STAND:DXNG:2:N009.46.35.15:E001.05.54.72:20
+STAND:DXNG:3:N009.46.32.92:E001.05.53.94:20
+STAND:DXNG:4:N009.46.30.75:E001.05.53.02:20
+
+
+// ##################################################################
+//                 DXXX GNASSINGBE EYADEMA INTL
+// ##################################################################
+
+// DXXX
+STAND:DXXX:1:N006.10.06.17:E001.15.11.71:20
+STAND:DXXX:2:N006.10.04.42:E001.15.09.27:20
+STAND:DXXX:3:N006.10.02.87:E001.15.08.07:20
+STAND:DXXX:4:N006.10.01.25:E001.15.07.12:20
+STAND:DXXX:5:N006.09.59.16:E001.15.04.34:20
+STAND:DXXX:6:N006.09.56.82:E001.15.04.34:20
+STAND:DXXX:7:N006.09.54.45:E001.15.02.46:20
+
+// ##################################################################
+//                 DBBB Cotonou
+// ##################################################################
+// Stand 1
+STAND:DBBB:1:N6.21.21.011:E2.23.11.031:30
+USE:A
+WTC:ML
+
+// Stand 2
+STAND:DBBB:2:N6.21.19.464:E2.23.9.3:30
+USE:A
+WTC:ML
+BLOCKS:3
+
+// Stand 3
+STAND:DBBB:3:N6.21.19.002:E2.23.8.704:30
+USE:A
+WTC:ML
+BLOCKS:2
+
+// Stand 4A
+STAND:DBBB:4A:N6.21.17.654:E2.23.7.329:30
+USE:A
+WTC:LM
+BLOCKS:4B,5
+HEADING:140
+
+// Stand 4B
+STAND:DBBB:4B:N6.21.17.305:E2.23.6.856:20
+USE:A
+WTC:L
+BLOCKS:4A,5,6
+HEADING:235
+
+// Stand 5
+STAND:DBBB:5:N6.21.17.12:E2.23.6.606:40
+USE:A
+WTC:MH
+BLOCKS:4A,4B,6
+HEADING:140
+
+// Stand 6
+STAND:DBBB:6:N6.21.16.56:E2.23.6.081:30
+USE:A
+WTC:LM
+BLOCKS:5,4B
+HEADING:140
+
+// Stand 7
+STAND:DBBB:7:N6.21.15.31:E2.23.4.547:40
+USE:A
+WTC:MH
+
+// Stand 8
+STAND:DBBB:8:N6.21.13.692:E2.23.2.518:40
+USE:A
+WTC:MH
+
+// Stand 9
+STAND:DBBB:9:N6.21.12.16:E2.23.0.419:40
+USE:A
+WTC:MH
+
+// Stand 10
+STAND:DBBB:10:N6.21.10.721:E2.22.58.258:40
+USE:A
+WTC:MH
+
+// Stand 12
+STAND:DBBB:12:N6.21.4.826:E2.22.50.772:40
+USE:A
+WTC:MH
+
+// Stand 13A
+STAND:DBBB:13A:N6.21.2.924":E2.22.48.437:30
+USE:A
+WTC:ML
+
+// Stand 13B
+STAND:DBBB:13B:N6.21.5.158:E2.22.46.732:30
+USE:A
+WTC:ML
+
+// MILITARY
+// MILITARY RAMP
+STAND:DBBB:MIL:N6.21.7.049":E2.22.55.175:120
+USE:MTI
+WTC:LM
+AREA
+
+// ##################################################################
+//                 THE END 
+// ##################################################################

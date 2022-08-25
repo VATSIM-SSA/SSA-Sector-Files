@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FNLU Groundlayout\1:freetext
+Free Text:FNLU Groundlayout\2:freetext
+Free Text:FNLU Groundlayout\3:freetext
+Free Text:FNLU Groundlayout\4:freetext
+Free Text:FNLU Groundlayout\5:freetext
+Free Text:FNLU Groundlayout\6:freetext
+Free Text:FNLU Groundlayout\7:freetext
+Free Text:FNLU Groundlayout\8:freetext
+Free Text:FNLU Groundlayout\A:freetext
+Free Text:FNLU Groundlayout\A:freetext
+Free Text:FNLU Groundlayout\B:freetext
+Free Text:FNLU Groundlayout\B:freetext
+Free Text:FNLU Groundlayout\C:freetext
+Free Text:FNLU Groundlayout\D:freetext
+Free Text:FNLU Groundlayout\D:freetext
+Free Text:FNLU Groundlayout\E:freetext
+Free Text:FNLU Groundlayout\E:freetext
+Free Text:FNLU Groundlayout\MIL APRON:freetext
+Free Text:FNLU Groundlayout\MIL APRON:freetext
+Free Text:FNLU Groundlayout\Presidential Parking:freetext
+Free Text:FNLU Groundlayout\Terminal:freetext
+Geo:FC Landmark Coast S:
+Geo:FNLU Groundlayout:
+Geo:FY Landmark Coast N:
+Geo:GEO:
+Regions:FNLU Groundlayout:polygon
+Runways:FHAW 13-31:centerline
+Runways:FNCA 18-36:centerline
+Runways:FNGI 12-30:centerline
+Runways:FNHU 11-29:centerline
+Runways:FNLU 05-23:centerline
+Runways:FNLU 07-25:centerline
+Runways:FNPA 07-25:centerline
+Runways:FNUE 11-29:centerline
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-11.104423:6.613192:-6.213605:15.650191
+PLUGIN:TopSky plugin:ShowMapData:FNAN

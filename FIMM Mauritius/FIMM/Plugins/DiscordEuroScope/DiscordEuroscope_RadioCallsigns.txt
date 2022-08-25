@@ -1,0 +1,13 @@
+FAJO_FSS Johannesburg Oceanic
+FIMM_CTR Mauritius Centre
+FIMM_FSS Mauritius Radio
+FIMP_APP Mauritius Approach
+FIMP_TWR Mauritius Tower
+FIMR_TWR Corail Tower
+FJDG_GND Diego Garcia Ground
+FJDG_TWR Diego Garcia Tower
+FMEE_APP Roland Garros Approach
+FMMM_CTR Antananarivo Control
+FSSS_CTR Seychelles Control
+FSSS_FSS Seychelles Control
+YMMM_FSS Brisbane Radio

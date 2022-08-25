@@ -1,0 +1,33 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:FZAA Groundlayout Apron:
+Geo:FZAA Groundlayout Parking Positions:
+Geo:FZAA Groundlayout Runway:
+Geo:FZAA Groundlayout Runway Markings:
+Geo:FZAA Groundlayout Stopbars:
+Geo:FZAA Groundlayout Taxiway Centerlines:
+Geo:FZAA Groundlayout Taxiways:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:32.80000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-4.398458:15.421350:-4.375914:15.462361
+PLUGIN:Ground Radar plugin:AirportElevation:1006
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FZAA
+PLUGIN:Ground Radar plugin:ShowMapData:FZAA
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FZAA

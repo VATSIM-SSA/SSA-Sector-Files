@@ -1,0 +1,40 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:FMCZ:name
+Airports:FMCZ:symbol
+Runways:FMCZ 16-34:centerline
+Runways:FMCZ 16-34:extended centerline 1
+Runways:FMCZ 16-34:extended centerline 1 left base
+Runways:FMCZ 16-34:extended centerline 1 left ticks
+Runways:FMCZ 16-34:extended centerline 1 left vectoring
+Runways:FMCZ 16-34:extended centerline 1 right base
+Runways:FMCZ 16-34:extended centerline 1 right ticks
+Runways:FMCZ 16-34:extended centerline 1 right vectoring
+Runways:FMCZ 16-34:extended centerline 2
+Runways:FMCZ 16-34:extended centerline 2 left base
+Runways:FMCZ 16-34:extended centerline 2 left ticks
+Runways:FMCZ 16-34:extended centerline 2 left vectoring
+Runways:FMCZ 16-34:extended centerline 2 right base
+Runways:FMCZ 16-34:extended centerline 2 right ticks
+Runways:FMCZ 16-34:extended centerline 2 right vectoring
+Runways:FMCZ 16-34:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:299.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-12.815962:45.262614:-12.797371:45.298498
+PLUGIN:Ground Radar plugin:AirportElevation:23
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FMCZ
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FMCZ

@@ -1,0 +1,2516 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:DNAA:name
+Airports:DNAA:symbol
+Airports:DNAI:name
+Airports:DNAI:symbol
+Airports:DNAK:name
+Airports:DNAK:symbol
+Airports:DNAS:name
+Airports:DNAS:symbol
+Airports:DNBB:name
+Airports:DNBB:symbol
+Airports:DNBE:name
+Airports:DNBE:symbol
+Airports:DNBK:name
+Airports:DNBK:symbol
+Airports:DNCA:name
+Airports:DNCA:symbol
+Airports:DNDS:name
+Airports:DNDS:symbol
+Airports:DNEK:name
+Airports:DNEK:symbol
+Airports:DNEN:name
+Airports:DNEN:symbol
+Airports:DNES:name
+Airports:DNES:symbol
+Airports:DNFB:name
+Airports:DNFB:symbol
+Airports:DNFD:name
+Airports:DNFD:symbol
+Airports:DNGO:name
+Airports:DNGO:symbol
+Airports:DNGU:name
+Airports:DNGU:symbol
+Airports:DNIB:name
+Airports:DNIB:symbol
+Airports:DNIL:name
+Airports:DNIL:symbol
+Airports:DNIM:name
+Airports:DNIM:symbol
+Airports:DNJO:name
+Airports:DNJO:symbol
+Airports:DNKA:name
+Airports:DNKA:symbol
+Airports:DNKN:name
+Airports:DNKN:symbol
+Airports:DNKT:name
+Airports:DNKT:symbol
+Airports:DNMA:name
+Airports:DNMA:symbol
+Airports:DNMM:name
+Airports:DNMM:symbol
+Airports:DNMN:name
+Airports:DNMN:symbol
+Airports:DNOS:name
+Airports:DNOS:symbol
+Airports:DNPM:name
+Airports:DNPM:symbol
+Airports:DNPO:name
+Airports:DNPO:symbol
+Airports:DNSO:name
+Airports:DNSO:symbol
+Airports:DNSU:name
+Airports:DNSU:symbol
+Airports:DNYO:name
+Airports:DNYO:symbol
+Airports:DNZA:name
+Airports:DNZA:symbol
+Airports:FCBB:name
+Airports:FCBB:symbol
+Airports:FCBK:name
+Airports:FCBK:symbol
+Airports:FCBL:name
+Airports:FCBL:symbol
+Airports:FCBM:name
+Airports:FCBM:symbol
+Airports:FCBS:name
+Airports:FCBS:symbol
+Airports:FCBY:name
+Airports:FCBY:symbol
+Airports:FCBZ:name
+Airports:FCBZ:symbol
+Airports:FCMK:name
+Airports:FCMK:symbol
+Airports:FCMM:name
+Airports:FCMM:symbol
+Airports:FCOB:name
+Airports:FCOB:symbol
+Airports:FCOD:name
+Airports:FCOD:symbol
+Airports:FCOE:name
+Airports:FCOE:symbol
+Airports:FCOI:name
+Airports:FCOI:symbol
+Airports:FCOM:name
+Airports:FCOM:symbol
+Airports:FCOO:name
+Airports:FCOO:symbol
+Airports:FCOS:name
+Airports:FCOS:symbol
+Airports:FCOU:name
+Airports:FCOU:symbol
+Airports:FCPA:name
+Airports:FCPA:symbol
+Airports:FCPD:name
+Airports:FCPD:symbol
+Airports:FCPP:name
+Airports:FCPP:symbol
+Airports:FEFA:name
+Airports:FEFA:symbol
+Airports:FEFB:name
+Airports:FEFB:symbol
+Airports:FEFF:name
+Airports:FEFF:symbol
+Airports:FEFG:name
+Airports:FEFG:symbol
+Airports:FEFI:name
+Airports:FEFI:symbol
+Airports:FEFM:name
+Airports:FEFM:symbol
+Airports:FEFN:name
+Airports:FEFN:symbol
+Airports:FEFO:name
+Airports:FEFO:symbol
+Airports:FEFR:name
+Airports:FEFR:symbol
+Airports:FEFS:name
+Airports:FEFS:symbol
+Airports:FEFT:name
+Airports:FEFT:symbol
+Airports:FEFY:name
+Airports:FEFY:symbol
+Airports:FEFZ:name
+Airports:FEFZ:symbol
+Airports:FEGE:name
+Airports:FEGE:symbol
+Airports:FEGF:name
+Airports:FEGF:symbol
+Airports:FEGZ:name
+Airports:FEGZ:symbol
+Airports:FGAN:name
+Airports:FGAN:symbol
+Airports:FGBT:name
+Airports:FGBT:symbol
+Airports:FGMM:name
+Airports:FGMM:symbol
+Airports:FGMY:name
+Airports:FGMY:symbol
+Airports:FGSL:name
+Airports:FGSL:symbol
+Airports:FKAB:name
+Airports:FKAB:symbol
+Airports:FKAF:name
+Airports:FKAF:symbol
+Airports:FKAG:name
+Airports:FKAG:symbol
+Airports:FKKB:name
+Airports:FKKB:symbol
+Airports:FKKC:name
+Airports:FKKC:symbol
+Airports:FKKD:name
+Airports:FKKD:symbol
+Airports:FKKE:name
+Airports:FKKE:symbol
+Airports:FKKF:name
+Airports:FKKF:symbol
+Airports:FKKI:name
+Airports:FKKI:symbol
+Airports:FKKL:name
+Airports:FKKL:symbol
+Airports:FKKM:name
+Airports:FKKM:symbol
+Airports:FKKN:name
+Airports:FKKN:symbol
+Airports:FKKO:name
+Airports:FKKO:symbol
+Airports:FKKR:name
+Airports:FKKR:symbol
+Airports:FKKS:name
+Airports:FKKS:symbol
+Airports:FKKT:name
+Airports:FKKT:symbol
+Airports:FKKV:name
+Airports:FKKV:symbol
+Airports:FKKW:name
+Airports:FKKW:symbol
+Airports:FKKY:name
+Airports:FKKY:symbol
+Airports:FKOY:name
+Airports:FKOY:symbol
+Airports:FKYS:name
+Airports:FKYS:symbol
+Airports:FNCA:name
+Airports:FNCA:symbol
+Airports:FNSO:name
+Airports:FNSO:symbol
+Airports:FOGI:name
+Airports:FOGI:symbol
+Airports:FOGK:name
+Airports:FOGK:symbol
+Airports:FOGM:name
+Airports:FOGM:symbol
+Airports:FOGO:name
+Airports:FOGO:symbol
+Airports:FOGQ:name
+Airports:FOGQ:symbol
+Airports:FOGR:name
+Airports:FOGR:symbol
+Airports:FOOD:name
+Airports:FOOD:symbol
+Airports:FOOG:name
+Airports:FOOG:symbol
+Airports:FOOH:name
+Airports:FOOH:symbol
+Airports:FOOK:name
+Airports:FOOK:symbol
+Airports:FOOL:name
+Airports:FOOL:symbol
+Airports:FOON:name
+Airports:FOON:symbol
+Airports:FOOT:name
+Airports:FOOT:symbol
+Airports:FOOY:name
+Airports:FOOY:symbol
+Airports:FPPR:name
+Airports:FPPR:symbol
+Airports:FPST:name
+Airports:FPST:symbol
+Airports:FZAA:name
+Airports:FZAA:symbol
+Airports:FZAB:name
+Airports:FZAB:symbol
+Airports:FZAG:name
+Airports:FZAG:symbol
+Airports:FZAI:name
+Airports:FZAI:symbol
+Airports:FZAJ:name
+Airports:FZAJ:symbol
+Airports:FZAM:name
+Airports:FZAM:symbol
+Airports:FZAW:name
+Airports:FZAW:symbol
+Airports:FZBA:name
+Airports:FZBA:symbol
+Airports:FZBE:name
+Airports:FZBE:symbol
+Airports:FZBF:name
+Airports:FZBF:symbol
+Airports:FZBH:name
+Airports:FZBH:symbol
+Airports:FZBI:name
+Airports:FZBI:symbol
+Airports:FZBJ:name
+Airports:FZBJ:symbol
+Airports:FZBO:name
+Airports:FZBO:symbol
+Airports:FZBT:name
+Airports:FZBT:symbol
+Airports:FZCA:name
+Airports:FZCA:symbol
+Airports:FZCB:name
+Airports:FZCB:symbol
+Airports:FZCF:name
+Airports:FZCF:symbol
+Airports:FZCG:name
+Airports:FZCG:symbol
+Airports:FZCS:name
+Airports:FZCS:symbol
+Airports:FZEA:name
+Airports:FZEA:symbol
+Airports:FZEN:name
+Airports:FZEN:symbol
+Airports:FZFA:name
+Airports:FZFA:symbol
+Airports:FZFC:name
+Airports:FZFC:symbol
+Airports:FZFD:name
+Airports:FZFD:symbol
+Airports:FZFE:name
+Airports:FZFE:symbol
+Airports:FZFK:name
+Airports:FZFK:symbol
+Airports:FZFP:name
+Airports:FZFP:symbol
+Airports:FZFQ:name
+Airports:FZFQ:symbol
+Airports:FZFU:name
+Airports:FZFU:symbol
+Airports:FZGA:name
+Airports:FZGA:symbol
+Airports:FZGN:name
+Airports:FZGN:symbol
+Airports:FZGV:name
+Airports:FZGV:symbol
+Airports:FZIA:name
+Airports:FZIA:symbol
+Airports:FZIC:name
+Airports:FZIC:symbol
+Airports:FZJA:name
+Airports:FZJA:symbol
+Airports:FZJH:name
+Airports:FZJH:symbol
+Airports:FZKA:name
+Airports:FZKA:symbol
+Airports:FZKB:name
+Airports:FZKB:symbol
+Airports:FZKJ:name
+Airports:FZKJ:symbol
+Airports:FZMA:name
+Airports:FZMA:symbol
+Airports:FZMW:name
+Airports:FZMW:symbol
+Airports:FZNA:name
+Airports:FZNA:symbol
+Airports:FZNC:name
+Airports:FZNC:symbol
+Airports:FZNF:name
+Airports:FZNF:symbol
+Airports:FZNP:name
+Airports:FZNP:symbol
+Airports:FZNS:name
+Airports:FZNS:symbol
+Airports:FZOA:name
+Airports:FZOA:symbol
+Airports:FZOD:name
+Airports:FZOD:symbol
+Airports:FZOK:name
+Airports:FZOK:symbol
+Airports:FZOP:name
+Airports:FZOP:symbol
+Airports:FZQA:name
+Airports:FZQA:symbol
+Airports:FZQF:name
+Airports:FZQF:symbol
+Airports:FZQH:name
+Airports:FZQH:symbol
+Airports:FZQM:name
+Airports:FZQM:symbol
+Airports:FZQP:name
+Airports:FZQP:symbol
+Airports:FZQU:name
+Airports:FZQU:symbol
+Airports:FZRA:name
+Airports:FZRA:symbol
+Airports:FZRC:name
+Airports:FZRC:symbol
+Airports:FZRF:name
+Airports:FZRF:symbol
+Airports:FZRG:name
+Airports:FZRG:symbol
+Airports:FZRJ:name
+Airports:FZRJ:symbol
+Airports:FZRK:name
+Airports:FZRK:symbol
+Airports:FZRL:name
+Airports:FZRL:symbol
+Airports:FZRM:name
+Airports:FZRM:symbol
+Airports:FZRO:name
+Airports:FZRO:symbol
+Airports:FZRQ:name
+Airports:FZRQ:symbol
+Airports:FZSA:name
+Airports:FZSA:symbol
+Airports:FZSB:name
+Airports:FZSB:symbol
+Airports:FZSI:name
+Airports:FZSI:symbol
+Airports:FZTS:name
+Airports:FZTS:symbol
+Airports:FZUA:name
+Airports:FZUA:symbol
+Airports:FZUK:name
+Airports:FZUK:symbol
+Airports:FZUW:name
+Airports:FZUW:symbol
+Airports:FZVA:name
+Airports:FZVA:symbol
+Airports:FZVI:name
+Airports:FZVI:symbol
+Airports:FZVJ:name
+Airports:FZVJ:symbol
+Airports:FZVP:name
+Airports:FZVP:symbol
+Airports:FZVS:name
+Airports:FZVS:symbol
+Airports:FZVU:name
+Airports:FZVU:symbol
+Airports:FZVV:name
+Airports:FZVV:symbol
+Airports:FZWA:name
+Airports:FZWA:symbol
+Airports:FZWE:name
+Airports:FZWE:symbol
+Airports:FZWR:name
+Airports:FZWR:symbol
+Airports:FZWT:name
+Airports:FZWT:symbol
+Free Text:FGBT Taxiways and Aprons\A:freetext
+Free Text:FGBT Taxiways and Aprons\B:freetext
+Free Text:FGBT Taxiways and Aprons\C:freetext
+Free Text:FGBT Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\A:freetext
+Free Text:FGSL Taxiways and Aprons\A:freetext
+Free Text:FGSL Taxiways and Aprons\Apron A:freetext
+Free Text:FGSL Taxiways and Aprons\Apron B:freetext
+Free Text:FGSL Taxiways and Aprons\Apron C:freetext
+Free Text:FGSL Taxiways and Aprons\B:freetext
+Free Text:FGSL Taxiways and Aprons\C1:freetext
+Free Text:FGSL Taxiways and Aprons\C2:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\Future Terminal:freetext
+Free Text:FGSL Taxiways and Aprons\G:freetext
+Free Text:FGSL Taxiways and Aprons\Hangar:freetext
+Free Text:FGSL Taxiways and Aprons\Hangar:freetext
+Free Text:FGSL Taxiways and Aprons\Helicopter Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Military Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Military Twy:freetext
+Free Text:FGSL Taxiways and Aprons\Presidential Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Presidential Terminal:freetext
+Free Text:FGSL Taxiways and Aprons\Terminal:freetext
+Free Text:FKKD Parking\A1:freetext
+Free Text:FKKD Parking\A2:freetext
+Free Text:FKKD Parking\A3:freetext
+Free Text:FKKD Parking\A4:freetext
+Free Text:FKKD Parking\A5:freetext
+Free Text:FKKD Parking\A6:freetext
+Free Text:FKKD Parking\A7:freetext
+Free Text:FKKD Parking\B1:freetext
+Free Text:FKKD Parking\B2:freetext
+Free Text:FKKD Parking\B3:freetext
+Free Text:FKKD Parking\C1:freetext
+Free Text:FKKD Parking\C2:freetext
+Free Text:FKKD Parking\C3:freetext
+Free Text:FKKD Parking\C4:freetext
+Free Text:FKKD Parking\C5:freetext
+Free Text:FKKD Parking\C6:freetext
+Free Text:FKKD Parking\C7:freetext
+Free Text:FKKD Parking\C8:freetext
+Free Text:FKKD Parking\P:freetext
+Free Text:FKKD Taxiways and Aprons\A:freetext
+Free Text:FKKD Taxiways and Aprons\Apron A:freetext
+Free Text:FKKD Taxiways and Aprons\Apron B:freetext
+Free Text:FKKD Taxiways and Aprons\Apron C:freetext
+Free Text:FKKD Taxiways and Aprons\Apron Military:freetext
+Free Text:FKKD Taxiways and Aprons\B:freetext
+Free Text:FKKD Taxiways and Aprons\C:freetext
+Free Text:FKKD Taxiways and Aprons\Cargo:freetext
+Free Text:FKKD Taxiways and Aprons\D:freetext
+Free Text:FKKD Taxiways and Aprons\E:freetext
+Free Text:FKKD Taxiways and Aprons\G:freetext
+Free Text:FKKD Taxiways and Aprons\I:freetext
+Free Text:FKKD Taxiways and Aprons\M:freetext
+Free Text:FKKD Taxiways and Aprons\N:freetext
+Free Text:FKKD Taxiways and Aprons\Presidential Terminal:freetext
+Free Text:FKKD Taxiways and Aprons\Terminal:freetext
+Geo:FC Landmark Coast N:
+Geo:FC Landmark Coast S:
+Geo:FG Landmark Coast:
+Geo:FGBT Groundlayout Bata:
+Geo:FGSL Groundlayout Malabo:
+Geo:FKKD Groundlayout Douala:
+Geo:FP Groundlayout Sao Tome:
+Geo:FP Landmark Coast:
+Geo:GEO:
+Regions:FKKD Ground Layout:polygon
+Runways:FCBB 05-23:centerline
+Runways:FCBB 05-23:extended centerline 1
+Runways:FCBB 05-23:extended centerline 1 left base
+Runways:FCBB 05-23:extended centerline 1 left ticks
+Runways:FCBB 05-23:extended centerline 1 left vectoring
+Runways:FCBB 05-23:extended centerline 1 right base
+Runways:FCBB 05-23:extended centerline 1 right ticks
+Runways:FCBB 05-23:extended centerline 1 right vectoring
+Runways:FCBB 05-23:extended centerline 2
+Runways:FCBB 05-23:extended centerline 2 left base
+Runways:FCBB 05-23:extended centerline 2 left ticks
+Runways:FCBB 05-23:extended centerline 2 left vectoring
+Runways:FCBB 05-23:extended centerline 2 right base
+Runways:FCBB 05-23:extended centerline 2 right ticks
+Runways:FCBB 05-23:extended centerline 2 right vectoring
+Runways:FCBB 05-23:name
+Runways:FCBS 10-28:centerline
+Runways:FCBS 10-28:extended centerline 1
+Runways:FCBS 10-28:extended centerline 1 left base
+Runways:FCBS 10-28:extended centerline 1 left ticks
+Runways:FCBS 10-28:extended centerline 1 left vectoring
+Runways:FCBS 10-28:extended centerline 1 right base
+Runways:FCBS 10-28:extended centerline 1 right ticks
+Runways:FCBS 10-28:extended centerline 1 right vectoring
+Runways:FCBS 10-28:extended centerline 2
+Runways:FCBS 10-28:extended centerline 2 left base
+Runways:FCBS 10-28:extended centerline 2 left ticks
+Runways:FCBS 10-28:extended centerline 2 left vectoring
+Runways:FCBS 10-28:extended centerline 2 right base
+Runways:FCBS 10-28:extended centerline 2 right ticks
+Runways:FCBS 10-28:extended centerline 2 right vectoring
+Runways:FCBS 10-28:name
+Runways:FCOD 04-22:centerline
+Runways:FCOD 04-22:extended centerline 1
+Runways:FCOD 04-22:extended centerline 1 left base
+Runways:FCOD 04-22:extended centerline 1 left ticks
+Runways:FCOD 04-22:extended centerline 1 left vectoring
+Runways:FCOD 04-22:extended centerline 1 right base
+Runways:FCOD 04-22:extended centerline 1 right ticks
+Runways:FCOD 04-22:extended centerline 1 right vectoring
+Runways:FCOD 04-22:extended centerline 2
+Runways:FCOD 04-22:extended centerline 2 left base
+Runways:FCOD 04-22:extended centerline 2 left ticks
+Runways:FCOD 04-22:extended centerline 2 left vectoring
+Runways:FCOD 04-22:extended centerline 2 right base
+Runways:FCOD 04-22:extended centerline 2 right ticks
+Runways:FCOD 04-22:extended centerline 2 right vectoring
+Runways:FCOD 04-22:name
+Runways:FCOE 14-32:centerline
+Runways:FCOE 14-32:extended centerline 1
+Runways:FCOE 14-32:extended centerline 1 left base
+Runways:FCOE 14-32:extended centerline 1 left ticks
+Runways:FCOE 14-32:extended centerline 1 left vectoring
+Runways:FCOE 14-32:extended centerline 1 right base
+Runways:FCOE 14-32:extended centerline 1 right ticks
+Runways:FCOE 14-32:extended centerline 1 right vectoring
+Runways:FCOE 14-32:extended centerline 2
+Runways:FCOE 14-32:extended centerline 2 left base
+Runways:FCOE 14-32:extended centerline 2 left ticks
+Runways:FCOE 14-32:extended centerline 2 left vectoring
+Runways:FCOE 14-32:extended centerline 2 right base
+Runways:FCOE 14-32:extended centerline 2 right ticks
+Runways:FCOE 14-32:extended centerline 2 right vectoring
+Runways:FCOE 14-32:name
+Runways:FCOI 08-26:centerline
+Runways:FCOI 08-26:extended centerline 1
+Runways:FCOI 08-26:extended centerline 1 left base
+Runways:FCOI 08-26:extended centerline 1 left ticks
+Runways:FCOI 08-26:extended centerline 1 left vectoring
+Runways:FCOI 08-26:extended centerline 1 right base
+Runways:FCOI 08-26:extended centerline 1 right ticks
+Runways:FCOI 08-26:extended centerline 1 right vectoring
+Runways:FCOI 08-26:extended centerline 2
+Runways:FCOI 08-26:extended centerline 2 left base
+Runways:FCOI 08-26:extended centerline 2 left ticks
+Runways:FCOI 08-26:extended centerline 2 left vectoring
+Runways:FCOI 08-26:extended centerline 2 right base
+Runways:FCOI 08-26:extended centerline 2 right ticks
+Runways:FCOI 08-26:extended centerline 2 right vectoring
+Runways:FCOI 08-26:name
+Runways:FCOO 14-32:centerline
+Runways:FCOO 14-32:extended centerline 1
+Runways:FCOO 14-32:extended centerline 1 left base
+Runways:FCOO 14-32:extended centerline 1 left ticks
+Runways:FCOO 14-32:extended centerline 1 left vectoring
+Runways:FCOO 14-32:extended centerline 1 right base
+Runways:FCOO 14-32:extended centerline 1 right ticks
+Runways:FCOO 14-32:extended centerline 1 right vectoring
+Runways:FCOO 14-32:extended centerline 2
+Runways:FCOO 14-32:extended centerline 2 left base
+Runways:FCOO 14-32:extended centerline 2 left ticks
+Runways:FCOO 14-32:extended centerline 2 left vectoring
+Runways:FCOO 14-32:extended centerline 2 right base
+Runways:FCOO 14-32:extended centerline 2 right ticks
+Runways:FCOO 14-32:extended centerline 2 right vectoring
+Runways:FCOO 14-32:name
+Runways:FCOU 01-19:centerline
+Runways:FCOU 01-19:extended centerline 1
+Runways:FCOU 01-19:extended centerline 1 left base
+Runways:FCOU 01-19:extended centerline 1 left ticks
+Runways:FCOU 01-19:extended centerline 1 left vectoring
+Runways:FCOU 01-19:extended centerline 1 right base
+Runways:FCOU 01-19:extended centerline 1 right ticks
+Runways:FCOU 01-19:extended centerline 1 right vectoring
+Runways:FCOU 01-19:extended centerline 2
+Runways:FCOU 01-19:extended centerline 2 left base
+Runways:FCOU 01-19:extended centerline 2 left ticks
+Runways:FCOU 01-19:extended centerline 2 left vectoring
+Runways:FCOU 01-19:extended centerline 2 right base
+Runways:FCOU 01-19:extended centerline 2 right ticks
+Runways:FCOU 01-19:extended centerline 2 right vectoring
+Runways:FCOU 01-19:name
+Runways:FCPP 17-35:centerline
+Runways:FCPP 17-35:extended centerline 1
+Runways:FCPP 17-35:extended centerline 1 left base
+Runways:FCPP 17-35:extended centerline 1 left ticks
+Runways:FCPP 17-35:extended centerline 1 left vectoring
+Runways:FCPP 17-35:extended centerline 1 right base
+Runways:FCPP 17-35:extended centerline 1 right ticks
+Runways:FCPP 17-35:extended centerline 1 right vectoring
+Runways:FCPP 17-35:extended centerline 2
+Runways:FCPP 17-35:extended centerline 2 left base
+Runways:FCPP 17-35:extended centerline 2 left ticks
+Runways:FCPP 17-35:extended centerline 2 left vectoring
+Runways:FCPP 17-35:extended centerline 2 right base
+Runways:FCPP 17-35:extended centerline 2 right ticks
+Runways:FCPP 17-35:extended centerline 2 right vectoring
+Runways:FCPP 17-35:name
+Runways:FEFF 16-34:centerline
+Runways:FEFF 16-34:extended centerline 1
+Runways:FEFF 16-34:extended centerline 1 left base
+Runways:FEFF 16-34:extended centerline 1 left ticks
+Runways:FEFF 16-34:extended centerline 1 left vectoring
+Runways:FEFF 16-34:extended centerline 1 right base
+Runways:FEFF 16-34:extended centerline 1 right ticks
+Runways:FEFF 16-34:extended centerline 1 right vectoring
+Runways:FEFF 16-34:extended centerline 2
+Runways:FEFF 16-34:extended centerline 2 left base
+Runways:FEFF 16-34:extended centerline 2 left ticks
+Runways:FEFF 16-34:extended centerline 2 left vectoring
+Runways:FEFF 16-34:extended centerline 2 right base
+Runways:FEFF 16-34:extended centerline 2 right ticks
+Runways:FEFF 16-34:extended centerline 2 right vectoring
+Runways:FEFF 16-34:name
+Runways:FEFG 09-27:centerline
+Runways:FEFG 09-27:extended centerline 1
+Runways:FEFG 09-27:extended centerline 1 left base
+Runways:FEFG 09-27:extended centerline 1 left ticks
+Runways:FEFG 09-27:extended centerline 1 left vectoring
+Runways:FEFG 09-27:extended centerline 1 right base
+Runways:FEFG 09-27:extended centerline 1 right ticks
+Runways:FEFG 09-27:extended centerline 1 right vectoring
+Runways:FEFG 09-27:extended centerline 2
+Runways:FEFG 09-27:extended centerline 2 left base
+Runways:FEFG 09-27:extended centerline 2 left ticks
+Runways:FEFG 09-27:extended centerline 2 left vectoring
+Runways:FEFG 09-27:extended centerline 2 right base
+Runways:FEFG 09-27:extended centerline 2 right ticks
+Runways:FEFG 09-27:extended centerline 2 right vectoring
+Runways:FEFG 09-27:name
+Runways:FEFM 09-27:centerline
+Runways:FEFM 09-27:extended centerline 1
+Runways:FEFM 09-27:extended centerline 1 left base
+Runways:FEFM 09-27:extended centerline 1 left ticks
+Runways:FEFM 09-27:extended centerline 1 left vectoring
+Runways:FEFM 09-27:extended centerline 1 right base
+Runways:FEFM 09-27:extended centerline 1 right ticks
+Runways:FEFM 09-27:extended centerline 1 right vectoring
+Runways:FEFM 09-27:extended centerline 2
+Runways:FEFM 09-27:extended centerline 2 left base
+Runways:FEFM 09-27:extended centerline 2 left ticks
+Runways:FEFM 09-27:extended centerline 2 left vectoring
+Runways:FEFM 09-27:extended centerline 2 right base
+Runways:FEFM 09-27:extended centerline 2 right ticks
+Runways:FEFM 09-27:extended centerline 2 right vectoring
+Runways:FEFM 09-27:name
+Runways:FEFO 17-35:centerline
+Runways:FEFO 17-35:extended centerline 1
+Runways:FEFO 17-35:extended centerline 1 left base
+Runways:FEFO 17-35:extended centerline 1 left ticks
+Runways:FEFO 17-35:extended centerline 1 left vectoring
+Runways:FEFO 17-35:extended centerline 1 right base
+Runways:FEFO 17-35:extended centerline 1 right ticks
+Runways:FEFO 17-35:extended centerline 1 right vectoring
+Runways:FEFO 17-35:extended centerline 2
+Runways:FEFO 17-35:extended centerline 2 left base
+Runways:FEFO 17-35:extended centerline 2 left ticks
+Runways:FEFO 17-35:extended centerline 2 left vectoring
+Runways:FEFO 17-35:extended centerline 2 right base
+Runways:FEFO 17-35:extended centerline 2 right ticks
+Runways:FEFO 17-35:extended centerline 2 right vectoring
+Runways:FEFO 17-35:name
+Runways:FEFR 14-32:centerline
+Runways:FEFR 14-32:extended centerline 1
+Runways:FEFR 14-32:extended centerline 1 left base
+Runways:FEFR 14-32:extended centerline 1 left ticks
+Runways:FEFR 14-32:extended centerline 1 left vectoring
+Runways:FEFR 14-32:extended centerline 1 right base
+Runways:FEFR 14-32:extended centerline 1 right ticks
+Runways:FEFR 14-32:extended centerline 1 right vectoring
+Runways:FEFR 14-32:extended centerline 2
+Runways:FEFR 14-32:extended centerline 2 left base
+Runways:FEFR 14-32:extended centerline 2 left ticks
+Runways:FEFR 14-32:extended centerline 2 left vectoring
+Runways:FEFR 14-32:extended centerline 2 right base
+Runways:FEFR 14-32:extended centerline 2 right ticks
+Runways:FEFR 14-32:extended centerline 2 right vectoring
+Runways:FEFR 14-32:name
+Runways:FEFT 17-35:centerline
+Runways:FEFT 17-35:extended centerline 1
+Runways:FEFT 17-35:extended centerline 1 left base
+Runways:FEFT 17-35:extended centerline 1 left ticks
+Runways:FEFT 17-35:extended centerline 1 left vectoring
+Runways:FEFT 17-35:extended centerline 1 right base
+Runways:FEFT 17-35:extended centerline 1 right ticks
+Runways:FEFT 17-35:extended centerline 1 right vectoring
+Runways:FEFT 17-35:extended centerline 2
+Runways:FEFT 17-35:extended centerline 2 left base
+Runways:FEFT 17-35:extended centerline 2 left ticks
+Runways:FEFT 17-35:extended centerline 2 left vectoring
+Runways:FEFT 17-35:extended centerline 2 right base
+Runways:FEFT 17-35:extended centerline 2 right ticks
+Runways:FEFT 17-35:extended centerline 2 right vectoring
+Runways:FEFT 17-35:name
+Runways:FGBT 03-21:centerline
+Runways:FGBT 03-21:extended centerline 1
+Runways:FGBT 03-21:extended centerline 1 left base
+Runways:FGBT 03-21:extended centerline 1 left ticks
+Runways:FGBT 03-21:extended centerline 1 left vectoring
+Runways:FGBT 03-21:extended centerline 1 right base
+Runways:FGBT 03-21:extended centerline 1 right ticks
+Runways:FGBT 03-21:extended centerline 1 right vectoring
+Runways:FGBT 03-21:extended centerline 2
+Runways:FGBT 03-21:extended centerline 2 left base
+Runways:FGBT 03-21:extended centerline 2 left ticks
+Runways:FGBT 03-21:extended centerline 2 left vectoring
+Runways:FGBT 03-21:extended centerline 2 right base
+Runways:FGBT 03-21:extended centerline 2 right ticks
+Runways:FGBT 03-21:extended centerline 2 right vectoring
+Runways:FGBT 03-21:name
+Runways:FGMY 18-36:centerline
+Runways:FGMY 18-36:extended centerline 1
+Runways:FGMY 18-36:extended centerline 1 left base
+Runways:FGMY 18-36:extended centerline 1 left ticks
+Runways:FGMY 18-36:extended centerline 1 left vectoring
+Runways:FGMY 18-36:extended centerline 1 right base
+Runways:FGMY 18-36:extended centerline 1 right ticks
+Runways:FGMY 18-36:extended centerline 1 right vectoring
+Runways:FGMY 18-36:extended centerline 2
+Runways:FGMY 18-36:extended centerline 2 left base
+Runways:FGMY 18-36:extended centerline 2 left ticks
+Runways:FGMY 18-36:extended centerline 2 left vectoring
+Runways:FGMY 18-36:extended centerline 2 right base
+Runways:FGMY 18-36:extended centerline 2 right ticks
+Runways:FGMY 18-36:extended centerline 2 right vectoring
+Runways:FGMY 18-36:name
+Runways:FGSL 04-22:centerline
+Runways:FGSL 04-22:extended centerline 1
+Runways:FGSL 04-22:extended centerline 1 left base
+Runways:FGSL 04-22:extended centerline 1 left ticks
+Runways:FGSL 04-22:extended centerline 1 left vectoring
+Runways:FGSL 04-22:extended centerline 1 right base
+Runways:FGSL 04-22:extended centerline 1 right ticks
+Runways:FGSL 04-22:extended centerline 1 right vectoring
+Runways:FGSL 04-22:extended centerline 2
+Runways:FGSL 04-22:extended centerline 2 left base
+Runways:FGSL 04-22:extended centerline 2 left ticks
+Runways:FGSL 04-22:extended centerline 2 left vectoring
+Runways:FGSL 04-22:extended centerline 2 right base
+Runways:FGSL 04-22:extended centerline 2 right ticks
+Runways:FGSL 04-22:extended centerline 2 right vectoring
+Runways:FGSL 04-22:name
+Runways:FKKD 12-30:centerline
+Runways:FKKD 12-30:extended centerline 1
+Runways:FKKD 12-30:extended centerline 1 left base
+Runways:FKKD 12-30:extended centerline 1 left ticks
+Runways:FKKD 12-30:extended centerline 1 left vectoring
+Runways:FKKD 12-30:extended centerline 1 right base
+Runways:FKKD 12-30:extended centerline 1 right ticks
+Runways:FKKD 12-30:extended centerline 1 right vectoring
+Runways:FKKD 12-30:extended centerline 2
+Runways:FKKD 12-30:extended centerline 2 left base
+Runways:FKKD 12-30:extended centerline 2 left ticks
+Runways:FKKD 12-30:extended centerline 2 left vectoring
+Runways:FKKD 12-30:extended centerline 2 right base
+Runways:FKKD 12-30:extended centerline 2 right ticks
+Runways:FKKD 12-30:extended centerline 2 right vectoring
+Runways:FKKD 12-30:name
+Runways:FKKL 13-31:centerline
+Runways:FKKL 13-31:extended centerline 1
+Runways:FKKL 13-31:extended centerline 1 left base
+Runways:FKKL 13-31:extended centerline 1 left ticks
+Runways:FKKL 13-31:extended centerline 1 left vectoring
+Runways:FKKL 13-31:extended centerline 1 right base
+Runways:FKKL 13-31:extended centerline 1 right ticks
+Runways:FKKL 13-31:extended centerline 1 right vectoring
+Runways:FKKL 13-31:extended centerline 2
+Runways:FKKL 13-31:extended centerline 2 left base
+Runways:FKKL 13-31:extended centerline 2 left ticks
+Runways:FKKL 13-31:extended centerline 2 left vectoring
+Runways:FKKL 13-31:extended centerline 2 right base
+Runways:FKKL 13-31:extended centerline 2 right ticks
+Runways:FKKL 13-31:extended centerline 2 right vectoring
+Runways:FKKL 13-31:name
+Runways:FKKM 04-22:centerline
+Runways:FKKM 04-22:extended centerline 1
+Runways:FKKM 04-22:extended centerline 1 left base
+Runways:FKKM 04-22:extended centerline 1 left ticks
+Runways:FKKM 04-22:extended centerline 1 left vectoring
+Runways:FKKM 04-22:extended centerline 1 right base
+Runways:FKKM 04-22:extended centerline 1 right ticks
+Runways:FKKM 04-22:extended centerline 1 right vectoring
+Runways:FKKM 04-22:extended centerline 2
+Runways:FKKM 04-22:extended centerline 2 left base
+Runways:FKKM 04-22:extended centerline 2 left ticks
+Runways:FKKM 04-22:extended centerline 2 left vectoring
+Runways:FKKM 04-22:extended centerline 2 right base
+Runways:FKKM 04-22:extended centerline 2 right ticks
+Runways:FKKM 04-22:extended centerline 2 right vectoring
+Runways:FKKM 04-22:name
+Runways:FKKN 02-20:centerline
+Runways:FKKN 02-20:extended centerline 1
+Runways:FKKN 02-20:extended centerline 1 left base
+Runways:FKKN 02-20:extended centerline 1 left ticks
+Runways:FKKN 02-20:extended centerline 1 left vectoring
+Runways:FKKN 02-20:extended centerline 1 right base
+Runways:FKKN 02-20:extended centerline 1 right ticks
+Runways:FKKN 02-20:extended centerline 1 right vectoring
+Runways:FKKN 02-20:extended centerline 2
+Runways:FKKN 02-20:extended centerline 2 left base
+Runways:FKKN 02-20:extended centerline 2 left ticks
+Runways:FKKN 02-20:extended centerline 2 left vectoring
+Runways:FKKN 02-20:extended centerline 2 right base
+Runways:FKKN 02-20:extended centerline 2 right ticks
+Runways:FKKN 02-20:extended centerline 2 right vectoring
+Runways:FKKN 02-20:name
+Runways:FKKO 17-35:centerline
+Runways:FKKO 17-35:extended centerline 1
+Runways:FKKO 17-35:extended centerline 1 left base
+Runways:FKKO 17-35:extended centerline 1 left ticks
+Runways:FKKO 17-35:extended centerline 1 left vectoring
+Runways:FKKO 17-35:extended centerline 1 right base
+Runways:FKKO 17-35:extended centerline 1 right ticks
+Runways:FKKO 17-35:extended centerline 1 right vectoring
+Runways:FKKO 17-35:extended centerline 2
+Runways:FKKO 17-35:extended centerline 2 left base
+Runways:FKKO 17-35:extended centerline 2 left ticks
+Runways:FKKO 17-35:extended centerline 2 left vectoring
+Runways:FKKO 17-35:extended centerline 2 right base
+Runways:FKKO 17-35:extended centerline 2 right ticks
+Runways:FKKO 17-35:extended centerline 2 right vectoring
+Runways:FKKO 17-35:name
+Runways:FKKR 09-27:centerline
+Runways:FKKR 09-27:extended centerline 1
+Runways:FKKR 09-27:extended centerline 1 left base
+Runways:FKKR 09-27:extended centerline 1 left ticks
+Runways:FKKR 09-27:extended centerline 1 left vectoring
+Runways:FKKR 09-27:extended centerline 1 right base
+Runways:FKKR 09-27:extended centerline 1 right ticks
+Runways:FKKR 09-27:extended centerline 1 right vectoring
+Runways:FKKR 09-27:extended centerline 2
+Runways:FKKR 09-27:extended centerline 2 left base
+Runways:FKKR 09-27:extended centerline 2 left ticks
+Runways:FKKR 09-27:extended centerline 2 left vectoring
+Runways:FKKR 09-27:extended centerline 2 right base
+Runways:FKKR 09-27:extended centerline 2 right ticks
+Runways:FKKR 09-27:extended centerline 2 right vectoring
+Runways:FKKR 09-27:name
+Runways:FKKV 18-36:centerline
+Runways:FKKV 18-36:extended centerline 1
+Runways:FKKV 18-36:extended centerline 1 left base
+Runways:FKKV 18-36:extended centerline 1 left ticks
+Runways:FKKV 18-36:extended centerline 1 left vectoring
+Runways:FKKV 18-36:extended centerline 1 right base
+Runways:FKKV 18-36:extended centerline 1 right ticks
+Runways:FKKV 18-36:extended centerline 1 right vectoring
+Runways:FKKV 18-36:extended centerline 2
+Runways:FKKV 18-36:extended centerline 2 left base
+Runways:FKKV 18-36:extended centerline 2 left ticks
+Runways:FKKV 18-36:extended centerline 2 left vectoring
+Runways:FKKV 18-36:extended centerline 2 right base
+Runways:FKKV 18-36:extended centerline 2 right ticks
+Runways:FKKV 18-36:extended centerline 2 right vectoring
+Runways:FKKV 18-36:name
+Runways:FKKY 03-21:centerline
+Runways:FKKY 03-21:extended centerline 1
+Runways:FKKY 03-21:extended centerline 1 left base
+Runways:FKKY 03-21:extended centerline 1 left ticks
+Runways:FKKY 03-21:extended centerline 1 left vectoring
+Runways:FKKY 03-21:extended centerline 1 right base
+Runways:FKKY 03-21:extended centerline 1 right ticks
+Runways:FKKY 03-21:extended centerline 1 right vectoring
+Runways:FKKY 03-21:extended centerline 2
+Runways:FKKY 03-21:extended centerline 2 left base
+Runways:FKKY 03-21:extended centerline 2 left ticks
+Runways:FKKY 03-21:extended centerline 2 left vectoring
+Runways:FKKY 03-21:extended centerline 2 right base
+Runways:FKKY 03-21:extended centerline 2 right ticks
+Runways:FKKY 03-21:extended centerline 2 right vectoring
+Runways:FKKY 03-21:name
+Runways:FKYS 01-19:centerline
+Runways:FKYS 01-19:extended centerline 1
+Runways:FKYS 01-19:extended centerline 1 left base
+Runways:FKYS 01-19:extended centerline 1 left ticks
+Runways:FKYS 01-19:extended centerline 1 left vectoring
+Runways:FKYS 01-19:extended centerline 1 right base
+Runways:FKYS 01-19:extended centerline 1 right ticks
+Runways:FKYS 01-19:extended centerline 1 right vectoring
+Runways:FKYS 01-19:extended centerline 2
+Runways:FKYS 01-19:extended centerline 2 left base
+Runways:FKYS 01-19:extended centerline 2 left ticks
+Runways:FKYS 01-19:extended centerline 2 left vectoring
+Runways:FKYS 01-19:extended centerline 2 right base
+Runways:FKYS 01-19:extended centerline 2 right ticks
+Runways:FKYS 01-19:extended centerline 2 right vectoring
+Runways:FKYS 01-19:name
+Runways:FNCA 18-36:centerline
+Runways:FNCA 18-36:extended centerline 1
+Runways:FNCA 18-36:extended centerline 1 left base
+Runways:FNCA 18-36:extended centerline 1 left ticks
+Runways:FNCA 18-36:extended centerline 1 left vectoring
+Runways:FNCA 18-36:extended centerline 1 right base
+Runways:FNCA 18-36:extended centerline 1 right ticks
+Runways:FNCA 18-36:extended centerline 1 right vectoring
+Runways:FNCA 18-36:extended centerline 2
+Runways:FNCA 18-36:extended centerline 2 left base
+Runways:FNCA 18-36:extended centerline 2 left ticks
+Runways:FNCA 18-36:extended centerline 2 left vectoring
+Runways:FNCA 18-36:extended centerline 2 right base
+Runways:FNCA 18-36:extended centerline 2 right ticks
+Runways:FNCA 18-36:extended centerline 2 right vectoring
+Runways:FNCA 18-36:name
+Runways:FOGM 17-35:centerline
+Runways:FOGM 17-35:extended centerline 1
+Runways:FOGM 17-35:extended centerline 1 left base
+Runways:FOGM 17-35:extended centerline 1 left ticks
+Runways:FOGM 17-35:extended centerline 1 left vectoring
+Runways:FOGM 17-35:extended centerline 1 right base
+Runways:FOGM 17-35:extended centerline 1 right ticks
+Runways:FOGM 17-35:extended centerline 1 right vectoring
+Runways:FOGM 17-35:extended centerline 2
+Runways:FOGM 17-35:extended centerline 2 left base
+Runways:FOGM 17-35:extended centerline 2 left ticks
+Runways:FOGM 17-35:extended centerline 2 left vectoring
+Runways:FOGM 17-35:extended centerline 2 right base
+Runways:FOGM 17-35:extended centerline 2 right ticks
+Runways:FOGM 17-35:extended centerline 2 right vectoring
+Runways:FOGM 17-35:name
+Runways:FOGO 03-21:centerline
+Runways:FOGO 03-21:extended centerline 1
+Runways:FOGO 03-21:extended centerline 1 left base
+Runways:FOGO 03-21:extended centerline 1 left ticks
+Runways:FOGO 03-21:extended centerline 1 left vectoring
+Runways:FOGO 03-21:extended centerline 1 right base
+Runways:FOGO 03-21:extended centerline 1 right ticks
+Runways:FOGO 03-21:extended centerline 1 right vectoring
+Runways:FOGO 03-21:extended centerline 2
+Runways:FOGO 03-21:extended centerline 2 left base
+Runways:FOGO 03-21:extended centerline 2 left ticks
+Runways:FOGO 03-21:extended centerline 2 left vectoring
+Runways:FOGO 03-21:extended centerline 2 right base
+Runways:FOGO 03-21:extended centerline 2 right ticks
+Runways:FOGO 03-21:extended centerline 2 right vectoring
+Runways:FOGO 03-21:name
+Runways:FOGR 05-23:centerline
+Runways:FOGR 05-23:extended centerline 1
+Runways:FOGR 05-23:extended centerline 1 left base
+Runways:FOGR 05-23:extended centerline 1 left ticks
+Runways:FOGR 05-23:extended centerline 1 left vectoring
+Runways:FOGR 05-23:extended centerline 1 right base
+Runways:FOGR 05-23:extended centerline 1 right ticks
+Runways:FOGR 05-23:extended centerline 1 right vectoring
+Runways:FOGR 05-23:extended centerline 2
+Runways:FOGR 05-23:extended centerline 2 left base
+Runways:FOGR 05-23:extended centerline 2 left ticks
+Runways:FOGR 05-23:extended centerline 2 left vectoring
+Runways:FOGR 05-23:extended centerline 2 right base
+Runways:FOGR 05-23:extended centerline 2 right ticks
+Runways:FOGR 05-23:extended centerline 2 right vectoring
+Runways:FOGR 05-23:name
+Runways:FOOG 03-21:centerline
+Runways:FOOG 03-21:extended centerline 1
+Runways:FOOG 03-21:extended centerline 1 left base
+Runways:FOOG 03-21:extended centerline 1 left ticks
+Runways:FOOG 03-21:extended centerline 1 left vectoring
+Runways:FOOG 03-21:extended centerline 1 right base
+Runways:FOOG 03-21:extended centerline 1 right ticks
+Runways:FOOG 03-21:extended centerline 1 right vectoring
+Runways:FOOG 03-21:extended centerline 2
+Runways:FOOG 03-21:extended centerline 2 left base
+Runways:FOOG 03-21:extended centerline 2 left ticks
+Runways:FOOG 03-21:extended centerline 2 left vectoring
+Runways:FOOG 03-21:extended centerline 2 right base
+Runways:FOOG 03-21:extended centerline 2 right ticks
+Runways:FOOG 03-21:extended centerline 2 right vectoring
+Runways:FOOG 03-21:name
+Runways:FOOK 07-25:centerline
+Runways:FOOK 07-25:extended centerline 1
+Runways:FOOK 07-25:extended centerline 1 left base
+Runways:FOOK 07-25:extended centerline 1 left ticks
+Runways:FOOK 07-25:extended centerline 1 left vectoring
+Runways:FOOK 07-25:extended centerline 1 right base
+Runways:FOOK 07-25:extended centerline 1 right ticks
+Runways:FOOK 07-25:extended centerline 1 right vectoring
+Runways:FOOK 07-25:extended centerline 2
+Runways:FOOK 07-25:extended centerline 2 left base
+Runways:FOOK 07-25:extended centerline 2 left ticks
+Runways:FOOK 07-25:extended centerline 2 left vectoring
+Runways:FOOK 07-25:extended centerline 2 right base
+Runways:FOOK 07-25:extended centerline 2 right ticks
+Runways:FOOK 07-25:extended centerline 2 right vectoring
+Runways:FOOK 07-25:name
+Runways:FOOL 16-34:centerline
+Runways:FOOL 16-34:extended centerline 1
+Runways:FOOL 16-34:extended centerline 1 left base
+Runways:FOOL 16-34:extended centerline 1 left ticks
+Runways:FOOL 16-34:extended centerline 1 left vectoring
+Runways:FOOL 16-34:extended centerline 1 right base
+Runways:FOOL 16-34:extended centerline 1 right ticks
+Runways:FOOL 16-34:extended centerline 1 right vectoring
+Runways:FOOL 16-34:extended centerline 2
+Runways:FOOL 16-34:extended centerline 2 left base
+Runways:FOOL 16-34:extended centerline 2 left ticks
+Runways:FOOL 16-34:extended centerline 2 left vectoring
+Runways:FOOL 16-34:extended centerline 2 right base
+Runways:FOOL 16-34:extended centerline 2 right ticks
+Runways:FOOL 16-34:extended centerline 2 right vectoring
+Runways:FOOL 16-34:name
+Runways:FOON 15-33:centerline
+Runways:FOON 15-33:extended centerline 1
+Runways:FOON 15-33:extended centerline 1 left base
+Runways:FOON 15-33:extended centerline 1 left ticks
+Runways:FOON 15-33:extended centerline 1 left vectoring
+Runways:FOON 15-33:extended centerline 1 right base
+Runways:FOON 15-33:extended centerline 1 right ticks
+Runways:FOON 15-33:extended centerline 1 right vectoring
+Runways:FOON 15-33:extended centerline 2
+Runways:FOON 15-33:extended centerline 2 left base
+Runways:FOON 15-33:extended centerline 2 left ticks
+Runways:FOON 15-33:extended centerline 2 left vectoring
+Runways:FOON 15-33:extended centerline 2 right base
+Runways:FOON 15-33:extended centerline 2 right ticks
+Runways:FOON 15-33:extended centerline 2 right vectoring
+Runways:FOON 15-33:name
+Runways:FPPR 18-36:centerline
+Runways:FPPR 18-36:extended centerline 1
+Runways:FPPR 18-36:extended centerline 1 left base
+Runways:FPPR 18-36:extended centerline 1 left ticks
+Runways:FPPR 18-36:extended centerline 1 left vectoring
+Runways:FPPR 18-36:extended centerline 1 right base
+Runways:FPPR 18-36:extended centerline 1 right ticks
+Runways:FPPR 18-36:extended centerline 1 right vectoring
+Runways:FPPR 18-36:extended centerline 2
+Runways:FPPR 18-36:extended centerline 2 left base
+Runways:FPPR 18-36:extended centerline 2 left ticks
+Runways:FPPR 18-36:extended centerline 2 left vectoring
+Runways:FPPR 18-36:extended centerline 2 right base
+Runways:FPPR 18-36:extended centerline 2 right ticks
+Runways:FPPR 18-36:extended centerline 2 right vectoring
+Runways:FPPR 18-36:name
+Runways:FPST 11-29:centerline
+Runways:FPST 11-29:extended centerline 1
+Runways:FPST 11-29:extended centerline 1 left base
+Runways:FPST 11-29:extended centerline 1 left ticks
+Runways:FPST 11-29:extended centerline 1 left vectoring
+Runways:FPST 11-29:extended centerline 1 right base
+Runways:FPST 11-29:extended centerline 1 right ticks
+Runways:FPST 11-29:extended centerline 1 right vectoring
+Runways:FPST 11-29:extended centerline 2
+Runways:FPST 11-29:extended centerline 2 left base
+Runways:FPST 11-29:extended centerline 2 left ticks
+Runways:FPST 11-29:extended centerline 2 left vectoring
+Runways:FPST 11-29:extended centerline 2 right base
+Runways:FPST 11-29:extended centerline 2 right ticks
+Runways:FPST 11-29:extended centerline 2 right vectoring
+Runways:FPST 11-29:name
+VORs:AAL:frequency
+VORs:AAL:name
+VORs:AAL:symbol
+VORs:ABB:frequency
+VORs:ABB:name
+VORs:ABB:symbol
+VORs:AFI:frequency
+VORs:AFI:name
+VORs:AFI:symbol
+VORs:AGD:frequency
+VORs:AGD:name
+VORs:AGD:symbol
+VORs:AGN:frequency
+VORs:AGN:name
+VORs:AGN:symbol
+VORs:ALB:frequency
+VORs:ALB:name
+VORs:ALB:symbol
+VORs:ALD:frequency
+VORs:ALD:name
+VORs:ALD:symbol
+VORs:ALF:frequency
+VORs:ALF:name
+VORs:ALF:symbol
+VORs:ALS:frequency
+VORs:ALS:name
+VORs:ALS:symbol
+VORs:AMB:frequency
+VORs:AMB:name
+VORs:AMB:symbol
+VORs:AMS:frequency
+VORs:AMS:name
+VORs:AMS:symbol
+VORs:AN:frequency
+VORs:AN:name
+VORs:AN:symbol
+VORs:ANC:frequency
+VORs:ANC:name
+VORs:ANC:symbol
+VORs:ANT:frequency
+VORs:ANT:name
+VORs:ANT:symbol
+VORs:ARD:frequency
+VORs:ARD:name
+VORs:ARD:symbol
+VORs:AUG:frequency
+VORs:AUG:name
+VORs:AUG:symbol
+VORs:AVD:frequency
+VORs:AVD:name
+VORs:AVD:symbol
+VORs:AVI:frequency
+VORs:AVI:name
+VORs:AVI:symbol
+VORs:AVN:frequency
+VORs:AVN:name
+VORs:AVN:symbol
+VORs:AZR:frequency
+VORs:AZR:name
+VORs:AZR:symbol
+VORs:BAK:frequency
+VORs:BAK:name
+VORs:BAK:symbol
+VORs:BAM:frequency
+VORs:BAM:name
+VORs:BAM:symbol
+VORs:BAY:frequency
+VORs:BAY:name
+VORs:BAY:symbol
+VORs:BBE:frequency
+VORs:BBE:name
+VORs:BBE:symbol
+VORs:BBI:frequency
+VORs:BBI:name
+VORs:BBI:symbol
+VORs:BBL:frequency
+VORs:BBL:name
+VORs:BBL:symbol
+VORs:BCY:frequency
+VORs:BCY:name
+VORs:BCY:symbol
+VORs:BEG:frequency
+VORs:BEG:name
+VORs:BEG:symbol
+VORs:BEL:frequency
+VORs:BEL:name
+VORs:BEL:symbol
+VORs:BFS:frequency
+VORs:BFS:name
+VORs:BFS:symbol
+VORs:BGD:frequency
+VORs:BGD:name
+VORs:BGD:symbol
+VORs:BGE:frequency
+VORs:BGE:name
+VORs:BGE:symbol
+VORs:BIG:frequency
+VORs:BIG:name
+VORs:BIG:symbol
+VORs:BKD:frequency
+VORs:BKD:name
+VORs:BKD:symbol
+VORs:BKS:frequency
+VORs:BKS:name
+VORs:BKS:symbol
+VORs:BKY:frequency
+VORs:BKY:name
+VORs:BKY:symbol
+VORs:BLC:frequency
+VORs:BLC:name
+VORs:BLC:symbol
+VORs:BLM:frequency
+VORs:BLM:name
+VORs:BLM:symbol
+VORs:BMN:frequency
+VORs:BMN:name
+VORs:BMN:symbol
+VORs:BND:frequency
+VORs:BND:name
+VORs:BND:symbol
+VORs:BNE:frequency
+VORs:BNE:name
+VORs:BNE:symbol
+VORs:BNO:frequency
+VORs:BNO:name
+VORs:BNO:symbol
+VORs:BOA:frequency
+VORs:BOA:name
+VORs:BOA:symbol
+VORs:BOV:frequency
+VORs:BOV:name
+VORs:BOV:symbol
+VORs:BRC:frequency
+VORs:BRC:name
+VORs:BRC:symbol
+VORs:BRY:frequency
+VORs:BRY:name
+VORs:BRY:symbol
+VORs:BSA:frequency
+VORs:BSA:name
+VORs:BSA:symbol
+VORs:BSN:frequency
+VORs:BSN:name
+VORs:BSN:symbol
+VORs:BT:frequency
+VORs:BT:name
+VORs:BT:symbol
+VORs:BUB:frequency
+VORs:BUB:name
+VORs:BUB:symbol
+VORs:BUD:frequency
+VORs:BUD:name
+VORs:BUD:symbol
+VORs:BUE:frequency
+VORs:BUE:name
+VORs:BUE:symbol
+VORs:BUG:frequency
+VORs:BUG:name
+VORs:BUG:symbol
+VORs:BUN:frequency
+VORs:BUN:name
+VORs:BUN:symbol
+VORs:BVS:frequency
+VORs:BVS:name
+VORs:BVS:symbol
+VORs:BYZ:frequency
+VORs:BYZ:name
+VORs:BYZ:symbol
+VORs:CAD:frequency
+VORs:CAD:name
+VORs:CAD:symbol
+VORs:CAM:frequency
+VORs:CAM:name
+VORs:CAM:symbol
+VORs:CAS:frequency
+VORs:CAS:name
+VORs:CAS:symbol
+VORs:CAV:frequency
+VORs:CAV:name
+VORs:CAV:symbol
+VORs:CBP:frequency
+VORs:CBP:name
+VORs:CBP:symbol
+VORs:CBY:frequency
+VORs:CBY:name
+VORs:CBY:symbol
+VORs:CDA:frequency
+VORs:CDA:name
+VORs:CDA:symbol
+VORs:CEV:frequency
+VORs:CEV:name
+VORs:CEV:symbol
+VORs:CFA:frequency
+VORs:CFA:name
+VORs:CFA:symbol
+VORs:CGN:frequency
+VORs:CGN:name
+VORs:CGN:symbol
+VORs:CGS:frequency
+VORs:CGS:name
+VORs:CGS:symbol
+VORs:CHA:frequency
+VORs:CHA:name
+VORs:CHA:symbol
+VORs:CHI:frequency
+VORs:CHI:name
+VORs:CHI:symbol
+VORs:CHN:frequency
+VORs:CHN:name
+VORs:CHN:symbol
+VORs:CHW:frequency
+VORs:CHW:name
+VORs:CHW:symbol
+VORs:CHX:frequency
+VORs:CHX:name
+VORs:CHX:symbol
+VORs:CIV:frequency
+VORs:CIV:name
+VORs:CIV:symbol
+VORs:CIV1:frequency
+VORs:CIV1:name
+VORs:CIV1:symbol
+VORs:CLM:frequency
+VORs:CLM:name
+VORs:CLM:symbol
+VORs:CLN:frequency
+VORs:CLN:name
+VORs:CLN:symbol
+VORs:CMB:frequency
+VORs:CMB:name
+VORs:CMB:symbol
+VORs:CMP:frequency
+VORs:CMP:name
+VORs:CMP:symbol
+VORs:CNI:frequency
+VORs:CNI:name
+VORs:CNI:symbol
+VORs:CNM:frequency
+VORs:CNM:name
+VORs:CNM:symbol
+VORs:COA:frequency
+VORs:COA:name
+VORs:COA:symbol
+VORs:COK:frequency
+VORs:COK:name
+VORs:COK:symbol
+VORs:COL:frequency
+VORs:COL:name
+VORs:COL:symbol
+VORs:CRL:frequency
+VORs:CRL:name
+VORs:CRL:symbol
+VORs:CRT:frequency
+VORs:CRT:name
+VORs:CRT:symbol
+VORs:CSL:frequency
+VORs:CSL:name
+VORs:CSL:symbol
+VORs:CTL:frequency
+VORs:CTL:name
+VORs:CTL:symbol
+VORs:CVA:frequency
+VORs:CVA:name
+VORs:CVA:symbol
+VORs:CZA:frequency
+VORs:CZA:name
+VORs:CZA:symbol
+VORs:DAR:frequency
+VORs:DAR:name
+VORs:DAR:symbol
+VORs:DER:frequency
+VORs:DER:name
+VORs:DER:symbol
+VORs:DET:frequency
+VORs:DET:name
+VORs:DET:symbol
+VORs:DGN:frequency
+VORs:DGN:name
+VORs:DGN:symbol
+VORs:DHE:frequency
+VORs:DHE:name
+VORs:DHE:symbol
+VORs:DIA:frequency
+VORs:DIA:name
+VORs:DIA:symbol
+VORs:DIK:frequency
+VORs:DIK:name
+VORs:DIK:symbol
+VORs:DJL:frequency
+VORs:DJL:name
+VORs:DJL:symbol
+VORs:DKB:frequency
+VORs:DKB:name
+VORs:DKB:symbol
+VORs:DKS:frequency
+VORs:DKS:name
+VORs:DKS:symbol
+VORs:DLE:frequency
+VORs:DLE:name
+VORs:DLE:symbol
+VORs:DLN:frequency
+VORs:DLN:name
+VORs:DLN:symbol
+VORs:DMN:frequency
+VORs:DMN:name
+VORs:DMN:symbol
+VORs:DMS:frequency
+VORs:DMS:name
+VORs:DMS:symbol
+VORs:DND:frequency
+VORs:DND:name
+VORs:DND:symbol
+VORs:DOL:frequency
+VORs:DOL:name
+VORs:DOL:symbol
+VORs:DOR:frequency
+VORs:DOR:name
+VORs:DOR:symbol
+VORs:DPE:frequency
+VORs:DPE:name
+VORs:DPE:symbol
+VORs:DRE:frequency
+VORs:DRE:name
+VORs:DRE:symbol
+VORs:DRN:frequency
+VORs:DRN:name
+VORs:DRN:symbol
+VORs:DUB:frequency
+VORs:DUB:name
+VORs:DUB:symbol
+VORs:DUS:frequency
+VORs:DUS:name
+VORs:DUS:symbol
+VORs:DVA:frequency
+VORs:DVA:name
+VORs:DVA:symbol
+VORs:DVL:frequency
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:DVR:frequency
+VORs:DVR:name
+VORs:DVR:symbol
+VORs:E:frequency
+VORs:E:name
+VORs:E:symbol
+VORs:EEL:frequency
+VORs:EEL:name
+VORs:EEL:symbol
+VORs:EFD:frequency
+VORs:EFD:name
+VORs:EFD:symbol
+VORs:EHV:frequency
+VORs:EHV:name
+VORs:EHV:symbol
+VORs:EKO:frequency
+VORs:EKO:name
+VORs:EKO:symbol
+VORs:EPL:frequency
+VORs:EPL:name
+VORs:EPL:symbol
+VORs:EPR:frequency
+VORs:EPR:name
+VORs:EPR:symbol
+VORs:ERD:frequency
+VORs:ERD:name
+VORs:ERD:symbol
+VORs:ERF:frequency
+VORs:ERF:name
+VORs:ERF:symbol
+VORs:ERL:frequency
+VORs:ERL:name
+VORs:ERL:symbol
+VORs:ESE:frequency
+VORs:ESE:name
+VORs:ESE:symbol
+VORs:EVX:frequency
+VORs:EVX:name
+VORs:EVX:symbol
+VORs:FAL:frequency
+VORs:FAL:name
+VORs:FAL:symbol
+VORs:FAT:frequency
+VORs:FAT:name
+VORs:FAT:symbol
+VORs:FFM:frequency
+VORs:FFM:name
+VORs:FFM:symbol
+VORs:FHD:frequency
+VORs:FHD:name
+VORs:FHD:symbol
+VORs:FHH:frequency
+VORs:FHH:name
+VORs:FHH:symbol
+VORs:FJR:frequency
+VORs:FJR:name
+VORs:FJR:symbol
+VORs:FLD:frequency
+VORs:FLD:name
+VORs:FLD:symbol
+VORs:FLO:frequency
+VORs:FLO:name
+VORs:FLO:symbol
+VORs:FMD:frequency
+VORs:FMD:name
+VORs:FMD:symbol
+VORs:FOL:frequency
+VORs:FOL:name
+VORs:FOL:symbol
+VORs:FRD:frequency
+VORs:FRD:name
+VORs:FRD:symbol
+VORs:FRE:frequency
+VORs:FRE:name
+VORs:FRE:symbol
+VORs:FRI:frequency
+VORs:FRI:name
+VORs:FRI:symbol
+VORs:FRO:frequency
+VORs:FRO:name
+VORs:FRO:symbol
+VORs:FRT:frequency
+VORs:FRT:name
+VORs:FRT:symbol
+VORs:FUL:frequency
+VORs:FUL:name
+VORs:FUL:symbol
+VORs:FWE:frequency
+VORs:FWE:name
+VORs:FWE:symbol
+VORs:GAI:frequency
+VORs:GAI:name
+VORs:GAI:symbol
+VORs:GED:frequency
+VORs:GED:name
+VORs:GED:symbol
+VORs:GEN:frequency
+VORs:GEN:name
+VORs:GEN:symbol
+VORs:GHE:frequency
+VORs:GHE:name
+VORs:GHE:symbol
+VORs:GIX:frequency
+VORs:GIX:name
+VORs:GIX:symbol
+VORs:GMH:frequency
+VORs:GMH:name
+VORs:GMH:symbol
+VORs:GOT:frequency
+VORs:GOT:name
+VORs:GOT:symbol
+VORs:GRE:frequency
+VORs:GRE:name
+VORs:GRE:symbol
+VORs:GRF:frequency
+VORs:GRF:name
+VORs:GRF:symbol
+VORs:GRU:frequency
+VORs:GRU:name
+VORs:GRU:symbol
+VORs:GRZ:frequency
+VORs:GRZ:name
+VORs:GRZ:symbol
+VORs:GSB:frequency
+VORs:GSB:name
+VORs:GSB:symbol
+VORs:GSY:frequency
+VORs:GSY:name
+VORs:GSY:symbol
+VORs:GTQ:frequency
+VORs:GTQ:name
+VORs:GTQ:symbol
+VORs:GVA:frequency
+VORs:GVA:name
+VORs:GVA:symbol
+VORs:GYR:frequency
+VORs:GYR:name
+VORs:GYR:symbol
+VORs:GZD:frequency
+VORs:GZD:name
+VORs:GZD:symbol
+VORs:GZR:frequency
+VORs:GZR:name
+VORs:GZR:symbol
+VORs:HAD:frequency
+VORs:HAD:name
+VORs:HAD:symbol
+VORs:HAM:frequency
+VORs:HAM:name
+VORs:HAM:symbol
+VORs:HBD:frequency
+VORs:HBD:name
+VORs:HBD:symbol
+VORs:HDM:frequency
+VORs:HDM:name
+VORs:HDM:symbol
+VORs:HDO:frequency
+VORs:HDO:name
+VORs:HDO:symbol
+VORs:HDR:frequency
+VORs:HDR:name
+VORs:HDR:symbol
+VORs:HGG:frequency
+VORs:HGG:name
+VORs:HGG:symbol
+VORs:HLS:frequency
+VORs:HLS:name
+VORs:HLS:symbol
+VORs:HLZ:frequency
+VORs:HLZ:name
+VORs:HLZ:symbol
+VORs:HMM:frequency
+VORs:HMM:name
+VORs:HMM:symbol
+VORs:HNT:frequency
+VORs:HNT:name
+VORs:HNT:symbol
+VORs:HOC:frequency
+VORs:HOC:name
+VORs:HOC:symbol
+VORs:HOD:frequency
+VORs:HOD:name
+VORs:HOD:symbol
+VORs:HOZ:frequency
+VORs:HOZ:name
+VORs:HOZ:symbol
+VORs:HUL:frequency
+VORs:HUL:name
+VORs:HUL:symbol
+VORs:HYE:frequency
+VORs:HYE:name
+VORs:HYE:symbol
+VORs:IGL:frequency
+VORs:IGL:name
+VORs:IGL:symbol
+VORs:ILB:frequency
+VORs:ILB:name
+VORs:ILB:symbol
+VORs:INLE:frequency
+VORs:INLE:name
+VORs:INLE:symbol
+VORs:ISA:frequency
+VORs:ISA:name
+VORs:ISA:symbol
+VORs:ITR:frequency
+VORs:ITR:name
+VORs:ITR:symbol
+VORs:ITS:frequency
+VORs:ITS:name
+VORs:ITS:symbol
+VORs:JAN:frequency
+VORs:JAN:name
+VORs:JAN:symbol
+VORs:JAP:frequency
+VORs:JAP:name
+VORs:JAP:symbol
+VORs:JED:frequency
+VORs:JED:name
+VORs:JED:symbol
+VORs:JON:frequency
+VORs:JON:name
+VORs:JON:symbol
+VORs:KAK:frequency
+VORs:KAK:name
+VORs:KAK:symbol
+VORs:KAL:frequency
+VORs:KAL:name
+VORs:KAL:symbol
+VORs:KAR:frequency
+VORs:KAR:name
+VORs:KAR:symbol
+VORs:KAS:frequency
+VORs:KAS:name
+VORs:KAS:symbol
+VORs:KAX:frequency
+VORs:KAX:name
+VORs:KAX:symbol
+VORs:KBD:frequency
+VORs:KBD:name
+VORs:KBD:symbol
+VORs:KBO:frequency
+VORs:KBO:name
+VORs:KBO:symbol
+VORs:KEB:frequency
+VORs:KEB:name
+VORs:KEB:symbol
+VORs:KET:frequency
+VORs:KET:name
+VORs:KET:symbol
+VORs:KFT:frequency
+VORs:KFT:name
+VORs:KFT:symbol
+VORs:KHD:frequency
+VORs:KHD:name
+VORs:KHD:symbol
+VORs:KIS:frequency
+VORs:KIS:name
+VORs:KIS:symbol
+VORs:KLF:frequency
+VORs:KLF:name
+VORs:KLF:symbol
+VORs:KLO:frequency
+VORs:KLO:name
+VORs:KLO:symbol
+VORs:KLP:frequency
+VORs:KLP:name
+VORs:KLP:symbol
+VORs:KLS:frequency
+VORs:KLS:name
+VORs:KLS:symbol
+VORs:KMI:frequency
+VORs:KMI:name
+VORs:KMI:symbol
+VORs:KOK:frequency
+VORs:KOK:name
+VORs:KOK:symbol
+VORs:KOR:frequency
+VORs:KOR:name
+VORs:KOR:symbol
+VORs:KPT:frequency
+VORs:KPT:name
+VORs:KPT:symbol
+VORs:KRD:frequency
+VORs:KRD:name
+VORs:KRD:symbol
+VORs:KRH:frequency
+VORs:KRH:name
+VORs:KRH:symbol
+VORs:KRN:frequency
+VORs:KRN:name
+VORs:KRN:symbol
+VORs:KRV:frequency
+VORs:KRV:name
+VORs:KRV:symbol
+VORs:KSC:frequency
+VORs:KSC:name
+VORs:KSC:symbol
+VORs:KTG:frequency
+VORs:KTG:name
+VORs:KTG:symbol
+VORs:KTN:frequency
+VORs:KTN:name
+VORs:KTN:symbol
+VORs:LAB:frequency
+VORs:LAB:name
+VORs:LAB:symbol
+VORs:LAG:frequency
+VORs:LAG:name
+VORs:LAG:symbol
+VORs:LAK:frequency
+VORs:LAK:name
+VORs:LAK:symbol
+VORs:LAM:frequency
+VORs:LAM:name
+VORs:LAM:symbol
+VORs:LAP:frequency
+VORs:LAP:name
+VORs:LAP:symbol
+VORs:LAV:frequency
+VORs:LAV:name
+VORs:LAV:symbol
+VORs:LAW:frequency
+VORs:LAW:name
+VORs:LAW:symbol
+VORs:LBL:frequency
+VORs:LBL:name
+VORs:LBL:symbol
+VORs:LBU:frequency
+VORs:LBU:name
+VORs:LBU:symbol
+VORs:LCA:frequency
+VORs:LCA:name
+VORs:LCA:symbol
+VORs:LCH:frequency
+VORs:LCH:name
+VORs:LCH:symbol
+VORs:LEG:frequency
+VORs:LEG:name
+VORs:LEG:symbol
+VORs:LEP:frequency
+VORs:LEP:name
+VORs:LEP:symbol
+VORs:LEQ:frequency
+VORs:LEQ:name
+VORs:LEQ:symbol
+VORs:LGE:frequency
+VORs:LGE:name
+VORs:LGE:symbol
+VORs:LGJ:frequency
+VORs:LGJ:name
+VORs:LGJ:symbol
+VORs:LGL:frequency
+VORs:LGL:name
+VORs:LGL:symbol
+VORs:LIN:frequency
+VORs:LIN:name
+VORs:LIN:symbol
+VORs:LJU:frequency
+VORs:LJU:name
+VORs:LJU:symbol
+VORs:LKH:frequency
+VORs:LKH:name
+VORs:LKH:symbol
+VORs:LLD:frequency
+VORs:LLD:name
+VORs:LLD:symbol
+VORs:LME:frequency
+VORs:LME:name
+VORs:LME:symbol
+VORs:LMG:frequency
+VORs:LMG:name
+VORs:LMG:symbol
+VORs:LND:frequency
+VORs:LND:name
+VORs:LND:symbol
+VORs:LNO:frequency
+VORs:LNO:name
+VORs:LNO:symbol
+VORs:LNZ:frequency
+VORs:LNZ:name
+VORs:LNZ:symbol
+VORs:LOZ:frequency
+VORs:LOZ:name
+VORs:LOZ:symbol
+VORs:LPH:frequency
+VORs:LPH:name
+VORs:LPH:symbol
+VORs:LQN:frequency
+VORs:LQN:name
+VORs:LQN:symbol
+VORs:LRD:frequency
+VORs:LRD:name
+VORs:LRD:symbol
+VORs:LSE:frequency
+VORs:LSE:name
+VORs:LSE:symbol
+VORs:LSJ:frequency
+VORs:LSJ:name
+VORs:LSJ:symbol
+VORs:LTP:frequency
+VORs:LTP:name
+VORs:LTP:symbol
+VORs:LUC:frequency
+VORs:LUC:name
+VORs:LUC:symbol
+VORs:LUK:frequency
+VORs:LUK:name
+VORs:LUK:symbol
+VORs:LUL:frequency
+VORs:LUL:name
+VORs:LUL:symbol
+VORs:LUX:frequency
+VORs:LUX:name
+VORs:LUX:symbol
+VORs:LWB:frequency
+VORs:LWB:name
+VORs:LWB:symbol
+VORs:LWD:frequency
+VORs:LWD:name
+VORs:LWD:symbol
+VORs:LXI:frequency
+VORs:LXI:name
+VORs:LXI:symbol
+VORs:LYD:frequency
+VORs:LYD:name
+VORs:LYD:symbol
+VORs:MAG:frequency
+VORs:MAG:name
+VORs:MAG:symbol
+VORs:MAH:frequency
+VORs:MAH:name
+VORs:MAH:symbol
+VORs:MAM:frequency
+VORs:MAM:name
+VORs:MAM:symbol
+VORs:MAS:frequency
+VORs:MAS:name
+VORs:MAS:symbol
+VORs:MAY:frequency
+VORs:MAY:name
+VORs:MAY:symbol
+VORs:MBL:frequency
+VORs:MBL:name
+VORs:MBL:symbol
+VORs:MEN:frequency
+VORs:MEN:name
+VORs:MEN:symbol
+VORs:MHD:frequency
+VORs:MHD:name
+VORs:MHD:symbol
+VORs:MHV:frequency
+VORs:MHV:name
+VORs:MHV:symbol
+VORs:MLD:frequency
+VORs:MLD:name
+VORs:MLD:symbol
+VORs:MLN:frequency
+VORs:MLN:name
+VORs:MLN:symbol
+VORs:MMD:frequency
+VORs:MMD:name
+VORs:MMD:symbol
+VORs:MMP:frequency
+VORs:MMP:name
+VORs:MMP:symbol
+VORs:MND:frequency
+VORs:MND:name
+VORs:MND:symbol
+VORs:MNR:frequency
+VORs:MNR:name
+VORs:MNR:symbol
+VORs:MOD:frequency
+VORs:MOD:name
+VORs:MOD:symbol
+VORs:MOL:frequency
+VORs:MOL:name
+VORs:MOL:symbol
+VORs:MOU:frequency
+VORs:MOU:name
+VORs:MOU:symbol
+VORs:MRA:frequency
+VORs:MRA:name
+VORs:MRA:symbol
+VORs:MRM:frequency
+VORs:MRM:name
+VORs:MRM:symbol
+VORs:MSR:frequency
+VORs:MSR:name
+VORs:MSR:symbol
+VORs:MTD:frequency
+VORs:MTD:name
+VORs:MTD:symbol
+VORs:MTG:frequency
+VORs:MTG:name
+VORs:MTG:symbol
+VORs:MTL:frequency
+VORs:MTL:name
+VORs:MTL:symbol
+VORs:MTR:frequency
+VORs:MTR:name
+VORs:MTR:symbol
+VORs:NAY:frequency
+VORs:NAY:name
+VORs:NAY:symbol
+VORs:NBI:frequency
+VORs:NBI:name
+VORs:NBI:symbol
+VORs:NDD:frequency
+VORs:NDD:name
+VORs:NDD:symbol
+VORs:NDO:frequency
+VORs:NDO:name
+VORs:NDO:symbol
+VORs:NER:frequency
+VORs:NER:name
+VORs:NER:symbol
+VORs:NEU:frequency
+VORs:NEU:name
+VORs:NEU:symbol
+VORs:NEV:frequency
+VORs:NEV:name
+VORs:NEV:symbol
+VORs:NG:frequency
+VORs:NG:name
+VORs:NG:symbol
+VORs:NGD:frequency
+VORs:NGD:name
+VORs:NGD:symbol
+VORs:NID:frequency
+VORs:NID:name
+VORs:NID:symbol
+VORs:NIE:frequency
+VORs:NIE:name
+VORs:NIE:symbol
+VORs:NII:frequency
+VORs:NII:name
+VORs:NII:symbol
+VORs:NIK:frequency
+VORs:NIK:name
+VORs:NIK:symbol
+VORs:NIT:frequency
+VORs:NIT:name
+VORs:NIT:symbol
+VORs:NIZ:frequency
+VORs:NIZ:name
+VORs:NIZ:symbol
+VORs:NOV:frequency
+VORs:NOV:name
+VORs:NOV:symbol
+VORs:NTA:frequency
+VORs:NTA:name
+VORs:NTA:symbol
+VORs:NTL:frequency
+VORs:NTL:name
+VORs:NTL:symbol
+VORs:NTM:frequency
+VORs:NTM:name
+VORs:NTM:symbol
+VORs:NUB:frequency
+VORs:NUB:name
+VORs:NUB:symbol
+VORs:NVO:frequency
+VORs:NVO:name
+VORs:NVO:symbol
+VORs:NYR:frequency
+VORs:NYR:name
+VORs:NYR:symbol
+VORs:ODN:frequency
+VORs:ODN:name
+VORs:ODN:symbol
+VORs:OKC:frequency
+VORs:OKC:name
+VORs:OKC:symbol
+VORs:OKF:frequency
+VORs:OKF:name
+VORs:OKF:symbol
+VORs:OKG:frequency
+VORs:OKG:name
+VORs:OKG:symbol
+VORs:OKL:frequency
+VORs:OKL:name
+VORs:OKL:symbol
+VORs:OKX:frequency
+VORs:OKX:name
+VORs:OKX:symbol
+VORs:OLX:frequency
+VORs:OLX:name
+VORs:OLX:symbol
+VORs:OMA:frequency
+VORs:OMA:name
+VORs:OMA:symbol
+VORs:ORG:frequency
+VORs:ORG:name
+VORs:ORG:symbol
+VORs:OSB:frequency
+VORs:OSB:name
+VORs:OSB:symbol
+VORs:OSN:frequency
+VORs:OSN:name
+VORs:OSN:symbol
+VORs:OSY:frequency
+VORs:OSY:name
+VORs:OSY:symbol
+VORs:OTA:frequency
+VORs:OTA:name
+VORs:OTA:symbol
+VORs:OTT:frequency
+VORs:OTT:name
+VORs:OTT:symbol
+VORs:OZE:frequency
+VORs:OZE:name
+VORs:OZE:symbol
+VORs:PAD:frequency
+VORs:PAD:name
+VORs:PAD:symbol
+VORs:PAM:frequency
+VORs:PAM:name
+VORs:PAM:symbol
+VORs:PAS:frequency
+VORs:PAS:name
+VORs:PAS:symbol
+VORs:PAT:frequency
+VORs:PAT:name
+VORs:PAT:symbol
+VORs:PCK:frequency
+VORs:PCK:name
+VORs:PCK:symbol
+VORs:PCT:frequency
+VORs:PCT:name
+VORs:PCT:symbol
+VORs:PGG:frequency
+VORs:PGG:name
+VORs:PGG:symbol
+VORs:PGS:frequency
+VORs:PGS:name
+VORs:PGS:symbol
+VORs:PIA:frequency
+VORs:PIA:name
+VORs:PIA:symbol
+VORs:PIN:frequency
+VORs:PIN:name
+VORs:PIN:symbol
+VORs:PIS:frequency
+VORs:PIS:name
+VORs:PIS:symbol
+VORs:PLG:frequency
+VORs:PLG:name
+VORs:PLG:symbol
+VORs:PMD:frequency
+VORs:PMD:name
+VORs:PMD:symbol
+VORs:POI:frequency
+VORs:POI:name
+VORs:POI:symbol
+VORs:PON:frequency
+VORs:PON:name
+VORs:PON:symbol
+VORs:POR:frequency
+VORs:POR:name
+VORs:POR:symbol
+VORs:POY:frequency
+VORs:POY:name
+VORs:POY:symbol
+VORs:PPD:frequency
+VORs:PPD:name
+VORs:PPD:symbol
+VORs:PRT:frequency
+VORs:PRT:name
+VORs:PRT:symbol
+VORs:PRU:frequency
+VORs:PRU:name
+VORs:PRU:symbol
+VORs:PSK:frequency
+VORs:PSK:name
+VORs:PSK:symbol
+VORs:PSZ:frequency
+VORs:PSZ:name
+VORs:PSZ:symbol
+VORs:PTB:frequency
+VORs:PTB:name
+VORs:PTB:symbol
+VORs:PTV:frequency
+VORs:PTV:name
+VORs:PTV:symbol
+VORs:PUL:frequency
+VORs:PUL:name
+VORs:PUL:symbol
+VORs:RAM:frequency
+VORs:RAM:name
+VORs:RAM:symbol
+VORs:RAW:frequency
+VORs:RAW:name
+VORs:RAW:symbol
+VORs:RBT:frequency
+VORs:RBT:name
+VORs:RBT:symbol
+VORs:RCH:frequency
+VORs:RCH:name
+VORs:RCH:symbol
+VORs:RDB:frequency
+VORs:RDB:name
+VORs:RDB:symbol
+VORs:RDG:frequency
+VORs:RDG:name
+VORs:RDG:symbol
+VORs:REM:frequency
+VORs:REM:name
+VORs:REM:symbol
+VORs:RID:frequency
+VORs:RID:name
+VORs:RID:symbol
+VORs:RIM:frequency
+VORs:RIM:name
+VORs:RIM:symbol
+VORs:RIV:frequency
+VORs:RIV:name
+VORs:RIV:symbol
+VORs:RJK:frequency
+VORs:RJK:name
+VORs:RJK:symbol
+VORs:RKN:frequency
+VORs:RKN:name
+VORs:RKN:symbol
+VORs:RLP:frequency
+VORs:RLP:name
+VORs:RLP:symbol
+VORs:RMN:frequency
+VORs:RMN:name
+VORs:RMN:symbol
+VORs:RMS:frequency
+VORs:RMS:name
+VORs:RMS:symbol
+VORs:ROA:frequency
+VORs:ROA:name
+VORs:ROA:symbol
+VORs:ROE:frequency
+VORs:ROE:name
+VORs:ROE:symbol
+VORs:RON:frequency
+VORs:RON:name
+VORs:RON:symbol
+VORs:ROU:frequency
+VORs:ROU:name
+VORs:ROU:symbol
+VORs:RSW:frequency
+VORs:RSW:name
+VORs:RSW:symbol
+VORs:RTM:frequency
+VORs:RTM:name
+VORs:RTM:symbol
+VORs:RVC:frequency
+VORs:RVC:name
+VORs:RVC:symbol
+VORs:SAD:frequency
+VORs:SAD:name
+VORs:SAD:symbol
+VORs:SAG:frequency
+VORs:SAG:name
+VORs:SAG:symbol
+VORs:SAL:frequency
+VORs:SAL:name
+VORs:SAL:symbol
+VORs:SAS:frequency
+VORs:SAS:name
+VORs:SAS:symbol
+VORs:SAT:frequency
+VORs:SAT:name
+VORs:SAT:symbol
+VORs:SAV:frequency
+VORs:SAV:name
+VORs:SAV:symbol
+VORs:SBG:frequency
+VORs:SBG:name
+VORs:SBG:symbol
+VORs:SCS:frequency
+VORs:SCS:name
+VORs:SCS:symbol
+VORs:SCZ:frequency
+VORs:SCZ:name
+VORs:SCZ:symbol
+VORs:SDD:frequency
+VORs:SDD:name
+VORs:SDD:symbol
+VORs:SDH:frequency
+VORs:SDH:name
+VORs:SDH:symbol
+VORs:SDI:frequency
+VORs:SDI:name
+VORs:SDI:symbol
+VORs:SEG:frequency
+VORs:SEG:name
+VORs:SEG:symbol
+VORs:SES:frequency
+VORs:SES:name
+VORs:SES:symbol
+VORs:SFD:frequency
+VORs:SFD:name
+VORs:SFD:symbol
+VORs:SGD:frequency
+VORs:SGD:name
+VORs:SGD:symbol
+VORs:SHD:frequency
+VORs:SHD:name
+VORs:SHD:symbol
+VORs:SIE:frequency
+VORs:SIE:name
+VORs:SIE:symbol
+VORs:SIO:frequency
+VORs:SIO:name
+VORs:SIO:symbol
+VORs:SKR:frequency
+VORs:SKR:name
+VORs:SKR:symbol
+VORs:SLC:frequency
+VORs:SLC:name
+VORs:SLC:symbol
+VORs:SLD:frequency
+VORs:SLD:name
+VORs:SLD:symbol
+VORs:SME:frequency
+VORs:SME:name
+VORs:SME:symbol
+VORs:SMI:frequency
+VORs:SMI:name
+VORs:SMI:symbol
+VORs:SNU:frequency
+VORs:SNU:name
+VORs:SNU:symbol
+VORs:SPA:frequency
+VORs:SPA:name
+VORs:SPA:symbol
+VORs:SPI:frequency
+VORs:SPI:name
+VORs:SPI:symbol
+VORs:SPL:frequency
+VORs:SPL:name
+VORs:SPL:symbol
+VORs:SPR:frequency
+VORs:SPR:name
+VORs:SPR:symbol
+VORs:SPY:frequency
+VORs:SPY:name
+VORs:SPY:symbol
+VORs:SRN:frequency
+VORs:SRN:name
+VORs:SRN:symbol
+VORs:STG:frequency
+VORs:STG:name
+VORs:STG:symbol
+VORs:STK:frequency
+VORs:STK:name
+VORs:STK:symbol
+VORs:STO:frequency
+VORs:STO:name
+VORs:STO:symbol
+VORs:STP:frequency
+VORs:STP:name
+VORs:STP:symbol
+VORs:STR:frequency
+VORs:STR:name
+VORs:STR:symbol
+VORs:SUL:frequency
+VORs:SUL:name
+VORs:SUL:symbol
+VORs:SUP:frequency
+VORs:SUP:name
+VORs:SUP:symbol
+VORs:SUW:frequency
+VORs:SUW:name
+VORs:SUW:symbol
+VORs:SVD:frequency
+VORs:SVD:name
+VORs:SVD:symbol
+VORs:SVR:frequency
+VORs:SVR:name
+VORs:SVR:symbol
+VORs:SWG:frequency
+VORs:SWG:name
+VORs:SWG:symbol
+VORs:SWI:frequency
+VORs:SWI:name
+VORs:SWI:symbol
+VORs:SYN:frequency
+VORs:SYN:name
+VORs:SYN:symbol
+VORs:TAS:frequency
+VORs:TAS:name
+VORs:TAS:symbol
+VORs:TAU:frequency
+VORs:TAU:name
+VORs:TAU:symbol
+VORs:TBN:frequency
+VORs:TBN:name
+VORs:TBN:symbol
+VORs:TBO:frequency
+VORs:TBO:name
+VORs:TBO:symbol
+VORs:TCW:frequency
+VORs:TCW:name
+VORs:TCW:symbol
+VORs:TDA:frequency
+VORs:TDA:name
+VORs:TDA:symbol
+VORs:TDN:frequency
+VORs:TDN:name
+VORs:TDN:symbol
+VORs:TES:frequency
+VORs:TES:name
+VORs:TES:symbol
+VORs:TEV:frequency
+VORs:TEV:name
+VORs:TEV:symbol
+VORs:TIR:frequency
+VORs:TIR:name
+VORs:TIR:symbol
+VORs:TIS:frequency
+VORs:TIS:name
+VORs:TIS:symbol
+VORs:TKS:frequency
+VORs:TKS:name
+VORs:TKS:symbol
+VORs:TLY:frequency
+VORs:TLY:name
+VORs:TLY:symbol
+VORs:TMB:frequency
+VORs:TMB:name
+VORs:TMB:symbol
+VORs:TMI:frequency
+VORs:TMI:name
+VORs:TMI:symbol
+VORs:TMM:frequency
+VORs:TMM:name
+VORs:TMM:symbol
+VORs:TNO:frequency
+VORs:TNO:name
+VORs:TNO:symbol
+VORs:TNT:frequency
+VORs:TNT:name
+VORs:TNT:symbol
+VORs:TOP:frequency
+VORs:TOP:name
+VORs:TOP:symbol
+VORs:TOU:frequency
+VORs:TOU:name
+VORs:TOU:symbol
+VORs:TOW:frequency
+VORs:TOW:name
+VORs:TOW:symbol
+VORs:TPL:frequency
+VORs:TPL:name
+VORs:TPL:symbol
+VORs:TPS:frequency
+VORs:TPS:name
+VORs:TPS:symbol
+VORs:TPW:frequency
+VORs:TPW:name
+VORs:TPW:symbol
+VORs:TRA:frequency
+VORs:TRA:name
+VORs:TRA:symbol
+VORs:TRO:frequency
+VORs:TRO:name
+VORs:TRO:symbol
+VORs:TRT:frequency
+VORs:TRT:name
+VORs:TRT:symbol
+VORs:TSN:frequency
+VORs:TSN:name
+VORs:TSN:symbol
+VORs:TSU:frequency
+VORs:TSU:name
+VORs:TSU:symbol
+VORs:TTM:frequency
+VORs:TTM:name
+VORs:TTM:symbol
+VORs:TUN:frequency
+VORs:TUN:name
+VORs:TUN:symbol
+VORs:TUR:frequency
+VORs:TUR:name
+VORs:TUR:symbol
+VORs:TZE:frequency
+VORs:TZE:name
+VORs:TZE:symbol
+VORs:TZO:frequency
+VORs:TZO:name
+VORs:TZO:symbol
+VORs:TZU:frequency
+VORs:TZU:name
+VORs:TZU:symbol
+VORs:UL:frequency
+VORs:UL:name
+VORs:UL:symbol
+VORs:UZH:frequency
+VORs:UZH:name
+VORs:UZH:symbol
+VORs:VAC:frequency
+VORs:VAC:name
+VORs:VAC:symbol
+VORs:VAL:frequency
+VORs:VAL:name
+VORs:VAL:symbol
+VORs:VAM:frequency
+VORs:VAM:name
+VORs:VAM:symbol
+VORs:VBA:frequency
+VORs:VBA:name
+VORs:VBA:symbol
+VORs:VEN:frequency
+VORs:VEN:name
+VORs:VEN:symbol
+VORs:VEY:frequency
+VORs:VEY:name
+VORs:VEY:symbol
+VORs:VFM:frequency
+VORs:VFM:name
+VORs:VFM:symbol
+VORs:VGB:frequency
+VORs:VGB:name
+VORs:VGB:symbol
+VORs:VIC:frequency
+VORs:VIC:name
+VORs:VIC:symbol
+VORs:VIL:frequency
+VORs:VIL:name
+VORs:VIL:symbol
+VORs:VIW:frequency
+VORs:VIW:name
+VORs:VIW:symbol
+VORs:VKL:frequency
+VORs:VKL:name
+VORs:VKL:symbol
+VORs:VLM:frequency
+VORs:VLM:name
+VORs:VLM:symbol
+VORs:VNE:frequency
+VORs:VNE:name
+VORs:VNE:symbol
+VORs:VOG:frequency
+VORs:VOG:name
+VORs:VOG:symbol
+VORs:VOZ:frequency
+VORs:VOZ:name
+VORs:VOZ:symbol
+VORs:VSB:frequency
+VORs:VSB:name
+VORs:VSB:symbol
+VORs:WAR:frequency
+VORs:WAR:name
+VORs:WAR:symbol
+VORs:WCL:frequency
+VORs:WCL:name
+VORs:WCL:symbol
+VORs:WDT:frequency
+VORs:WDT:name
+VORs:WDT:symbol
+VORs:WES:frequency
+VORs:WES:name
+VORs:WES:symbol
+VORs:WFJ:frequency
+VORs:WFJ:name
+VORs:WFJ:symbol
+VORs:WGM:frequency
+VORs:WGM:name
+VORs:WGM:symbol
+VORs:WIB:frequency
+VORs:WIB:name
+VORs:WIB:symbol
+VORs:WIC:frequency
+VORs:WIC:name
+VORs:WIC:symbol
+VORs:WIE:frequency
+VORs:WIE:name
+VORs:WIE:symbol
+VORs:WIL:frequency
+VORs:WIL:name
+VORs:WIL:symbol
+VORs:WLD:frequency
+VORs:WLD:name
+VORs:WLD:symbol
+VORs:WNN:frequency
+VORs:WNN:name
+VORs:WNN:symbol
+VORs:WRB:frequency
+VORs:WRB:name
+VORs:WRB:symbol
+VORs:WTM:frequency
+VORs:WTM:name
+VORs:WTM:symbol
+VORs:WTZ:frequency
+VORs:WTZ:name
+VORs:WTZ:symbol
+VORs:WUN:frequency
+VORs:WUN:name
+VORs:WUN:symbol
+VORs:WYP:frequency
+VORs:WYP:name
+VORs:WYP:symbol
+VORs:ZAG:frequency
+VORs:ZAG:name
+VORs:ZAG:symbol
+VORs:ZDA:frequency
+VORs:ZDA:name
+VORs:ZDA:symbol
+VORs:ZLG:frequency
+VORs:ZLG:name
+VORs:ZLG:symbol
+VORs:ZR:frequency
+VORs:ZR:name
+VORs:ZR:symbol
+VORs:ZUE:frequency
+VORs:ZUE:name
+VORs:ZUE:symbol
+VORs:ZWN:frequency
+VORs:ZWN:name
+VORs:ZWN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-1.697372:-0.672154:9.720706:20.088819

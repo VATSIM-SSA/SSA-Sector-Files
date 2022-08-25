@@ -1,0 +1,6 @@
+FWCL_APP Chileka Approach
+FWCL_TWR Chileka Tower
+FWKA_I_TWR Karonga Tower
+FWKI_APP Lilongwe Approach
+FWKI_TWR Lumbadzi Tower
+FWLL_CTR Lilongwe Control

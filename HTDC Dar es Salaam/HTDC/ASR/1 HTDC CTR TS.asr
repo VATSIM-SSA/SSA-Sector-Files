@@ -1,0 +1,26 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:HBBA Groundlayout:
+Geo:HRYR Groundlayout:
+Geo:HTDA Groundlayout:
+Geo:HTKJ Groundlayout:
+Geo:HTMW Groundlayout:
+Geo:HTZA Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-14.270052:23.008841:3.055707:54.607395
+PLUGIN:TopSky plugin:ShowMapData:HTDC

@@ -1,0 +1,195 @@
+// ##################################################################
+//                 VATSSA | FIR HUEC | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.1
+// Update Date 22/06/2022
+
+// Active Airports
+// HU | HUEN
+
+// ##################################################################
+//                 HU UGANDA
+// ##################################################################
+
+// ##################################################################
+//                 HUEN ENTEBBE
+// ##################################################################
+
+// MAIN APRON 1
+// Stand 1
+STAND:HUEN:1:N0.2.33.185:E32.26.32.16:20
+USE:A
+WTC:L
+
+// Stand 2
+STAND:HUEN:2:N0.2.34.495:E32.26.31.781:30
+USE:A
+WTC:LM
+
+// Stand 3
+STAND:HUEN:3:N0.2.36.156:E32.26.31.568:30
+USE:A
+WTC:LM
+
+// Stand 4
+STAND:HUEN:4:N0.2.38.193:E32.26.31.259:40
+USE:A
+WTC:LMH
+
+// Stand 5
+STAND:HUEN:5:N0.2.40.52:E32.26.30.921:40
+USE:A
+WTC:LMH
+
+// Stand 6
+STAND:HUEN:6:N0.2.43.234:E32.26.30.593:40
+USE:A
+WTC:LMH
+PRIORITY:+1
+
+// Stand 7
+STAND:HUEN:7:N0.2.45.58:E32.26.30.236:40
+USE:A
+WTC:LMH
+PRIORITY:+1
+
+// Stand 8
+STAND:HUEN:8:N0.2.48.226:E32.26.29.869:40
+USE:A
+WTC:LMH
+
+// Stand 9
+STAND:HUEN:9:N0.2.50.244:E32.26.29.666:40
+USE:A
+WTC:LMH
+
+// Stand 10
+STAND:HUEN:10:N0.2.52.04:E32.26.29.396:30
+USE:A
+WTC:LMH
+
+// Stand 11
+STAND:HUEN:11:N0.2.53.363:E32.26.28.073:30
+USE:A
+WTC:LM
+
+// Stand 21
+STAND:HUEN:20:N0.2.37.418:E32.26.25.673:30
+USE:AB
+WTC:L
+
+// Stand 22
+STAND:HUEN:22:N0.2.39.243:E32.26.25.412:30
+USE:AB
+WTC:L
+
+// Stand 23
+STAND:HUEN:23:N0.2.41.049:E32.26.25.219:30
+USE:AB
+WTC:L
+
+// Stand 24
+STAND:HUEN:24:N0.2.42.855:E32.26.24.987:30
+USE:AB
+WTC:L
+
+// Stand 25
+STAND:HUEN:25:N0.2.44.68:E32.26.24.755:30
+USE:AB
+WTC:L
+
+// CARGO APRON 3
+//Stand 50
+STAND:HUEN:50:N0.1.55.549:E32.26.36.265:40
+USE:C
+WTC:LMH
+
+//Stand 51A
+STAND:HUEN:50:N0.1.53.473:E32.26.36.555:30
+USE:C
+WTC:LM
+BLOCKS:51
+
+//Stand 51
+STAND:HUEN:51:N0.1.52.807:E32.26.36.642:40
+USE:C
+WTC:LMH
+BLOCKS:51A,51B
+
+//Stand 51B
+STAND:HUEN:51B:N0.1.52.034:E32.26.36.748:30
+USE:C
+WTC:LM
+BLOCKS:51
+
+//Stand 52
+STAND:HUEN:52:N0.1.49.929:E32.26.37.047:40
+USE:C
+WTC:LMH
+
+//Stand 53
+STAND:HUEN:53:N0.1.47.921:E32.26.37.289:40
+USE:C
+WTC:LMH
+
+// MAIN APRON 1 (Stands marked with O, used for VIPs)
+//Stand O-1
+STAND:HUEN:O-1:N0.2.39.733:E32.27.17.675:30
+USE:BP
+WTC:LM
+PRIORITY:-1
+
+//Stand O-2
+STAND:HUEN:O-2:N0.2.39.795:E32.27.16.386:30
+USE:BP
+WTC:LM
+PRIORITY:-1
+
+//Stand O-3
+STAND:HUEN:O-3:N0.2.39.723:E32.27.14.928:30
+USE:BP
+WTC:LM
+PRIORITY:-1
+
+//Stand O-4
+STAND:HUEN:O-4:N0.2.39.704:E32.27.13.388:30
+USE:BP
+WTC:LM
+PRIORITY:-1
+
+//Stand O-5
+STAND:HUEN:O-5:N0.2.39.718:E32.27.11.824:30
+USE:BP
+WTC:LM
+PRIORITY:-1
+
+// GENERAL AVIATION
+// General Aviation Apron 4
+STAND:HUEN:GA-4:N0.2.23.136:E32.27.10.87:180
+USE:BPH
+WTC:LM
+AREA
+
+// General Aviation Apron 5
+STAND:HUEN:GA-5:N0.2.18.327:E32.27.23.557:120
+USE:BPH
+WTC:LM
+AREA
+
+// General Aviation Apron North
+STAND:HUEN:GA-N:N0.2.48.42:E32.27.18.247:120
+USE:BPH
+WTC:LM
+AREA
+
+// MILITARY APRON
+// Military Apron
+STAND:HUEN:MIL:N0.2.41.823:E32.27.27.794:150
+USE:ITM
+WTC:LMH
+AREA
+
+// ##################################################################
+//                 THE END
+// ##################################################################

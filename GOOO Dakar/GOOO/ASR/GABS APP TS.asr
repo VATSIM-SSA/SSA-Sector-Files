@@ -1,0 +1,34 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GAPS APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GAPS APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:GABS Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:12.057113:-9.058370:13.149380:-7.016566
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GABS
+PLUGIN:TopSky plugin:HideMapData:ICAO

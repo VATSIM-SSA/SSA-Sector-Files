@@ -1,0 +1,27 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FQBR Beira\A:freetext
+Free Text:FQBR Beira\B:freetext
+Free Text:FQBR Beira\C:freetext
+Free Text:FQBR Beira\Terminal:freetext
+Geo:FQBR Groundlayout:
+Geo:FQBR Groundlayout Stopbars:
+Regions:FQBR Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-21.561506:30.941737:-17.561506:38.652606
+PLUGIN:TopSky plugin:ShowMapData:FQBE,FQBR

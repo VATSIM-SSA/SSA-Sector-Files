@@ -1,0 +1,75 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GOBD AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GOBD AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:GOBD Taxiways and Aprons\A:freetext
+Free Text:GOBD Taxiways and Aprons\A:freetext
+Free Text:GOBD Taxiways and Aprons\A:freetext
+Free Text:GOBD Taxiways and Aprons\A:freetext
+Free Text:GOBD Taxiways and Aprons\A1:freetext
+Free Text:GOBD Taxiways and Aprons\A2:freetext
+Free Text:GOBD Taxiways and Aprons\A3:freetext
+Free Text:GOBD Taxiways and Aprons\A4:freetext
+Free Text:GOBD Taxiways and Aprons\Apron G:freetext
+Free Text:GOBD Taxiways and Aprons\Apron J1:freetext
+Free Text:GOBD Taxiways and Aprons\Apron J2:freetext
+Free Text:GOBD Taxiways and Aprons\Apron N:freetext
+Free Text:GOBD Taxiways and Aprons\Apron T:freetext
+Free Text:GOBD Taxiways and Aprons\Apron V:freetext
+Free Text:GOBD Taxiways and Aprons\Apron VIP:freetext
+Free Text:GOBD Taxiways and Aprons\C:freetext
+Free Text:GOBD Taxiways and Aprons\C:freetext
+Free Text:GOBD Taxiways and Aprons\C:freetext
+Free Text:GOBD Taxiways and Aprons\C:freetext
+Free Text:GOBD Taxiways and Aprons\C1:freetext
+Free Text:GOBD Taxiways and Aprons\C2:freetext
+Free Text:GOBD Taxiways and Aprons\C3:freetext
+Free Text:GOBD Taxiways and Aprons\C4:freetext
+Free Text:GOBD Taxiways and Aprons\C5:freetext
+Free Text:GOBD Taxiways and Aprons\C6:freetext
+Free Text:GOBD Taxiways and Aprons\C7:freetext
+Free Text:GOBD Taxiways and Aprons\C8:freetext
+Free Text:GOBD Taxiways and Aprons\Freight Terminal:freetext
+Free Text:GOBD Taxiways and Aprons\G:freetext
+Free Text:GOBD Taxiways and Aprons\G:freetext
+Free Text:GOBD Taxiways and Aprons\H:freetext
+Free Text:GOBD Taxiways and Aprons\M:freetext
+Free Text:GOBD Taxiways and Aprons\P:freetext
+Free Text:GOBD Taxiways and Aprons\Terminal:freetext
+Free Text:GOBD Taxiways and Aprons\Terminal Hadj:freetext
+Geo:GO Landmark Coast:
+Geo:GOBD Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:270.50000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:14.660348:-17.091975:14.683806:-17.048125
+PLUGIN:Ground Radar plugin:AirportElevation:290
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GOBD
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GOBD
+PLUGIN:TopSky plugin:HideMapData:ICAO

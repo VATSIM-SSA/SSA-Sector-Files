@@ -1,0 +1,56 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | ASR | FKKD AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | FKKD AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:FKKD Parking\A1:freetext
+Free Text:FKKD Parking\A2:freetext
+Free Text:FKKD Parking\A3:freetext
+Free Text:FKKD Parking\A4:freetext
+Free Text:FKKD Parking\A5:freetext
+Free Text:FKKD Parking\A6:freetext
+Free Text:FKKD Parking\A7:freetext
+Free Text:FKKD Parking\B1:freetext
+Free Text:FKKD Parking\B2:freetext
+Free Text:FKKD Parking\B3:freetext
+Free Text:FKKD Parking\C1:freetext
+Free Text:FKKD Parking\C2:freetext
+Free Text:FKKD Parking\C3:freetext
+Free Text:FKKD Parking\C4:freetext
+Free Text:FKKD Parking\C5:freetext
+Free Text:FKKD Parking\C6:freetext
+Free Text:FKKD Parking\C7:freetext
+Free Text:FKKD Parking\C8:freetext
+Free Text:FKKD Parking\P:freetext
+Geo:FKKD Groundlayout Douala:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:333.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:4.003580:9.706153:4.021207:9.738202
+PLUGIN:Ground Radar plugin:AirportElevation:33
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FKKD
+PLUGIN:TopSky plugin:NoDraw:1

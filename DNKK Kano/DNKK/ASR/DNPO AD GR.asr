@@ -1,0 +1,57 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | ASR | DNPO AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | DNPO AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:DNPO Ground Labels\1:freetext
+Free Text:DNPO Ground Labels\2:freetext
+Free Text:DNPO Ground Labels\3:freetext
+Free Text:DNPO Ground Labels\4:freetext
+Free Text:DNPO Ground Labels\4A:freetext
+Free Text:DNPO Ground Labels\5:freetext
+Free Text:DNPO Ground Labels\6:freetext
+Free Text:DNPO Ground Labels\6A:freetext
+Free Text:DNPO Ground Labels\A:freetext
+Free Text:DNPO Ground Labels\A:freetext
+Free Text:DNPO Ground Labels\A:freetext
+Free Text:DNPO Ground Labels\A1:freetext
+Free Text:DNPO Ground Labels\A2:freetext
+Free Text:DNPO Ground Labels\A3:freetext
+Free Text:DNPO Ground Labels\A4:freetext
+Free Text:DNPO Ground Labels\A5:freetext
+Free Text:DNPO Ground Labels\GA Apron:freetext
+Free Text:DNPO Ground Labels\Heli:freetext
+Free Text:DNPO Ground Labels\Main Apron:freetext
+Geo:DNPO Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:62.00000
+TAGFAMILY:VATSSA TopSky
+PLUGIN:Ground Radar plugin:AirportElevation:91
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DNPO
+PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:DNPO

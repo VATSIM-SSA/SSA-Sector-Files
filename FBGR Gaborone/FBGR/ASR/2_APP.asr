@@ -1,0 +1,336 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:FAKU:name
+Airports:FALA:name
+Airports:FALM:name
+Airports:FAMM:name
+Airports:FAMS:name
+Airports:FAOR:name
+Airports:FAPI:name
+Airports:FAPN:name
+Airports:FAPP:name
+Airports:FAPS:name
+Airports:FASK:name
+Airports:FASS:name
+Airports:FATW:name
+Airports:FAUP:name
+Airports:FAVM:name
+Airports:FAWB:name
+Airports:FAWK:name
+Airports:FAZR:name
+Airports:FBCO:name
+Airports:FBFT:name
+Airports:FBGH:name
+Airports:FBGM:name
+Airports:FBGZ:name
+Airports:FBJW:name
+Airports:FBKE:name
+Airports:FBKG:name
+Airports:FBKL:name
+Airports:FBKR:name
+Airports:FBKY:name
+Airports:FBLV:name
+Airports:FBMM:name
+Airports:FBMN:name
+Airports:FBNN:name
+Airports:FBNT:name
+Airports:FBNX:name
+Airports:FBOR:name
+Airports:FBPY:name
+Airports:FBSK:name
+Airports:FBSN:name
+Airports:FBSP:name
+Airports:FBSW:name
+Airports:FBTL:name
+Airports:FBTS:name
+Airports:FBXB:name
+Airports:FBXG:name
+Airports:FLHN:name
+Airports:FVBU:name
+Airports:FVFA:name
+Airports:FVWN:name
+Airports:FYGB:name
+Airports:FYKT:name
+Airports:FYML:name
+Airports:FYRU:name
+Airports:FYWH:name
+ARTCC boundary:FBFT-TMA:
+ARTCC boundary:FBKE-TMA:
+ARTCC boundary:FBMN-TMA:
+ARTCC boundary:FBSK-TMA:
+ARTCC boundary:FLHN-CTA:
+ARTCC boundary:FVFA-TMA:
+ARTCC high boundary:FAJA-N:
+ARTCC high boundary:FAJA-W:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FVHF:
+ARTCC high boundary:FYWH:
+ARTCC low boundary:FAMM-ATZ:
+ARTCC low boundary:FBFT-CTR:
+ARTCC low boundary:FBKE-CTR:
+ARTCC low boundary:FBMN-CTR:
+ARTCC low boundary:FBSK-CTR:
+Fixes:AGRAM:name
+Fixes:AGRAM:symbol
+Fixes:AMBIT:name
+Fixes:AMBIT:symbol
+Fixes:ANTOG:name
+Fixes:ANTOG:symbol
+Fixes:ANTOR:name
+Fixes:ANTOR:symbol
+Fixes:APDOV:name
+Fixes:APDOV:symbol
+Fixes:APNEX:name
+Fixes:APNEX:symbol
+Fixes:ATUDA:name
+Fixes:ATUDA:symbol
+Fixes:AVOGU:name
+Fixes:AVOGU:symbol
+Fixes:AXIKO:name
+Fixes:AXIKO:symbol
+Fixes:BONAL:name
+Fixes:BONAL:symbol
+Fixes:BOPAL:name
+Fixes:BOPAL:symbol
+Fixes:BOPAN:name
+Fixes:BOPAN:symbol
+Fixes:BUGRO:name
+Fixes:BUGRO:symbol
+Fixes:DANAM:name
+Fixes:DANAM:symbol
+Fixes:DUMPO:name
+Fixes:DUMPO:symbol
+Fixes:DUPKI:name
+Fixes:DUPKI:symbol
+Fixes:EGLIG:name
+Fixes:EGLIG:symbol
+Fixes:EKBID:name
+Fixes:EKBID:symbol
+Fixes:EPMAG:name
+Fixes:EPMAG:symbol
+Fixes:ESPUV:name
+Fixes:ESPUV:symbol
+Fixes:ETLON:name
+Fixes:ETLON:symbol
+Fixes:ETMIT:name
+Fixes:ETMIT:symbol
+Fixes:ETOSA:name
+Fixes:ETOSA:symbol
+Fixes:EXOBO:name
+Fixes:EXOBO:symbol
+Fixes:GABSI:name
+Fixes:GABSI:symbol
+Fixes:GENIX:name
+Fixes:GENIX:symbol
+Fixes:GESAR:name
+Fixes:GESAR:symbol
+Fixes:GESEN:name
+Fixes:GESEN:symbol
+Fixes:IMLAM:name
+Fixes:IMLAM:symbol
+Fixes:IMLAN:name
+Fixes:IMLAN:symbol
+Fixes:IMLIX:name
+Fixes:IMLIX:symbol
+Fixes:KULBU:name
+Fixes:KULBU:symbol
+Fixes:KUTLA:name
+Fixes:KUTLA:symbol
+Fixes:LOTIS:name
+Fixes:LOTIS:symbol
+Fixes:NESEK:name
+Fixes:NESEK:symbol
+Fixes:NETEN:name
+Fixes:NETEN:symbol
+Fixes:RUDAS:name
+Fixes:RUDAS:symbol
+Fixes:SINKI:name
+Fixes:SINKI:symbol
+Fixes:SOKIM:name
+Fixes:SOKIM:symbol
+Fixes:TAVAS:name
+Fixes:TAVAS:symbol
+Fixes:TAVLA:name
+Fixes:TAVLA:symbol
+Fixes:TETUS:name
+Fixes:TETUS:symbol
+Fixes:TIKOK:name
+Fixes:TIKOK:symbol
+Fixes:TIMED:name
+Fixes:TIMED:symbol
+Fixes:UDBAR:name
+Fixes:UDBAR:symbol
+Fixes:UDKOL:name
+Fixes:UDKOL:symbol
+Fixes:UDLUM:name
+Fixes:UDLUM:symbol
+Fixes:USUNO:name
+Fixes:USUNO:symbol
+Fixes:UTRIS:name
+Fixes:UTRIS:symbol
+Fixes:UTVIN:name
+Fixes:UTVIN:symbol
+Fixes:UVLUK:name
+Fixes:UVLUK:symbol
+Fixes:XORAK:name
+Fixes:XORAK:symbol
+Free Text:FB Airport Elevations\FBFT-3280ft:freetext
+Free Text:FB Airport Elevations\FBKN-3280ft:freetext
+Free Text:FB Airport Elevations\FBMN-3095ft:freetext
+Free Text:FB Airport Elevations\FBSK-3309ft:freetext
+Free Text:FB Airport Elevations\FVFA-3500ft:freetext
+Free Text:FBSK KUTLA ILS08\6000:freetext
+Free Text:FBSK KUTLA ILS08\6500:freetext
+Free Text:FBSK KUTLA ILS08\8000:freetext
+Free Text:FBSK KUTLA ILS08\FL100:freetext
+Free Text:FBSK KUTLA ILS08\FL150:freetext
+Free Text:FBSK NESEK ILS08\6000:freetext
+Free Text:FBSK NESEK ILS08\6500:freetext
+Free Text:FBSK NESEK ILS08\8000:freetext
+Free Text:FBSK NESEK ILS08\FL180:freetext
+Geo:FB Landmark Okavanga Delta:
+Geo:FB Landmark Sua Pan and Nwetwe Pan:
+Geo:FV Landmark Victoria Falls:
+Runways:FBFT 11-29:centerline
+Runways:FBFT 11-29:extended centerline 1
+Runways:FBFT 11-29:extended centerline 1 left ticks
+Runways:FBFT 11-29:extended centerline 1 right ticks
+Runways:FBFT 11-29:extended centerline 2
+Runways:FBFT 11-29:extended centerline 2 left ticks
+Runways:FBFT 11-29:extended centerline 2 right ticks
+Runways:FBFT 13-31:centerline
+Runways:FBFT 13-31:extended centerline 1
+Runways:FBFT 13-31:extended centerline 1 left ticks
+Runways:FBFT 13-31:extended centerline 1 right ticks
+Runways:FBFT 13-31:extended centerline 2
+Runways:FBFT 13-31:extended centerline 2 left ticks
+Runways:FBFT 13-31:extended centerline 2 right ticks
+Runways:FBKE 08-26:centerline
+Runways:FBKE 08-26:extended centerline 1
+Runways:FBKE 08-26:extended centerline 1 left ticks
+Runways:FBKE 08-26:extended centerline 1 right ticks
+Runways:FBKE 08-26:extended centerline 2
+Runways:FBKE 08-26:extended centerline 2 left ticks
+Runways:FBKE 08-26:extended centerline 2 right ticks
+Runways:FBMN 08-26:centerline
+Runways:FBMN 08-26:extended centerline 1
+Runways:FBMN 08-26:extended centerline 1 left ticks
+Runways:FBMN 08-26:extended centerline 1 right ticks
+Runways:FBMN 08-26:extended centerline 2
+Runways:FBMN 08-26:extended centerline 2 left ticks
+Runways:FBMN 08-26:extended centerline 2 right ticks
+Runways:FBSK 08-26:centerline
+Runways:FBSK 08-26:extended centerline 1
+Runways:FBSK 08-26:extended centerline 1 left ticks
+Runways:FBSK 08-26:extended centerline 1 right ticks
+Runways:FBSK 08-26:extended centerline 2
+Runways:FBSK 08-26:extended centerline 2 left ticks
+Runways:FBSK 08-26:extended centerline 2 right ticks
+Runways:FBSP 12-30:centerline
+Runways:FBSP 12-30:extended centerline 1
+Runways:FBSP 12-30:extended centerline 1 left ticks
+Runways:FBSP 12-30:extended centerline 1 right ticks
+Runways:FBSP 12-30:extended centerline 2
+Runways:FBSP 12-30:extended centerline 2 left ticks
+Runways:FBSP 12-30:extended centerline 2 right ticks
+Stars:FBSK STAR ALL KUTLA1A:
+Stars:FBSK STAR ALL NESEK1A:
+VORs:DPV:name
+VORs:DPV:symbol
+VORs:ERV:name
+VORs:ERV:symbol
+VORs:FNV:name
+VORs:FNV:symbol
+VORs:GAV:name
+VORs:GAV:symbol
+VORs:GBV:name
+VORs:GBV:symbol
+VORs:GFV:name
+VORs:GFV:symbol
+VORs:GSV:name
+VORs:GSV:symbol
+VORs:GWV:name
+VORs:GWV:symbol
+VORs:HGV:name
+VORs:HGV:symbol
+VORs:JSV:name
+VORs:JSV:symbol
+VORs:KGV:name
+VORs:KGV:symbol
+VORs:KSV:name
+VORs:KSV:symbol
+VORs:KTV:name
+VORs:KTV:symbol
+VORs:KYV:name
+VORs:KYV:symbol
+VORs:LIV:name
+VORs:LIV:symbol
+VORs:LTV:name
+VORs:LTV:symbol
+VORs:LYV:name
+VORs:LYV:symbol
+VORs:MEV:name
+VORs:MEV:symbol
+VORs:MMV:name
+VORs:MMV:symbol
+VORs:MNV:name
+VORs:MNV:symbol
+VORs:NSV:name
+VORs:NSV:symbol
+VORs:PNV:name
+VORs:PNV:symbol
+VORs:PPV:name
+VORs:PPV:symbol
+VORs:RAV:name
+VORs:RAV:symbol
+VORs:SSV:name
+VORs:SSV:symbol
+VORs:STV:name
+VORs:STV:symbol
+VORs:UPV:name
+VORs:UPV:symbol
+VORs:VBU:name
+VORs:VBU:symbol
+VORs:VFA:name
+VORs:VFA:symbol
+VORs:VFY:name
+VORs:VFY:symbol
+VORs:VGO:name
+VORs:VGO:symbol
+VORs:VLI:name
+VORs:VLI:symbol
+VORs:VLS:name
+VORs:VLS:symbol
+VORs:VMV:name
+VORs:VMV:symbol
+VORs:VTL:name
+VORs:VTL:symbol
+VORs:VWN:name
+VORs:VWN:symbol
+VORs:WHV:name
+VORs:WHV:symbol
+VORs:WIV:name
+VORs:WIV:symbol
+VORs:WKV:name
+VORs:WKV:symbol
+VORs:WMV:name
+VORs:WMV:symbol
+VORs:WRV:name
+VORs:WRV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-26.382951:21.976984:-22.786473:29.289026

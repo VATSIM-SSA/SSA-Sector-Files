@@ -1,0 +1,391 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FIMP-TMA:
+ARTCC boundary:FMCH-TMA:
+ARTCC boundary:FMEE-TMA:
+ARTCC boundary:FMMI-TMA:
+ARTCC boundary:FMMT-TMA:
+ARTCC boundary:FMNM-TMA:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FIMP:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:HTDC:
+ARTCC low boundary:FMCH-CTR:
+ARTCC low boundary:FMEE-CTR:
+ARTCC low boundary:FMMI-CTR:
+ARTCC low boundary:FMMT-CTR:
+ARTCC low boundary:FMNM-CTR:
+ARTCC low boundary:FMNN-CTR:
+Fixes:AMBAN:name
+Fixes:AMBAN:symbol
+Fixes:AMBOD:name
+Fixes:AMBOD:symbol
+Fixes:ANKOR:name
+Fixes:ANKOR:symbol
+Fixes:ATOLA:name
+Fixes:ATOLA:symbol
+Fixes:BERIL:name
+Fixes:BERIL:symbol
+Fixes:DENLI:name
+Fixes:DENLI:symbol
+Fixes:EGMAD:name
+Fixes:EGMAD:symbol
+Fixes:ENDEL:name
+Fixes:ENDEL:symbol
+Fixes:EROPA:name
+Fixes:EROPA:symbol
+Fixes:ETGUN:name
+Fixes:ETGUN:symbol
+Fixes:ETLEG:name
+Fixes:ETLEG:symbol
+Fixes:ETLOP:name
+Fixes:ETLOP:symbol
+Fixes:GADNO:name
+Fixes:GADNO:symbol
+Fixes:IBMAT:name
+Fixes:IBMAT:symbol
+Fixes:IMKIB:name
+Fixes:IMKIB:symbol
+Fixes:IXEMA:name
+Fixes:IXEMA:symbol
+Fixes:KINAN:name
+Fixes:KINAN:symbol
+Fixes:MIROV:name
+Fixes:MIROV:symbol
+Fixes:NERUL:name
+Fixes:NERUL:symbol
+Fixes:NESAM:name
+Fixes:NESAM:symbol
+Fixes:NIBIS:name
+Fixes:NIBIS:symbol
+Fixes:PASAR:name
+Fixes:PASAR:symbol
+Fixes:RASMA:name
+Fixes:RASMA:symbol
+Fixes:RUPIG:name
+Fixes:RUPIG:symbol
+Fixes:SOBAT:name
+Fixes:SOBAT:symbol
+Fixes:SOLAL:name
+Fixes:SOLAL:symbol
+Fixes:SUNIR:name
+Fixes:SUNIR:symbol
+Fixes:TABNO:name
+Fixes:TABNO:symbol
+Fixes:TETRO:name
+Fixes:TETRO:symbol
+Fixes:TIBAG:name
+Fixes:TIBAG:symbol
+Geo:FI Landmark Coast:
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FM Landmark Coast Bassas da India:
+Geo:FM Landmark Coast Comores:
+Geo:FM Landmark Coast Europe Island:
+Geo:FM Landmark Coast Juan de Nova:
+Geo:FM Landmark Coast Madagascar:
+Geo:FM Landmark Coast Mayotte:
+Geo:FM Landmark Coast Reunion:
+Geo:FM Landmark Coast Tromelin:
+Geo:FM Landmark Rivers:
+Geo:FMMI Landmark Lakes:
+Geo:FQ Landmark Coast M:
+Geo:FQ Landmark Coast N:
+Geo:FQ Landmark Coast S:
+Geo:FS Landmark Coast Astove Island:
+Geo:FS Landmark Coast Farquhar Island:
+High airways:A406:line
+High airways:G454:line
+High airways:G652:line
+High airways:P627:line
+High airways:R329:line
+High airways:R348:line
+High airways:T113:line
+High airways:T129:line
+High airways:T130:line
+High airways:T131:line
+High airways:T132:line
+High airways:T135:line
+High airways:UA400:line
+High airways:UA401:line
+High airways:UA402:line
+High airways:UA404:line
+High airways:UA405:line
+High airways:UA406:line
+High airways:UA407:line
+High airways:UA474:line
+High airways:UA609:line
+High airways:UA665:line
+High airways:UB459:line
+High airways:UB529:line
+High airways:UB530:line
+High airways:UB533:line
+High airways:UB536:line
+High airways:UB790:line
+High airways:UG424:line
+High airways:UG465:line
+High airways:UG466:line
+High airways:UG467:line
+High airways:UG468:line
+High airways:UG652:line
+High airways:UG653:line
+High airways:UG654:line
+High airways:UG656:line
+High airways:UG661:line
+High airways:UL431:line
+High airways:UL433:line
+High airways:UL437:line
+High airways:UM307:line
+High airways:UM310:line
+High airways:UM315:line
+High airways:UM609:line
+High airways:UM652:line
+High airways:UM665:line
+High airways:UN305:line
+High airways:UN306:line
+High airways:UN308:line
+High airways:UP312:line
+High airways:UQ21:line
+High airways:UQ34:line
+High airways:UQ5:line
+High airways:UR348:line
+High airways:UR400:line
+High airways:UR401:line
+High airways:UR409:line
+High airways:UR410:line
+High airways:UR775:line
+High airways:UR779:line
+High airways:UR780:line
+High airways:UR782:line
+High airways:UR984:line
+High airways:UT122:line
+High airways:UT444:line
+High airways:UT446:line
+High airways:UT481:line
+High airways:UT512:line
+High airways:UT513:line
+High airways:UT515:line
+High airways:UT516:line
+High airways:UT517:line
+High airways:UT518:line
+High airways:UT519:line
+High airways:UT536:line
+High airways:UT547:line
+High airways:UT548:line
+High airways:UT911:line
+High airways:UT913:line
+High airways:UW10:line
+High airways:UW11:line
+High airways:UW13:line
+High airways:UW15:line
+High airways:UW17:line
+High airways:UW19:line
+High airways:UW601:line
+NDBs:AGG:name
+NDBs:AGG:symbol
+NDBs:AH:name
+NDBs:AH:symbol
+NDBs:AT:name
+NDBs:AT:symbol
+NDBs:BR:name
+NDBs:BR:symbol
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:COE:name
+NDBs:COE:symbol
+NDBs:CP:name
+NDBs:CP:symbol
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:FF:name
+NDBs:FF:symbol
+NDBs:FG:name
+NDBs:FG:symbol
+NDBs:FJO:name
+NDBs:FJO:symbol
+NDBs:FXR:name
+NDBs:FXR:symbol
+NDBs:FXZ:name
+NDBs:FXZ:symbol
+NDBs:HL:name
+NDBs:HL:symbol
+NDBs:IA:name
+NDBs:IA:symbol
+NDBs:IN:name
+NDBs:IN:symbol
+NDBs:IO:name
+NDBs:IO:symbol
+NDBs:IR:name
+NDBs:IR:symbol
+NDBs:KA:name
+NDBs:KA:symbol
+NDBs:KG:name
+NDBs:KG:symbol
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LH:name
+NDBs:LH:symbol
+NDBs:LP:name
+NDBs:LP:symbol
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:MF:name
+NDBs:MF:symbol
+NDBs:MJ:name
+NDBs:MJ:symbol
+NDBs:MMY:name
+NDBs:MMY:symbol
+NDBs:MS:name
+NDBs:MS:symbol
+NDBs:MT:name
+NDBs:MT:symbol
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:MV:name
+NDBs:MV:symbol
+NDBs:NC:name
+NDBs:NC:symbol
+NDBs:NP:name
+NDBs:NP:symbol
+NDBs:NT:name
+NDBs:NT:symbol
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:QL:name
+NDBs:QL:symbol
+NDBs:RB:name
+NDBs:RB:symbol
+NDBs:RI:name
+NDBs:RI:symbol
+NDBs:SA:name
+NDBs:SA:symbol
+NDBs:SG:name
+NDBs:SG:symbol
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SO:name
+NDBs:SO:symbol
+NDBs:SP:name
+NDBs:SP:symbol
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:TAN:name
+NDBs:TAN:symbol
+NDBs:TE:name
+NDBs:TE:symbol
+NDBs:TN:name
+NDBs:TN:symbol
+NDBs:TO:name
+NDBs:TO:symbol
+NDBs:TW:name
+NDBs:TW:symbol
+NDBs:UG:name
+NDBs:UG:symbol
+NDBs:UU:name
+NDBs:UU:symbol
+NDBs:VL:name
+NDBs:VL:symbol
+NDBs:VSF:name
+NDBs:VSF:symbol
+NDBs:VSL:name
+NDBs:VSL:symbol
+NDBs:VSM:name
+NDBs:VSM:symbol
+NDBs:VSN:name
+NDBs:VSN:symbol
+NDBs:VSO:name
+NDBs:VSO:symbol
+NDBs:VSP:name
+NDBs:VSP:symbol
+NDBs:VSQ:name
+NDBs:VSQ:symbol
+Runways:FMCH 02-20:centerline
+Runways:FMCV 10-28:centerline
+Runways:FMCZ 16-34:centerline
+Runways:FMEE 12-30:centerline
+Runways:FMEE 14-32:centerline
+Runways:FMEP 15-33:centerline
+Runways:FMMI 11-29:centerline
+Runways:FMMS 01-19:centerline
+Runways:FMMT 01-19:centerline
+Runways:FMMV 10-28:centerline
+Runways:FMNA 13-31:centerline
+Runways:FMNM 14-32:centerline
+Runways:FMNN 05-23:centerline
+Runways:FMNS 16-34:centerline
+Runways:FMNW 01-19:centerline
+Runways:FMSD 08-26:centerline
+Runways:FMSK 05-23:centerline
+Runways:FMSM 04-22:centerline
+Runways:FMST 04-22:centerline
+VORs:DI:name
+VORs:DI:symbol
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:DZP:name
+VORs:DZP:symbol
+VORs:FDN:name
+VORs:FDN:symbol
+VORs:GBY:name
+VORs:GBY:symbol
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:MG:name
+VORs:MG:symbol
+VORs:MT:name
+VORs:MT:symbol
+VORs:NSB:name
+VORs:NSB:symbol
+VORs:PLS:name
+VORs:PLS:symbol
+VORs:PRF:name
+VORs:PRF:symbol
+VORs:RBV:name
+VORs:RBV:symbol
+VORs:SB:name
+VORs:SB:symbol
+VORs:SDG:name
+VORs:SDG:symbol
+VORs:TNV:name
+VORs:TNV:symbol
+VORs:TU:name
+VORs:TU:symbol
+VORs:VBR:name
+VORs:VBR:symbol
+VORs:VCL:name
+VORs:VCL:symbol
+VORs:VKA:name
+VORs:VKA:symbol
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VMA:name
+VORs:VMA:symbol
+VORs:VMZ:name
+VORs:VMZ:symbol
+VORs:VNC:name
+VORs:VNC:symbol
+VORs:VNP:name
+VORs:VNP:symbol
+VORs:VQL:name
+VORs:VQL:symbol
+VORs:VTZ:name
+VORs:VTZ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-32.492081:21.266849:-6.094180:74.222313

@@ -1,0 +1,104 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:HKJK Areas\Apron 1:freetext
+Free Text:HKJK Areas\Apron 2:freetext
+Free Text:HKJK Areas\Apron 3:freetext
+Free Text:HKJK Areas\Cargo:freetext
+Free Text:HKJK Areas\Terminal:freetext
+Free Text:HKJK Stands\1:freetext
+Free Text:HKJK Stands\10:freetext
+Free Text:HKJK Stands\10:freetext
+Free Text:HKJK Stands\11:freetext
+Free Text:HKJK Stands\12:freetext
+Free Text:HKJK Stands\13:freetext
+Free Text:HKJK Stands\14:freetext
+Free Text:HKJK Stands\2:freetext
+Free Text:HKJK Stands\2A:freetext
+Free Text:HKJK Stands\2B:freetext
+Free Text:HKJK Stands\2C:freetext
+Free Text:HKJK Stands\3:freetext
+Free Text:HKJK Stands\3A:freetext
+Free Text:HKJK Stands\3B:freetext
+Free Text:HKJK Stands\3C:freetext
+Free Text:HKJK Stands\4:freetext
+Free Text:HKJK Stands\4:freetext
+Free Text:HKJK Stands\5:freetext
+Free Text:HKJK Stands\5:freetext
+Free Text:HKJK Stands\6:freetext
+Free Text:HKJK Stands\6:freetext
+Free Text:HKJK Stands\7:freetext
+Free Text:HKJK Stands\7:freetext
+Free Text:HKJK Stands\8:freetext
+Free Text:HKJK Stands\8:freetext
+Free Text:HKJK Stands\9:freetext
+Free Text:HKJK Stands\9:freetext
+Free Text:HKJK Stands\F1:freetext
+Free Text:HKJK Stands\F2:freetext
+Free Text:HKJK Stands\F3:freetext
+Free Text:HKJK Stands\F4:freetext
+Free Text:HKJK Stands\F5:freetext
+Free Text:HKJK Stands\F6:freetext
+Free Text:HKJK Stands\F7:freetext
+Free Text:HKJK Stands\F8:freetext
+Free Text:HKJK Stands\F9:freetext
+Free Text:HKJK Stands\G15:freetext
+Free Text:HKJK Stands\G16:freetext
+Free Text:HKJK Stands\G17:freetext
+Free Text:HKJK Stands\G18:freetext
+Free Text:HKJK Stands\G19:freetext
+Free Text:HKJK Stands\G20:freetext
+Free Text:HKJK Stands\G21:freetext
+Free Text:HKJK Stands\Helipad:freetext
+Free Text:HKJK Stands\J1:freetext
+Free Text:HKJK Stands\J2:freetext
+Free Text:HKJK Stands\J3:freetext
+Free Text:HKJK Stands\J4:freetext
+Free Text:HKJK Stands\J5:freetext
+Free Text:HKJK Stands\J6:freetext
+Free Text:HKJK Stands\J7:freetext
+Free Text:HKJK Stands\J8:freetext
+Free Text:HKJK Stands\J9:freetext
+Free Text:HKJK Taxiways\A:freetext
+Free Text:HKJK Taxiways\A:freetext
+Free Text:HKJK Taxiways\A:freetext
+Free Text:HKJK Taxiways\B:freetext
+Free Text:HKJK Taxiways\C:freetext
+Free Text:HKJK Taxiways\D:freetext
+Free Text:HKJK Taxiways\E:freetext
+Free Text:HKJK Taxiways\F:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\H:freetext
+Free Text:HKJK Taxiways\J:freetext
+Free Text:HKJK Taxiways\K:freetext
+Free Text:HKJK Taxiways\K:freetext
+Free Text:HKJK Taxiways\L:freetext
+Free Text:HKJK Taxiways\M:freetext
+Free Text:HKJK Taxiways\M:freetext
+Geo:HKJK Groundlayout:
+Regions:HKJK Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:36.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-1.329821:36.907425:-1.305651:36.951276
+PLUGIN:Ground Radar plugin:AirportElevation:5330
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:HKJK
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:HKJK

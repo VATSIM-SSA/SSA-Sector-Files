@@ -1,0 +1,28 @@
+AFRS_FSS Africa South Control
+FAHS_I_CTR Lowveld Info
+FAJA_NW_CTR Johannesburg Area North West
+FBGR_CTR Gaberone Center
+FBKE_APP Kasane Approach
+FBKE_TWR Kasane Tower
+FBPM_APP Francistown Approach
+FBPM_TWR Francistown Tower
+FLFI_CTR Lusaka Control
+FLHN_APP Livingstone Approach
+FLHN_TWR Livingstone Tower
+FLKK_APP Lusaka Approach
+FQBE_CTR Beira Control
+FQBE_S_CTR Maputo Control
+FVCP_TWR Prince Tower
+FVCZ_APP Buffalo Approach
+FVFA_APP Falls Approach
+FVHF_CTR Harare East Control
+FVHF_W_CTR Harare West Control
+FVJN_APP Nkomo Approach
+FVJN_TWR Nkomo Tower
+FVKB_APP Kariba Approach
+FVMV_APP Masvingo Approach
+FVRG_APP Harare Approach
+FVRG_TWR Harare Tower
+FVTL_APP Thornhill Approach
+FVWN_APP Park Approach
+FYWH_CTR Windhoek Radar

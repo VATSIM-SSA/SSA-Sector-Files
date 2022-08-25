@@ -1,0 +1,37 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FQMA Maputo\1:freetext
+Free Text:FQMA Maputo\2:freetext
+Free Text:FQMA Maputo\3:freetext
+Free Text:FQMA Maputo\A:freetext
+Free Text:FQMA Maputo\B:freetext
+Free Text:FQMA Maputo\C:freetext
+Free Text:FQMA Maputo\CARGO:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\E:freetext
+Free Text:FQMA Maputo\F:freetext
+Free Text:FQMA Maputo\MIL_AREA:freetext
+Free Text:FQMA Maputo\TERMINAL:freetext
+Free Text:FQMA Maputo\TOWER:freetext
+Geo:FQMA Groundlayout:
+Regions:FQMA Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-27.064850:30.514793:-24.398183:35.655372
+PLUGIN:TopSky plugin:ShowMapData:FQBE,FQMA

@@ -1,0 +1,59 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | DIAP AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | DIAP AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:DIAP Parkings\1:freetext
+Free Text:DIAP Parkings\10:freetext
+Free Text:DIAP Parkings\11:freetext
+Free Text:DIAP Parkings\12:freetext
+Free Text:DIAP Parkings\13:freetext
+Free Text:DIAP Parkings\14:freetext
+Free Text:DIAP Parkings\15B:freetext
+Free Text:DIAP Parkings\2:freetext
+Free Text:DIAP Parkings\2A:freetext
+Free Text:DIAP Parkings\3:freetext
+Free Text:DIAP Parkings\4:freetext
+Free Text:DIAP Parkings\4A:freetext
+Free Text:DIAP Parkings\5A:freetext
+Free Text:DIAP Parkings\6A:freetext
+Free Text:DIAP Parkings\7:freetext
+Free Text:DIAP Parkings\8:freetext
+Free Text:DIAP Parkings\9:freetext
+Free Text:DIAP Taxiways\A:freetext
+Free Text:DIAP Taxiways\B:freetext
+Geo:DIAP Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:10000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:68.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:5.252883:-3.949560:5.271651:-3.914476
+PLUGIN:Ground Radar plugin:AirportElevation:21
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DIAP
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:DIAP,DIAP
+PLUGIN:TopSky plugin:HideMapData:ICAO

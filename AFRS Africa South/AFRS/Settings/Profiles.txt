@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:AFRS_FSS:1500:1
+ATIS2:Africa South Control. ATC above FL245 only
+ATIS3:if local CTR is offline. Covers FACA FAJA
+ATIS4:FBGR FIMM FMMM FQBE FVHF and FYWH - vatssa.com
+END

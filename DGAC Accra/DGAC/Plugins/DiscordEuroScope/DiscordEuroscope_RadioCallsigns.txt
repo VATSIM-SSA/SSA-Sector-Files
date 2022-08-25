@@ -1,0 +1,18 @@
+DBBB_APP Cotonou Approach
+DBBB_TWR Cotonou Tower
+DGAA_APP Accra Approach
+DGAA_ATIS
+DGAA_GND Accra Ground
+DGAA_TWR Accra Tower
+DGAC_CTR Accra Control
+DGAC_N_CTR Accra North Control
+DGAC_O_CTR Accra Radio
+DGLE_APP Tamale Approach/Tower
+DGLE_ATIS
+DGSI_ATIS
+DGSI_TWR Kumasi Tower
+DGSN_TWR Sunyani Tower
+DGTK_TWR Takoradi Tower
+DXNG_TWR Niamtougou Tower
+DXXX_CTR Lome Control
+DXXX_TWR Lome Tower

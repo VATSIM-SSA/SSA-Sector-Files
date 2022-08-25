@@ -1,0 +1,41 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GQPP AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GQPP AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:GQPP:name
+Airports:GQPP:symbol
+Geo:GQPP Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:10000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:75.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:20.925914:-17.047720:20.940927:-17.019655
+PLUGIN:Ground Radar plugin:AirportElevation:9
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GQPP
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GQNN,GQPP
+PLUGIN:TopSky plugin:HideMapData:ICAO

@@ -1,0 +1,247 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:FWBG:name
+Airports:FWBG:symbol
+Airports:FWCB:name
+Airports:FWCB:symbol
+Airports:FWCD:name
+Airports:FWCD:symbol
+Airports:FWCG:name
+Airports:FWCG:symbol
+Airports:FWCL:name
+Airports:FWCL:symbol
+Airports:FWCS:name
+Airports:FWCS:symbol
+Airports:FWCT:name
+Airports:FWCT:symbol
+Airports:FWDW:name
+Airports:FWDW:symbol
+Airports:FWKA:name
+Airports:FWKA:symbol
+Airports:FWKB:name
+Airports:FWKB:symbol
+Airports:FWKG:name
+Airports:FWKG:symbol
+Airports:FWKI:name
+Airports:FWKI:symbol
+Airports:FWKK:name
+Airports:FWKK:symbol
+Airports:FWLK:name
+Airports:FWLK:symbol
+Airports:FWLP:name
+Airports:FWLP:symbol
+Airports:FWMC:name
+Airports:FWMC:symbol
+Airports:FWMK:name
+Airports:FWMK:symbol
+Airports:FWMY:name
+Airports:FWMY:symbol
+Airports:FWSJ:name
+Airports:FWSJ:symbol
+Airports:FWSM:name
+Airports:FWSM:symbol
+Airports:FWSU:name
+Airports:FWSU:symbol
+Airports:FWTK:name
+Airports:FWTK:symbol
+Airports:FWUU:name
+Airports:FWUU:symbol
+Geo:FW Landmark Lake Malawi:
+Geo:FW Landmark Lakes:
+Geo:GEO:
+Runways:FWCL 10-28:centerline
+Runways:FWCL 10-28:extended centerline 1
+Runways:FWCL 10-28:extended centerline 1 left ticks
+Runways:FWCL 10-28:extended centerline 1 right ticks
+Runways:FWCL 10-28:extended centerline 2
+Runways:FWCL 10-28:extended centerline 2 left ticks
+Runways:FWCL 10-28:extended centerline 2 right ticks
+Runways:FWCL 15-33:centerline
+Runways:FWCL 15-33:extended centerline 1
+Runways:FWCL 15-33:extended centerline 1 left ticks
+Runways:FWCL 15-33:extended centerline 1 right ticks
+Runways:FWCL 15-33:extended centerline 2
+Runways:FWCL 15-33:extended centerline 2 left ticks
+Runways:FWCL 15-33:extended centerline 2 right ticks
+Runways:FWKA 14-32:centerline
+Runways:FWKA 14-32:extended centerline 1
+Runways:FWKA 14-32:extended centerline 1 left ticks
+Runways:FWKA 14-32:extended centerline 1 right ticks
+Runways:FWKA 14-32:extended centerline 2
+Runways:FWKA 14-32:extended centerline 2 left ticks
+Runways:FWKA 14-32:extended centerline 2 right ticks
+Runways:FWKI 14-32:centerline
+Runways:FWKI 14-32:extended centerline 1
+Runways:FWKI 14-32:extended centerline 1 left ticks
+Runways:FWKI 14-32:extended centerline 1 right ticks
+Runways:FWKI 14-32:extended centerline 2
+Runways:FWKI 14-32:extended centerline 2 left ticks
+Runways:FWKI 14-32:extended centerline 2 right ticks
+Runways:FWLK 01-19:centerline
+Runways:FWLK 01-19:extended centerline 1
+Runways:FWLK 01-19:extended centerline 1 left ticks
+Runways:FWLK 01-19:extended centerline 1 right ticks
+Runways:FWLK 01-19:extended centerline 2
+Runways:FWLK 01-19:extended centerline 2 left ticks
+Runways:FWLK 01-19:extended centerline 2 right ticks
+Runways:FWUU 17-35:centerline
+Runways:FWUU 17-35:extended centerline 1
+Runways:FWUU 17-35:extended centerline 1 left ticks
+Runways:FWUU 17-35:extended centerline 1 right ticks
+Runways:FWUU 17-35:extended centerline 2
+Runways:FWUU 17-35:extended centerline 2 left ticks
+Runways:FWUU 17-35:extended centerline 2 right ticks
+Sids:FWCL SID 10 EGSID1A:
+Sids:FWCL SID 10 LABLO1E:
+Sids:FWCL SID 10 OKMAT1E:
+Sids:FWCL SID 10 TETEM1E:
+Sids:FWCL SID 10 UVDAR1A:
+Sids:FWCL SID 10 XUBOS1A:
+Sids:FWCL SID 28 EGSID1B:
+Sids:FWCL SID 28 LABLO1W:
+Sids:FWCL SID 28 OKMAT1W:
+Sids:FWCL SID 28 TETEM1W:
+Sids:FWCL SID 28 UVDAR1B:
+Sids:FWCL SID 28 XADOT1A:
+Sids:FWCL SID 28 XUBOS1B:
+Sids:FWCL SID 33 LABLO1A:
+Sids:FWCL SID 33 OKMAT1A:
+Sids:FWCL SID 33 TETEM1A:
+Sids:FWCL SID KAVAL UVDAR1A:
+Sids:FWCL SID KAVAL UVDAR1B:
+Sids:FWCL SID LABLO UVDAR1A:
+Sids:FWCL SID LABLO XADOT1A:
+Sids:FWCL SID MELNA EGSID1A:
+Sids:FWCL SID MELNA EGSID1B:
+Sids:FWCL SID OKMAT UVDAR1A:
+Sids:FWCL SID OKMAT XADOT1A:
+Sids:FWCL SID TETEM XUBOS1A:
+Sids:FWCL SID TETEM XUBOS1B:
+Sids:FWCL SID UVBAL UVDAR1B:
+Sids:FWCL SID UVBAL XUBOS1A:
+Sids:FWKI SID 14 ANTOP1E:
+Sids:FWKI SID 14 AXEBO1E:
+Sids:FWKI SID 14 ELEPA1E:
+Sids:FWKI SID 14 ESPOP1E:
+Sids:FWKI SID 14 IMKAL1E:
+Sids:FWKI SID 14 KUSKI1E:
+Sids:FWKI SID 14 LABON1E:
+Sids:FWKI SID 14 MUTAR1E:
+Sids:FWKI SID 14 NALSA1E:
+Sids:FWKI SID 14 NIBOR1E:
+Sids:FWKI SID 14 TIBAK1E:
+Sids:FWKI SID 14 USUGU1A:
+Sids:FWKI SID 14 UTOBU1A:
+Sids:FWKI SID 14 UTOLA1A:
+Sids:FWKI SID 14 UVAGI1A:
+Sids:FWKI SID 32 ANTOP1W:
+Sids:FWKI SID 32 ELEPA1W:
+Sids:FWKI SID 32 ESPOP1W:
+Sids:FWKI SID 32 IMKAL1W:
+Sids:FWKI SID 32 KUSKI1W:
+Sids:FWKI SID 32 MUTAR1W:
+Sids:FWKI SID 32 NALSA1W:
+Sids:FWKI SID 32 NIBOR1W:
+Sids:FWKI SID 32 UTELO1B:
+Sids:FWKI SID 32 UTIKI1A:
+Sids:FWKI SID 32 UTOLA1B:
+Sids:FWKI SID 32 UVAGI1B:
+Sids:FWKI SID NALSA USUGU1A:
+Sids:FWKI SID NALSA UTIKI1A:
+Sids:FWKI SID TETEM UTELO1B:
+Sids:FWKI SID TETEM UTOBU1A:
+Sids:FWKI SID UTASI UTELO1B:
+Sids:FWKI SID UTASI UTOBU1A:
+Sids:FWKI SID UTEGO USUGU1A:
+Sids:FWKI SID UTEGO UTIKI1A:
+Sids:FWKI SID UTOKO USUGU1A:
+Sids:FWKI SID UTOKO UTIKI1A:
+Sids:FWKI SID UTSAM UTELO1B:
+Sids:FWKI SID UTSAM UTOBU1A:
+Sids:FWKI SID UTSOP UTELO1B:
+Sids:FWKI SID UTSOP UTOBU1A:
+Sids:FWKI SID UVOTI UTELO1B:
+Sids:FWKI SID UVOTI UTOBU1A:
+Stars:FWCL NDB10:
+Stars:FWCL NDB10 NC:
+Stars:FWCL RNAV10:
+Stars:FWCL RNAV10 UVKEP:
+Stars:FWCL RNAV10 UVKOK:
+Stars:FWCL RNAV10 UVMAG:
+Stars:FWCL RNAV28:
+Stars:FWCL RNAV28 EGLOD:
+Stars:FWCL RNAV28 XADIS:
+Stars:FWCL STAR 10 KAVAL1A:
+Stars:FWCL STAR 10 LABLO1A:
+Stars:FWCL STAR 10 MELNA1A:
+Stars:FWCL STAR 10 OKMAT1A:
+Stars:FWCL STAR 10 OKMAT1B:
+Stars:FWCL STAR 10 TETEM1A:
+Stars:FWCL STAR 10 UVBAL1A:
+Stars:FWCL STAR 28 KAVAL1B:
+Stars:FWCL STAR 28 LABLO1B:
+Stars:FWCL STAR 28 OKMAT1C:
+Stars:FWCL STAR 28 TETEM1B:
+Stars:FWCL STAR 28 UVBAL1B:
+Stars:FWCL VOR10:
+Stars:FWCL VOR10 VCL:
+Stars:FWKI ILS14:
+Stars:FWKI ILS14 DVL:
+Stars:FWKI ILS14 KG:
+Stars:FWKI LOC14:
+Stars:FWKI LOC14 DVL:
+Stars:FWKI LOC14 KG:
+Stars:FWKI NDB14:
+Stars:FWKI NDB14 DVL:
+Stars:FWKI RNAV14:
+Stars:FWKI RNAV14 UTIBI:
+Stars:FWKI RNAV14 UTISA:
+Stars:FWKI RNAV14 UTUGA:
+Stars:FWKI RNAV32:
+Stars:FWKI RNAV32 ANTIN:
+Stars:FWKI RNAV32 ANVEG:
+Stars:FWKI RNAV32 APLOL:
+Stars:FWKI STAR 14 NALSA1A:
+Stars:FWKI STAR 14 TETEM1A:
+Stars:FWKI STAR 14 UTASI1A:
+Stars:FWKI STAR 14 UTEGO1A:
+Stars:FWKI STAR 14 UTOKO1A:
+Stars:FWKI STAR 14 UTOLA1C:
+Stars:FWKI STAR 14 UTSAM1A:
+Stars:FWKI STAR 14 UTSOP1A:
+Stars:FWKI STAR 14 UVAGI1B:
+Stars:FWKI STAR 14 UVOTI1A:
+Stars:FWKI STAR 32 NALSA1B:
+Stars:FWKI STAR 32 TETEM1B:
+Stars:FWKI STAR 32 UTASI1B:
+Stars:FWKI STAR 32 UTEGO1B:
+Stars:FWKI STAR 32 UTOKO1B:
+Stars:FWKI STAR 32 UTOLA1D:
+Stars:FWKI STAR 32 UTSAM1B:
+Stars:FWKI STAR 32 UTSOP1B:
+Stars:FWKI STAR 32 UVAGI1C:
+Stars:FWKI STAR 32 UVOTI1B:
+Stars:FWKI STAR ALL ELEPA2A:
+Stars:FWKI STAR ALL ELEPA2B:
+Stars:FWKI STAR ALL ESPOP2A:
+Stars:FWKI STAR ALL ESPOP2B:
+Stars:FWKI STAR ALL MUTAR2A:
+Stars:FWKI STAR ALL MUTAR2B:
+Stars:FWKI VOR32:
+Stars:FWKI VORDME14:
+Stars:FWKI VORDME14 DVL:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-15.726236:30.300792:-11.984759:37.265200

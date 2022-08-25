@@ -1,0 +1,41 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FSIA Airport\13:freetext
+Free Text:FSIA Airport\31:freetext
+Free Text:FSIA Airport\A:freetext
+Free Text:FSIA Airport\APRON:freetext
+Free Text:FSIA Airport\B:freetext
+Free Text:FSIA Airport\Fire Station:freetext
+Free Text:FSIA Airport\Hangar:freetext
+Free Text:FSIA Airport\Light Aircraft:freetext
+Free Text:FSIA Airport\NPA1:freetext
+Free Text:FSIA Airport\NPA1=TWY not for AVBL for taxi. Largest ACFT that can be towed/pushed is A345:freetext
+Free Text:FSIA Airport\NPA2:freetext
+Free Text:FSIA Airport\Parking Area:freetext
+Free Text:FSIA Airport\Terminal:freetext
+Geo:FSIA Groundlayout:
+Regions:FS Coast:polygon
+Regions:FSIA Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:325.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-4.684407:55.504444:-4.665130:55.539524
+PLUGIN:Ground Radar plugin:AirportElevation:12
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FSIA
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FSIA

@@ -1,0 +1,148 @@
+// ##################################################################
+//                 VATSSA | FIR HKNA | TopSky | Settings
+// ##################################################################
+
+// Version v0.2
+// Update Date 05/07/2022
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+;-------- TOPSKY SETTINGS
+;-------Credit to previous (unknown) maintainers of the Iceland sector file who also created part of this file.
+;-------For permission to reuse, redistribute, or modify for use in other sector files, contact Mickey Champion.
+
+; -- GENERAL SETUP --
+Setup_COOPANS=0
+
+; -- FONTS --
+Areas_Label_Font=EuroScope
+FlightLeg_Font=EuroScope
+Maps_Font=EuroScope
+System_GUI_Font_1=EuroScope
+System_GUI_Font_2=EuroScope
+System_GUI_Font_Fixed_1=EuroScope
+TextNotes_Font=EuroScope
+Vector_AHDG_Font=EuroScope
+Vector_FplSep_Font=EuroScope
+Vector_MinSep_Font=EuroScope
+Vector_QDM_Font=EuroScope
+
+; -- AUTO RWY APP LINES --
+RwyAppLines_Auto=1
+RwyAppLines_Length=0
+RwyAppLines_Markers=10
+RwyAppLines_MarkerSpacing=1
+Color_Rwy_App_Line_Inuse=221,211,160
+
+; -- TAG SETUP --
+Label_All_CRC=1
+Label_All_NATYP=1
+Label_All_WTC=1
+Label_All_GS=1
+Label_All_N=1
+
+; -- TAG COLORS --
+Color_Unconcerned=100,100,100 
+Color_Concerned=180,180,180
+Color_Coordination=72,144,231
+Color_Assumed=255,255,255
+Color_Redundant=173,70,14
+Color_Warning=255,255,0
+Color_Informed=229,173,18
+Color_Informed_2=229,173,18
+Color_Informed_3=229,173,18
+Color_Flight_Highlight=30,30,30
+Color_Field_Highlight=49,49,49
+
+; -- MENU COLORS --
+Color_Active_Text_Map=255,255,255
+Color_Background=32,32,32
+Color_Foreground=220,220,220
+Color_Border=50,50,50
+Color_BottomShadow=50,50,50
+Color_TopShadow=50,50,50
+Color_Global_Menu_Highlight=72,144,231
+Color_Selected=72,144,231
+Color_Selected_Group=140,140,140
+Color_Text_Notes=236,236,236
+Color_Suite_Highlight=72,144,231
+Color_Heading_Vector=206,155,49
+Color_WM_Frame=255,255,255
+
+; -- WEATHER RADAR --
+WXR_Brightness=30
+WXR_Gain=100
+WXR_Zoom=2
+WXR_Latitude=66
+WXR_Latitude_Max=70.3
+WXR_Latitude_Min=61
+WXR_Longitude=-30
+WXR_Longitude_Max=0
+WXR_Longitude_Min=-64
+WXR_ImageSize=512
+Color_Weather_Map=9,18,20
+
+; -- AIRSPACE --
+STCA_AlertSound=1
+STCA_AlertSound_Filter=1
+STCA_VFR=0
+AIW=0
+Airspace_ASSR_StartCode=4100
+Airspace_ASSR_EndCode=4137
+Airspace_C_Flag=HKJK
+Airspace_NOTAM_Add=HKNA
+Airspace_SIGMET_Areas=HKNA
+Areas_NOTAM_Activation=1
+Airspace_No_DUPE_Codes=1000,1200,2000,2200,7000,7700,7600,7500
+STCA_LevelOff_Rate=300
+Label_DAPs=1
+Menu_DAPs=1
+System_RawVideo=1
+HTTP_NOTAM_Area_Sched_Text=ACTIVATED
+
+
+; -- RDF --
+[_CTR]
+RDF_Mode=2
+RDF_Floor=0
+Color_Standard_Line_RDF=247,177,46
+
+[_FSS]
+RDF_Mode=2
+RDF_Floor=0
+Color_Standard_Line_RDF=247,177,46
+
+CPDLC_MinLevel=195
+
+// ##################################################################
+//                   #13 APW v0.1
+// ##################################################################
+
+APW=1
+APW_VFR=1
+APW_Uncorrelated=0
+APW_AlertSound=1
+APW_Filter=1
+APW_Buffer_Lat_L_IFR=5
+APW_Buffer_Lat_L_VFR=3
+APW_Buffer_Vert_U=1000
+APW_Buffer_Vert_L_IFR=1000
+APW_Buffer_Vert_L_VFR=1000
+APW_ConflictCount=3
+
+
+// ##################################################################
+//                   #14 SYS COORD SOUNDS v0.1
+// ##################################################################
+
+System_Coord_Sound_ROF=1
+System_Coord_Sound_ROF_RJC=1
+System_Coord_Sound_RTI=1
+System_Coord_Sound_RTI_ACP=1
+System_Coord_Sound_RTI_RJC=1
+System_Coord_Sound_TIP=1
+System_Coord_Sound_TIP_ACP=1
+System_Coord_Sound_TIP_RJC=1

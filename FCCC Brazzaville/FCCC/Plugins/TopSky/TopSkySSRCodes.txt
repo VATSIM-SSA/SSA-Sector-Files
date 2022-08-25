@@ -1,0 +1,164 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.2
+// Update Date 19/08/2022
+
+
+// ##################################################################
+//                 FCCC BRAZZAVILLE
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:5600:5615
+PRIORITY:3
+NOTADEP:FC,FE,FG,FK,FO,FP
+NOTADES:FC,FE,FG,FK,FO,FP
+IFR
+
+
+// ##################################################################
+//                 FC REPUBLIC OF THE CONGO
+// ##################################################################
+
+// FC DOMESTIC I
+RANGE:2300:2377
+PRIORITY:3
+ADEP:FC
+ADES:FC
+IFR
+
+// FC DOMESTIC I
+RANGE:1217:1277
+PRIORITY:2
+ADEP:FC
+ADES:FC
+VFR
+
+// FC INTERNATIONAL OUTBOUND
+RANGE:5600:5615
+PRIORITY:3
+ADEP:FC
+NOTADES:FC
+IFR
+
+// FC INTERNATIONAL INBOUND
+RANGE:5600:5615
+PRIORITY:3
+NOTADEP:FC
+ADES:FC
+IFR
+
+
+// ##################################################################
+//                 FE CENTRAL AFRICAN REPUBLIC
+// ##################################################################
+
+// FE DOMESTIC I
+RANGE:6000:6077
+PRIORITY:3
+ADEP:FE
+ADES:FE
+IFR
+
+// FE INTERNATIONAL OUTBOUND
+RANGE:5633:5646
+PRIORITY:3
+ADEP:FE
+NOTADES:FE
+IFR
+
+// FE INTERNATIONAL INBOUND
+RANGE:5633:5646
+PRIORITY:3
+NOTADEP:FE
+ADES:FE
+IFR
+
+
+// ##################################################################
+//                 FG EQUATORIAL GUINEA
+// ##################################################################
+
+// FG DOMESTIC I
+RANGE:6300:6377
+PRIORITY:3
+ADEP:FG
+ADES:FG
+IFR
+
+// FG INTERNATIONAL OUTBOUND
+RANGE:5647:5662
+PRIORITY:3
+ADEP:FG
+NOTADES:FG
+IFR
+
+// FG INTERNATIONAL INBOUND
+RANGE:5647:5662
+PRIORITY:3
+NOTADEP:FG
+ADES:FG
+IFR
+
+
+// ##################################################################
+//                 FK CAMEROON
+// ##################################################################
+
+// FK DOMESTIC I
+RANGE:5700:5777
+PRIORITY:3
+ADEP:FK
+ADES:FK
+IFR
+
+// FK INTERNATIONAL OUTBOUND
+RANGE:5616:5632
+PRIORITY:3
+ADEP:FK
+NOTADES:FK
+IFR
+
+// FK INTERNATIONAL INBOUND
+RANGE:5616:5632
+PRIORITY:3
+NOTADEP:FK
+ADES:FK
+IFR
+
+
+// ##################################################################
+//                 FO GABON
+// ##################################################################
+
+// FO DOMESTIC I
+RANGE:6400:6477
+PRIORITY:3
+ADEP:FO
+ADES:FO
+IFR
+
+// FO INTERNATIONAL OUTBOUND
+RANGE:5663:5677
+PRIORITY:3
+ADEP:FO
+NOTADES:FO
+IFR
+
+// FO INTERNATIONAL INBOUND
+RANGE:5663:5677
+PRIORITY:3
+NOTADEP:FO
+ADES:FO
+IFR
+
+
+// ##################################################################
+//                 FP SAO TOME AND PRINCIPE
+// ##################################################################
+
+// ##################################################################
+//                 THE END
+// ##################################################################

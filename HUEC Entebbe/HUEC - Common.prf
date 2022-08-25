@@ -1,0 +1,92 @@
+Settings	SettingsfileSYMBOLOGY	\HUEC\Settings\VATSSA_Symbology.txt
+Settings	SettingsfileVOICE	\HUEC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\HUEC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\HUEC\Settings\VATSSA_Tags.txt
+Settings	SettingsfileSIL	\HUEC\Settings\VATSSA_SectorInboundList.txt
+Settings	SettingsfileSEL	\HUEC\Settings\VATSSA_SectorExitList.txt
+Settings	SettingsfileDEP	\HUEC\Settings\VATSSA_DepartureList.txt
+Settings	SettingsfileARR	\HUEC\Settings\VATSSA_ArrivalList.txt
+Settings	SettingsfileFP	\HUEC\Settings\VATSSA_FPList.txt
+Settings	SettingsfilePLUGINS	\HUEC\Settings\VATSSA_Plugins.txt
+Settings	Settingsfile	\HUEC\Settings\VATSSA_General.txt
+Settings	SettingsfileSCREEN	\HUEC\Settings\VATSSA_Screen.txt
+Settings	SettingsfileCONFLICT	\HUEC\Settings\VATSSA_Conflict.txt
+Settings	SettingsfileVCCS	\HUEC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\HUEC\Settings\VATSSA_PilotingList.txt
+Settings	alias	\HUEC\Alias\alias.txt
+Settings	airlines	\HUEC\ICAO\ICAO_Airlines.txt
+Settings	airports	\HUEC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\HUEC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\HUEC\NavData\airway.txt
+Settings	airportcoords	\HUEC\NavData\icao.txt
+RecentFiles	Recent1	\HUEC\ASR\1 HUEC CTR TS.asr
+RecentFiles	Recent2	\HUEC\ASR\HUEN APP TS.asr
+RecentFiles	Recent3	\HUEC\ASR\HUEN AD GR.asr
+ASRFastKeys	1	\HUEC\ASR\1_CTR.asr
+ASRFastKeys	2	\HUEC\ASR\2_APP.asr
+ASRFastKeys	3	\HUEC\ASR\3_TWR.asr
+Settings	sector	\HUEC-Package_20220811145442-220801-0001.sct
+RecentFiles	Recent4	\HUEC\ASR\1_CTR.asr
+RecentFiles	Recent5	\HUEC\ASR\3_TWR.asr
+RecentFiles	Recent6	\HUEC\ASR\2_APP.asr
+Plugins	Plugin0	\HUEC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\HUEC\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\HUEC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\HUEC\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\HUEC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\HUEC\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\HUEC\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin6Display1	Standard ES radar screen
+Plugins	Plugin7	\HUEC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin7Display1	Ground Radar display
+Plugins	Plugin8	\HUEC\Plugins\vCH\VCH.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
+Plugins	Plugin9	\HUEC\Plugins\vFPC\VFPC.dll
+Plugins	Plugin9Display0	Ground Radar display
+Plugins	Plugin9Display1	Standard ES radar screen
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\HUEC\Sounds\handoff_accept.wav
+Sounds	Sound2	\HUEC\Sounds\conflict_alert.wav
+Sounds	Sound3	\HUEC\Sounds\radio_message.wav
+Sounds	Sound4	\HUEC\Sounds\private_message.wav
+Sounds	Sound5	\HUEC\Sounds\atc_message.wav
+Sounds	Sound6	\HUEC\Sounds\broadcast_message.wav
+Sounds	Sound7	\HUEC\Sounds\landline_request.wav
+Sounds	Sound8	\HUEC\Sounds\supervisor_message.wav
+Sounds	Sound9	\HUEC\Sounds\connected.wav
+Sounds	Sound10	\HUEC\Sounds\disconnected.wav
+Sounds	Sound11	\HUEC\Sounds\ongoing_request.wav
+Sounds	Sound12	\HUEC\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\HUEC\Sounds\ongoing_refused.wav
+Sounds	Sound14	\HUEC\Sounds\ongoing_manual.wav
+Sounds	Sound15	\HUEC\Sounds\new_atis.wav
+Sounds	Sound16	\HUEC\Sounds\handoff_refused.wav
+Sounds	Sound17	\HUEC\Sounds\pointout.wav
+Sounds	Sound18	\HUEC\Sounds\startup.wav
+Sounds	Sound19	\HUEC\Sounds\startup.wav
+Sounds	Sound20	\HUEC\Sounds\supervisor_message.wav
+Sounds	Sound0	\HUEC\Sounds\handoff_request.wav

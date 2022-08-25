@@ -1,0 +1,87 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GQNO AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GQNO AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:GQNN:name
+Airports:GQNN:symbol
+Airports:GQNO:name
+Airports:GQNO:symbol
+Free Text:GQNO Ground Labels\A:freetext
+Free Text:GQNO Ground Labels\A:freetext
+Free Text:GQNO Ground Labels\A:freetext
+Free Text:GQNO Ground Labels\A1:freetext
+Free Text:GQNO Ground Labels\A2:freetext
+Free Text:GQNO Ground Labels\A4:freetext
+Free Text:GQNO Ground Labels\Apron G (GA):freetext
+Free Text:GQNO Ground Labels\Apron I:freetext
+Free Text:GQNO Ground Labels\Apron M:freetext
+Free Text:GQNO Ground Labels\B:freetext
+Free Text:GQNO Ground Labels\B1:freetext
+Free Text:GQNO Ground Labels\B3:freetext
+Free Text:GQNO Ground Labels\B4:freetext
+Free Text:GQNO Ground Labels\Cargo Apron:freetext
+Free Text:GQNO Ground Labels\Cargo Terminal:freetext
+Free Text:GQNO Ground Labels\D:freetext
+Free Text:GQNO Ground Labels\E:freetext
+Free Text:GQNO Ground Labels\F:freetext
+Free Text:GQNO Ground Labels\G:freetext
+Free Text:GQNO Ground Labels\M:freetext
+Free Text:GQNO Ground Labels\P:freetext
+Free Text:GQNO Ground Labels\Passenger Terminal:freetext
+Free Text:GQNO Ground Labels\Presidential Apron:freetext
+Free Text:GQNO Ground Labels\Presidential Terminal:freetext
+Free Text:GQNO Ground Labels\R:freetext
+Free Text:GQNO Ground Labels\Stand 1:freetext
+Free Text:GQNO Ground Labels\Stand 1A:freetext
+Free Text:GQNO Ground Labels\Stand 2:freetext
+Free Text:GQNO Ground Labels\Stand 3:freetext
+Free Text:GQNO Ground Labels\Stand 4:freetext
+Free Text:GQNO Ground Labels\Stand 5:freetext
+Free Text:GQNO Ground Labels\Stand 5A:freetext
+Free Text:GQNO Ground Labels\Stand 6:freetext
+Free Text:GQNO Ground Labels\Stand 7:freetext
+Free Text:GQNO Ground Labels\Stand 8:freetext
+Free Text:GQNO Ground Labels\Stand F1:freetext
+Free Text:GQNO Ground Labels\Stand F2:freetext
+Free Text:GQNO Ground Labels\Stand F3:freetext
+Free Text:GQNO Ground Labels\Stand I6:freetext
+Free Text:GQNO Ground Labels\Stand I7:freetext
+Free Text:GQNO Ground Labels\Stand P1:freetext
+Free Text:GQNO Ground Labels\Stand P2:freetext
+Geo:GO Landmark Coast:
+Geo:GQNO Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:10000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:355.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:18.288789:-15.999330:18.318111:-15.944517
+PLUGIN:Ground Radar plugin:AirportElevation:10
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GQNO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GQNN,GQNO
+PLUGIN:TopSky plugin:HideMapData:ICAO

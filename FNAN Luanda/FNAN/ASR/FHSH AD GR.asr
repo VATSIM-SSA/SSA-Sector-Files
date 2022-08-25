@@ -1,0 +1,39 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FHSH Groundlayout\A:freetext
+Free Text:FHSH Groundlayout\A1:freetext
+Free Text:FHSH Groundlayout\A2:freetext
+Free Text:FHSH Groundlayout\A3:freetext
+Free Text:FHSH Groundlayout\Main Apron:freetext
+Free Text:FHSH Groundlayout\Passenger Terminal:freetext
+Geo:FH Landmark Coast:
+Geo:FHSH Groundlayout Aprons:
+Geo:FHSH Groundlayout Buildings:
+Geo:FHSH Groundlayout Parking:
+Geo:FHSH Groundlayout Runway:
+Geo:FHSH Groundlayout Stopbars:
+Geo:FHSH Groundlayout Taxiways:
+Regions:FHSH AD Aprons:polygon
+Regions:FHSH AD Taxiways:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:271.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-15.965614:-5.655778:-15.953463:-5.633326
+PLUGIN:Ground Radar plugin:AirportElevation:1017
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FHSH
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FHSH

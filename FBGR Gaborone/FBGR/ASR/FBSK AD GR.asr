@@ -1,0 +1,69 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FB Airport Elevations\FBFT-3280ft:freetext
+Free Text:FB Airport Elevations\FBKN-3280ft:freetext
+Free Text:FB Airport Elevations\FBMN-3095ft:freetext
+Free Text:FB Airport Elevations\FBSK-3309ft:freetext
+Free Text:FB Airport Elevations\FVFA-3500ft:freetext
+Free Text:FBSK Areas\CARGO_APRON:freetext
+Free Text:FBSK Areas\DEBSWANA_APRON:freetext
+Free Text:FBSK Areas\Fire_Station:freetext
+Free Text:FBSK Areas\General_Aviation:freetext
+Free Text:FBSK Areas\Isolation_APRON:freetext
+Free Text:FBSK Areas\Maintenance_APRON:freetext
+Free Text:FBSK Areas\PAX_APRON:freetext
+Free Text:FBSK Areas\TERMINAL:freetext
+Free Text:FBSK KUTLA ILS08\6000:freetext
+Free Text:FBSK KUTLA ILS08\6500:freetext
+Free Text:FBSK KUTLA ILS08\8000:freetext
+Free Text:FBSK KUTLA ILS08\FL100:freetext
+Free Text:FBSK KUTLA ILS08\FL150:freetext
+Free Text:FBSK NESEK ILS08\6000:freetext
+Free Text:FBSK NESEK ILS08\6500:freetext
+Free Text:FBSK NESEK ILS08\8000:freetext
+Free Text:FBSK NESEK ILS08\FL180:freetext
+Free Text:FBSK Taxiways\A:freetext
+Free Text:FBSK Taxiways\A:freetext
+Free Text:FBSK Taxiways\A:freetext
+Free Text:FBSK Taxiways\B:freetext
+Free Text:FBSK Taxiways\B:freetext
+Free Text:FBSK Taxiways\B:freetext
+Free Text:FBSK Taxiways\D:freetext
+Free Text:FBSK Taxiways\E:freetext
+Free Text:FBSK Taxiways\F:freetext
+Free Text:FBSK Taxiways\G:freetext
+Free Text:FBSK Taxiways\H:freetext
+Free Text:FBSK Taxiways\J:freetext
+Free Text:FBSK Taxiways\K:freetext
+Free Text:FBSK Taxiways\L:freetext
+Free Text:FBSK Taxiways\M:freetext
+Free Text:FBSK Taxiways\N:freetext
+Geo:FBSK Groundlayout:
+Regions:FBSK Layer0:polygon
+Regions:FBSK Layer1:polygon
+Regions:FBSK Layer2:polygon
+Regions:FBSK Layer3:polygon
+Regions:FBSK RUNWAY:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:28.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-24.563378:25.900448:-24.540139:25.945910
+PLUGIN:Ground Radar plugin:AirportElevation:184
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FBSK
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FBSK

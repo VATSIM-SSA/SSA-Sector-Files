@@ -1,0 +1,63 @@
+// ##################################################################
+//                 VATSSA | FIR FLFI | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.1
+// Update Date 22/08/2022
+
+
+// ##################################################################
+//                 FLFI LUSAKA
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:5500:5577
+PRIORITY:3
+NOTADEP:FL
+NOTADES:FL
+IFR
+
+
+// ##################################################################
+//                 FL ZAMBIA
+// ##################################################################
+
+// FL DOMESTIC I
+RANGE:5200:5277
+PRIORITY:3
+ADEP:FL
+ADES:FL
+IFR
+
+// FL DOMESTIC
+RANGE:5600:5677
+PRIORITY:3
+ADEP:FL
+ADES:FL
+IFR
+
+// FL DOMESTIC
+RANGE:5700:5777
+PRIORITY:3
+ADEP:FL
+ADES:FL
+IFR
+
+// FL INTERNATIONAL OUTBOUND
+RANGE:5500:5577
+PRIORITY:3
+ADEP:FL
+NOTADES:FL
+IFR
+
+// FL INTERNATIONAL INBOUND
+RANGE:5500:5577
+PRIORITY:3
+NOTADEP:FL
+ADES:FL
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

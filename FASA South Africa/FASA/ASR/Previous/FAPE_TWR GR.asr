@@ -1,0 +1,72 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:FAPE:name
+Airports:FAPE:symbol
+Free Text:FAPE Apron\A1:freetext
+Free Text:FAPE Apron\A10:freetext
+Free Text:FAPE Apron\A10A:freetext
+Free Text:FAPE Apron\A11:freetext
+Free Text:FAPE Apron\A12:freetext
+Free Text:FAPE Apron\A2:freetext
+Free Text:FAPE Apron\A3:freetext
+Free Text:FAPE Apron\A4:freetext
+Free Text:FAPE Apron\A5:freetext
+Free Text:FAPE Apron\A6:freetext
+Free Text:FAPE Apron\A7:freetext
+Free Text:FAPE Apron\A8:freetext
+Free Text:FAPE Apron\A9:freetext
+Free Text:FAPE Apron\SAAF:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A:freetext
+Free Text:FAPE Taxiways\A1:freetext
+Free Text:FAPE Taxiways\A2:freetext
+Free Text:FAPE Taxiways\A3:freetext
+Free Text:FAPE Taxiways\A4:freetext
+Free Text:FAPE Taxiways\B:freetext
+Free Text:FAPE Taxiways\C:freetext
+Free Text:FAPE Taxiways\E:freetext
+Free Text:FAPE Terrain\2000:freetext
+Free Text:FAPE Terrain\3000:freetext
+Free Text:FAPE Terrain\3500:freetext
+Free Text:FAPE Terrain\3800:freetext
+Free Text:FAPE Terrain\4500:freetext
+Free Text:FAPE Terrain\5400:freetext
+Free Text:FAPE Terrain\5400:freetext
+Free Text:FAPE Terrain\7300:freetext
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast NW:
+Geo:FA Landmark Coast S:
+Geo:FA Landmark Lakes:
+Geo:FA Landmark National Roads:
+Geo:FAJA Landmark Dams:
+Geo:FAJA Landmark Lakes (AP):
+Geo:FAPE Groundlayout (New):
+Geo:GEO:
+NDBs:WC:frequency
+NDBs:WC:name
+NDBs:WC:symbol
+Regions:FAPE Ground Layout:polygon
+Runways:FAPE 08-26:name
+Runways:FAPE 17-35:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:-34.001894:25.587174:-33.973064:25.648725
+PLUGIN:Ground Radar plugin:AirportElevation:229
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FAPE
+PLUGIN:TopSky plugin:NoDraw:1

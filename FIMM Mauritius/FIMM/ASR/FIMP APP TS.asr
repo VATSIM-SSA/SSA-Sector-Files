@@ -1,0 +1,67 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FIMP Parkings\1:freetext
+Free Text:FIMP Parkings\10:freetext
+Free Text:FIMP Parkings\11:freetext
+Free Text:FIMP Parkings\12:freetext
+Free Text:FIMP Parkings\13:freetext
+Free Text:FIMP Parkings\14:freetext
+Free Text:FIMP Parkings\15:freetext
+Free Text:FIMP Parkings\16:freetext
+Free Text:FIMP Parkings\2:freetext
+Free Text:FIMP Parkings\3:freetext
+Free Text:FIMP Parkings\4:freetext
+Free Text:FIMP Parkings\41:freetext
+Free Text:FIMP Parkings\42:freetext
+Free Text:FIMP Parkings\43:freetext
+Free Text:FIMP Parkings\44:freetext
+Free Text:FIMP Parkings\45:freetext
+Free Text:FIMP Parkings\46:freetext
+Free Text:FIMP Parkings\47:freetext
+Free Text:FIMP Parkings\48:freetext
+Free Text:FIMP Parkings\5:freetext
+Free Text:FIMP Parkings\7:freetext
+Free Text:FIMP Parkings\8:freetext
+Free Text:FIMP Parkings\9:freetext
+Free Text:FIMP Taxiways\A:freetext
+Free Text:FIMP Taxiways\B:freetext
+Free Text:FIMP Taxiways\C:freetext
+Free Text:FIMP Taxiways\D:freetext
+Free Text:FIMP Taxiways\E:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\G:freetext
+Free Text:FIMP Taxiways\H:freetext
+Free Text:FIMP Taxiways\J:freetext
+Free Text:FIMP Taxiways\K:freetext
+Free Text:FIMP Taxiways\L:freetext
+Free Text:FIMP Taxiways\M:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\P:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FIMP Groundlayout:
+Geo:GEO:
+Regions:FIMP Ground layout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-20.966317:56.345991:-19.745612:58.708723
+PLUGIN:TopSky plugin:ShowMapData:FIMM,FIMP

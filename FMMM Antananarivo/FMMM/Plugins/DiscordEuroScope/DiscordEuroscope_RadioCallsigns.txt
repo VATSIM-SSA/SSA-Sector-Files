@@ -1,0 +1,19 @@
+AFRS_FSS Africa South Control
+FAJO_FSS Johannesburg Oceanic
+FIMM_CTR Mauritius Centre
+FIMM_FSS Mauritius Radio
+FIMP_APP Mauritius Approach
+FMCH_TWR Moroni Tower
+FMCZ_TWR Dzaoudzi Tower
+FMEE_APP Roland Garros Approach
+FMEE_GND Roland Garros Ground
+FMEE_TWR Roland Garros Tower
+FMMI_APP Antananarivo Approach
+FMMI_TWR Ivato Tower
+FMMM_CTR Antananarivo Control
+FMMT_TWR Toamasina Tower
+FMNM_TWR Mahajanga Tower
+FMNN_TWR Nosy-Be Tower
+FQBE_CTR Beira Control
+FSSS_FSS Seychelles Control
+HTDC_CTR Dar-Es-Salaam Control

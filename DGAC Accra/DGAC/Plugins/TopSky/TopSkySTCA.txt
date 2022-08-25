@@ -1,0 +1,66 @@
+// ##################################################################
+//                 VATSSA | FIR DGAC | TopSky | STCA
+// ##################################################################
+
+// Version v0.2
+// Update Date 17/07/2022
+
+
+// ##################################################################
+//                 DB BENIN
+// ##################################################################
+
+// DBBB | COTONOU CARDINAL BERNARDIN GANTIN / CADJEHOUN INTL
+
+FINALAPP:DBBB:06
+FINALAPP:DBBB:24
+
+
+// ##################################################################
+//                 DG GHANA
+// ##################################################################
+
+// DGAA | ACCRA KOTOKA INTL
+
+FINALAPP:DGAA:03
+FINALAPP:DGAA:21
+
+// DGLE | TAMALE
+
+FINALAPP:DGLE:05
+FINALAPP:DGLE:23
+
+// DGSI | KUMASI
+
+FINALAPP:DGSI:02
+FINALAPP:DGSI:20
+
+// DGSN | SUNYANI
+
+FINALAPP:DGSN:07
+FINALAPP:DGSN:25
+
+// DGTK | TAKORADI
+
+FINALAPP:DGTK:03
+FINALAPP:DGTK:21
+
+
+// ##################################################################
+//                 DX TOGO
+// ##################################################################
+
+// DXNG | NIAMTOUGOU INTL
+
+FINALAPP:DXNG:03
+FINALAPP:DXNG:21
+
+// DXXX | LOME GNASSINGBE EYADEMA INTL
+
+FINALAPP:DXXX:04
+FINALAPP:DXXX:22
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

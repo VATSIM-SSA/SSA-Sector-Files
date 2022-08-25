@@ -1,0 +1,75 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:HKMO Areas\Apron 1:freetext
+Free Text:HKMO Areas\Apron 2:freetext
+Free Text:HKMO Areas\Apron GA:freetext
+Free Text:HKMO Areas\Heliport:freetext
+Free Text:HKMO Areas\Terminal:freetext
+Free Text:HKMO Stands\1:freetext
+Free Text:HKMO Stands\1:freetext
+Free Text:HKMO Stands\10:freetext
+Free Text:HKMO Stands\11:freetext
+Free Text:HKMO Stands\12:freetext
+Free Text:HKMO Stands\13:freetext
+Free Text:HKMO Stands\14:freetext
+Free Text:HKMO Stands\2:freetext
+Free Text:HKMO Stands\2:freetext
+Free Text:HKMO Stands\3:freetext
+Free Text:HKMO Stands\3:freetext
+Free Text:HKMO Stands\3A:freetext
+Free Text:HKMO Stands\4:freetext
+Free Text:HKMO Stands\4:freetext
+Free Text:HKMO Stands\5:freetext
+Free Text:HKMO Stands\5:freetext
+Free Text:HKMO Stands\6:freetext
+Free Text:HKMO Stands\6:freetext
+Free Text:HKMO Stands\7:freetext
+Free Text:HKMO Stands\7:freetext
+Free Text:HKMO Stands\8:freetext
+Free Text:HKMO Stands\8:freetext
+Free Text:HKMO Stands\9:freetext
+Free Text:HKMO Stands\9:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\B:freetext
+Free Text:HKMO Taxiways\C:freetext
+Free Text:HKMO Taxiways\D:freetext
+Free Text:HKMO Taxiways\E:freetext
+Free Text:HKMO Taxiways\F:freetext
+Free Text:HKMO Taxiways\G:freetext
+Free Text:HKMO Taxiways\G:freetext
+Free Text:HKMO Taxiways\G:freetext
+Free Text:HKMO Taxiways\J:freetext
+Free Text:HKMO Taxiways\K:freetext
+Free Text:HKMO Taxiways\L:freetext
+Free Text:HKMO Taxiways\N:freetext
+Geo:HK Landmark Coast:
+Geo:HK Landmark Lake Turkana:
+Geo:HK Landmark Lakes:
+Geo:HKMO Groundlayout:
+Regions:HKMO Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:61.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-4.036191:39.582161:-4.016855:39.617242
+PLUGIN:Ground Radar plugin:AirportElevation:200
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:HKMO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:HKMO

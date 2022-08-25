@@ -1,0 +1,406 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:DBBB:name
+Airports:DNAA:name
+Airports:DNAI:name
+Airports:DNAK:name
+Airports:DNAS:name
+Airports:DNBB:name
+Airports:DNBE:name
+Airports:DNBK:name
+Airports:DNCA:name
+Airports:DNDS:name
+Airports:DNEK:name
+Airports:DNEN:name
+Airports:DNES:name
+Airports:DNFB:name
+Airports:DNFD:name
+Airports:DNGO:name
+Airports:DNGU:name
+Airports:DNIB:name
+Airports:DNIL:name
+Airports:DNIM:name
+Airports:DNJO:name
+Airports:DNKA:name
+Airports:DNKN:name
+Airports:DNKT:name
+Airports:DNMA:name
+Airports:DNMM:name
+Airports:DNMN:name
+Airports:DNOS:name
+Airports:DNPM:name
+Airports:DNPO:name
+Airports:DNSO:name
+Airports:DNSU:name
+Airports:DNYO:name
+Airports:DNZA:name
+Airports:DRRM:name
+Airports:DRRN:name
+Airports:DRRT:name
+Airports:DRZF:name
+Airports:DRZR:name
+Airports:DXXX:name
+Airports:FGSL:name
+Airports:FKKD:name
+Airports:FKKL:name
+Airports:FKKM:name
+Airports:FKKN:name
+Airports:FKKR:name
+Airports:FKKU:name
+Airports:FKKV:name
+Airports:FPPR:name
+Airports:FPST:name
+Airports:FTTB:name
+Airports:FTTD:name
+Airports:FTTJ:name
+Airports:FTTL:name
+ARTCC boundary:DBBB-TMA:
+ARTCC boundary:DNAA_APP:
+ARTCC boundary:DNCA_APP:
+ARTCC boundary:DNKA_APP:
+ARTCC boundary:DNKN_APP:
+ARTCC boundary:DNMA_APP:
+ARTCC boundary:DNMM_APP:
+ARTCC boundary:DNPO_APP:
+ARTCC boundary:FC-APP:
+ARTCC boundary:FKKD_APP:
+ARTCC boundary:FKKL-TMA:
+ARTCC boundary:FKKR-TMA:
+ARTCC boundary:FPST:
+ARTCC boundary:FTTJ_APP:
+ARTCC high boundary:DGAC:
+ARTCC high boundary:DNKK-E:
+ARTCC high boundary:DNKK-W:
+ARTCC high boundary:DNLL:
+ARTCC high boundary:DRRR-E:
+ARTCC high boundary:DRRR-W:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FKKK:
+ARTCC high boundary:FOOO:
+ARTCC high boundary:FTTT:
+Fixes:ARDEX:name
+Fixes:ARDEX:symbol
+Fixes:BIRNI:name
+Fixes:BIRNI:symbol
+Fixes:BOSSO:name
+Fixes:BOSSO:symbol
+Fixes:DELOR:name
+Fixes:DELOR:symbol
+Fixes:DETAR:name
+Fixes:DETAR:symbol
+Fixes:DIBMI:name
+Fixes:DIBMI:symbol
+Fixes:DOGON:name
+Fixes:DOGON:symbol
+Fixes:EBIMU:name
+Fixes:EBIMU:symbol
+Fixes:EDUKO:name
+Fixes:EDUKO:symbol
+Fixes:ENBUT:name
+Fixes:ENBUT:symbol
+Fixes:EPEGI:name
+Fixes:EPEGI:symbol
+Fixes:ERAVA:name
+Fixes:ERAVA:symbol
+Fixes:ERTOT:name
+Fixes:ERTOT:symbol
+Fixes:ETRIS:name
+Fixes:ETRIS:symbol
+Fixes:GADUV:name
+Fixes:GADUV:symbol
+Fixes:GAMAM:name
+Fixes:GAMAM:symbol
+Fixes:GANAL:name
+Fixes:GANAL:symbol
+Fixes:GANDA:name
+Fixes:GANDA:symbol
+Fixes:GULEN:name
+Fixes:GULEN:symbol
+Fixes:IKROP:name
+Fixes:IKROP:symbol
+Fixes:ILBAS:name
+Fixes:ILBAS:symbol
+Fixes:KELAK:name
+Fixes:KELAK:symbol
+Fixes:KIDKI:name
+Fixes:KIDKI:symbol
+Fixes:KORUT:name
+Fixes:KORUT:symbol
+Fixes:LINAM:name
+Fixes:LINAM:symbol
+Fixes:LIREX:name
+Fixes:LIREX:symbol
+Fixes:MESES:name
+Fixes:MESES:symbol
+Fixes:MIMBA:name
+Fixes:MIMBA:symbol
+Fixes:NANUV:name
+Fixes:NANUV:symbol
+Fixes:NASTO:name
+Fixes:NASTO:symbol
+Fixes:OBUDU:name
+Fixes:OBUDU:symbol
+Fixes:ODMAP:name
+Fixes:ODMAP:symbol
+Fixes:ONSEV:name
+Fixes:ONSEV:symbol
+Fixes:OPALA:name
+Fixes:OPALA:symbol
+Fixes:OXILO:name
+Fixes:OXILO:symbol
+Fixes:POLTO:name
+Fixes:POLTO:symbol
+Fixes:POMPA:name
+Fixes:POMPA:symbol
+Fixes:RALIN:name
+Fixes:RALIN:symbol
+Fixes:RIMIG:name
+Fixes:RIMIG:symbol
+Fixes:RISUB:name
+Fixes:RISUB:symbol
+Fixes:SEVAX:name
+Fixes:SEVAX:symbol
+Fixes:SIGAL:name
+Fixes:SIGAL:symbol
+Fixes:TAKUM:name
+Fixes:TAKUM:symbol
+Fixes:TEMSA:name
+Fixes:TEMSA:symbol
+Fixes:TENTU:name
+Fixes:TENTU:symbol
+Fixes:UGBOX:name
+Fixes:UGBOX:symbol
+Fixes:UGLOG:name
+Fixes:UGLOG:symbol
+Fixes:ULNEV:name
+Fixes:ULNEV:symbol
+Fixes:USKIP:name
+Fixes:USKIP:symbol
+Geo:DG Landmark Coast:
+Geo:DN Danger area Air Force Training Area 1:
+Geo:DN Danger area Air Force Training Area 2:
+Geo:DN Danger area Air Force Training Area 3:
+Geo:DN Danger area D1 - GND/A300:
+Geo:DN Danger area D10 - GND/A300:
+Geo:DN Danger area D11 - GND/A300:
+Geo:DN Danger area D12 - GND/A400:
+Geo:DN Danger area D13 - GND/A400:
+Geo:DN Danger area D2 - GND/A300:
+Geo:DN Danger area D3 - GND/A300:
+Geo:DN Danger area D4 - GND/A300:
+Geo:DN Danger area D5 - GND/A300:
+Geo:DN Danger area D6 - GND/A300:
+Geo:DN Danger area D7 - GND/A300:
+Geo:DN Danger area D8 - GND/A300:
+Geo:DN Danger area D9 - GND/A300:
+Geo:DN Danger area Military Training Area 1 - GND/A035:
+Geo:DN Danger area Military Training Area 11 - GND/A035:
+Geo:DN Landmark Coast East:
+Geo:DN Landmark Coast Middle:
+Geo:DN Landmark Coast West:
+Geo:DN Landmark Lakes:
+Geo:DN Prohibited area P1 Lagos/Murtala Muhammed - GND/A050:
+Geo:DN Prohibited area P2 Lanlate - GND/A020:
+Geo:DN Prohibited area P3 Lagos - GND/A150:
+Geo:DN Prohibited area P4 Abuja - GND/FL450:
+Geo:DN Restricted area R1 - GND/FL100:
+Geo:DN Restricted area R2 Ikang and Bakassi - GND/FL100:
+Geo:DN Restricted area R3 Bulldog Sector B - GND/FL120:
+Geo:DN Restricted area R3 North-East Sector A - GND/FL120:
+Geo:FT Landmark Lake Chad:
+High airways:UA403:line
+High airways:UA600:line
+High airways:UA601:line
+High airways:UA604:line
+High airways:UA607:line
+High airways:UA608:line
+High airways:UA609:line
+High airways:UA610:line
+High airways:UA861:line
+High airways:UB600:line
+High airways:UB726:line
+High airways:UB731:line
+High airways:UB736:line
+High airways:UB737:line
+High airways:UG616:line
+High airways:UG619:line
+High airways:UG620:line
+High airways:UG622:line
+High airways:UG624:line
+High airways:UG625:line
+High airways:UG626:line
+High airways:UG660:line
+High airways:UG727:line
+High airways:UG854:line
+High airways:UG855:line
+High airways:UG856:line
+High airways:UG857:line
+High airways:UG858:line
+High airways:UG861:line
+High airways:UH206:line
+High airways:UH340:line
+High airways:UH455:line
+High airways:UJ222:line
+High airways:UJ332:line
+High airways:UJ333:line
+High airways:UJ707:line
+High airways:UL683:line
+High airways:UL684:line
+High airways:UM114:line
+High airways:UM566:line
+High airways:UM608:line
+High airways:UM629:line
+High airways:UM731:line
+High airways:UM974:line
+High airways:UM998:line
+High airways:UN550:line
+High airways:UP685:line
+High airways:UQ582:line
+High airways:UQ583:line
+High airways:UQ584:line
+High airways:UQ589:line
+High airways:UQ590:line
+High airways:UQ592:line
+High airways:UQ594:line
+High airways:UR603:line
+High airways:UR778:line
+High airways:UR854:line
+High airways:UR874:line
+High airways:UR979:line
+High airways:UR981:line
+High airways:UR983:line
+High airways:UR984:line
+High airways:UR986:line
+High airways:UT237:line
+High airways:UT258:line
+High airways:UT325:line
+High airways:UT365:line
+High airways:UT416:line
+High airways:UT457:line
+High airways:UT458:line
+High airways:UT459:line
+High airways:UT467:line
+High airways:UT475:line
+High airways:UV224:line
+High airways:UV377:line
+High airways:UV456:line
+High airways:UV472:line
+High airways:UV593:line
+High airways:UW225:line
+High airways:UW605:line
+High airways:UW951:line
+High airways:UY124:line
+High airways:UY149:line
+High airways:UY212:line
+High airways:UY252:line
+High airways:UZ136:line
+VORs:ABC:name
+VORs:ABC:symbol
+VORs:AKW:name
+VORs:AKW:symbol
+VORs:BDA:name
+VORs:BDA:symbol
+VORs:BEB:name
+VORs:BEB:symbol
+VORs:BEN:name
+VORs:BEN:symbol
+VORs:BF:name
+VORs:BF:symbol
+VORs:BIK:name
+VORs:BIK:symbol
+VORs:BT:name
+VORs:BT:symbol
+VORs:BTA:name
+VORs:BTA:symbol
+VORs:CAL:name
+VORs:CAL:symbol
+VORs:DLA:name
+VORs:DLA:symbol
+VORs:DUT:name
+VORs:DUT:symbol
+VORs:ENG:name
+VORs:ENG:symbol
+VORs:FL:name
+VORs:FL:symbol
+VORs:GB:name
+VORs:GB:symbol
+VORs:GME:name
+VORs:GME:symbol
+VORs:IBA:name
+VORs:IBA:symbol
+VORs:ILR:name
+VORs:ILR:symbol
+VORs:JOS:name
+VORs:JOS:symbol
+VORs:KAN:name
+VORs:KAN:symbol
+VORs:KAT:name
+VORs:KAT:symbol
+VORs:KDA:name
+VORs:KDA:symbol
+VORs:KIS:name
+VORs:KIS:symbol
+VORs:KUA:name
+VORs:KUA:symbol
+VORs:LAG:name
+VORs:LAG:symbol
+VORs:LM:name
+VORs:LM:symbol
+VORs:MBO:name
+VORs:MBO:symbol
+VORs:MF:name
+VORs:MF:symbol
+VORs:MGY:name
+VORs:MGY:symbol
+VORs:MIU:name
+VORs:MIU:symbol
+VORs:MNA:name
+VORs:MNA:symbol
+VORs:MVR:name
+VORs:MVR:symbol
+VORs:NLY:name
+VORs:NLY:symbol
+VORs:NT:name
+VORs:NT:symbol
+VORs:NY:name
+VORs:NY:symbol
+VORs:OE:name
+VORs:OE:symbol
+VORs:OSB:name
+VORs:OSB:symbol
+VORs:OWR:name
+VORs:OWR:symbol
+VORs:PA:name
+VORs:PA:symbol
+VORs:PAM:name
+VORs:PAM:symbol
+VORs:POT:name
+VORs:POT:symbol
+VORs:SOK:name
+VORs:SOK:symbol
+VORs:TD:name
+VORs:TD:symbol
+VORs:TJN:name
+VORs:TJN:symbol
+VORs:TJR:name
+VORs:TJR:symbol
+VORs:TYE:name
+VORs:TYE:symbol
+VORs:YOL:name
+VORs:YOL:symbol
+VORs:ZR:name
+VORs:ZR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:1.832792:-7.509392:15.636312:18.836038

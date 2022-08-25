@@ -1,0 +1,27 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:FWKI Groundlayout AD:
+Geo:GEO:
+Regions:FWKI AD:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:320.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-13.797549:33.763742:-13.775463:33.804852
+PLUGIN:Ground Radar plugin:AirportElevation:4029
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FWKI
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FWKI

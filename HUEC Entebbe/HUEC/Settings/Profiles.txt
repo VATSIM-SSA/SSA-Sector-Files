@@ -1,0 +1,22 @@
+PROFILE
+PROFILE:HUEC_CTR:400:6
+ATIS2:$radioname
+ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:HUEN_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:HUEN_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:HUSO_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:<initials>_OBS:300:0
+ATIS2:$myrealname
+ATIS3:Observing Uganda, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+END

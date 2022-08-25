@@ -1,0 +1,34 @@
+AFRN_FSS North Africa Control
+AFRS_FSS Africa South Control
+FLFI_CTR Lusaka Control
+FMCH_TWR Moroni Tower
+FMMM_CTR Antananarivo Control
+FQBE_CTR Beira Control
+FSSS_CTR Seychelles Control
+FSSS_FSS Seychelles Control
+FWKI_APP Lilongwe Approach
+FWLL_CTR Lilongwe Control
+FZNA_TWR Goma Tower
+FZRF_TWR Kalemie Tower
+FZZA_CTR Kinshasa Control
+FZZA_E_CTR Kisangani Control
+FZZA_S_CTR Lubumbashi Control
+HKMO_APP Mombasa Radar
+HTDA_APP Dar-Es-Salaam Approach
+HTDA_GND Dar-Es-Salaam Ground
+HTDA_TWR Dar-Es-Salaam Tower
+HTDC_CTR Dar-Es-Salaam Control
+HTDO_APP Dodoma Approach
+HTKJ_APP Kilimanjaro Approach
+HTKJ_TWR Kilimanjaro Tower
+HTMW_APP Mwanza Approach
+HTMW_TWR Mwanza Tower
+HTZA_APP Zanzibar Approach
+HUEC_CTR Entebbe Control
+HUEN_APP Entebbe Approach
+HBBA_APP Bujumbura Approach
+HBBA_TWR Bujumbura Tower
+HRYG_TWR Gisenyl Tower
+HRYR_APP Kigali Approach
+HRYR_TWR Kigali Tower
+HRZA_TWR Kamembe Tower

@@ -1,0 +1,74 @@
+Settings	SettingsfileSYMBOLOGY	\FASA\Settings\VATSSA_Symbology.txt
+Settings	SettingsfileVOICE	\FASA\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FASA\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FASA\Settings\VATSSA_Tags.txt
+Settings	SettingsfileSIL	\FASA\Settings\VATSSA_SectorInboundList.txt
+Settings	SettingsfileSEL	\FASA\Settings\VATSSA_SectorExitList.txt
+Settings	SettingsfileDEP	\FASA\Settings\VATSSA_DepartureList.txt
+Settings	SettingsfileARR	\FASA\Settings\VATSSA_ArrivalList.txt
+Settings	SettingsfileFP	\FASA\Settings\VATSSA_FPList.txt
+Settings	SettingsfilePLUGINS	\FASA\Settings\VATSSA_Plugins.txt
+Settings	Settingsfile	\FASA\Settings\VATSSA_General.txt
+Settings	SettingsfileSCREEN	\FASA\Settings\VATSSA_Screen.txt
+Settings	SettingsfileCONFLICT	\FASA\Settings\VATSSA_Conflict.txt
+Settings	SettingsfileVCCS	\FASA\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FASA\Settings\VATSSA_PilotingList.txt
+Settings	alias	\FASA\Alias\alias.txt
+Settings	airlines	\FASA\ICAO\ICAO_Airlines.txt
+Settings	airports	\FASA\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FASA\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FASA\NavData\airway.txt
+Settings	airportcoords	\FASA\NavData\icao.txt
+RecentFiles	Recent1	\FASA\ASR\1_GEN.asr
+RecentFiles	Recent1	\FASA\ASR\2_TWR.asr
+ASRFastKeys	1	\FASA\ASR\1_GEN.asr
+ASRFastKeys	2	\FASA\ASR\FAOR_TWR GR.asr
+ASRFastKeys	3	\FASA\ASR\FACT_TWR GR.asr
+ASRFastKeys	4	\FASA\ASR\FAPE_TWR GR.asr
+Settings	sector	\FASA-Package_20220811185358-220801-0004.sct
+Plugins	Plugin0	\FASA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FASA\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FASA\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FASA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin4	\FASA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\FASA\Sounds\handoff_accept.wav
+Sounds	Sound2	\FASA\Sounds\conflict_alert.wav
+Sounds	Sound3	\FASA\Sounds\radio_message.wav
+Sounds	Sound4	\FASA\Sounds\private_message.wav
+Sounds	Sound5	\FASA\Sounds\atc_message.wav
+Sounds	Sound6	\FASA\Sounds\broadcast_message.wav
+Sounds	Sound7	\FASA\Sounds\landline_request.wav
+Sounds	Sound8	\FASA\Sounds\supervisor_message.wav
+Sounds	Sound9	\FASA\Sounds\connected.wav
+Sounds	Sound10	\FASA\Sounds\disconnected.wav
+Sounds	Sound11	\FASA\Sounds\ongoing_request.wav
+Sounds	Sound12	\FASA\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FASA\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FASA\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FASA\Sounds\new_atis.wav
+Sounds	Sound16	\FASA\Sounds\handoff_refused.wav
+Sounds	Sound17	\FASA\Sounds\pointout.wav
+Sounds	Sound18	\FASA\Sounds\startup.wav
+Sounds	Sound19	\FASA\Sounds\startup.wav
+Sounds	Sound20	\FASA\Sounds\supervisor_message.wav
+Sounds	Sound0	\FASA\Sounds\handoff_request.wav

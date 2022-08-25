@@ -1,0 +1,39 @@
+// ##################################################################
+//                 VATSSA | FIR DGAC | ASR | DXXX AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | DXXX AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:DXXX Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:68.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:6.156522:1.237198:6.175143:1.271135
+PLUGIN:Ground Radar plugin:AirportElevation:72
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DXXX
+PLUGIN:TopSky plugin:NoDraw:1

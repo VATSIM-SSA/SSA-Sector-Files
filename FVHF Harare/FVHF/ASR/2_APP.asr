@@ -1,0 +1,357 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FBFT-TMA:
+ARTCC boundary:FBKE-TMA:
+ARTCC boundary:FLHN-CTA:
+ARTCC boundary:FLKK-TMA:
+ARTCC boundary:FVBU-TMA:
+ARTCC boundary:FVCZ-TMA:
+ARTCC boundary:FVFA-TMA:
+ARTCC boundary:FVHA-TMA:
+ARTCC boundary:FVKB-TMA:
+ARTCC boundary:FVMV-TMA:
+ARTCC boundary:FVTL-TMA:
+ARTCC boundary:FVWN-TMA:
+ARTCC high boundary:FAJA:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FVHA-E:
+ARTCC high boundary:FVHA_W:
+ARTCC high boundary:FYWH:
+ARTCC low boundary:FBFT-CTR:
+ARTCC low boundary:FBKE-CTR:
+ARTCC low boundary:FLHN-CTR:
+ARTCC low boundary:FVBU-CTR:
+ARTCC low boundary:FVCP-CTR:
+ARTCC low boundary:FVCZ-CTR:
+ARTCC low boundary:FVFA-CTR:
+ARTCC low boundary:FVHA-CTR:
+ARTCC low boundary:FVKB-CTR:
+ARTCC low boundary:FVMV-CTR:
+ARTCC low boundary:FVWN-CTR:
+Fixes:APNEX:name
+Fixes:APNEX:symbol
+Fixes:AVIVA:name
+Fixes:AVIVA:symbol
+Fixes:BONAL:name
+Fixes:BONAL:symbol
+Fixes:DANAM:name
+Fixes:DANAM:symbol
+Fixes:ENAKU:name
+Fixes:ENAKU:symbol
+Fixes:EPSEG:name
+Fixes:EPSEG:symbol
+Fixes:ESPOK:name
+Fixes:ESPOK:symbol
+Fixes:ESTAK:name
+Fixes:ESTAK:symbol
+Fixes:EXOBO:name
+Fixes:EXOBO:symbol
+Fixes:GADBA:name
+Fixes:GADBA:symbol
+Fixes:GESEN:name
+Fixes:GESEN:symbol
+Fixes:GESIL:name
+Fixes:GESIL:symbol
+Fixes:IMLIX:name
+Fixes:IMLIX:symbol
+Fixes:KATAK:name
+Fixes:KATAK:symbol
+Fixes:KOBOD:name
+Fixes:KOBOD:symbol
+Fixes:KULBU:name
+Fixes:KULBU:symbol
+Fixes:KURLA:name
+Fixes:KURLA:symbol
+Fixes:MAKIR:name
+Fixes:MAKIR:symbol
+Fixes:MENSO:name
+Fixes:MENSO:symbol
+Fixes:RETAR:name
+Fixes:RETAR:symbol
+Fixes:UDKOL:name
+Fixes:UDKOL:symbol
+Fixes:USUBI:name
+Fixes:USUBI:symbol
+Fixes:UTULI:name
+Fixes:UTULI:symbol
+Fixes:XOSIV:name
+Fixes:XOSIV:symbol
+Geo:FQ Landmark Lago de Cahora Bassa:
+Geo:FV Danger area D70A Charles Prince - GND/A060:
+Geo:FV Danger area D70B Charles Prince - GND/FL080:
+Geo:FV Danger area D71 Midlands - GND/FL135:
+Geo:FV Danger area D72A Zisco - GND/A065:
+Geo:FV Danger area D72B Zisco - GND/FL085:
+Geo:FV Danger area D73 Bulawayo - GND/FL085:
+Geo:FV Landmark Lake Chivero:
+Geo:FV Landmark Lake Kariba:
+Geo:FV Landmark Lake Manyame:
+Geo:FV Landmark Lake Mutirikwi:
+Geo:FV Landmark Lakes:
+Geo:FV Landmark Rivers:
+Geo:FV Landmark Victoria Falls:
+Geo:FV Prohibited area P01 Kutunga - GND/UNL:
+Geo:FV Prohibited area P03 Aberdeen - GND/FL200:
+Geo:FV Prohibited area P04 Llewellin Barracks - GND/7000AGL:
+Geo:FV Prohibited area P05 Kodhlwayo Mortar Range - GND/10000AGL:
+Geo:FV Prohibited area P06 Thornhill Aerodrome - GND/UNL:
+Geo:FV Prohibited area P08 Inkomo - GND/5000AGL:
+Geo:FV Prohibited area P09 Fylde - GND/5000AGL:
+Geo:FV Prohibited area P10 Darwendale - GND/3000AGL:
+Geo:FV Prohibited area P11 KG V1 Barracks - GND/7000AGL:
+Geo:FV Prohibited area P12 Borrowdale Brooke - GND/7000AGL:
+Geo:FV Restricted area R30 Airforce Training Area - GND/12000AGL:
+Geo:FV Restricted area R31 Air Force Training Area - GND/UNL:
+Geo:FV Restricted area R32 Air Force Training Area - GND/UNL:
+Geo:FV Restricted area R34 School of Infantry - GND/7000AGL:
+Geo:FV Restricted area R35 Hwange Air to Air Firing Range - GND/A100:
+Geo:FV Restricted area R38 Kariba Gorge - GND/1500AGL:
+Geo:FV Restricted area R39 Mutirikwi - GND/1000AGL:
+Geo:FV Restricted area R41 Victoria Falls - GND/1000AGL:
+Geo:FV Restricted area R42 Hwange National Park - GND/1000AGL:
+Geo:FV Restricted area R43 Matetsi - GND/1000AGL:
+Geo:FV Restricted area R44 Matobo National Park - GND/1000AGL:
+Geo:FV Restricted area R45 Mushandike National Park - GND/1000AGL:
+Geo:FV Restricted area R46 Zimbabwe National Park - GND/1000AGL:
+Geo:FV Restricted area R47 Sebakwe National Park - GND/1000AGL:
+Geo:FV Restricted area R48 Ngezi National Park - GND/1000AGL:
+Geo:FV Restricted area R49 Chivero National Park - GND/1000AGL:
+Geo:FV Restricted area R50 Nyanga National Park - GND/1000AGL:
+Geo:FV Restricted area R51 Chimanimani National Park - GND/1000AGL:
+Geo:FV Restricted area R53 Mutirikwi National Park - GND/1000AGL:
+Geo:FV Restricted area R54 Gona Rezhou - GND/1000AGL:
+Geo:FV Restricted area R55 Mana Pools and Chewore - GND/1000AGL:
+Geo:FV Restricted area R56 Matusadona - GND/1000AGL:
+Geo:FV Restricted area R57 Chete - GND/1000AGL:
+Geo:FV Restricted area R58 Chirisa - GND/500AGL:
+Geo:FV Restricted area R59 Tuli - GND/1000AGL:
+Geo:FV Restricted area R60 Chikurubi - GND/UNL:
+Geo:FV Restricted area R61 Lazy Nine - GND/10000AGL:
+Geo:FVBU Landmark Bulawayo City:
+Geo:FVFA Landmark Victoria Falls City:
+Geo:FVHA Landmark Harare City:
+NDBs:BI:name
+NDBs:BI:symbol
+NDBs:BR:name
+NDBs:BR:symbol
+NDBs:BZ:name
+NDBs:BZ:symbol
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:CP:name
+NDBs:CP:symbol
+NDBs:CZ:name
+NDBs:CZ:symbol
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:DW:name
+NDBs:DW:symbol
+NDBs:ER:name
+NDBs:ER:symbol
+NDBs:FF:name
+NDBs:FF:symbol
+NDBs:FRW:name
+NDBs:FRW:symbol
+NDBs:IL:name
+NDBs:IL:symbol
+NDBs:KAS:name
+NDBs:KAS:symbol
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KU:name
+NDBs:KU:symbol
+NDBs:LE:name
+NDBs:LE:symbol
+NDBs:LN:name
+NDBs:LN:symbol
+NDBs:LO:name
+NDBs:LO:symbol
+NDBs:LW:name
+NDBs:LW:symbol
+NDBs:LY:name
+NDBs:LY:symbol
+NDBs:LZ:name
+NDBs:LZ:symbol
+NDBs:MS:name
+NDBs:MS:symbol
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:NC:name
+NDBs:NC:symbol
+NDBs:NZ:name
+NDBs:NZ:symbol
+NDBs:OL:name
+NDBs:OL:symbol
+NDBs:OR:name
+NDBs:OR:symbol
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:PHV:name
+NDBs:PHV:symbol
+NDBs:PO:name
+NDBs:PO:symbol
+NDBs:PW:name
+NDBs:PW:symbol
+NDBs:RC:name
+NDBs:RC:symbol
+NDBs:SI:name
+NDBs:SI:symbol
+NDBs:SL:name
+NDBs:SL:symbol
+NDBs:SO:name
+NDBs:SO:symbol
+NDBs:SP:name
+NDBs:SP:symbol
+NDBs:SZ:name
+NDBs:SZ:symbol
+NDBs:THO:name
+NDBs:THO:symbol
+NDBs:TOY:name
+NDBs:TOY:symbol
+NDBs:TP:name
+NDBs:TP:symbol
+NDBs:TSH:name
+NDBs:TSH:symbol
+NDBs:TZ:name
+NDBs:TZ:symbol
+NDBs:UG:name
+NDBs:UG:symbol
+NDBs:VI:name
+NDBs:VI:symbol
+NDBs:VM:name
+NDBs:VM:symbol
+NDBs:WN:name
+NDBs:WN:symbol
+NDBs:WO:name
+NDBs:WO:symbol
+NDBs:YT:name
+NDBs:YT:symbol
+Runways:FVBU 02-20:centerline
+Runways:FVBU 02-20:extended centerline 1
+Runways:FVBU 02-20:extended centerline 1 left ticks
+Runways:FVBU 02-20:extended centerline 1 right ticks
+Runways:FVBU 02-20:extended centerline 2
+Runways:FVBU 02-20:extended centerline 2 left ticks
+Runways:FVBU 02-20:extended centerline 2 right ticks
+Runways:FVBU 13-31:centerline
+Runways:FVBU 13-31:extended centerline 1
+Runways:FVBU 13-31:extended centerline 1 left ticks
+Runways:FVBU 13-31:extended centerline 1 right ticks
+Runways:FVBU 13-31:extended centerline 2
+Runways:FVBU 13-31:extended centerline 2 left ticks
+Runways:FVBU 13-31:extended centerline 2 right ticks
+Runways:FVCP 06-24:centerline
+Runways:FVCP 06-24:extended centerline 1
+Runways:FVCP 06-24:extended centerline 1 left ticks
+Runways:FVCP 06-24:extended centerline 1 right ticks
+Runways:FVCP 06-24:extended centerline 2
+Runways:FVCP 06-24:extended centerline 2 left ticks
+Runways:FVCP 06-24:extended centerline 2 right ticks
+Runways:FVCP 14-32:centerline
+Runways:FVCP 14-32:extended centerline 1
+Runways:FVCP 14-32:extended centerline 1 left ticks
+Runways:FVCP 14-32:extended centerline 1 right ticks
+Runways:FVCP 14-32:extended centerline 2
+Runways:FVCP 14-32:extended centerline 2 left ticks
+Runways:FVCP 14-32:extended centerline 2 right ticks
+Runways:FVCZ 14-32:centerline
+Runways:FVCZ 14-32:extended centerline 1
+Runways:FVCZ 14-32:extended centerline 1 left ticks
+Runways:FVCZ 14-32:extended centerline 1 right ticks
+Runways:FVCZ 14-32:extended centerline 2
+Runways:FVCZ 14-32:extended centerline 2 left ticks
+Runways:FVCZ 14-32:extended centerline 2 right ticks
+Runways:FVFA 12-30:centerline
+Runways:FVFA 12-30:extended centerline 1
+Runways:FVFA 12-30:extended centerline 1 left ticks
+Runways:FVFA 12-30:extended centerline 1 right ticks
+Runways:FVFA 12-30:extended centerline 2
+Runways:FVFA 12-30:extended centerline 2 left ticks
+Runways:FVFA 12-30:extended centerline 2 right ticks
+Runways:FVHA 05-23:centerline
+Runways:FVHA 05-23:extended centerline 1
+Runways:FVHA 05-23:extended centerline 1 left ticks
+Runways:FVHA 05-23:extended centerline 1 right ticks
+Runways:FVHA 05-23:extended centerline 2
+Runways:FVHA 05-23:extended centerline 2 left ticks
+Runways:FVHA 05-23:extended centerline 2 right ticks
+Runways:FVKB 09-27:centerline
+Runways:FVKB 09-27:extended centerline 1
+Runways:FVKB 09-27:extended centerline 1 left ticks
+Runways:FVKB 09-27:extended centerline 1 right ticks
+Runways:FVKB 09-27:extended centerline 2
+Runways:FVKB 09-27:extended centerline 2 left ticks
+Runways:FVKB 09-27:extended centerline 2 right ticks
+Runways:FVMV 17-35:centerline
+Runways:FVMV 17-35:extended centerline 1
+Runways:FVMV 17-35:extended centerline 1 left ticks
+Runways:FVMV 17-35:extended centerline 1 right ticks
+Runways:FVMV 17-35:extended centerline 2
+Runways:FVMV 17-35:extended centerline 2 left ticks
+Runways:FVMV 17-35:extended centerline 2 right ticks
+Runways:FVWN 08-26:centerline
+Runways:FVWN 08-26:extended centerline 1
+Runways:FVWN 08-26:extended centerline 1 left ticks
+Runways:FVWN 08-26:extended centerline 1 right ticks
+Runways:FVWN 08-26:extended centerline 2
+Runways:FVWN 08-26:extended centerline 2 left ticks
+Runways:FVWN 08-26:extended centerline 2 right ticks
+VORs:ERV:name
+VORs:ERV:symbol
+VORs:FNV:name
+VORs:FNV:symbol
+VORs:GWV:name
+VORs:GWV:symbol
+VORs:KSV:name
+VORs:KSV:symbol
+VORs:LTV:name
+VORs:LTV:symbol
+VORs:PHV:name
+VORs:PHV:symbol
+VORs:PPV:name
+VORs:PPV:symbol
+VORs:VBR:name
+VORs:VBR:symbol
+VORs:VBU:name
+VORs:VBU:symbol
+VORs:VCL:name
+VORs:VCL:symbol
+VORs:VFA:name
+VORs:VFA:symbol
+VORs:VFY:name
+VORs:VFY:symbol
+VORs:VGO:name
+VORs:VGO:symbol
+VORs:VLI:name
+VORs:VLI:symbol
+VORs:VLS:name
+VORs:VLS:symbol
+VORs:VMV:name
+VORs:VMV:symbol
+VORs:VSB:name
+VORs:VSB:symbol
+VORs:VTL:name
+VORs:VTL:symbol
+VORs:VTZ:name
+VORs:VTZ:symbol
+VORs:VWN:name
+VORs:VWN:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-20.347766:26.483567:-15.758499:35.633134

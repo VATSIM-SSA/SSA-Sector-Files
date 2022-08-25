@@ -1,0 +1,548 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FIMP-TMA:
+ARTCC boundary:FMCH-TMA:
+ARTCC boundary:FMEE-TMA:
+ARTCC boundary:FMMI-TMA:
+ARTCC boundary:FMMT-TMA:
+ARTCC boundary:FMNM-TMA:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FIMP:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:HTDC:
+ARTCC low boundary:FMCH-CTR:
+ARTCC low boundary:FMEE-CTR:
+ARTCC low boundary:FMMI-CTR:
+ARTCC low boundary:FMMT-CTR:
+ARTCC low boundary:FMNM-CTR:
+ARTCC low boundary:FMNN-CTR:
+Fixes:AGSES:name
+Fixes:AGSES:symbol
+Fixes:AMBAN:name
+Fixes:AMBAN:symbol
+Fixes:AMBOD:name
+Fixes:AMBOD:symbol
+Fixes:ANKOR:name
+Fixes:ANKOR:symbol
+Fixes:ANTIR:name
+Fixes:ANTIR:symbol
+Fixes:ANTOL:name
+Fixes:ANTOL:symbol
+Fixes:APMAS:name
+Fixes:APMAS:symbol
+Fixes:ATOLA:name
+Fixes:ATOLA:symbol
+Fixes:BERIL:name
+Fixes:BERIL:symbol
+Fixes:BULSO:name
+Fixes:BULSO:symbol
+Fixes:DEGEL:name
+Fixes:DEGEL:symbol
+Fixes:DENEV:name
+Fixes:DENEV:symbol
+Fixes:DENLI:name
+Fixes:DENLI:symbol
+Fixes:DISLO:name
+Fixes:DISLO:symbol
+Fixes:DOBAR:name
+Fixes:DOBAR:symbol
+Fixes:DOBUT:name
+Fixes:DOBUT:symbol
+Fixes:DUDIP:name
+Fixes:DUDIP:symbol
+Fixes:EGMAD:name
+Fixes:EGMAD:symbol
+Fixes:ENDEL:name
+Fixes:ENDEL:symbol
+Fixes:EPTEK:name
+Fixes:EPTEK:symbol
+Fixes:ERDIP:name
+Fixes:ERDIP:symbol
+Fixes:EROPA:name
+Fixes:EROPA:symbol
+Fixes:ESROL:name
+Fixes:ESROL:symbol
+Fixes:ETGOR:name
+Fixes:ETGOR:symbol
+Fixes:ETGUN:name
+Fixes:ETGUN:symbol
+Fixes:ETLEG:name
+Fixes:ETLEG:symbol
+Fixes:ETLOP:name
+Fixes:ETLOP:symbol
+Fixes:EVANA:name
+Fixes:EVANA:symbol
+Fixes:GADNO:name
+Fixes:GADNO:symbol
+Fixes:GALAS:name
+Fixes:GALAS:symbol
+Fixes:GALBA:name
+Fixes:GALBA:symbol
+Fixes:GATLA:name
+Fixes:GATLA:symbol
+Fixes:GERAG:name
+Fixes:GERAG:symbol
+Fixes:GERUS:name
+Fixes:GERUS:symbol
+Fixes:GETIR:name
+Fixes:GETIR:symbol
+Fixes:GEVON:name
+Fixes:GEVON:symbol
+Fixes:GUTKO:name
+Fixes:GUTKO:symbol
+Fixes:IBMAT:name
+Fixes:IBMAT:symbol
+Fixes:IBSIS:name
+Fixes:IBSIS:symbol
+Fixes:IKRAM:name
+Fixes:IKRAM:symbol
+Fixes:IKSOT:name
+Fixes:IKSOT:symbol
+Fixes:IMKIB:name
+Fixes:IMKIB:symbol
+Fixes:IXARI:name
+Fixes:IXARI:symbol
+Fixes:IXEMA:name
+Fixes:IXEMA:symbol
+Fixes:IXESA:name
+Fixes:IXESA:symbol
+Fixes:KENEK:name
+Fixes:KENEK:symbol
+Fixes:KINAN:name
+Fixes:KINAN:symbol
+Fixes:LIKID:name
+Fixes:LIKID:symbol
+Fixes:LOTNA:name
+Fixes:LOTNA:symbol
+Fixes:LOVNI:name
+Fixes:LOVNI:symbol
+Fixes:MEKIT:name
+Fixes:MEKIT:symbol
+Fixes:MENIR:name
+Fixes:MENIR:symbol
+Fixes:MEVAN:name
+Fixes:MEVAN:symbol
+Fixes:MIROV:name
+Fixes:MIROV:symbol
+Fixes:NAKUS:name
+Fixes:NAKUS:symbol
+Fixes:NANOT:name
+Fixes:NANOT:symbol
+Fixes:NERUL:name
+Fixes:NERUL:symbol
+Fixes:NESAM:name
+Fixes:NESAM:symbol
+Fixes:NIBIS:name
+Fixes:NIBIS:symbol
+Fixes:NODSI:name
+Fixes:NODSI:symbol
+Fixes:ODRET:name
+Fixes:ODRET:symbol
+Fixes:OKMAR:name
+Fixes:OKMAR:symbol
+Fixes:OKTIB:name
+Fixes:OKTIB:symbol
+Fixes:PASAR:name
+Fixes:PASAR:symbol
+Fixes:PIPRI:name
+Fixes:PIPRI:symbol
+Fixes:PIRLO:name
+Fixes:PIRLO:symbol
+Fixes:RAMUR:name
+Fixes:RAMUR:symbol
+Fixes:RASMA:name
+Fixes:RASMA:symbol
+Fixes:RECIF:name
+Fixes:RECIF:symbol
+Fixes:RUPIG:name
+Fixes:RUPIG:symbol
+Fixes:SABRO:name
+Fixes:SABRO:symbol
+Fixes:SEMAG:name
+Fixes:SEMAG:symbol
+Fixes:SEMEM:name
+Fixes:SEMEM:symbol
+Fixes:SOAVI:name
+Fixes:SOAVI:symbol
+Fixes:SOBAT:name
+Fixes:SOBAT:symbol
+Fixes:SOLAL:name
+Fixes:SOLAL:symbol
+Fixes:SUKUM:name
+Fixes:SUKUM:symbol
+Fixes:SUNIR:name
+Fixes:SUNIR:symbol
+Fixes:TABNO:name
+Fixes:TABNO:symbol
+Fixes:TANAT:name
+Fixes:TANAT:symbol
+Fixes:TAPAL:name
+Fixes:TAPAL:symbol
+Fixes:TAPER:name
+Fixes:TAPER:symbol
+Fixes:TAPOT:name
+Fixes:TAPOT:symbol
+Fixes:TEBOL:name
+Fixes:TEBOL:symbol
+Fixes:TETRO:name
+Fixes:TETRO:symbol
+Fixes:TIBAG:name
+Fixes:TIBAG:symbol
+Fixes:UBARA:name
+Fixes:UBARA:symbol
+Fixes:UDMED:name
+Fixes:UDMED:symbol
+Fixes:UNKIK:name
+Fixes:UNKIK:symbol
+Fixes:UTIVA:name
+Fixes:UTIVA:symbol
+Fixes:UVENA:name
+Fixes:UVENA:symbol
+Fixes:UVGAD:name
+Fixes:UVGAD:symbol
+Fixes:VABIT:name
+Fixes:VABIT:symbol
+Fixes:VOHID:name
+Fixes:VOHID:symbol
+Geo:FI Landmark Coast:
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FM Landmark Coast Bassas da India:
+Geo:FM Landmark Coast Comores:
+Geo:FM Landmark Coast Europe Island:
+Geo:FM Landmark Coast Juan de Nova:
+Geo:FM Landmark Coast Madagascar:
+Geo:FM Landmark Coast Mayotte:
+Geo:FM Landmark Coast Reunion:
+Geo:FM Landmark Coast Tromelin:
+Geo:FM Landmark Rivers:
+Geo:FMMI Landmark Lakes:
+Geo:FQ Landmark Coast M:
+Geo:FQ Landmark Coast N:
+Geo:FQ Landmark Coast S:
+Geo:FS Landmark Coast Astove Island:
+Geo:FS Landmark Coast Farquhar Island:
+NDBs:AGG:name
+NDBs:AGG:symbol
+NDBs:AH:name
+NDBs:AH:symbol
+NDBs:AT:name
+NDBs:AT:symbol
+NDBs:BR:name
+NDBs:BR:symbol
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:COE:name
+NDBs:COE:symbol
+NDBs:CP:name
+NDBs:CP:symbol
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:FF:name
+NDBs:FF:symbol
+NDBs:FG:name
+NDBs:FG:symbol
+NDBs:FJO:name
+NDBs:FJO:symbol
+NDBs:FXR:name
+NDBs:FXR:symbol
+NDBs:FXZ:name
+NDBs:FXZ:symbol
+NDBs:HL:name
+NDBs:HL:symbol
+NDBs:IA:name
+NDBs:IA:symbol
+NDBs:IN:name
+NDBs:IN:symbol
+NDBs:IO:name
+NDBs:IO:symbol
+NDBs:IR:name
+NDBs:IR:symbol
+NDBs:KA:name
+NDBs:KA:symbol
+NDBs:KG:name
+NDBs:KG:symbol
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LH:name
+NDBs:LH:symbol
+NDBs:LP:name
+NDBs:LP:symbol
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:MF:name
+NDBs:MF:symbol
+NDBs:MJ:name
+NDBs:MJ:symbol
+NDBs:MMY:name
+NDBs:MMY:symbol
+NDBs:MS:name
+NDBs:MS:symbol
+NDBs:MT:name
+NDBs:MT:symbol
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:MV:name
+NDBs:MV:symbol
+NDBs:NC:name
+NDBs:NC:symbol
+NDBs:NP:name
+NDBs:NP:symbol
+NDBs:NT:name
+NDBs:NT:symbol
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:QL:name
+NDBs:QL:symbol
+NDBs:RB:name
+NDBs:RB:symbol
+NDBs:RI:name
+NDBs:RI:symbol
+NDBs:SA:name
+NDBs:SA:symbol
+NDBs:SG:name
+NDBs:SG:symbol
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SO:name
+NDBs:SO:symbol
+NDBs:SP:name
+NDBs:SP:symbol
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:TAN:name
+NDBs:TAN:symbol
+NDBs:TE:name
+NDBs:TE:symbol
+NDBs:TN:name
+NDBs:TN:symbol
+NDBs:TO:name
+NDBs:TO:symbol
+NDBs:TW:name
+NDBs:TW:symbol
+NDBs:UG:name
+NDBs:UG:symbol
+NDBs:UU:name
+NDBs:UU:symbol
+NDBs:VL:name
+NDBs:VL:symbol
+NDBs:VSF:name
+NDBs:VSF:symbol
+NDBs:VSL:name
+NDBs:VSL:symbol
+NDBs:VSM:name
+NDBs:VSM:symbol
+NDBs:VSN:name
+NDBs:VSN:symbol
+NDBs:VSO:name
+NDBs:VSO:symbol
+NDBs:VSP:name
+NDBs:VSP:symbol
+NDBs:VSQ:name
+NDBs:VSQ:symbol
+Regions:FM Terrain Madagascar:polygon
+Regions:FM Terrain Reunion:polygon
+Runways:FMCH 02-20:centerline
+Runways:FMCH 02-20:extended centerline 1
+Runways:FMCH 02-20:extended centerline 1 left ticks
+Runways:FMCH 02-20:extended centerline 1 right ticks
+Runways:FMCH 02-20:extended centerline 2
+Runways:FMCH 02-20:extended centerline 2 left ticks
+Runways:FMCH 02-20:extended centerline 2 right ticks
+Runways:FMCV 10-28:centerline
+Runways:FMCV 10-28:extended centerline 1
+Runways:FMCV 10-28:extended centerline 1 left ticks
+Runways:FMCV 10-28:extended centerline 1 right ticks
+Runways:FMCV 10-28:extended centerline 2
+Runways:FMCV 10-28:extended centerline 2 left ticks
+Runways:FMCV 10-28:extended centerline 2 right ticks
+Runways:FMCZ 16-34:centerline
+Runways:FMCZ 16-34:extended centerline 1
+Runways:FMCZ 16-34:extended centerline 1 left ticks
+Runways:FMCZ 16-34:extended centerline 1 right ticks
+Runways:FMCZ 16-34:extended centerline 2
+Runways:FMCZ 16-34:extended centerline 2 left ticks
+Runways:FMCZ 16-34:extended centerline 2 right ticks
+Runways:FMEE 12-30:centerline
+Runways:FMEE 12-30:extended centerline 1
+Runways:FMEE 12-30:extended centerline 1 left ticks
+Runways:FMEE 12-30:extended centerline 1 right ticks
+Runways:FMEE 12-30:extended centerline 2
+Runways:FMEE 12-30:extended centerline 2 left ticks
+Runways:FMEE 12-30:extended centerline 2 right ticks
+Runways:FMEE 14-32:centerline
+Runways:FMEE 14-32:extended centerline 1
+Runways:FMEE 14-32:extended centerline 1 left ticks
+Runways:FMEE 14-32:extended centerline 1 right ticks
+Runways:FMEE 14-32:extended centerline 2
+Runways:FMEE 14-32:extended centerline 2 left ticks
+Runways:FMEE 14-32:extended centerline 2 right ticks
+Runways:FMEP 15-33:centerline
+Runways:FMEP 15-33:extended centerline 1
+Runways:FMEP 15-33:extended centerline 1 left ticks
+Runways:FMEP 15-33:extended centerline 1 right ticks
+Runways:FMEP 15-33:extended centerline 2
+Runways:FMEP 15-33:extended centerline 2 left ticks
+Runways:FMEP 15-33:extended centerline 2 right ticks
+Runways:FMMI 11-29:centerline
+Runways:FMMI 11-29:extended centerline 1
+Runways:FMMI 11-29:extended centerline 1 left ticks
+Runways:FMMI 11-29:extended centerline 1 right ticks
+Runways:FMMI 11-29:extended centerline 2
+Runways:FMMI 11-29:extended centerline 2 left ticks
+Runways:FMMI 11-29:extended centerline 2 right ticks
+Runways:FMMS 01-19:centerline
+Runways:FMMS 01-19:extended centerline 1
+Runways:FMMS 01-19:extended centerline 1 left ticks
+Runways:FMMS 01-19:extended centerline 1 right ticks
+Runways:FMMS 01-19:extended centerline 2
+Runways:FMMS 01-19:extended centerline 2 left ticks
+Runways:FMMS 01-19:extended centerline 2 right ticks
+Runways:FMMT 01-19:centerline
+Runways:FMMT 01-19:extended centerline 1
+Runways:FMMT 01-19:extended centerline 1 left ticks
+Runways:FMMT 01-19:extended centerline 1 right ticks
+Runways:FMMT 01-19:extended centerline 2
+Runways:FMMT 01-19:extended centerline 2 left ticks
+Runways:FMMT 01-19:extended centerline 2 right ticks
+Runways:FMMV 10-28:centerline
+Runways:FMMV 10-28:extended centerline 1
+Runways:FMMV 10-28:extended centerline 1 left ticks
+Runways:FMMV 10-28:extended centerline 1 right ticks
+Runways:FMMV 10-28:extended centerline 2
+Runways:FMMV 10-28:extended centerline 2 left ticks
+Runways:FMMV 10-28:extended centerline 2 right ticks
+Runways:FMNA 13-31:centerline
+Runways:FMNA 13-31:extended centerline 1
+Runways:FMNA 13-31:extended centerline 1 left ticks
+Runways:FMNA 13-31:extended centerline 1 right ticks
+Runways:FMNA 13-31:extended centerline 2
+Runways:FMNA 13-31:extended centerline 2 left ticks
+Runways:FMNA 13-31:extended centerline 2 right ticks
+Runways:FMNM 14-32:centerline
+Runways:FMNM 14-32:extended centerline 1
+Runways:FMNM 14-32:extended centerline 1 left ticks
+Runways:FMNM 14-32:extended centerline 1 right ticks
+Runways:FMNM 14-32:extended centerline 2
+Runways:FMNM 14-32:extended centerline 2 left ticks
+Runways:FMNM 14-32:extended centerline 2 right ticks
+Runways:FMNN 05-23:centerline
+Runways:FMNN 05-23:extended centerline 1
+Runways:FMNN 05-23:extended centerline 1 left ticks
+Runways:FMNN 05-23:extended centerline 1 right ticks
+Runways:FMNN 05-23:extended centerline 2
+Runways:FMNN 05-23:extended centerline 2 left ticks
+Runways:FMNN 05-23:extended centerline 2 right ticks
+Runways:FMNS 16-34:centerline
+Runways:FMNS 16-34:extended centerline 1
+Runways:FMNS 16-34:extended centerline 1 left ticks
+Runways:FMNS 16-34:extended centerline 1 right ticks
+Runways:FMNS 16-34:extended centerline 2
+Runways:FMNS 16-34:extended centerline 2 left ticks
+Runways:FMNS 16-34:extended centerline 2 right ticks
+Runways:FMNW 01-19:centerline
+Runways:FMNW 01-19:extended centerline 1
+Runways:FMNW 01-19:extended centerline 1 left ticks
+Runways:FMNW 01-19:extended centerline 1 right ticks
+Runways:FMNW 01-19:extended centerline 2
+Runways:FMNW 01-19:extended centerline 2 left ticks
+Runways:FMNW 01-19:extended centerline 2 right ticks
+Runways:FMSD 08-26:centerline
+Runways:FMSD 08-26:extended centerline 1
+Runways:FMSD 08-26:extended centerline 1 left ticks
+Runways:FMSD 08-26:extended centerline 1 right ticks
+Runways:FMSD 08-26:extended centerline 2
+Runways:FMSD 08-26:extended centerline 2 left ticks
+Runways:FMSD 08-26:extended centerline 2 right ticks
+Runways:FMSK 05-23:centerline
+Runways:FMSK 05-23:extended centerline 1
+Runways:FMSK 05-23:extended centerline 1 left ticks
+Runways:FMSK 05-23:extended centerline 1 right ticks
+Runways:FMSK 05-23:extended centerline 2
+Runways:FMSK 05-23:extended centerline 2 left ticks
+Runways:FMSK 05-23:extended centerline 2 right ticks
+Runways:FMSM 04-22:centerline
+Runways:FMSM 04-22:extended centerline 1
+Runways:FMSM 04-22:extended centerline 1 left ticks
+Runways:FMSM 04-22:extended centerline 1 right ticks
+Runways:FMSM 04-22:extended centerline 2
+Runways:FMSM 04-22:extended centerline 2 left ticks
+Runways:FMSM 04-22:extended centerline 2 right ticks
+Runways:FMST 04-22:centerline
+Runways:FMST 04-22:extended centerline 1
+Runways:FMST 04-22:extended centerline 1 left ticks
+Runways:FMST 04-22:extended centerline 1 right ticks
+Runways:FMST 04-22:extended centerline 2
+Runways:FMST 04-22:extended centerline 2 left ticks
+Runways:FMST 04-22:extended centerline 2 right ticks
+VORs:DI:name
+VORs:DI:symbol
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:DZP:name
+VORs:DZP:symbol
+VORs:FDN:name
+VORs:FDN:symbol
+VORs:GBY:name
+VORs:GBY:symbol
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:MG:name
+VORs:MG:symbol
+VORs:MT:name
+VORs:MT:symbol
+VORs:NSB:name
+VORs:NSB:symbol
+VORs:PLS:name
+VORs:PLS:symbol
+VORs:PRF:name
+VORs:PRF:symbol
+VORs:RBV:name
+VORs:RBV:symbol
+VORs:SB:name
+VORs:SB:symbol
+VORs:SDG:name
+VORs:SDG:symbol
+VORs:TNV:name
+VORs:TNV:symbol
+VORs:TU:name
+VORs:TU:symbol
+VORs:VBR:name
+VORs:VBR:symbol
+VORs:VCL:name
+VORs:VCL:symbol
+VORs:VKA:name
+VORs:VKA:symbol
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VMA:name
+VORs:VMA:symbol
+VORs:VMZ:name
+VORs:VMZ:symbol
+VORs:VNC:name
+VORs:VNC:symbol
+VORs:VNP:name
+VORs:VNP:symbol
+VORs:VQL:name
+VORs:VQL:symbol
+VORs:VTZ:name
+VORs:VTZ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-22.592236:38.884224:-13.942172:56.236671

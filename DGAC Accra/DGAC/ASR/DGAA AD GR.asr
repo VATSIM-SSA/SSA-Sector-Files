@@ -1,0 +1,44 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:DGAA Parking\B1:freetext
+Free Text:DGAA Parking\B2:freetext
+Free Text:DGAA Parking\B3:freetext
+Free Text:DGAA Parking\C1:freetext
+Free Text:DGAA Parking\C2:freetext
+Free Text:DGAA Parking\C3:freetext
+Free Text:DGAA Parking\C4:freetext
+Free Text:DGAA Parking\C5:freetext
+Free Text:DGAA Parking\C6:freetext
+Free Text:DGAA Parking\C7:freetext
+Free Text:DGAA Parking\C8:freetext
+Free Text:DGAA Parking\D1:freetext
+Free Text:DGAA Parking\D2:freetext
+Free Text:DGAA Parking\D3:freetext
+Free Text:DGAA Parking\D4:freetext
+Free Text:DGAA Parking\D5:freetext
+Free Text:DGAA Parking\D6:freetext
+Free Text:DGAA Parking\E1:freetext
+Free Text:DGAA Parking\E2:freetext
+Free Text:DGAA Parking\E3:freetext
+Geo:DGAA Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:68.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:5.596978:-0.187792:5.615599:-0.153855
+PLUGIN:Ground Radar plugin:AirportElevation:205
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DGAA
+PLUGIN:TopSky plugin:NoDraw:1

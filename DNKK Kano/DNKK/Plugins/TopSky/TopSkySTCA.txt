@@ -1,0 +1,105 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | TopSky | STCA
+// ##################################################################
+
+// Version v0.3
+// Update Date 17/08/2022
+
+
+// ##################################################################
+//                 DN NIGERIA
+// ##################################################################
+
+// DNAA | ABUJA NNAMDI AZIKIWE INTL
+
+FINALAPP:DNAA:04
+FINALAPP:DNAA:22
+
+// DNBE | BENIN
+
+FINALAPP:DNBE:05
+FINALAPP:DNBE:23
+
+// DNCA | CALABAR MARGARET EKPO
+
+FINALAPP:DNCA:03
+FINALAPP:DNCA:21
+
+// DNEN | ENUGU AKANU IBIAM INTL
+
+FINALAPP:DNEN:08
+FINALAPP:DNEN:26
+
+// DNGO | GOMBE
+
+FINALAPP:DNGO:05
+FINALAPP:DNGO:23
+
+// DNIL | ILORIN
+
+FINALAPP:DNIL:05
+FINALAPP:DNIL:23
+
+// DNIM | OWERRI SAM MBAKWE
+
+FINALAPP:DNIM:17
+FINALAPP:DNIM:35
+
+// DNJO | JOS YAKUBU GOWON
+
+FINALAPP:DNJO:10
+FINALAPP:DNJO:28
+
+// DNKA | KADUNA NEW KADUNA
+
+FINALAPP:DNKA:05
+FINALAPP:DNKA:23
+
+// DNKN | KANO MALLAM AMINU KANO INTL
+
+FINALAPP:DNKN:05
+FINALAPP:DNKN:06
+FINALAPP:DNKN:23
+FINALAPP:DNKN:24
+
+// DNKT | KATSINA
+
+FINALAPP:DNKT:05
+FINALAPP:DNKT:23
+
+// DNMA | MAIDUGURI
+
+FINALAPP:DNMA:05
+FINALAPP:DNMA:23
+
+// DNMM | LAGOS MURTALA MUHAMMED INTL
+
+FINALAPP:DNMM:18R
+FINALAPP:DNMM:18L
+FINALAPP:DNMM:36L
+FINALAPP:DNMM:36R
+
+// DNMN | MINNA
+
+FINALAPP:DNMN:05
+FINALAPP:DNMN:23
+
+// DNPO | PORT HARCOURT INTL
+
+FINALAPP:DNPO:03
+FINALAPP:DNPO:21
+
+// DNSO | SOKOTO SADDIQ ABUBAKAR ILL INTL
+
+FINALAPP:DNSO:08
+FINALAPP:DNSO:26
+
+// DNYO | YOLA
+
+FINALAPP:DNYO:17
+FINALAPP:DNYO:35
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

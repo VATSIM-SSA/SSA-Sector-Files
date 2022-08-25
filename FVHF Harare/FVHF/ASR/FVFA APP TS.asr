@@ -1,0 +1,30 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:FQ Landmark Lago de Cahora Bassa:
+Geo:FV Landmark Lake Chivero:
+Geo:FV Landmark Lake Kariba:
+Geo:FV Landmark Lake Manyame:
+Geo:FV Landmark Lake Mutirikwi:
+Geo:FV Landmark Lakes:
+Geo:FV Landmark Rivers:
+Geo:FV Landmark Victoria Falls:
+Geo:FVFA Groundlayout:
+Geo:GEO:
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-19.286261:23.553191:-16.902072:28.126809
+PLUGIN:TopSky plugin:ShowMapData:FVFA

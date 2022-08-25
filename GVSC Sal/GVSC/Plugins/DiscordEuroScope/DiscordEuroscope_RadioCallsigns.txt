@@ -1,0 +1,9 @@
+GVAC_TWR Amilcabral Tower
+GVBA_TWR Boavista Tower
+GVMA_I_TWR Maio Information
+GVNP_TWR Praia Tower
+GVSC_APP Sal Approach
+GVSC_CTR Sal Control
+GVSF_I_TWR Sanfilipe Information
+GVSN_I_TWR Sanicolau Information
+GVSV_TWR San Vicente Towers

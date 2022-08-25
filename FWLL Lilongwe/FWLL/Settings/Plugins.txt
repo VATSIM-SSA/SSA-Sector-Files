@@ -1,0 +1,20 @@
+PLUGINS
+EUROCAT 2000 E plugin:ACList/SQ List/m_Visible:1
+EUROCAT 2000 E plugin:ACList/SQ List/m_X:0
+EUROCAT 2000 E plugin:ACList/SQ List/m_Y:226
+EUROCAT 2000 E plugin:ACList/SQ List/m_LineNumber:1
+EUROCAT 2000 E plugin:ACList/SQ List/m_Resizable:1
+EUROCAT 2000 E plugin:ACList/SQ List/m_OrderingColumn:1
+EUROCAT 2000 E plugin:ACList/SQ List/m_Column_0:Callsign:9:0:22:6:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
+EUROCAT 2000 E plugin:ACList/SQ List/m_Column_1:SQ:2:0:73:27:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
+EUROCAT 2000 E plugin:ACList/Holding List /m_Visible:1
+EUROCAT 2000 E plugin:ACList/Holding List /m_X:0
+EUROCAT 2000 E plugin:ACList/Holding List /m_Y:352
+EUROCAT 2000 E plugin:ACList/Holding List /m_LineNumber:1
+EUROCAT 2000 E plugin:ACList/Holding List /m_Resizable:1
+EUROCAT 2000 E plugin:ACList/Holding List /m_OrderingColumn:1
+EUROCAT 2000 E plugin:ACList/Holding List /m_Column_0:Callsign:9:0:22:6:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
+EUROCAT 2000 E plugin:ACList/Holding List /m_Column_1:Point:6:0:76:29:0:1:EUROCAT 2000 E plugin:EUROCAT 2000 E plugin:
+vSMR:cpdlc_logon:FAOR
+vSMR:cpdlc_sound:0
+END

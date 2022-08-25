@@ -1,0 +1,159 @@
+// ##################################################################
+//                 VATSSA | FIR FNAN | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.1
+// Update Date 20/06/2022
+
+// Changelog
+// v0.1 | Initial Create
+
+// Active Airports
+// FN | FNLA
+
+// ##################################################################
+//                 FN ANGOLA
+// ##################################################################
+
+// ##################################################################
+//                 FNLU Luanda
+// ##################################################################
+
+// INTERNATIONAL APRON
+// Stand 1
+STAND:FNLU:1:S8.50.52.212:E13.14.25.361:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 2
+STAND:FNLU:2:S8.50.53.148:E13.14.23.014:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 3
+STAND:FNLU:3:S8.50.54.083:E13.14.20.697:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 4
+STAND:FNLU:4:S8.50.55.037:E13.14.18.36:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 5
+STAND:FNLU:5:S8.50.55.99:E13.14.15.868:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 6
+STAND:FNLU:6:S8.50.56.849:E13.14.13.502:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 7
+STAND:FNLU:7:S8.50.57.841:E13.14.11.146:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 8
+STAND:FNLU:8:S8.50.58.852:E13.14.8.558:40
+USE:A
+WTC:MH
+NOTADEP:FN
+
+// Stand 9 (Presidential Stand)
+STAND:FNLU:9:S8.50.55.627:E13.14.7.564:30
+USE:A
+WTC:M
+
+// DOMESTIC APRON
+// Stand 10
+STAND:FNLU:10:S8.50.57.035:E13.14.2.56:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 11
+STAND:FNLU:11:S8.50.57.55:E13.14.1.353:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 12
+STAND:FNLU:12:S8.50.58.132:E13.14.0.146:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 13
+STAND:FNLU:13:S8.50.58.561:E13.13.58.91:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 14
+STAND:FNLU:14:S8.50.59.114:E13.13.57.693:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 15
+STAND:FNLU:15:S8.51.1.132:E13.14.4.1:40
+USE:A
+WTC:HML
+ADEP:FN
+
+// Stand 16
+STAND:FNLU:16:S8.51.1.838:E13.14.1.724:40
+USE:A
+WTC:HML
+ADEP:FN
+
+// Stand 17
+STAND:FNLU:17:S8.51.2.812:E13.13.59.687:40
+USE:A
+WTC:HML
+ADEP:FN
+
+// Stand 18
+STAND:FNLU:18:S8.51.4.405:E13.13.57.592:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 19
+STAND:FNLU:19:S8.51.5.111:E13.13.56.124:25
+USE:A
+WTC:ML
+ADEP:FN
+
+// Stand 20
+STAND:FNLU:20:S8.51.5.798:E13.13.54.589:25
+USE:A
+WTC:ML
+ADEP:FN
+
+
+// GENERAL AVIATION APRONS
+// General Aviation East
+STAND:FNLU:GA-E:S8.50.48.357:E13.14.30.924:150
+USE:PH
+WTC:L
+AREA
+
+// Military West Apron
+STAND:FNLU:GA-M:S8.51.4.146:E13.13.39.73:310
+USE:ITM
+WTC:LMH
+AREA
+
+// ##################################################################
+//                 END
+// ##################################################################

@@ -1,0 +1,25 @@
+AFRS_FSS Africa South Control
+FAHS_I_CTR Lowveld Info
+FAJA_NW_CTR Johannesburg Area North West
+FAJA_W_CTR Johannesburg Area West
+FAMM_TWR Mafikeng Tower
+FBGR_CTR Gaberone Center
+FBKE_APP Kasane Approach
+FBKE_TWR Kasane Tower
+FBLV_TWR Limpopo Tower
+FBMN_APP Maun Approach
+FBMN_GND Maun Ground
+FBMN_TWR Maun Tower
+FBPM_APP Francistown Approach
+FBPM_TWR Francistown Tower
+FBSK_APP Gaborone Approach
+FBSK_GND Khama Ground
+FBSK_TWR Khama Tower
+FBSP_TWR Selebi Tower
+FLFI_CTR Lusaka Control
+FLHN_APP Livingstone Approach
+FNAN_CTR Luanda Control
+FVFA_APP Falls Approach
+FVHF_CTR Harare East Control
+FVHF_W_CTR Harare West Control
+FYWH_CTR Windhoek Radar

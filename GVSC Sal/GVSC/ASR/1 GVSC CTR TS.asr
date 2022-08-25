@@ -1,0 +1,30 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:GVAC Groundlayout:
+Geo:GVBA Groundlayout:
+Geo:GVMA Groundlayout:
+Geo:GVNP Groundlayout:
+Geo:GVSF Groundlayout:
+Geo:GVSV Groundlayout:
+Regions:GVAC Ground Layout:polygon
+Regions:GVBA Ground Layout:polygon
+Regions:GVMA Ground Layout:polygon
+Regions:GVNP Ground Layout:polygon
+Regions:GVSF Ground Layout:polygon
+Regions:GVSV Ground Layout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:60000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:13.541560:-27.618657:17.515203:-20.120810
+PLUGIN:TopSky plugin:ShowMapData:GVSC-OCA

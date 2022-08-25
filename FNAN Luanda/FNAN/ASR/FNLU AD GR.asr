@@ -1,0 +1,48 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FNLU Groundlayout\1:freetext
+Free Text:FNLU Groundlayout\2:freetext
+Free Text:FNLU Groundlayout\3:freetext
+Free Text:FNLU Groundlayout\4:freetext
+Free Text:FNLU Groundlayout\5:freetext
+Free Text:FNLU Groundlayout\6:freetext
+Free Text:FNLU Groundlayout\7:freetext
+Free Text:FNLU Groundlayout\8:freetext
+Free Text:FNLU Groundlayout\A:freetext
+Free Text:FNLU Groundlayout\A:freetext
+Free Text:FNLU Groundlayout\B:freetext
+Free Text:FNLU Groundlayout\B:freetext
+Free Text:FNLU Groundlayout\C:freetext
+Free Text:FNLU Groundlayout\D:freetext
+Free Text:FNLU Groundlayout\D:freetext
+Free Text:FNLU Groundlayout\E:freetext
+Free Text:FNLU Groundlayout\E:freetext
+Free Text:FNLU Groundlayout\MIL APRON:freetext
+Free Text:FNLU Groundlayout\MIL APRON:freetext
+Free Text:FNLU Groundlayout\Presidential Parking:freetext
+Free Text:FNLU Groundlayout\Terminal:freetext
+Geo:FNLU Groundlayout:
+Regions:FNLU Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:22.50000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-8.859709:13.207238:-8.835977:13.251088
+PLUGIN:Ground Radar plugin:AirportElevation:238
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FNLU
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FNLU

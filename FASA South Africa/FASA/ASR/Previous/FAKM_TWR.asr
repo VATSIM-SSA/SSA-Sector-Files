@@ -1,0 +1,71 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FAKM:name
+Airports:FAKM:symbol
+Fixes:IBSIX:name
+Fixes:IBSIX:symbol
+Free Text:FAKM Taxiways\A:freetext
+Free Text:FAKM Taxiways\A1:freetext
+Free Text:FAKM Taxiways\C:freetext
+Free Text:FAKM Taxiways\C1:freetext
+Geo:FAKM Groundlayout:
+Runways:FAKM 02-20:centerline
+Runways:FAKM 02-20:extended centerline 1
+Runways:FAKM 02-20:extended centerline 1 left base
+Runways:FAKM 02-20:extended centerline 1 left ticks
+Runways:FAKM 02-20:extended centerline 1 left vectoring
+Runways:FAKM 02-20:extended centerline 1 right base
+Runways:FAKM 02-20:extended centerline 1 right ticks
+Runways:FAKM 02-20:extended centerline 1 right vectoring
+Runways:FAKM 02-20:extended centerline 2
+Runways:FAKM 02-20:extended centerline 2 left base
+Runways:FAKM 02-20:extended centerline 2 left ticks
+Runways:FAKM 02-20:extended centerline 2 left vectoring
+Runways:FAKM 02-20:extended centerline 2 right base
+Runways:FAKM 02-20:extended centerline 2 right ticks
+Runways:FAKM 02-20:extended centerline 2 right vectoring
+Runways:FAKM 02-20:name
+Runways:FAKM 10-28:centerline
+Runways:FAKM 10-28:extended centerline 1
+Runways:FAKM 10-28:extended centerline 1 left base
+Runways:FAKM 10-28:extended centerline 1 left ticks
+Runways:FAKM 10-28:extended centerline 1 left vectoring
+Runways:FAKM 10-28:extended centerline 1 right base
+Runways:FAKM 10-28:extended centerline 1 right ticks
+Runways:FAKM 10-28:extended centerline 1 right vectoring
+Runways:FAKM 10-28:extended centerline 2
+Runways:FAKM 10-28:extended centerline 2 left base
+Runways:FAKM 10-28:extended centerline 2 left ticks
+Runways:FAKM 10-28:extended centerline 2 left vectoring
+Runways:FAKM 10-28:extended centerline 2 right base
+Runways:FAKM 10-28:extended centerline 2 right ticks
+Runways:FAKM 10-28:extended centerline 2 right vectoring
+Runways:FAKM 10-28:name
+Stars:FAKM RNAV02:
+Stars:FAKM RNAV02 ETBAB:
+Stars:FAKM RNAV02 NIDUN:
+Stars:FAKM RNAV02 UVKIS:
+Stars:FAKM RNAV20:
+Stars:FAKM RNAV20 GADSO:
+Stars:FAKM RNAV20 IBSIX:
+Stars:FAKM RNAV20 UNKUR:
+Stars:FAKM STAR 02 EVESI1A:
+Stars:FAKM VORDME02:
+Stars:FAKM VORDME20:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:19.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-28.900518:24.555977:-28.673234:25.041222

@@ -1,0 +1,29 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:FL Landmark Lakes:
+Geo:FL Restricted area NATIONAL PARKS:
+Geo:FLHN Groundlayout Airport real:
+Geo:FLKK Groundlayout Airport real:
+Geo:FLSK Groundlayout Airport current:
+Geo:GEO:
+Regions:FLHN Airport Layout curre:polygon
+Regions:FLKK Airport Layout curre:polygon
+Regions:FLSK Airport Layout currr:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-17.581461:22.255567:-10.976164:34.571421
+PLUGIN:TopSky plugin:ShowMapData:FLFI

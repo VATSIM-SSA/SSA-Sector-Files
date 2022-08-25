@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+	<apt icao="GVAC">
+		<runway name="01">
+			<sid name="BULVO">
+				<alt>5000</alt>
+			</sid>
+			<sid name="BVT">
+				<alt>5000</alt>
+			</sid>
+			<sid name="KESIK">
+				<alt>5000</alt>
+			</sid>
+			<sid name="NCL">
+				<alt>5000</alt>
+			</sid>
+			<sid name="PISPU">
+				<alt>090</alt>
+			</sid>
+			<sid name="PINPO">
+				<alt>090</alt>
+			</sid>
+			<sid name="POLMO">
+				<alt>090</alt>
+			</sid>
+			<sid name="RAMOL">
+				<alt>090</alt>
+			</sid>
+			<sid name="SNT">
+				<alt>5000</alt>
+			</sid>
+			<sid name="SVT">
+				<alt>5000</alt>
+			</sid>
+		</runway>
+		<runway name="19">
+			<sid name="BULVO">
+				<alt>5000</alt>
+			</sid>
+			<sid name="BVT">
+				<alt>5000</alt>
+			</sid>
+			<sid name="KESIK">
+				<alt>5000</alt>
+			</sid>
+			<sid name="NCL">
+				<alt>5000</alt>
+			</sid>
+			<sid name="PISPU">
+				<alt>090</alt>
+			</sid>
+			<sid name="PINPO">
+				<alt>090</alt>
+			</sid>
+			<sid name="POLMO">
+				<alt>090</alt>
+			</sid>
+			<sid name="RAMOL">
+				<alt>090</alt>
+			</sid>
+			<sid name="SNT">
+				<alt>5000</alt>
+			</sid>
+			<sid name="SVT">
+				<alt>5000</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="GVBA">
+		<runway name="03">
+			<sid name="BA367">
+				<alt>5000</alt>
+			</sid>
+			<sid name="CVS">
+				<alt>5000</alt>
+			</sid>
+			<sid name="PINPO">
+				<alt>090</alt>
+			</sid>
+			<sid name="PISPU">
+				<alt>090</alt>
+			</sid>
+			<sid name="BA366">
+				<alt>5000</alt>
+			</sid>
+			<sid name="POLMO">
+				<alt>090</alt>
+			</sid>
+			<sid name="RAMOL">
+				<alt>090</alt>
+			</sid>
+			<sid name="SONVA">
+				<alt>090</alt>
+			</sid>
+			<sid name="BA364">
+				<alt>5000</alt>
+			</sid>
+			<sid name="DENER">
+				<alt>090</alt>
+			</sid>
+			<sid name="SNT">
+				<alt>5000</alt>
+			</sid>
+			<sid name="EDIPA">
+				<alt>090</alt>
+			</sid>
+			<sid name="NINAU">
+				<alt>090</alt>
+			</sid>
+			<sid name="SISAU">
+				<alt>090</alt>
+			</sid>
+			<sid name="EVKAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="KESIK">
+				<alt>090</alt>
+			</sid>
+			<sid name="LININ">
+				<alt>090</alt>
+			</sid>
+			<sid name="MOPAC">
+				<alt>090</alt>
+			</sid>
+			<sid name="NEMDO">
+				<alt>090</alt>
+			</sid>
+			<sid name="NCL">
+				<alt>7000</alt>
+			</sid>
+			<sid name="SVT">
+				<alt>5000</alt>
+			</sid>
+		</runway>
+		<runway name="22">
+			<sid name="BA367">
+				<alt>5000</alt>
+			</sid>
+			<sid name="CVS">
+				<alt>5000</alt>
+			</sid>
+			<sid name="PINPO">
+				<alt>090</alt>
+			</sid>
+			<sid name="PISPU">
+				<alt>090</alt>
+			</sid>
+			<sid name="BA366">
+				<alt>5000</alt>
+			</sid>
+			<sid name="POLMO">
+				<alt>090</alt>
+			</sid>
+			<sid name="RAMOL">
+				<alt>090</alt>
+			</sid>
+			<sid name="SONVA">
+				<alt>090</alt>
+			</sid>
+			<sid name="BA364">
+				<alt>5000</alt>
+			</sid>
+			<sid name="DENER">
+				<alt>090</alt>
+			</sid>
+			<sid name="SNT">
+				<alt>5000</alt>
+			</sid>
+			<sid name="EDIPA">
+				<alt>090</alt>
+			</sid>
+			<sid name="NINAU">
+				<alt>090</alt>
+			</sid>
+			<sid name="SISAU">
+				<alt>090</alt>
+			</sid>
+			<sid name="EVKAS">
+				<alt>090</alt>
+			</sid>
+			<sid name="KESIK">
+				<alt>090</alt>
+			</sid>
+			<sid name="LININ">
+				<alt>090</alt>
+			</sid>
+			<sid name="MOPAC">
+				<alt>090</alt>
+			</sid>
+			<sid name="NEMDO">
+				<alt>090</alt>
+			</sid>
+			<sid name="NCL">
+				<alt>7000</alt>
+			</sid>
+			<sid name="SVT">
+				<alt>5000</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="GVNP">
+		<runway name="03">
+			<sid name="BVT">
+				<alt>7000</alt>
+			</sid>
+			<sid name="CVS">
+				<alt>7000</alt>
+			</sid>
+			<sid name="SONVA">
+				<alt>7000</alt>
+			</sid>
+			<sid name="VONTO">
+				<alt>7000</alt>
+			</sid>
+			<sid name="AGTIL">
+				<alt>7000</alt>
+			</sid>
+			<sid name="BULVO">
+				<alt>7000</alt>
+			</sid>
+			<sid name="NCL">
+				<alt>7000</alt>
+			</sid>
+			<sid name="SVT">
+				<alt>7000</alt>
+			</sid>
+		</runway>
+		<runway name="27">
+			<sid name="BVT">
+				<alt>7000</alt>
+			</sid>
+			<sid name="CVS">
+				<alt>7000</alt>
+			</sid>
+			<sid name="SONVA">
+				<alt>7000</alt>
+			</sid>
+			<sid name="VONTO">
+				<alt>7000</alt>
+			</sid>
+			<sid name="AGTIL">
+				<alt>7000</alt>
+			</sid>
+			<sid name="BULVO">
+				<alt>7000</alt>
+			</sid>
+			<sid name="NCL">
+				<alt>7000</alt>
+			</sid>
+			<sid name="SVT">
+				<alt>7000</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="GVSV">
+		<runway name="06">
+			<sid name="KESIK">
+				<alt>100</alt>
+			</sid>
+			<sid name="LININ">
+				<alt>100</alt>
+			</sid>
+			<sid name="MOPAC">
+				<alt>100</alt>
+			</sid>
+			<sid name="NEMDO">
+				<alt>100</alt>
+			</sid>
+			<sid name="NINAU">
+				<alt>7000</alt>
+			</sid>
+			<sid name="DENER">
+				<alt>090</alt>
+			</sid>
+			<sid name="EDIPA">
+				<alt>090</alt>
+			</sid>
+			<sid name="SISAU">
+				<alt>090</alt>
+			</sid>
+			<sid name="EVKAS">
+				<alt>100</alt>
+			</sid>
+			<sid name="SNT">
+				<alt>7000</alt>
+			</sid>
+		</runway>
+		<runway name="24">
+			<sid name="KESIK">
+				<alt>100</alt>
+			</sid>
+			<sid name="LININ">
+				<alt>100</alt>
+			</sid>
+			<sid name="MOPAC">
+				<alt>100</alt>
+			</sid>
+			<sid name="NEMDO">
+				<alt>100</alt>
+			</sid>
+			<sid name="NINAU">
+				<alt>080</alt>
+			</sid>
+			<sid name="DENER">
+				<alt>090</alt>
+			</sid>
+			<sid name="EDIPA">
+				<alt>090</alt>
+			</sid>
+			<sid name="SISAU">
+				<alt>090</alt>
+			</sid>
+			<sid name="EVKAS">
+				<alt>100</alt>
+			</sid>
+			<sid name="SNT">
+				<alt>7000</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

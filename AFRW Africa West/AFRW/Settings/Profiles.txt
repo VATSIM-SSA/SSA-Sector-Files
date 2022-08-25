@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:AFRW_FSS:1500:1
+ATIS2:Africa West Control. ATC above FL245 only
+ATIS3:if local CTR is offline. Covers DGAC DGAO DIII
+ATIS4:DNKK FCCC GLRB GOOC GOOO and GVSC - vatssa.com
+END

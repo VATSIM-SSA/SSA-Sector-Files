@@ -1,0 +1,255 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:DBBB:name
+Airports:DBBK:name
+Airports:DBBN:name
+Airports:DBBO:name
+Airports:DBBP:name
+Airports:DBBS:name
+Airports:DGAA:name
+Airports:DGLE:name
+Airports:DGLN:name
+Airports:DGLW:name
+Airports:DGSI:name
+Airports:DGSN:name
+Airports:DGTK:name
+Airports:DXAK:name
+Airports:DXDP:name
+Airports:DXKP:name
+Airports:DXMG:name
+Airports:DXNG:name
+Airports:DXSK:name
+Airports:DXXX:name
+ARTCC boundary:DBBB_APP:
+ARTCC boundary:DFFD_APP:
+ARTCC boundary:DFOO_APP:
+ARTCC boundary:DGAA_APP:
+ARTCC boundary:DGLE_APP:
+ARTCC boundary:DIAP_APP:
+ARTCC boundary:DNMM_APP:
+ARTCC boundary:FPST_APP:
+ARTCC high boundary:DFFF:
+ARTCC high boundary:DGAC-ALL:
+ARTCC high boundary:DGAC-N:
+ARTCC high boundary:DGAC-O:
+ARTCC high boundary:DGAC-S:
+ARTCC high boundary:DNKK:
+ARTCC high boundary:DRRR:
+ARTCC high boundary:DXXX:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FOOO:
+ARTCC high boundary:GOOC:
+ARTCC high boundary:GOOO:
+ARTCC low boundary:DGAA_TWR:
+ARTCC low boundary:DGLE_TWR:
+ARTCC low boundary:DGSI_TWR:
+ARTCC low boundary:DGSN_TWR:
+ARTCC low boundary:DGTK_TWR:
+ARTCC low boundary:DXNG_TWR:
+ARTCC low boundary:DXXX_TWR:
+Fixes:AMSOM:name
+Fixes:AMSOM:symbol
+Fixes:BIKAB:name
+Fixes:BIKAB:symbol
+Fixes:DIBMI:name
+Fixes:DIBMI:symbol
+Fixes:DIRKO:name
+Fixes:DIRKO:symbol
+Fixes:EREKA:name
+Fixes:EREKA:symbol
+Fixes:GAGUL:name
+Fixes:GAGUL:symbol
+Fixes:GASOX:name
+Fixes:GASOX:symbol
+Fixes:KEMOK:name
+Fixes:KEMOK:symbol
+Fixes:KETAT:name
+Fixes:KETAT:symbol
+Fixes:LISAN:name
+Fixes:LISAN:symbol
+Fixes:LITEX:name
+Fixes:LITEX:symbol
+Fixes:MILTU:name
+Fixes:MILTU:symbol
+Fixes:MIMSO:name
+Fixes:MIMSO:symbol
+Fixes:MIMTI:name
+Fixes:MIMTI:symbol
+Fixes:MONOS:name
+Fixes:MONOS:symbol
+Fixes:NAKOB:name
+Fixes:NAKOB:symbol
+Fixes:POLTO:name
+Fixes:POLTO:symbol
+Fixes:SABGO:name
+Fixes:SABGO:symbol
+Fixes:SAGMA:name
+Fixes:SAGMA:symbol
+Fixes:ULSAM:name
+Fixes:ULSAM:symbol
+Fixes:VOPEN:name
+Fixes:VOPEN:symbol
+Geo:DB Danger area D1 - GND/A040 - Firing and Parachute:
+Geo:DB Danger area D2 - GND/A015 - Parachute:
+Geo:DB Danger area D3 - GND/A050 - Firing:
+Geo:DB Danger area D4 - GND/A060 - Firing:
+Geo:DB Danger area GND/FL080 - Fuel Dumping:
+Geo:DG Danger area D2 Bundase - GND/A100:
+Geo:DG Danger area D3 Teshie - GND/A012:
+Geo:DG Danger area D4 Sekondi/Takoradi - GND/UNL:
+Geo:DG Danger area D5 Tema - GND/UNL:
+Geo:DG Landmark Coast East:
+Geo:DG Landmark Coast Middle:
+Geo:DG Landmark Coast West:
+Geo:DG Landmark Lakes:
+Geo:DG Prohibited area P12 Flagstaff House - GND/A040:
+Geo:DG Prohibited area P13 State House - GND/A040:
+Geo:DG Prohibited area P14 Ministry of Defence Building - GND/A040:
+Geo:DG Restricted area R10 Tamale - GND/A020:
+Geo:DG Restricted area R11 Tamale - GND/A020:
+Geo:DG Restricted area R15 Takoradi Red Training Area - GND/FL060:
+Geo:DG Restricted area R16 Takoradi Green Training Area - 020AGL/A030:
+Geo:DG Restricted area R6 Takoradi - GND/FL065:
+Geo:DG Restricted area R7 Tamale Air Force Training Area 1 - A070/FL225:
+Geo:DG Restricted area R8 Tamale Air Force Training Area 2 - GND/FL065:
+Geo:DG Restricted area R9 Tamale - GND/A020:
+Geo:DI Landmark Coast:
+Geo:DN Landmark Coast:
+Geo:DX Danger area D1 - GND/FL140:
+Geo:DX Danger area Fuel Dumping:
+Geo:DX Prohibited area P1 - GND/FL035:
+Geo:DX Prohibited area P2 - GND/FL035:
+Geo:DX Prohibited area P3 - GND/FL035:
+Geo:DX Restricted area R1 - GND/FL400:
+Geo:DX Restricted area R2 - GND/FL400:
+Runways:DBBB 06-24:centerline	   
+Runways:DBBB 06-24:extended centerline 1	   
+Runways:DBBB 06-24:extended centerline 1 left ticks	   
+Runways:DBBB 06-24:extended centerline 1 right ticks	   
+Runways:DBBB 06-24:extended centerline 2	   
+Runways:DBBB 06-24:extended centerline 2 left ticks	   
+Runways:DBBB 06-24:extended centerline 2 right ticks	   
+Runways:DBBP 04-22:centerline	   
+Runways:DBBP 04-22:extended centerline 1	   
+Runways:DBBP 04-22:extended centerline 1 left ticks	   
+Runways:DBBP 04-22:extended centerline 1 right ticks	   
+Runways:DBBP 04-22:extended centerline 2	   
+Runways:DBBP 04-22:extended centerline 2 left ticks	   
+Runways:DBBP 04-22:extended centerline 2 right ticks	   
+Runways:DGAA 03-21:centerline	   
+Runways:DGAA 03-21:extended centerline 1	   
+Runways:DGAA 03-21:extended centerline 1 left ticks	   
+Runways:DGAA 03-21:extended centerline 1 right ticks	   
+Runways:DGAA 03-21:extended centerline 2	   
+Runways:DGAA 03-21:extended centerline 2 left ticks	   
+Runways:DGAA 03-21:extended centerline 2 right ticks	   
+Runways:DGLE 05-23:centerline	   
+Runways:DGLE 05-23:extended centerline 1	   
+Runways:DGLE 05-23:extended centerline 1 left ticks	   
+Runways:DGLE 05-23:extended centerline 1 right ticks	   
+Runways:DGLE 05-23:extended centerline 2	   
+Runways:DGLE 05-23:extended centerline 2 left ticks	   
+Runways:DGLE 05-23:extended centerline 2 right ticks	   
+Runways:DGLN 14-32:centerline	   
+Runways:DGLN 14-32:extended centerline 1	   
+Runways:DGLN 14-32:extended centerline 1 left ticks	   
+Runways:DGLN 14-32:extended centerline 1 right ticks	   
+Runways:DGLN 14-32:extended centerline 2	   
+Runways:DGLN 14-32:extended centerline 2 left ticks	   
+Runways:DGLN 14-32:extended centerline 2 right ticks	   
+Runways:DGLW 03-21:centerline	   
+Runways:DGLW 03-21:extended centerline 1	   
+Runways:DGLW 03-21:extended centerline 1 left ticks	   
+Runways:DGLW 03-21:extended centerline 1 right ticks	   
+Runways:DGLW 03-21:extended centerline 2	   
+Runways:DGLW 03-21:extended centerline 2 left ticks	   
+Runways:DGLW 03-21:extended centerline 2 right ticks	   
+Runways:DGSI 02-20:centerline	   
+Runways:DGSI 02-20:extended centerline 1	   
+Runways:DGSI 02-20:extended centerline 1 left ticks	   
+Runways:DGSI 02-20:extended centerline 1 right ticks	   
+Runways:DGSI 02-20:extended centerline 2	   
+Runways:DGSI 02-20:extended centerline 2 left ticks	   
+Runways:DGSI 02-20:extended centerline 2 right ticks	   
+Runways:DGSN 07-25:centerline	   
+Runways:DGSN 07-25:extended centerline 1	   
+Runways:DGSN 07-25:extended centerline 1 left ticks	   
+Runways:DGSN 07-25:extended centerline 1 right ticks	   
+Runways:DGSN 07-25:extended centerline 2	   
+Runways:DGSN 07-25:extended centerline 2 left ticks	   
+Runways:DGSN 07-25:extended centerline 2 right ticks	   
+Runways:DGTK 03-21:centerline	   
+Runways:DGTK 03-21:extended centerline 1	   
+Runways:DGTK 03-21:extended centerline 1 left ticks	   
+Runways:DGTK 03-21:extended centerline 1 right ticks	   
+Runways:DGTK 03-21:extended centerline 2	   
+Runways:DGTK 03-21:extended centerline 2 left ticks	   
+Runways:DGTK 03-21:extended centerline 2 right ticks	   
+Runways:DXNG 03-21:centerline	   
+Runways:DXNG 03-21:extended centerline 1	   
+Runways:DXNG 03-21:extended centerline 1 left ticks	   
+Runways:DXNG 03-21:extended centerline 1 right ticks	   
+Runways:DXNG 03-21:extended centerline 2	   
+Runways:DXNG 03-21:extended centerline 2 left ticks	   
+Runways:DXNG 03-21:extended centerline 2 right ticks	   
+Runways:DXXX 04-22:centerline	   
+Runways:DXXX 04-22:extended centerline 1	   
+Runways:DXXX 04-22:extended centerline 1 left ticks	   
+Runways:DXXX 04-22:extended centerline 1 right ticks	   
+Runways:DXXX 04-22:extended centerline 2	   
+Runways:DXXX 04-22:extended centerline 2 left ticks	   
+Runways:DXXX 04-22:extended centerline 2 right ticks	 
+VORs:ABC:symbol
+VORs:ACC:symbol
+VORs:AD:symbol
+VORs:AKW:symbol
+VORs:BD:symbol
+VORs:BDA:symbol
+VORs:BEN:symbol
+VORs:BIK:symbol
+VORs:BKY:symbol
+VORs:CAL:symbol
+VORs:ENG:symbol
+VORs:IBA:symbol
+VORs:ILR:symbol
+VORs:JOS:symbol
+VORs:KAN:symbol
+VORs:KDA:symbol
+VORs:KIS:symbol
+VORs:KRG:symbol
+VORs:KSI:symbol
+VORs:KUA:symbol
+VORs:LAG:symbol
+VORs:LM:symbol
+VORs:MBO:symbol
+VORs:MNA:symbol
+VORs:NT:symbol
+VORs:OG:symbol
+VORs:OSB:symbol
+VORs:OWR:symbol
+VORs:PA:symbol
+VORs:PAM:symbol
+VORs:PG:symbol
+VORs:POT:symbol
+VORs:SKO:symbol
+VORs:SOK:symbol
+VORs:STM:symbol
+VORs:TLE:symbol
+VORs:TYE:symbol
+VORs:YAM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:4.153674:-3.265233:7.188785:2.483640

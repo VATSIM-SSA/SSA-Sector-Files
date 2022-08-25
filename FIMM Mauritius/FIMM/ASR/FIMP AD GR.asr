@@ -1,0 +1,73 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FIMP Parkings\1:freetext
+Free Text:FIMP Parkings\10:freetext
+Free Text:FIMP Parkings\11:freetext
+Free Text:FIMP Parkings\12:freetext
+Free Text:FIMP Parkings\13:freetext
+Free Text:FIMP Parkings\14:freetext
+Free Text:FIMP Parkings\15:freetext
+Free Text:FIMP Parkings\16:freetext
+Free Text:FIMP Parkings\2:freetext
+Free Text:FIMP Parkings\3:freetext
+Free Text:FIMP Parkings\4:freetext
+Free Text:FIMP Parkings\41:freetext
+Free Text:FIMP Parkings\42:freetext
+Free Text:FIMP Parkings\43:freetext
+Free Text:FIMP Parkings\44:freetext
+Free Text:FIMP Parkings\45:freetext
+Free Text:FIMP Parkings\46:freetext
+Free Text:FIMP Parkings\47:freetext
+Free Text:FIMP Parkings\48:freetext
+Free Text:FIMP Parkings\5:freetext
+Free Text:FIMP Parkings\7:freetext
+Free Text:FIMP Parkings\8:freetext
+Free Text:FIMP Parkings\9:freetext
+Free Text:FIMP Taxiways\A:freetext
+Free Text:FIMP Taxiways\B:freetext
+Free Text:FIMP Taxiways\C:freetext
+Free Text:FIMP Taxiways\D:freetext
+Free Text:FIMP Taxiways\E:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\G:freetext
+Free Text:FIMP Taxiways\H:freetext
+Free Text:FIMP Taxiways\J:freetext
+Free Text:FIMP Taxiways\K:freetext
+Free Text:FIMP Taxiways\L:freetext
+Free Text:FIMP Taxiways\M:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\P:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Geo:FI Landmark Coast:
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FI Landmark Coast Diego Garcia:
+Geo:FIMP Groundlayout:
+Regions:FIMP Ground layout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:332.70000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-20.442584:57.664115:-20.423993:57.700100
+PLUGIN:Ground Radar plugin:AirportElevation:183
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FIMP
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FIMP

@@ -1,0 +1,30 @@
+AFRN_FSS North Africa Control
+AFRS_FSS Africa South Control
+DGAC_CTR Accra Control
+DGAO_CTR Accra Radio
+FAJO_FSS Johannesburg Oceanic
+FBGR_CTR Gaberone Center
+FCBB_APP Brazza Approach
+FCCC_CTR Brazzaville Control
+FCPP_APP Pointe Noire Approach
+FHSH_APP St Helena Approach
+FHSH_TWR St Helena Tower
+FLFI_CTR Lusaka Control
+FNAN_CTR Luanda Control
+FNBG_I_TWR Benguela Tower
+FNCA_TWR Cabinda Tower
+FNGI_I_TWR Ongiva Tower
+FNHU_I_TWR Huambo Tower
+FNLU_APP Luanda Approach
+FNLU_GND Luanda Ground
+FNLU_TWR Luanda Tower
+FNMO_I_TWR Namibe Tower
+FNSA_I_TWR Saurimo Tower
+FNUB_I_TWR Lugango Tower
+FNUE_I_TWR Luena Tower
+FYWH_CTR Windhoek Radar
+FZAA_APP Kinshasa Approach
+FZZA_CTR Kinshasa Control
+FZZA_S_CTR Lubumbashi Control
+GOOC_FSS Dakar Radio
+GOOO_CTR Dakar Control

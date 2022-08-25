@@ -1,0 +1,42 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GOOY AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GOOY AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:GOOY:name
+Airports:GOOY:symbol
+Geo:GO Landmark Coast:
+Geo:GOOY Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:10000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:341.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:14.731299:-17.514948:14.754757:-17.471098
+PLUGIN:Ground Radar plugin:AirportElevation:85
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GOOY
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GOOY
+PLUGIN:TopSky plugin:HideMapData:ICAO

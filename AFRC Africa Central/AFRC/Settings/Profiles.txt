@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:AFRC_FSS:1500:1
+ATIS2:Africa Central Control. ATC above FL245 only
+ATIS3:if local CTR is offline. Covers FLFI FNAN FSSS
+ATIS4:FWLL FZZA HKNA HTDC and HUEC - vatssa.com
+END

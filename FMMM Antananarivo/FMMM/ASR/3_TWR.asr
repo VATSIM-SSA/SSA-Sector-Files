@@ -1,0 +1,412 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FIMP-TMA:
+ARTCC boundary:FMEE-TMA:
+ARTCC boundary:FMMI-TMA:
+ARTCC high boundary:FMMM:
+ARTCC low boundary:FMCH-CTR:
+ARTCC low boundary:FMEE-CTR:
+ARTCC low boundary:FMMI-CTR:
+ARTCC low boundary:FMMT-CTR:
+ARTCC low boundary:FMNM-CTR:
+ARTCC low boundary:FMNN-CTR:
+Free Text:FMEE Ground Labels\1:freetext
+Free Text:FMEE Ground Labels\10:freetext
+Free Text:FMEE Ground Labels\12:freetext
+Free Text:FMEE Ground Labels\13:freetext
+Free Text:FMEE Ground Labels\14:freetext
+Free Text:FMEE Ground Labels\15:freetext
+Free Text:FMEE Ground Labels\16:freetext
+Free Text:FMEE Ground Labels\17:freetext
+Free Text:FMEE Ground Labels\2:freetext
+Free Text:FMEE Ground Labels\3:freetext
+Free Text:FMEE Ground Labels\4:freetext
+Free Text:FMEE Ground Labels\5:freetext
+Free Text:FMEE Ground Labels\6:freetext
+Free Text:FMEE Ground Labels\7:freetext
+Free Text:FMEE Ground Labels\8:freetext
+Free Text:FMEE Ground Labels\9:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\B:freetext
+Free Text:FMEE Ground Labels\C:freetext
+Free Text:FMEE Ground Labels\Cargo:freetext
+Free Text:FMEE Ground Labels\Civil:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F1:freetext
+Free Text:FMEE Ground Labels\G:freetext
+Free Text:FMEE Ground Labels\G:freetext
+Free Text:FMEE Ground Labels\General Aviation:freetext
+Free Text:FMEE Ground Labels\Helilagon:freetext
+Free Text:FMEE Ground Labels\M:freetext
+Free Text:FMEE Ground Labels\Military:freetext
+Free Text:FMMI Parkings\11:freetext
+Free Text:FMMI Parkings\1A:freetext
+Free Text:FMMI Parkings\2:freetext
+Free Text:FMMI Parkings\21R-21-21L:freetext
+Free Text:FMMI Parkings\22R-22-22L:freetext
+Free Text:FMMI Parkings\23R-23-23L:freetext
+Free Text:FMMI Parkings\24:freetext
+Free Text:FMMI Parkings\25:freetext
+Free Text:FMMI Parkings\26:freetext
+Free Text:FMMI Parkings\27:freetext
+Free Text:FMMI Parkings\29:freetext
+Free Text:FMMI Parkings\3:freetext
+Free Text:FMMI Parkings\4:freetext
+Free Text:FMMI Parkings\5:freetext
+Free Text:FMMI Parkings\6:freetext
+Free Text:FMMI Parkings\7:freetext
+Free Text:FMMI Parkings\8:freetext
+Free Text:FMMI Parkings\9:freetext
+Free Text:FMMI Parkings\C:freetext
+Free Text:FMMI Parkings\E:freetext
+Free Text:FMMI Parkings\N:freetext
+Free Text:FMMI Parkings\R1:freetext
+Free Text:FMMI Parkings\R2:freetext
+Free Text:FMMI Parkings\S1:freetext
+Free Text:FMMI Parkings\S10:freetext
+Free Text:FMMI Parkings\S12:freetext
+Free Text:FMMI Parkings\S2:freetext
+Free Text:FMMI Parkings\S3:freetext
+Free Text:FMMI Parkings\S4:freetext
+Free Text:FMMI Parkings\S5:freetext
+Free Text:FMMI Parkings\S6:freetext
+Free Text:FMMI Parkings\S8:freetext
+Free Text:FMMI Parkings\W:freetext
+Free Text:FMMI Parkings\Z:freetext
+Geo:FI Landmark Coast:
+Geo:FI Landmark Coast Agalega Islands:
+Geo:FM Landmark Coast Bassas da India:
+Geo:FM Landmark Coast Comores:
+Geo:FM Landmark Coast Europe Island:
+Geo:FM Landmark Coast Juan de Nova:
+Geo:FM Landmark Coast Madagascar:
+Geo:FM Landmark Coast Mayotte:
+Geo:FM Landmark Coast Reunion:
+Geo:FM Landmark Coast Tromelin:
+Geo:FM Landmark Rivers:
+Geo:FM43 Groundlayout:
+Geo:FMCH Groundlayout:
+Geo:FMEE Groundlayout:
+Geo:FMHH Groundlayout:
+Geo:FMME Groundlayout:
+Geo:FMMI Groundlayout:
+Geo:FMMI Landmark Lakes:
+Geo:FMMK Groundlayout:
+Geo:FMML Groundlayout:
+Geo:FMMN Groundlayout:
+Geo:FMMS Groundlayout:
+Geo:FMMT Groundlayout:
+Geo:FMNA Groundlayout:
+Geo:FMNM Groundlayout:
+Geo:FMNN Groundlayout:
+Geo:FMNO Groundlayout:
+Geo:FMNQ Groundlayout:
+Geo:FMNR Groundlayout:
+Geo:FMNW Groundlayout:
+Geo:FMNZ Groundlayout:
+Geo:FMSD Groundlayout:
+Geo:FMSG Groundlayout:
+Geo:FMSK Groundlayout:
+Geo:FMST Groundlayout:
+Geo:FMXX Groundlayout:
+Geo:FMYY Groundlayout:
+Geo:FMZZ Groundlayout:
+Geo:FQ Landmark Coast M:
+Geo:FQ Landmark Coast N:
+Geo:FQ Landmark Coast S:
+Geo:FS Landmark Coast Astove Island:
+Geo:FS Landmark Coast Farquhar Island:
+NDBs:AGG:name
+NDBs:AGG:symbol
+NDBs:AH:name
+NDBs:AH:symbol
+NDBs:AT:name
+NDBs:AT:symbol
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:COE:name
+NDBs:COE:symbol
+NDBs:CP:name
+NDBs:CP:symbol
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:FF:name
+NDBs:FF:symbol
+NDBs:FG:name
+NDBs:FG:symbol
+NDBs:FJO:name
+NDBs:FJO:symbol
+NDBs:FXR:name
+NDBs:FXR:symbol
+NDBs:IA:name
+NDBs:IA:symbol
+NDBs:IN:name
+NDBs:IN:symbol
+NDBs:IO:name
+NDBs:IO:symbol
+NDBs:IR:name
+NDBs:IR:symbol
+NDBs:KA:name
+NDBs:KA:symbol
+NDBs:KG:name
+NDBs:KG:symbol
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LH:name
+NDBs:LH:symbol
+NDBs:LP:name
+NDBs:LP:symbol
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:MF:name
+NDBs:MF:symbol
+NDBs:MJ:name
+NDBs:MJ:symbol
+NDBs:MMY:name
+NDBs:MMY:symbol
+NDBs:MS:name
+NDBs:MS:symbol
+NDBs:MT:name
+NDBs:MT:symbol
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:MV:name
+NDBs:MV:symbol
+NDBs:NC:name
+NDBs:NC:symbol
+NDBs:NT:name
+NDBs:NT:symbol
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:SA:name
+NDBs:SA:symbol
+NDBs:SG:name
+NDBs:SG:symbol
+NDBs:SM:name
+NDBs:SM:symbol
+NDBs:SO:name
+NDBs:SO:symbol
+NDBs:SP:name
+NDBs:SP:symbol
+NDBs:TAN:name
+NDBs:TAN:symbol
+NDBs:TE:name
+NDBs:TE:symbol
+NDBs:TN:name
+NDBs:TN:symbol
+NDBs:TO:name
+NDBs:TO:symbol
+NDBs:TW:name
+NDBs:TW:symbol
+NDBs:UG:name
+NDBs:UG:symbol
+NDBs:UU:name
+NDBs:UU:symbol
+NDBs:VL:name
+NDBs:VL:symbol
+NDBs:VSF:name
+NDBs:VSF:symbol
+NDBs:VSN:name
+NDBs:VSN:symbol
+NDBs:VSO:name
+NDBs:VSO:symbol
+NDBs:VSP:name
+NDBs:VSP:symbol
+NDBs:VSQ:name
+NDBs:VSQ:symbol
+Regions:FM Terrain Madagascar:polygon
+Regions:FM Terrain Reunion:polygon
+Regions:FMMI FMMI Airport Regions:polygon
+Runways:FMCH 02-20:extended centerline 1
+Runways:FMCH 02-20:extended centerline 1 left ticks
+Runways:FMCH 02-20:extended centerline 1 right ticks
+Runways:FMCH 02-20:extended centerline 2
+Runways:FMCH 02-20:extended centerline 2 left ticks
+Runways:FMCH 02-20:extended centerline 2 right ticks
+Runways:FMCV 10-28:centerline
+Runways:FMCV 10-28:extended centerline 1
+Runways:FMCV 10-28:extended centerline 1 left ticks
+Runways:FMCV 10-28:extended centerline 1 right ticks
+Runways:FMCV 10-28:extended centerline 2
+Runways:FMCV 10-28:extended centerline 2 left ticks
+Runways:FMCV 10-28:extended centerline 2 right ticks
+Runways:FMCZ 16-34:centerline
+Runways:FMCZ 16-34:extended centerline 1
+Runways:FMCZ 16-34:extended centerline 1 left ticks
+Runways:FMCZ 16-34:extended centerline 1 right ticks
+Runways:FMCZ 16-34:extended centerline 2
+Runways:FMCZ 16-34:extended centerline 2 left ticks
+Runways:FMCZ 16-34:extended centerline 2 right ticks
+Runways:FMEE 12-30:extended centerline 1
+Runways:FMEE 12-30:extended centerline 1 left ticks
+Runways:FMEE 12-30:extended centerline 1 right ticks
+Runways:FMEE 12-30:extended centerline 2
+Runways:FMEE 12-30:extended centerline 2 left ticks
+Runways:FMEE 12-30:extended centerline 2 right ticks
+Runways:FMEE 14-32:extended centerline 1
+Runways:FMEE 14-32:extended centerline 1 left ticks
+Runways:FMEE 14-32:extended centerline 1 right ticks
+Runways:FMEE 14-32:extended centerline 2
+Runways:FMEE 14-32:extended centerline 2 left ticks
+Runways:FMEE 14-32:extended centerline 2 right ticks
+Runways:FMEP 15-33:centerline
+Runways:FMEP 15-33:extended centerline 1
+Runways:FMEP 15-33:extended centerline 1 left ticks
+Runways:FMEP 15-33:extended centerline 1 right ticks
+Runways:FMEP 15-33:extended centerline 2
+Runways:FMEP 15-33:extended centerline 2 left ticks
+Runways:FMEP 15-33:extended centerline 2 right ticks
+Runways:FMMI 11-29:extended centerline 1
+Runways:FMMI 11-29:extended centerline 1 left ticks
+Runways:FMMI 11-29:extended centerline 1 right ticks
+Runways:FMMI 11-29:extended centerline 2
+Runways:FMMI 11-29:extended centerline 2 left ticks
+Runways:FMMI 11-29:extended centerline 2 right ticks
+Runways:FMMS 01-19:extended centerline 1
+Runways:FMMS 01-19:extended centerline 1 left ticks
+Runways:FMMS 01-19:extended centerline 1 right ticks
+Runways:FMMS 01-19:extended centerline 2
+Runways:FMMS 01-19:extended centerline 2 left ticks
+Runways:FMMS 01-19:extended centerline 2 right ticks
+Runways:FMMT 01-19:extended centerline 1
+Runways:FMMT 01-19:extended centerline 1 left ticks
+Runways:FMMT 01-19:extended centerline 1 right ticks
+Runways:FMMT 01-19:extended centerline 2
+Runways:FMMT 01-19:extended centerline 2 left ticks
+Runways:FMMT 01-19:extended centerline 2 right ticks
+Runways:FMMV 10-28:centerline
+Runways:FMMV 10-28:extended centerline 1
+Runways:FMMV 10-28:extended centerline 1 left ticks
+Runways:FMMV 10-28:extended centerline 1 right ticks
+Runways:FMMV 10-28:extended centerline 2
+Runways:FMMV 10-28:extended centerline 2 left ticks
+Runways:FMMV 10-28:extended centerline 2 right ticks
+Runways:FMNA 13-31:extended centerline 1
+Runways:FMNA 13-31:extended centerline 1 left ticks
+Runways:FMNA 13-31:extended centerline 1 right ticks
+Runways:FMNA 13-31:extended centerline 2
+Runways:FMNA 13-31:extended centerline 2 left ticks
+Runways:FMNA 13-31:extended centerline 2 right ticks
+Runways:FMNM 14-32:extended centerline 1
+Runways:FMNM 14-32:extended centerline 1 left ticks
+Runways:FMNM 14-32:extended centerline 1 right ticks
+Runways:FMNM 14-32:extended centerline 2
+Runways:FMNM 14-32:extended centerline 2 left ticks
+Runways:FMNM 14-32:extended centerline 2 right ticks
+Runways:FMNN 05-23:extended centerline 1
+Runways:FMNN 05-23:extended centerline 1 left ticks
+Runways:FMNN 05-23:extended centerline 1 right ticks
+Runways:FMNN 05-23:extended centerline 2
+Runways:FMNN 05-23:extended centerline 2 left ticks
+Runways:FMNN 05-23:extended centerline 2 right ticks
+Runways:FMNS 16-34:centerline
+Runways:FMNS 16-34:extended centerline 1
+Runways:FMNS 16-34:extended centerline 1 left ticks
+Runways:FMNS 16-34:extended centerline 1 right ticks
+Runways:FMNS 16-34:extended centerline 2
+Runways:FMNS 16-34:extended centerline 2 left ticks
+Runways:FMNS 16-34:extended centerline 2 right ticks
+Runways:FMNW 01-19:extended centerline 1
+Runways:FMNW 01-19:extended centerline 1 left ticks
+Runways:FMNW 01-19:extended centerline 1 right ticks
+Runways:FMNW 01-19:extended centerline 2
+Runways:FMNW 01-19:extended centerline 2 left ticks
+Runways:FMNW 01-19:extended centerline 2 right ticks
+Runways:FMSD 08-26:extended centerline 1
+Runways:FMSD 08-26:extended centerline 1 left ticks
+Runways:FMSD 08-26:extended centerline 1 right ticks
+Runways:FMSD 08-26:extended centerline 2
+Runways:FMSD 08-26:extended centerline 2 left ticks
+Runways:FMSD 08-26:extended centerline 2 right ticks
+Runways:FMSK 05-23:extended centerline 1
+Runways:FMSK 05-23:extended centerline 1 left ticks
+Runways:FMSK 05-23:extended centerline 1 right ticks
+Runways:FMSK 05-23:extended centerline 2
+Runways:FMSK 05-23:extended centerline 2 left ticks
+Runways:FMSK 05-23:extended centerline 2 right ticks
+Runways:FMSM 04-22:centerline
+Runways:FMSM 04-22:extended centerline 1
+Runways:FMSM 04-22:extended centerline 1 left ticks
+Runways:FMSM 04-22:extended centerline 1 right ticks
+Runways:FMSM 04-22:extended centerline 2
+Runways:FMSM 04-22:extended centerline 2 left ticks
+Runways:FMSM 04-22:extended centerline 2 right ticks
+Runways:FMST 04-22:extended centerline 1
+Runways:FMST 04-22:extended centerline 1 left ticks
+Runways:FMST 04-22:extended centerline 1 right ticks
+Runways:FMST 04-22:extended centerline 2
+Runways:FMST 04-22:extended centerline 2 left ticks
+Runways:FMST 04-22:extended centerline 2 right ticks
+VORs:DI:name
+VORs:DI:symbol
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:DZP:name
+VORs:DZP:symbol
+VORs:FDN:name
+VORs:FDN:symbol
+VORs:GBY:name
+VORs:GBY:symbol
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:MG:name
+VORs:MG:symbol
+VORs:MT:name
+VORs:MT:symbol
+VORs:NSB:name
+VORs:NSB:symbol
+VORs:PLS:name
+VORs:PLS:symbol
+VORs:PRF:name
+VORs:PRF:symbol
+VORs:RBV:name
+VORs:RBV:symbol
+VORs:SB:name
+VORs:SB:symbol
+VORs:SDG:name
+VORs:SDG:symbol
+VORs:TNV:name
+VORs:TNV:symbol
+VORs:TU:name
+VORs:TU:symbol
+VORs:VBR:name
+VORs:VBR:symbol
+VORs:VCL:name
+VORs:VCL:symbol
+VORs:VKA:name
+VORs:VKA:symbol
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VMA:name
+VORs:VMA:symbol
+VORs:VMZ:name
+VORs:VMZ:symbol
+VORs:VNC:name
+VORs:VNC:symbol
+VORs:VNP:name
+VORs:VNP:symbol
+VORs:VQL:name
+VORs:VQL:symbol
+VORs:VTZ:name
+VORs:VTZ:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-20.898442:55.504502:-20.884530:55.531354

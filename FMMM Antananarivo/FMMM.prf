@@ -1,0 +1,63 @@
+Settings	SettingsfileSYMBOLOGY	\FMMM\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FMMM\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FMMM\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FMMM\Settings\Tags_TS.txt
+Settings	SettingsfileSIL	\FMMM\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FMMM\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FMMM\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FMMM\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FMMM\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FMMM\Settings\Plugins.txt
+Settings	Settingsfile	\FMMM\Settings\General.txt
+Settings	SettingsfileSCREEN	\FMMM\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FMMM\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FMMM\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FMMM\Settings\PilotingList.txt
+Settings	alias	\FMMM\Alias\alias.txt
+Settings	airlines	\FMMM\ICAO\ICAO_Airlines.txt
+Settings	airports	\FMMM\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FMMM\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FMMM\NavData\airway.txt
+Settings	airportcoords	\FMMM\NavData\icao.txt
+RecentFiles	Recent1	\FMMM\ASR\1_CTR.asr
+ASRFastKeys	1	\FMMM\ASR\1_CTR.asr
+ASRFastKeys	2	\FMMM\ASR\2_APP.asr
+ASRFastKeys	3	\FMMM\ASR\3_TWR.asr
+Plugins	Plugin1	\FMMM\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Settings	sector	\FMMM-Package_20220811174930-220801-0001.sct
+Plugins	Plugin0	\FMMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\FMMM\Sounds\handoff_accept.wav
+Sounds	Sound2	\FMMM\Sounds\conflict_alert.wav
+Sounds	Sound3	\FMMM\Sounds\radio_message.wav
+Sounds	Sound4	\FMMM\Sounds\private_message.wav
+Sounds	Sound5	\FMMM\Sounds\atc_message.wav
+Sounds	Sound6	\FMMM\Sounds\broadcast_message.wav
+Sounds	Sound7	\FMMM\Sounds\landline_request.wav
+Sounds	Sound8	\FMMM\Sounds\supervisor_message.wav
+Sounds	Sound9	\FMMM\Sounds\connected.wav
+Sounds	Sound10	\FMMM\Sounds\disconnected.wav
+Sounds	Sound11	\FMMM\Sounds\ongoing_request.wav
+Sounds	Sound12	\FMMM\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FMMM\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FMMM\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FMMM\Sounds\new_atis.wav
+Sounds	Sound16	\FMMM\Sounds\handoff_refused.wav
+Sounds	Sound17	\FMMM\Sounds\pointout.wav
+Sounds	Sound18	\FMMM\Sounds\startup.wav
+Sounds	Sound19	\FMMM\Sounds\startup.wav
+Sounds	Sound20	\FMMM\Sounds\supervisor_message.wav
+Sounds	Sound0	\FMMM\Sounds\handoff_request.wav

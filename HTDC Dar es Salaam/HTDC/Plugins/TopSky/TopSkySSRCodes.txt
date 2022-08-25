@@ -1,0 +1,71 @@
+// ##################################################################
+//                 VATSSA | FIR HTDC | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.2
+// Update Date 19/08/2022
+
+
+// ##################################################################
+//                 HTDC DAR ES SALAAM
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:3100:3177
+PRIORITY:3
+NOTADEP:HT
+NOTADES:HT
+IFR
+
+
+// ##################################################################
+//                 HT TANZANIA
+// ##################################################################
+
+// DAR ES SALAAM DOMESTIC I
+RANGE:7000:7077
+PRIORITY:3
+ADEP:HT
+ADES:HT
+VFR
+
+// DAR ES SALAAM DOMESTIC II
+RANGE:7300:7377
+PRIORITY:1
+ADEP:HT
+ADES:HT
+IFR
+VFR
+
+// DAR ES SALAAM DOMESTIC III
+RANGE:3500:3577
+PRIORITY:2
+ADEP:HT
+ADES:HT
+IFR
+
+// DAR ES SALAAM DOMESTIC IV
+RANGE:4000:4077
+PRIORITY:3
+ADEP:HT
+ADES:HT
+IFR
+
+// DAR ES SALAAM INTERNATIONAL OUTBOUND
+RANGE:3100:3177
+PRIORITY:3
+ADEP:HT
+NOTADES:HT
+IFR
+
+// DAR ES SALAAM INTERNATIONAL INBOUND
+RANGE:3100:3177
+PRIORITY:3
+NOTADEP:HT
+ADES:HT
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

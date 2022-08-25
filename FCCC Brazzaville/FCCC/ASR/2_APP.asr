@@ -1,0 +1,490 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:DNAA:name
+Airports:DNAA:symbol
+Airports:DNAI:name
+Airports:DNAI:symbol
+Airports:DNAK:name
+Airports:DNAK:symbol
+Airports:DNAS:name
+Airports:DNAS:symbol
+Airports:DNBB:name
+Airports:DNBB:symbol
+Airports:DNBE:name
+Airports:DNBE:symbol
+Airports:DNBK:name
+Airports:DNBK:symbol
+Airports:DNCA:name
+Airports:DNCA:symbol
+Airports:DNDS:name
+Airports:DNDS:symbol
+Airports:DNEK:name
+Airports:DNEK:symbol
+Airports:DNEN:name
+Airports:DNEN:symbol
+Airports:DNES:name
+Airports:DNES:symbol
+Airports:DNFB:name
+Airports:DNFB:symbol
+Airports:DNFD:name
+Airports:DNFD:symbol
+Airports:DNGO:name
+Airports:DNGO:symbol
+Airports:DNGU:name
+Airports:DNGU:symbol
+Airports:DNIB:name
+Airports:DNIB:symbol
+Airports:DNIL:name
+Airports:DNIL:symbol
+Airports:DNIM:name
+Airports:DNIM:symbol
+Airports:DNJO:name
+Airports:DNJO:symbol
+Airports:DNKA:name
+Airports:DNKA:symbol
+Airports:DNKN:name
+Airports:DNKN:symbol
+Airports:DNKT:name
+Airports:DNKT:symbol
+Airports:DNMA:name
+Airports:DNMA:symbol
+Airports:DNMM:name
+Airports:DNMM:symbol
+Airports:DNMN:name
+Airports:DNMN:symbol
+Airports:DNOS:name
+Airports:DNOS:symbol
+Airports:DNPM:name
+Airports:DNPM:symbol
+Airports:DNPO:name
+Airports:DNPO:symbol
+Airports:DNSO:name
+Airports:DNSO:symbol
+Airports:DNSU:name
+Airports:DNSU:symbol
+Airports:DNYO:name
+Airports:DNYO:symbol
+Airports:DNZA:name
+Airports:DNZA:symbol
+Airports:FCBB:name
+Airports:FCBB:symbol
+Airports:FCBK:name
+Airports:FCBK:symbol
+Airports:FCBL:name
+Airports:FCBL:symbol
+Airports:FCBM:name
+Airports:FCBM:symbol
+Airports:FCBS:name
+Airports:FCBS:symbol
+Airports:FCBY:name
+Airports:FCBY:symbol
+Airports:FCBZ:name
+Airports:FCBZ:symbol
+Airports:FCMK:name
+Airports:FCMK:symbol
+Airports:FCMM:name
+Airports:FCMM:symbol
+Airports:FCOB:name
+Airports:FCOB:symbol
+Airports:FCOD:name
+Airports:FCOD:symbol
+Airports:FCOE:name
+Airports:FCOE:symbol
+Airports:FCOI:name
+Airports:FCOI:symbol
+Airports:FCOM:name
+Airports:FCOM:symbol
+Airports:FCOO:name
+Airports:FCOO:symbol
+Airports:FCOS:name
+Airports:FCOS:symbol
+Airports:FCOU:name
+Airports:FCOU:symbol
+Airports:FCPA:name
+Airports:FCPA:symbol
+Airports:FCPD:name
+Airports:FCPD:symbol
+Airports:FCPP:name
+Airports:FCPP:symbol
+Airports:FEFA:name
+Airports:FEFA:symbol
+Airports:FEFB:name
+Airports:FEFB:symbol
+Airports:FEFF:name
+Airports:FEFF:symbol
+Airports:FEFG:name
+Airports:FEFG:symbol
+Airports:FEFI:name
+Airports:FEFI:symbol
+Airports:FEFM:name
+Airports:FEFM:symbol
+Airports:FEFN:name
+Airports:FEFN:symbol
+Airports:FEFO:name
+Airports:FEFO:symbol
+Airports:FEFR:name
+Airports:FEFR:symbol
+Airports:FEFS:name
+Airports:FEFS:symbol
+Airports:FEFT:name
+Airports:FEFT:symbol
+Airports:FEFY:name
+Airports:FEFY:symbol
+Airports:FEFZ:name
+Airports:FEFZ:symbol
+Airports:FEGE:name
+Airports:FEGE:symbol
+Airports:FEGF:name
+Airports:FEGF:symbol
+Airports:FEGZ:name
+Airports:FEGZ:symbol
+Airports:FGAN:name
+Airports:FGAN:symbol
+Airports:FGBT:name
+Airports:FGBT:symbol
+Airports:FGMM:name
+Airports:FGMM:symbol
+Airports:FGMY:name
+Airports:FGMY:symbol
+Airports:FGSL:name
+Airports:FGSL:symbol
+Airports:FKAB:name
+Airports:FKAB:symbol
+Airports:FKAF:name
+Airports:FKAF:symbol
+Airports:FKAG:name
+Airports:FKAG:symbol
+Airports:FKKB:name
+Airports:FKKB:symbol
+Airports:FKKC:name
+Airports:FKKC:symbol
+Airports:FKKD:name
+Airports:FKKD:symbol
+Airports:FKKE:name
+Airports:FKKE:symbol
+Airports:FKKF:name
+Airports:FKKF:symbol
+Airports:FKKI:name
+Airports:FKKI:symbol
+Airports:FKKL:name
+Airports:FKKL:symbol
+Airports:FKKM:name
+Airports:FKKM:symbol
+Airports:FKKN:name
+Airports:FKKN:symbol
+Airports:FKKO:name
+Airports:FKKO:symbol
+Airports:FKKR:name
+Airports:FKKR:symbol
+Airports:FKKS:name
+Airports:FKKS:symbol
+Airports:FKKT:name
+Airports:FKKT:symbol
+Airports:FKKV:name
+Airports:FKKV:symbol
+Airports:FKKW:name
+Airports:FKKW:symbol
+Airports:FKKY:name
+Airports:FKKY:symbol
+Airports:FKOY:name
+Airports:FKOY:symbol
+Airports:FKYS:name
+Airports:FKYS:symbol
+Airports:FNCA:name
+Airports:FNCA:symbol
+Airports:FNSO:name
+Airports:FNSO:symbol
+Airports:FOGI:name
+Airports:FOGI:symbol
+Airports:FOGK:name
+Airports:FOGK:symbol
+Airports:FOGM:name
+Airports:FOGM:symbol
+Airports:FOGO:name
+Airports:FOGO:symbol
+Airports:FOGQ:name
+Airports:FOGQ:symbol
+Airports:FOGR:name
+Airports:FOGR:symbol
+Airports:FOOD:name
+Airports:FOOD:symbol
+Airports:FOOG:name
+Airports:FOOG:symbol
+Airports:FOOH:name
+Airports:FOOH:symbol
+Airports:FOOK:name
+Airports:FOOK:symbol
+Airports:FOOL:name
+Airports:FOOL:symbol
+Airports:FOON:name
+Airports:FOON:symbol
+Airports:FOOT:name
+Airports:FOOT:symbol
+Airports:FOOY:name
+Airports:FOOY:symbol
+Airports:FPPR:name
+Airports:FPPR:symbol
+Airports:FPST:name
+Airports:FPST:symbol
+Airports:FZAA:name
+Airports:FZAA:symbol
+Airports:FZAB:name
+Airports:FZAB:symbol
+Airports:FZAG:name
+Airports:FZAG:symbol
+Airports:FZAI:name
+Airports:FZAI:symbol
+Airports:FZAJ:name
+Airports:FZAJ:symbol
+Airports:FZAM:name
+Airports:FZAM:symbol
+Airports:FZAW:name
+Airports:FZAW:symbol
+Airports:FZBA:name
+Airports:FZBA:symbol
+Airports:FZBE:name
+Airports:FZBE:symbol
+Airports:FZBF:name
+Airports:FZBF:symbol
+Airports:FZBH:name
+Airports:FZBH:symbol
+Airports:FZBI:name
+Airports:FZBI:symbol
+Airports:FZBJ:name
+Airports:FZBJ:symbol
+Airports:FZBO:name
+Airports:FZBO:symbol
+Airports:FZBT:name
+Airports:FZBT:symbol
+Airports:FZCA:name
+Airports:FZCA:symbol
+Airports:FZCB:name
+Airports:FZCB:symbol
+Airports:FZCF:name
+Airports:FZCF:symbol
+Airports:FZCG:name
+Airports:FZCG:symbol
+Airports:FZCS:name
+Airports:FZCS:symbol
+Airports:FZEA:name
+Airports:FZEA:symbol
+Airports:FZEN:name
+Airports:FZEN:symbol
+Airports:FZFA:name
+Airports:FZFA:symbol
+Airports:FZFC:name
+Airports:FZFC:symbol
+Airports:FZFD:name
+Airports:FZFD:symbol
+Airports:FZFE:name
+Airports:FZFE:symbol
+Airports:FZFK:name
+Airports:FZFK:symbol
+Airports:FZFP:name
+Airports:FZFP:symbol
+Airports:FZFQ:name
+Airports:FZFQ:symbol
+Airports:FZFU:name
+Airports:FZFU:symbol
+Airports:FZGA:name
+Airports:FZGA:symbol
+Airports:FZGN:name
+Airports:FZGN:symbol
+Airports:FZGV:name
+Airports:FZGV:symbol
+Airports:FZIA:name
+Airports:FZIA:symbol
+Airports:FZIC:name
+Airports:FZIC:symbol
+Airports:FZJA:name
+Airports:FZJA:symbol
+Airports:FZJH:name
+Airports:FZJH:symbol
+Airports:FZKA:name
+Airports:FZKA:symbol
+Airports:FZKB:name
+Airports:FZKB:symbol
+Airports:FZKJ:name
+Airports:FZKJ:symbol
+Airports:FZMA:name
+Airports:FZMA:symbol
+Airports:FZMW:name
+Airports:FZMW:symbol
+Airports:FZNA:name
+Airports:FZNA:symbol
+Airports:FZNC:name
+Airports:FZNC:symbol
+Airports:FZNF:name
+Airports:FZNF:symbol
+Airports:FZNP:name
+Airports:FZNP:symbol
+Airports:FZNS:name
+Airports:FZNS:symbol
+Airports:FZOA:name
+Airports:FZOA:symbol
+Airports:FZOD:name
+Airports:FZOD:symbol
+Airports:FZOK:name
+Airports:FZOK:symbol
+Airports:FZOP:name
+Airports:FZOP:symbol
+Airports:FZQA:name
+Airports:FZQA:symbol
+Airports:FZQF:name
+Airports:FZQF:symbol
+Airports:FZQH:name
+Airports:FZQH:symbol
+Airports:FZQM:name
+Airports:FZQM:symbol
+Airports:FZQP:name
+Airports:FZQP:symbol
+Airports:FZQU:name
+Airports:FZQU:symbol
+Airports:FZRA:name
+Airports:FZRA:symbol
+Airports:FZRC:name
+Airports:FZRC:symbol
+Airports:FZRF:name
+Airports:FZRF:symbol
+Airports:FZRG:name
+Airports:FZRG:symbol
+Airports:FZRJ:name
+Airports:FZRJ:symbol
+Airports:FZRK:name
+Airports:FZRK:symbol
+Airports:FZRL:name
+Airports:FZRL:symbol
+Airports:FZRM:name
+Airports:FZRM:symbol
+Airports:FZRO:name
+Airports:FZRO:symbol
+Airports:FZRQ:name
+Airports:FZRQ:symbol
+Airports:FZSA:name
+Airports:FZSA:symbol
+Airports:FZSB:name
+Airports:FZSB:symbol
+Airports:FZSI:name
+Airports:FZSI:symbol
+Airports:FZTS:name
+Airports:FZTS:symbol
+Airports:FZUA:name
+Airports:FZUA:symbol
+Airports:FZUK:name
+Airports:FZUK:symbol
+Airports:FZUW:name
+Airports:FZUW:symbol
+Airports:FZVA:name
+Airports:FZVA:symbol
+Airports:FZVI:name
+Airports:FZVI:symbol
+Airports:FZVJ:name
+Airports:FZVJ:symbol
+Airports:FZVP:name
+Airports:FZVP:symbol
+Airports:FZVS:name
+Airports:FZVS:symbol
+Airports:FZVU:name
+Airports:FZVU:symbol
+Airports:FZVV:name
+Airports:FZVV:symbol
+Airports:FZWA:name
+Airports:FZWA:symbol
+Airports:FZWE:name
+Airports:FZWE:symbol
+Airports:FZWR:name
+Airports:FZWR:symbol
+Airports:FZWT:name
+Airports:FZWT:symbol
+Free Text:FGBT Taxiways and Aprons\A:freetext
+Free Text:FGBT Taxiways and Aprons\B:freetext
+Free Text:FGBT Taxiways and Aprons\C:freetext
+Free Text:FGBT Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\A:freetext
+Free Text:FGSL Taxiways and Aprons\A:freetext
+Free Text:FGSL Taxiways and Aprons\Apron A:freetext
+Free Text:FGSL Taxiways and Aprons\Apron B:freetext
+Free Text:FGSL Taxiways and Aprons\Apron C:freetext
+Free Text:FGSL Taxiways and Aprons\B:freetext
+Free Text:FGSL Taxiways and Aprons\C1:freetext
+Free Text:FGSL Taxiways and Aprons\C2:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\Future Terminal:freetext
+Free Text:FGSL Taxiways and Aprons\G:freetext
+Free Text:FGSL Taxiways and Aprons\Hangar:freetext
+Free Text:FGSL Taxiways and Aprons\Hangar:freetext
+Free Text:FGSL Taxiways and Aprons\Helicopter Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Military Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Military Twy:freetext
+Free Text:FGSL Taxiways and Aprons\Presidential Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Presidential Terminal:freetext
+Free Text:FGSL Taxiways and Aprons\Terminal:freetext
+Free Text:FKKD Parking\A1:freetext
+Free Text:FKKD Parking\A2:freetext
+Free Text:FKKD Parking\A3:freetext
+Free Text:FKKD Parking\A4:freetext
+Free Text:FKKD Parking\A5:freetext
+Free Text:FKKD Parking\A6:freetext
+Free Text:FKKD Parking\A7:freetext
+Free Text:FKKD Parking\B1:freetext
+Free Text:FKKD Parking\B2:freetext
+Free Text:FKKD Parking\B3:freetext
+Free Text:FKKD Parking\C1:freetext
+Free Text:FKKD Parking\C2:freetext
+Free Text:FKKD Parking\C3:freetext
+Free Text:FKKD Parking\C4:freetext
+Free Text:FKKD Parking\C5:freetext
+Free Text:FKKD Parking\C6:freetext
+Free Text:FKKD Parking\C7:freetext
+Free Text:FKKD Parking\C8:freetext
+Free Text:FKKD Parking\P:freetext
+Free Text:FKKD Taxiways and Aprons\A:freetext
+Free Text:FKKD Taxiways and Aprons\Apron A:freetext
+Free Text:FKKD Taxiways and Aprons\Apron B:freetext
+Free Text:FKKD Taxiways and Aprons\Apron C:freetext
+Free Text:FKKD Taxiways and Aprons\Apron Military:freetext
+Free Text:FKKD Taxiways and Aprons\B:freetext
+Free Text:FKKD Taxiways and Aprons\C:freetext
+Free Text:FKKD Taxiways and Aprons\Cargo:freetext
+Free Text:FKKD Taxiways and Aprons\D:freetext
+Free Text:FKKD Taxiways and Aprons\E:freetext
+Free Text:FKKD Taxiways and Aprons\G:freetext
+Free Text:FKKD Taxiways and Aprons\I:freetext
+Free Text:FKKD Taxiways and Aprons\M:freetext
+Free Text:FKKD Taxiways and Aprons\N:freetext
+Free Text:FKKD Taxiways and Aprons\Presidential Terminal:freetext
+Free Text:FKKD Taxiways and Aprons\Terminal:freetext
+Geo:FC Landmark Coast N:
+Geo:FC Landmark Coast S:
+Geo:FG Landmark Coast:
+Geo:FGBT Groundlayout Bata:
+Geo:FGSL Groundlayout Malabo:
+Geo:FKKD Groundlayout Douala:
+Geo:FP Groundlayout Sao Tome:
+Geo:FP Landmark Coast:
+Geo:GEO:
+Regions:FKKD Ground Layout:polygon
+VORs:BKY:symbol
+VORs:KIS:symbol
+VORs:LAG:symbol
+VORs:OSB:symbol
+VORs:PAM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:2.515076:6.987150:5.508258:12.429516

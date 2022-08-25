@@ -1,0 +1,33 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:FACA:
+ARTCC high boundary:FAJA:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FIMP:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:FWLL:
+ARTCC high boundary:FYWH:
+ARTCC high boundary:HTDC:
+Geo:GEO:
+SHOWC:1
+SHOWSB:0
+BELOW:17500
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:-0.00000
+TAGFAMILY:VATSSA FSS
+WINDOWAREA:-54.479931:-13.090153:5.866306:98.054364

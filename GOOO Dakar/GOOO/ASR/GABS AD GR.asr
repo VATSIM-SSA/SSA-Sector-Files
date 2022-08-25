@@ -1,0 +1,41 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GABS AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GABS AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:GABS:name
+Airports:GABS:symbol
+Geo:GABS Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:10000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:34.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:12.527567:-7.966694:12.546333:-7.931614
+PLUGIN:Ground Radar plugin:AirportElevation:1247
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GABS
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GOOO,DIAP
+PLUGIN:TopSky plugin:HideMapData:ICAO

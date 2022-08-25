@@ -1,0 +1,75 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A:freetext
+Free Text:DNAA Ground Labels\A1:freetext
+Free Text:DNAA Ground Labels\A2:freetext
+Free Text:DNAA Ground Labels\A2:freetext
+Free Text:DNAA Ground Labels\A3:freetext
+Free Text:DNAA Ground Labels\A3:freetext
+Free Text:DNAA Ground Labels\A4:freetext
+Free Text:DNAA Ground Labels\A5:freetext
+Free Text:DNAA Ground Labels\A6:freetext
+Free Text:DNAA Ground Labels\A7:freetext
+Free Text:DNAA Ground Labels\Apron 1:freetext
+Free Text:DNAA Ground Labels\Apron 2:freetext
+Free Text:DNAA Ground Labels\B:freetext
+Free Text:DNAA Ground Labels\B:freetext
+Free Text:DNAA Ground Labels\B1:freetext
+Free Text:DNAA Ground Labels\B2:freetext
+Free Text:DNAA Ground Labels\B3:freetext
+Free Text:DNAA Ground Labels\B4:freetext
+Free Text:DNAA Ground Labels\C1:freetext
+Free Text:DNAA Ground Labels\C2:freetext
+Free Text:DNAA Ground Labels\C3:freetext
+Free Text:DNAA Ground Labels\D1:freetext
+Free Text:DNAA Ground Labels\D2:freetext
+Free Text:DNAA Ground Labels\D3:freetext
+Free Text:DNAA Ground Labels\D4:freetext
+Free Text:DNAA Ground Labels\D5:freetext
+Free Text:DNAA Ground Labels\D6:freetext
+Free Text:DNAA Ground Labels\D7:freetext
+Free Text:DNAA Ground Labels\D8:freetext
+Free Text:DNAA Ground Labels\D9:freetext
+Free Text:DNAA Ground Labels\E1:freetext
+Free Text:DNAA Ground Labels\E10:freetext
+Free Text:DNAA Ground Labels\E11:freetext
+Free Text:DNAA Ground Labels\E12:freetext
+Free Text:DNAA Ground Labels\E13:freetext
+Free Text:DNAA Ground Labels\E14:freetext
+Free Text:DNAA Ground Labels\E15:freetext
+Free Text:DNAA Ground Labels\E16:freetext
+Free Text:DNAA Ground Labels\E17:freetext
+Free Text:DNAA Ground Labels\E18:freetext
+Free Text:DNAA Ground Labels\E19:freetext
+Free Text:DNAA Ground Labels\E2:freetext
+Free Text:DNAA Ground Labels\E3:freetext
+Free Text:DNAA Ground Labels\E4:freetext
+Free Text:DNAA Ground Labels\E5:freetext
+Free Text:DNAA Ground Labels\E6:freetext
+Free Text:DNAA Ground Labels\E7:freetext
+Free Text:DNAA Ground Labels\E8:freetext
+Free Text:DNAA Ground Labels\E9:freetext
+Free Text:DNAA Ground Labels\GATZ Apron:freetext
+Geo:DNAA Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:8.673694:6.536204:9.492894:8.040618
+PLUGIN:TopSky plugin:ShowMapData:DNAA

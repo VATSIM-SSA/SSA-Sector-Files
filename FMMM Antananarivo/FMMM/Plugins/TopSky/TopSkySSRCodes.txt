@@ -1,0 +1,112 @@
+// ##################################################################
+//                 VATSSA | FIR FMMMM | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.3
+// Update Date 19/08/2022
+
+
+// ##################################################################
+//                 FMMM ANTANANARIVO
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:4740:4777
+PRIORITY:3
+NOTADEP:FM
+NOTADES:FM
+IFR
+
+
+// ##################################################################
+//                 FM MADAGASCAR
+// ##################################################################
+
+//HKJK DEPs
+RANGE:0500:0577
+ADEP:HKJK
+IFR
+
+//HKJK DEPs
+RANGE:1300:1377
+ADEP:HKJK
+IFR
+VFR
+
+// ##################################################################
+//                 FM MADAGASCAR
+// ##################################################################
+
+// MADAGASCAR DOMESTIC I
+RANGE:0620:0677
+PRIORITY:3
+ADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+ADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+IFR
+
+// MADAGASCAR DOMESTIC I
+RANGE:5200:5277
+PRIORITY:2
+ADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+ADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+IFR
+
+// MADAGASCAR INTERNATIONAL OUTBOUND
+RANGE:4740:4777
+PRIORITY:3
+ADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+NOTADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+IFR
+
+// MADAGASCAR INTERNATIONAL INBOUND
+RANGE:4740:4777
+PRIORITY:3
+NOTADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+ADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
+IFR
+
+
+// ##################################################################
+//                 FM MAYOTTE
+// ##################################################################
+
+// FMCZ | DZAOUDZI PAMANDZI
+
+
+// ##################################################################
+//                 FM REUNION
+// ##################################################################
+
+// LA REUNION DOMESTIC
+RANGE:0600:0617
+PRIORITY:3
+ADEP:FMEE
+ADES:FMEE
+
+// LA REUNION INTERNATIONAL OUTBOUND
+RANGE:4720:4737
+PRIORITY:3
+ADEP:FMEE
+NOTADES:FMEE
+
+// LA REUNION INTERNATIONAL INBOUND
+RANGE:4720:4737
+PRIORITY:3
+NOTADEP:FMEE
+ADES:FMEE
+
+
+// ##################################################################
+//                 FM COMOROS
+// ##################################################################
+
+// FMCH | PRINCE SAID IBRAHIM MORONI
+
+// FMCI | BANDARESSALAM MOHELI
+
+// FMCV | OUANI ANJOUAN
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

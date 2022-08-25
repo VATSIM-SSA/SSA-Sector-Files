@@ -1,0 +1,71 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:FDSK-TMA:
+ARTCC boundary:FQBR-TMA:
+ARTCC boundary:FQMA-TMA:
+ARTCC boundary:FQNC-TMA:
+ARTCC boundary:FQNP-TMA:
+ARTCC boundary:FQPB-TMA:
+ARTCC boundary:FQQL-TMA:
+ARTCC boundary:FQTT-TMA:
+ARTCC boundary:FQVL-TMA:
+ARTCC boundary:FWCL-TMA:
+ARTCC boundary:FWKI-CTA:
+ARTCC high boundary:FAJA:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FWLL:
+ARTCC high boundary:HTDC:
+ARTCC low boundary:FQLC-CTR:
+Free Text:FQBR Beira\A:freetext
+Free Text:FQBR Beira\B:freetext
+Free Text:FQBR Beira\C:freetext
+Free Text:FQBR Beira\Terminal:freetext
+Free Text:FQMA Maputo\1:freetext
+Free Text:FQMA Maputo\2:freetext
+Free Text:FQMA Maputo\3:freetext
+Free Text:FQMA Maputo\A:freetext
+Free Text:FQMA Maputo\B:freetext
+Free Text:FQMA Maputo\C:freetext
+Free Text:FQMA Maputo\CARGO:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\E:freetext
+Free Text:FQMA Maputo\F:freetext
+Free Text:FQMA Maputo\MIL_AREA:freetext
+Free Text:FQMA Maputo\TERMINAL:freetext
+Free Text:FQMA Maputo\TOWER:freetext
+Geo:FQBR Groundlayout:
+Geo:FQBR Groundlayout Stopbars:
+Geo:FQCH Groundlayout:
+Geo:FQIA Groundlayout:
+Geo:FQIN Groundlayout:
+Geo:FQMA Groundlayout:
+Geo:FQNM Groundlayout:
+Geo:FQPB Groundlayout:
+Geo:FQQL Groundlayout:
+Geo:FQVL Groundlayout:
+Geo:GEO:
+Regions:FQBR Groundlayout:polygon
+Regions:FQMA Groundlayout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-26.927308:16.779228:-7.786729:53.676852
+PLUGIN:TopSky plugin:ShowMapData:FQBE

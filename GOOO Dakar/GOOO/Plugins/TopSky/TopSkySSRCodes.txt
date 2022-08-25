@@ -1,0 +1,275 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.2
+// Update Date 19/08/2022
+
+// ##################################################################
+//                 GOOO DAKAR
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:1000:1077
+PRIORITY:3
+NOTADEP:DI,GA,GB,GG,GO,GQ
+NOTADES:DI,GA,GB,GG,GO,GQ
+IFR
+
+
+// ##################################################################
+//                 GLRB ROBERTS
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:2300:2327
+PRIORITY:3
+NOTADEP:GF,GL,GU
+NOTADES:GF,GL,GU
+IFR
+
+
+// ##################################################################
+//                 DI IVORY COAST
+// ##################################################################
+
+// DI DOMESTIC
+RANGE:6400:6477
+PRIORITY:3
+ADEP:DI
+ADES:DI
+IFR
+
+// DI INTERNATIONAL OUTBOUND
+RANGE:1200:1257
+PRIORITY:3
+ADEP:DI
+NOTADES:DI
+IFR
+
+// DI INTERNATIONAL INBOUND
+RANGE:1200:1257
+PRIORITY:3
+NOTADEP:DI
+ADES:DI
+IFR
+
+
+// ##################################################################
+//                 GA MALI
+// ##################################################################
+
+// GA DOMESTIC
+RANGE:0630:0677
+PRIORITY:3
+ADEP:GA
+ADES:GA
+IFR
+
+// GA INTERNATIONAL OUTBOUND
+RANGE:1350:1377
+PRIORITY:3
+ADEP:GA
+NOTADES:GA
+IFR
+
+// GA INTERNATIONAL INBOUND
+RANGE:1350:1377
+PRIORITY:3
+NOTADEP:GA
+ADES:GA
+IFR
+
+
+// ##################################################################
+//                 GB GAMBIA
+// ##################################################################
+
+// GB DOMESTIC
+RANGE:0620:0637
+PRIORITY:3
+ADEP:GB
+ADES:GB
+IFR
+
+// GB INTERNATIONAL OUTBOUND
+RANGE:1270:1277
+PRIORITY:3
+ADEP:GB
+NOTADES:GB
+IFR
+
+// GB INTERNATIONAL INBOUND
+RANGE:1270:1277
+PRIORITY:3
+NOTADEP:GB
+ADES:GB
+IFR
+
+
+// ##################################################################
+//                 GF SIERRA LEONE
+// ##################################################################
+
+// GF DOMESTIC
+RANGE:2700:2777
+PRIORITY:3
+ADEP:GF
+ADES:GF
+IFR
+
+// GF INTERNATIONAL OUTBOUND
+RANGE:2330:2357
+PRIORITY:3
+ADEP:GF
+NOTADES:GF
+IFR
+
+// GF INTERNATIONAL INBOUND
+RANGE:2330:2357
+PRIORITY:3
+NOTADEP:GF
+ADES:GF
+IFR
+
+
+// ##################################################################
+//                 GG GUINEA BISSAU
+// ##################################################################
+
+// GG DOMESTIC
+RANGE:0600:0617
+PRIORITY:3
+ADEP:GG
+ADES:GG
+IFR
+
+// GG INTERNATIONAL OUTBOUND
+RANGE:1260:1267
+PRIORITY:3
+ADEP:GG
+NOTADES:GG
+IFR
+
+// GG INTERNATIONAL INBOUND
+RANGE:1260:1267
+PRIORITY:3
+NOTADEP:GG
+ADES:GG
+IFR
+
+
+// ##################################################################
+//                 GL LIBERIA
+// ##################################################################
+
+// GL DOMESTIC I
+RANGE:0500:0577
+PRIORITY:3
+ADEP:GL
+ADES:GL
+IFR
+
+// GL DOMESTIC II
+RANGE:0400:0477
+PRIORITY:2
+ADEP:GL
+ADES:GL
+IFR
+
+// GL INTERNATIONAL OUTBOUND
+RANGE:2300:2327
+PRIORITY:3
+ADEP:GL
+NOTADES:GL
+IFR
+
+// GL INTERNATIONAL INBOUND
+RANGE:2300:2327
+PRIORITY:3
+NOTADEP:GL
+ADES:GL
+IFR
+
+
+// ##################################################################
+//                 GO SENEGAL
+// ##################################################################
+
+// GO DOMESTIC
+RANGE:0700:0777
+PRIORITY:3
+ADEP:GO
+ADES:GO
+IFR
+
+// GO INTERNATIONAL OUTBOUND
+RANGE:1000:1077
+PRIORITY:3
+ADEP:GO
+NOTADES:GO
+IFR
+
+// GO INTERNATIONAL INBOUND
+RANGE:1000:1077
+PRIORITY:3
+NOTADEP:GO
+ADES:GO
+IFR
+
+
+// ##################################################################
+//                 GQ MAURITANIA
+// ##################################################################
+
+// GQ DOMESTIC
+RANGE:6500:6577
+PRIORITY:3
+ADEP:GQ
+ADES:GQ
+IFR
+
+// GQ INTERNATIONAL OUTBOUND
+RANGE:1300:1347
+PRIORITY:3
+ADEP:GQ
+NOTADES:GQ
+IFR
+
+// GQ INTERNATIONAL INBOUND
+RANGE:1300:1347
+PRIORITY:3
+NOTADEP:GQ
+ADES:GQ
+IFR
+
+
+// ##################################################################
+//                 GU GUINEA REP
+// ##################################################################
+
+// GU DOMESTIC
+RANGE:3000:3077
+PRIORITY:3
+ADEP:GU
+ADES:GU
+IFR
+
+// GU INTERNATIONAL OUTBOUND
+RANGE:2360:2377
+PRIORITY:3
+ADEP:GU
+NOTADES:GU
+IFR
+
+// GU INTERNATIONAL INBOUND
+RANGE:2360:2377
+PRIORITY:3
+NOTADEP:GU
+ADES:GU
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

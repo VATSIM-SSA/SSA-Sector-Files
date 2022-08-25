@@ -1,0 +1,267 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ Runways:GVAC 01-19:centerline	   
+Airports:GOGG:name
+Airports:GOGK:name
+Airports:GOGS:name
+Airports:GOOK:name
+Airports:GOOY:name
+Airports:GOSM:name
+Airports:GOSP:name
+Airports:GOSR:name
+Airports:GOSS:name
+Airports:GOTB:name
+Airports:GOTK:name
+Airports:GOTS:name
+Airports:GOTT:name
+Airports:GQNA:name
+Airports:GQNC:name
+Airports:GQND:name
+Airports:GQNE:name
+Airports:GQNF:name
+Airports:GQNH:name
+Airports:GQNI:name
+Airports:GQNK:name
+Airports:GQNL:name
+Airports:GQNN:name
+Airports:GQNO:name
+Airports:GQNS:name
+Airports:GQNT:name
+Airports:GQPA:name
+Airports:GQPP:name
+Airports:GQPT:name
+Airports:GQPZ:name
+Airports:GVAC:name
+Airports:GVAN:name
+Airports:GVBA:name
+Airports:GVMA:name
+Airports:GVMT:name
+Airports:GVNP:name
+Airports:GVSF:name
+Airports:GVSN:name
+Airports:GVSV:name
+ARTCC boundary:GVSC-TMA:
+ARTCC high boundary:GCCC:
+ARTCC high boundary:GOOC:
+ARTCC high boundary:GOOO:
+ARTCC high boundary:GVSC:
+ARTCC high boundary:LPPO:
+ARTCC low boundary:GVAC-ATZ:
+ARTCC low boundary:GVAC-CTR:
+ARTCC low boundary:GVBA-ATZ:
+ARTCC low boundary:GVNP-CTR:
+ARTCC low boundary:GVSF-ATZ:
+ARTCC low boundary:GVSN-ATZ:
+ARTCC low boundary:GVSV-CTR:
+Fixes:AGTIL:name
+Fixes:AGTIL:symbol
+Fixes:AMDOL:name
+Fixes:AMDOL:symbol
+Fixes:BAMUX:name
+Fixes:BAMUX:symbol
+Fixes:BIKOM:name
+Fixes:BIKOM:symbol
+Fixes:BORTA:name
+Fixes:BORTA:symbol
+Fixes:BOTNO:name
+Fixes:BOTNO:symbol
+Fixes:BULVO:name
+Fixes:BULVO:symbol
+Fixes:DENER:name
+Fixes:DENER:symbol
+Fixes:EDIPA:name
+Fixes:EDIPA:symbol
+Fixes:EDUMO:name
+Fixes:EDUMO:symbol
+Fixes:EVKAS:name
+Fixes:EVKAS:symbol
+Fixes:GARPO:name
+Fixes:GARPO:symbol
+Fixes:GUNET:name
+Fixes:GUNET:symbol
+Fixes:IPERA:name
+Fixes:IPERA:symbol
+Fixes:KENOX:name
+Fixes:KENOX:symbol
+Fixes:KESIK:name
+Fixes:KESIK:symbol
+Fixes:LININ:name
+Fixes:LININ:symbol
+Fixes:LUMPO:name
+Fixes:LUMPO:symbol
+Fixes:MOGSA:name
+Fixes:MOGSA:symbol
+Fixes:MOPAC:name
+Fixes:MOPAC:symbol
+Fixes:NATAS:name
+Fixes:NATAS:symbol
+Fixes:NEMDO:name
+Fixes:NEMDO:symbol
+Fixes:NINAU:name
+Fixes:NINAU:symbol
+Fixes:OBOMO:name
+Fixes:OBOMO:symbol
+Fixes:ONOBI:name
+Fixes:ONOBI:symbol
+Fixes:PINPO:name
+Fixes:PINPO:symbol
+Fixes:PISPU:name
+Fixes:PISPU:symbol
+Fixes:POLMO:name
+Fixes:POLMO:symbol
+Fixes:POMAT:name
+Fixes:POMAT:symbol
+Fixes:RAMOL:name
+Fixes:RAMOL:symbol
+Fixes:RUKAV:name
+Fixes:RUKAV:symbol
+Fixes:SISAU:name
+Fixes:SISAU:symbol
+Fixes:SONVA:name
+Fixes:SONVA:symbol
+Fixes:TARIM:name
+Fixes:TARIM:symbol
+Fixes:TEGTO:name
+Fixes:TEGTO:symbol
+Fixes:TENPA:name
+Fixes:TENPA:symbol
+Fixes:TUTLO:name
+Fixes:TUTLO:symbol
+Fixes:ULTEM:name
+Fixes:ULTEM:symbol
+Fixes:VEPOP:name
+Fixes:VEPOP:symbol
+Fixes:VONTO:name
+Fixes:VONTO:symbol
+Fixes:XIBOT:name
+Fixes:XIBOT:symbol
+Fixes:XIGLU:name
+Fixes:XIGLU:symbol
+Fixes:XUVIT:name
+Fixes:XUVIT:symbol
+Free Text:GV MSA\1700:freetext
+Free Text:GV MSA\2000:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\2500:freetext
+Free Text:GV MSA\3400:freetext
+Free Text:GV MSA\3900:freetext
+Free Text:GV MSA\4600:freetext
+Free Text:GV MSA\6600:freetext
+Free Text:GV MSA\8500:freetext
+Geo:GO Landmark Coast:
+Geo:GV Landmark Coast:
+Geo:GV MRVA:
+High airways:SO1N:line
+High airways:SO3N:line
+High airways:UA302:line
+High airways:UA600:line
+High airways:UA602:line
+High airways:UB600:line
+High airways:UB601:line
+High airways:UB623:line
+High airways:UG853:line
+High airways:UL435:line
+High airways:UN741:line
+High airways:UN857:line
+High airways:UN866:line
+High airways:UN871:line
+High airways:UN873:line
+High airways:UR975:line
+High airways:UR976:line
+High airways:UT770:line
+High airways:UW11:line
+High airways:UW21:line
+High airways:UW22:line
+High airways:UW23:line
+High airways:UW31:line
+High airways:UW32:line
+High airways:UW33:line
+High airways:UW34:line
+High airways:UW35:line
+High airways:UW41:line
+High airways:UW42:line
+High airways:UW43:line
+High airways:UW45:line
+High airways:UW46:line
+High airways:UW47:line
+High airways:UY422:line
+High airways:UZ27:line
+NDBs:BVT:name
+NDBs:BVT:symbol
+NDBs:NCL:name
+NDBs:NCL:symbol
+NDBs:SVT:name
+NDBs:SVT:symbol
+Runways:GVAC 01-19:extended centerline 1	   
+Runways:GVAC 01-19:extended centerline 1 left ticks	   
+Runways:GVAC 01-19:extended centerline 1 right ticks	   
+Runways:GVAC 01-19:extended centerline 2	   
+Runways:GVAC 01-19:extended centerline 2 left ticks	   
+Runways:GVAC 01-19:extended centerline 2 right ticks	   
+Runways:GVBA 03-21:centerline	   
+Runways:GVBA 03-21:extended centerline 1	   
+Runways:GVBA 03-21:extended centerline 1 left ticks	   
+Runways:GVBA 03-21:extended centerline 1 right ticks	   
+Runways:GVBA 03-21:extended centerline 2	   
+Runways:GVBA 03-21:extended centerline 2 left ticks	   
+Runways:GVBA 03-21:extended centerline 2 right ticks	   
+Runways:GVMA 01-19:centerline	   
+Runways:GVMA 01-19:extended centerline 1	   
+Runways:GVMA 01-19:extended centerline 1 left ticks	   
+Runways:GVMA 01-19:extended centerline 1 right ticks	   
+Runways:GVMA 01-19:extended centerline 2	   
+Runways:GVMA 01-19:extended centerline 2 left ticks	   
+Runways:GVMA 01-19:extended centerline 2 right ticks	   
+Runways:GVNP 03-21:centerline	   
+Runways:GVNP 03-21:extended centerline 1	   
+Runways:GVNP 03-21:extended centerline 1 left ticks	   
+Runways:GVNP 03-21:extended centerline 1 right ticks	   
+Runways:GVNP 03-21:extended centerline 2	   
+Runways:GVNP 03-21:extended centerline 2 left ticks	   
+Runways:GVNP 03-21:extended centerline 2 right ticks	   
+Runways:GVSF 14-32:centerline	   
+Runways:GVSF 14-32:extended centerline 1	   
+Runways:GVSF 14-32:extended centerline 1 left ticks	   
+Runways:GVSF 14-32:extended centerline 1 right ticks	   
+Runways:GVSF 14-32:extended centerline 2	   
+Runways:GVSF 14-32:extended centerline 2 left ticks	   
+Runways:GVSF 14-32:extended centerline 2 right ticks	   
+Runways:GVSN 01-19:centerline	   
+Runways:GVSN 01-19:extended centerline 1	   
+Runways:GVSN 01-19:extended centerline 1 left ticks	   
+Runways:GVSN 01-19:extended centerline 1 right ticks	   
+Runways:GVSN 01-19:extended centerline 2	   
+Runways:GVSN 01-19:extended centerline 2 left ticks	   
+Runways:GVSN 01-19:extended centerline 2 right ticks	   
+Runways:GVSV 07-25:centerline	   
+Runways:GVSV 07-25:extended centerline 1	   
+Runways:GVSV 07-25:extended centerline 1 left ticks	   
+Runways:GVSV 07-25:extended centerline 1 right ticks	   
+Runways:GVSV 07-25:extended centerline 2	   
+Runways:GVSV 07-25:extended centerline 2 left ticks	   
+Runways:GVSV 07-25:extended centerline 2 right ticks	 
+VORs:BJ:symbol
+VORs:CVS:name
+VORs:CVS:symbol
+VORs:PE:symbol
+VORs:SNT:name
+VORs:SNT:symbol
+VORs:YF:symbol
+VORs:ZG:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:9.838984:-42.935702:25.368312:-13.633494

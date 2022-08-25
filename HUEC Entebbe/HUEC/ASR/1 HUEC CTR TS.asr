@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:HUEN Parkings\1:freetext
+Free Text:HUEN Parkings\10:freetext
+Free Text:HUEN Parkings\11:freetext
+Free Text:HUEN Parkings\2:freetext
+Free Text:HUEN Parkings\3:freetext
+Free Text:HUEN Parkings\4:freetext
+Free Text:HUEN Parkings\5:freetext
+Free Text:HUEN Parkings\6:freetext
+Free Text:HUEN Parkings\7:freetext
+Free Text:HUEN Parkings\8:freetext
+Free Text:HUEN Parkings\9:freetext
+Free Text:HUEN Taxiways\A:freetext
+Free Text:HUEN Taxiways\A:freetext
+Free Text:HUEN Taxiways\B:freetext
+Free Text:HUEN Taxiways\C:freetext
+Free Text:HUEN Taxiways\C:freetext
+Free Text:HUEN Taxiways\D:freetext
+Free Text:HUEN Taxiways\E:freetext
+Free Text:HUEN Taxiways\F:freetext
+Free Text:HUEN Taxiways\G:freetext
+Free Text:HUEN Taxiways\H:freetext
+Geo:GEO:
+Geo:HUEN Groundlayout:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-1.881626:26.442921:4.726019:38.427866
+PLUGIN:TopSky plugin:ShowMapData:HUEC

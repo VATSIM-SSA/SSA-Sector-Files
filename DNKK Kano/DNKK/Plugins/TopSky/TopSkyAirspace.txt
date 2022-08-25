@@ -1,0 +1,53 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | TopSky | Airspace
+// ##################################################################
+
+// Version v0.6
+// Update Date 17/08/2022
+
+
+// ##################################################################
+//                 DN NIGERIA
+// ##################################################################
+
+// TL Transition Level
+QNHTL:DNAA:65
+QNHTL:DNAI:50
+QNHTL:DNAK:70
+QNHTL:DNBC:65
+QNHTL:DNBE:50
+QNHTL:DNBK:65
+QNHTL:DNCA:65
+QNHTL:DNDS:65
+QNHTL:DNGO:65
+QNHTL:DNIB:50
+QNHTL:DNIL:50
+QNHTL:DNJO:100
+QNHTL:DNKA:65
+QNHTL:DNKN:50
+QNHTL:DNKT:65
+QNHTL:DNMA:50
+QNHTL:DNMM:50
+QNHTL:DNMN:60
+QNHTL:DNIM:50
+QNHTL:DNPO:50
+QNHTL:DNSO:65
+QNHTL:DNSU:50
+QNHTL:DNYO:65
+QNHTL:DNZA:70
+
+// LEVELS
+LEVELS:DNAA:32,34,36,40,45,50
+LEVELS:DNMM:17,20,22,23,25,28,30
+LEVELS:DNKN:32,34
+LEVELS:DNPO:24
+LEVELS:DNYO:25,30,35,39,41,49
+
+// INITIAL CFL
+INITIAL_CFL:1500
+CFL_FRUL:V
+CFL_ADEP:DNMM
+
+// ##################################################################
+//                 THE END
+// ##################################################################

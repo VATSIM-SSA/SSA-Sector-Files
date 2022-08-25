@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+	<apt icao="FYWH">
+		<runway name="08">
+			<sid name="UTULO">
+				<alt>12000</alt>
+			</sid>
+			<sid name="EGMAS">
+				<alt>12000</alt>
+			</sid>
+			</sid>
+		</runway>
+		<runway name="26">
+			<sid name="UTULO">
+				<alt>12000</alt>
+			</sid>
+			<sid name="EGMAS">
+				<alt>12000</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

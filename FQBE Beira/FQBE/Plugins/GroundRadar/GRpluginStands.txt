@@ -1,0 +1,203 @@
+// ##################################################################
+//                 VATSSA | FIR FQBE | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.1
+// Update Date 20/06/2022
+
+// Changelog
+// v0.1 | Initial Create
+
+// Active Airports
+// FQ | FQMA
+
+// ##################################################################
+//                 FQ MOZAMBIQUE
+// ##################################################################
+
+// ##################################################################
+//                 FQMA Maputo
+// ##################################################################
+
+// INTERNATIONAL APRON
+// Stand 01
+STAND:FQMA:01:S25.55.21.649:E32.34.35.277:40
+USE:A
+WTC:MH
+NOTADEP:FQ
+
+// Stand 02
+STAND:FQMA:02:S25.55.21.644:E32.34.32.684:40
+USE:A
+WTC:MH
+NOTADEP:FQ
+
+// Stand 03
+STAND:FQMA:03:S25.55.21.831:E32.34.29.575:40
+USE:A
+WTC:MH
+NOTADEP:FQ
+BLOCKS:03A
+
+// Stand 03A
+STAND:FQMA:03A:S25.55.21.478:E32.34.28.623:40
+USE:A
+WTC:MH
+NOTADEP:FQ
+BLOCKS:03,04
+
+// DOMESTIC APRON
+// Stand 04
+STAND:FQMA:04:S25.55.22.009:E32.34.27.43:30
+USE:A
+WTC:ML
+ADEP:FQ
+BLOCKS:3A
+
+// Stand 05
+STAND:FQMA:05:S25.55.23.033:E32.34.26.732:30
+USE:A
+WTC:ML
+ADEP:FQ
+
+// Stand 06
+STAND:FQMA:06:S25.55.24.101:E32.34.26.037:30
+USE:A
+WTC:ML
+ADEP:FQ
+
+// Stand 07
+STAND:FQMA:07:S25.55.25.178:E32.34.25.327:30
+USE:A
+WTC:ML
+ADEP:FQ
+
+// Stand 08
+STAND:FQMA:08:S25.55.26.32:E32.34.24.588:30
+USE:A
+WTC:ML
+ADEP:FQ
+
+// Stand 09
+STAND:FQMA:09:S25.55.27.514:E32.34.23.83:30
+USE:A
+WTC:ML
+ADEP:FQ
+
+// Stand 10
+STAND:FQMA:10:S25.55.28.647:E32.34.23.227:30
+USE:A
+WTC:ML
+ADEP:FQ
+
+// Stand 11
+STAND:FQMA:11:S25.55.30.019:E32.34.22.662:30
+USE:A
+WTC:ML
+ADEP:FQ
+BLOCKS:13,14,15,16,17,18,19,20
+
+// Stand 12
+STAND:FQMA:12:S25.55.31.187:E32.34.21.923:30
+USE:A
+WTC:ML
+ADEP:FQ
+BLOCKS:13,14,15,16,17,18,19,20
+
+// Stand 13
+STAND:FQMA:13:S25.55.30.115:E32.34.21.487:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 14
+STAND:FQMA:14:S25.55.30.406:E32.34.22.067:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 15
+STAND:FQMA:15:S25.55.30.671:E32.34.22.636:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 16
+STAND:FQMA:16:S25.55.30.988:E32.34.23.278:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 17
+STAND:FQMA:17:S25.55.31.231:E32.34.20.806:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 18
+STAND:FQMA:18:S25.55.31.509:E32.34.21.376:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 19
+STAND:FQMA:19:S25.55.31.774:E32.34.21.946:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// Stand 20
+STAND:FQMA:20:S25.55.32.143:E32.34.22.569:15
+USE:AB
+WTC:L
+BLOCKS:11,12
+
+// CARGO APRON
+// Stand C1
+STAND:FQMA:C1:S25.55.42.325:E32.34.18.069:30
+USE:C
+WTC:M
+BLOCKS:C2
+
+// Stand C2
+STAND:FQMA:C2:S25.55.42.76:E32.34.17.832:40
+USE:C
+WTC:HS
+BLOCKS:C1,C3
+
+// Stand C3
+STAND:FQMA:C3:S25.55.43.854:E32.34.17.311:30
+USE:C
+WTC:M
+BLOCKS:C2
+
+// Stand C4
+STAND:FQMA:C4:S25.55.44.857:E32.34.16.635:40
+USE:C
+WTC:HS
+BLOCKS:C5,C3
+
+// Stand C5
+STAND:FQMA:C5:S25.55.45.217:E32.34.16.268:30
+USE:C
+WTC:M
+BLOCKS:C4
+
+// GENERAL AVIATION MILITARY RAMP
+// Military RAMP
+STAND:FQMA:MIL:S25.55.31.486:E32.33.50.242:350
+USE:ITM
+WTC:LMH
+AREA
+
+// GENERAL AVIATION APRON
+// General Aviation
+STAND:FQMA:GA:S25.55.21.318:E32.34.41.992:130
+USE:PH
+WTC:L
+AREA
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

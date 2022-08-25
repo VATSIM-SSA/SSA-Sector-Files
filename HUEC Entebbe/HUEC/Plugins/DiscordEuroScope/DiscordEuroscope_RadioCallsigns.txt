@@ -1,0 +1,15 @@
+AFRN_FSS North Africa Control
+AFRS_FSS Africa South Control
+FZKA_TWR Bunia Tower
+FZZA_CTR Kinshasa Control
+FZZA_E_CTR Kisangani Control
+HKEL_APP Eldoret Approach
+HKLK_TWR Loki Tower
+HRYR_APP Kigali Approach
+HTDC_CTR Dar-Es-Salaam Control
+HUEC_CTR Entebbe Control
+HUEN_APP Entebbe Approach
+HUEN_GND Entebbe Apron
+HUEN_TWR Entebbe Tower
+HUSO_APP Soroti Approach
+HUSO_TWR Soroti Tower

@@ -1,0 +1,31 @@
+AFRS_FSS Africa South Control
+FAHS_I_CTR Lowveld Info
+FAJA_E_CTR Johannesburg Area East
+FAJA_NW_CTR Johannesburg Area North West
+FAJO_FSS Johannesburg Oceanic
+FDSK_APP Sikhuphe Approach
+FLFI_CTR Lusaka Control
+FMCH_TWR Moroni Tower
+FMMM_CTR Antananarivo Control
+FQBE_CTR Beira Control
+FQBE_S_CTR Maputo Control
+FQBR_APP Beira Approach
+FQBR_GND Beira Ground
+FQBR_TWR Beira Tower
+FQLC_TWR Lichinga Tower
+FQMA_APP Maputo Approach
+FQMA_GND Maputo Ground
+FQMA_TWR Maputo Tower
+FQNC_APP Nacala Approach
+FQNC_TWR Nacala Tower
+FQNP_APP Nampula Approach
+FQNP_TWR Nampula Tower
+FQPB_APP Pemba Approach
+FQQL_APP Quelimane Approach
+FQTT_APP Tete Approach
+FQVL_APP Vilankulo Approach
+FVHF_CTR Harare East Control
+FWCL_APP Chileka Approach
+FWKI_APP Lilongwe Approach
+FWLL_CTR Lilongwe Control
+HTDC_CTR Dar-Es-Salaam Control

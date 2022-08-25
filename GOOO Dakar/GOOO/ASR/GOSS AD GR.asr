@@ -1,0 +1,37 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GOSS AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GOSS AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Geo:GO Landmark Coast:
+Geo:GOSS Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:278.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:16.044634:-16.470026:16.056645:-16.447575
+PLUGIN:Ground Radar plugin:AirportElevation:10
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GOSS
+PLUGIN:TopSky plugin:NoDraw:1

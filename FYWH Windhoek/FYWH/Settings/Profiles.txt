@@ -1,0 +1,49 @@
+PROFILE
+PROFILE:FYWH_CTR:500:6
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYOA_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYWB_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYWH_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYGF_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYKM_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYKT_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYLZ_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYSM_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYWE_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FYWH_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:<initials>_OBS:300:0
+ATIS3:Observing Namibia, part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+END

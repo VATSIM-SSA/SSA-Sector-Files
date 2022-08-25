@@ -1,0 +1,399 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:FAKU:name
+Airports:FALA:name
+Airports:FALM:name
+Airports:FAMM:name
+Airports:FAMS:name
+Airports:FAOR:name
+Airports:FAPI:name
+Airports:FAPN:name
+Airports:FAPP:name
+Airports:FAPS:name
+Airports:FASK:name
+Airports:FASS:name
+Airports:FATW:name
+Airports:FAUP:name
+Airports:FAVM:name
+Airports:FAWB:name
+Airports:FAWK:name
+Airports:FAZR:name
+Airports:FBCO:name
+Airports:FBFT:name
+Airports:FBGH:name
+Airports:FBGM:name
+Airports:FBGZ:name
+Airports:FBJW:name
+Airports:FBKE:name
+Airports:FBKG:name
+Airports:FBKL:name
+Airports:FBKR:name
+Airports:FBKY:name
+Airports:FBLV:name
+Airports:FBMM:name
+Airports:FBMN:name
+Airports:FBNN:name
+Airports:FBNT:name
+Airports:FBNX:name
+Airports:FBOR:name
+Airports:FBPY:name
+Airports:FBSK:name
+Airports:FBSN:name
+Airports:FBSP:name
+Airports:FBSW:name
+Airports:FBTL:name
+Airports:FBTS:name
+Airports:FBXB:name
+Airports:FBXG:name
+Airports:FLHN:name
+Airports:FVBU:name
+Airports:FVFA:name
+Airports:FVWN:name
+Airports:FYGB:name
+Airports:FYKT:name
+Airports:FYML:name
+Airports:FYRU:name
+Airports:FYWH:name
+ARTCC boundary:FBFT-TMA:
+ARTCC boundary:FBKE-TMA:
+ARTCC boundary:FBMN-TMA:
+ARTCC boundary:FBSK-TMA:
+ARTCC boundary:FLHN-CTA:
+ARTCC boundary:FVFA-TMA:
+ARTCC high boundary:FAJA-N:
+ARTCC high boundary:FAJA-W:
+ARTCC high boundary:FBGR:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FVHF:
+ARTCC high boundary:FYWH:
+ARTCC low boundary:FAMM-ATZ:
+ARTCC low boundary:FBFT-CTR:
+ARTCC low boundary:FBKE-CTR:
+ARTCC low boundary:FBMN-CTR:
+ARTCC low boundary:FBSK-CTR:
+Fixes:AGRAM:name
+Fixes:AGRAM:symbol
+Fixes:AMBIT:name
+Fixes:AMBIT:symbol
+Fixes:ANTOG:name
+Fixes:ANTOG:symbol
+Fixes:ANTOR:name
+Fixes:ANTOR:symbol
+Fixes:APDOV:name
+Fixes:APDOV:symbol
+Fixes:APNEX:name
+Fixes:APNEX:symbol
+Fixes:ATUDA:name
+Fixes:ATUDA:symbol
+Fixes:AVOGU:name
+Fixes:AVOGU:symbol
+Fixes:AXIKO:name
+Fixes:AXIKO:symbol
+Fixes:BONAL:name
+Fixes:BONAL:symbol
+Fixes:BOPAL:name
+Fixes:BOPAL:symbol
+Fixes:BOPAN:name
+Fixes:BOPAN:symbol
+Fixes:BUGRO:name
+Fixes:BUGRO:symbol
+Fixes:DANAM:name
+Fixes:DANAM:symbol
+Fixes:DUMPO:name
+Fixes:DUMPO:symbol
+Fixes:DUPKI:name
+Fixes:DUPKI:symbol
+Fixes:EGLIG:name
+Fixes:EGLIG:symbol
+Fixes:EKBID:name
+Fixes:EKBID:symbol
+Fixes:EPMAG:name
+Fixes:EPMAG:symbol
+Fixes:ESPUV:name
+Fixes:ESPUV:symbol
+Fixes:ETLON:name
+Fixes:ETLON:symbol
+Fixes:ETMIT:name
+Fixes:ETMIT:symbol
+Fixes:ETOSA:name
+Fixes:ETOSA:symbol
+Fixes:EXOBO:name
+Fixes:EXOBO:symbol
+Fixes:GABSI:name
+Fixes:GABSI:symbol
+Fixes:GENIX:name
+Fixes:GENIX:symbol
+Fixes:GESAR:name
+Fixes:GESAR:symbol
+Fixes:GESEN:name
+Fixes:GESEN:symbol
+Fixes:IMLAM:name
+Fixes:IMLAM:symbol
+Fixes:IMLAN:name
+Fixes:IMLAN:symbol
+Fixes:IMLIX:name
+Fixes:IMLIX:symbol
+Fixes:KULBU:name
+Fixes:KULBU:symbol
+Fixes:KUTLA:name
+Fixes:KUTLA:symbol
+Fixes:LOTIS:name
+Fixes:LOTIS:symbol
+Fixes:NESEK:name
+Fixes:NESEK:symbol
+Fixes:NETEN:name
+Fixes:NETEN:symbol
+Fixes:RUDAS:name
+Fixes:RUDAS:symbol
+Fixes:SINKI:name
+Fixes:SINKI:symbol
+Fixes:SOKIM:name
+Fixes:SOKIM:symbol
+Fixes:TAVAS:name
+Fixes:TAVAS:symbol
+Fixes:TAVLA:name
+Fixes:TAVLA:symbol
+Fixes:TETUS:name
+Fixes:TETUS:symbol
+Fixes:TIKOK:name
+Fixes:TIKOK:symbol
+Fixes:TIMED:name
+Fixes:TIMED:symbol
+Fixes:UDBAR:name
+Fixes:UDBAR:symbol
+Fixes:UDKOL:name
+Fixes:UDKOL:symbol
+Fixes:UDLUM:name
+Fixes:UDLUM:symbol
+Fixes:USUNO:name
+Fixes:USUNO:symbol
+Fixes:UTRIS:name
+Fixes:UTRIS:symbol
+Fixes:UTVIN:name
+Fixes:UTVIN:symbol
+Fixes:UVLUK:name
+Fixes:UVLUK:symbol
+Fixes:XORAK:name
+Fixes:XORAK:symbol
+Geo:FB Landmark Okavanga Delta:
+Geo:FB Landmark Sua Pan and Nwetwe Pan:
+Geo:FV Landmark Victoria Falls:
+High airways:UA400:line
+High airways:UA404:line
+High airways:UA405:line
+High airways:UA407:line
+High airways:UA408:line
+High airways:UA409:line
+High airways:UA607:line
+High airways:UB400:line
+High airways:UB528:line
+High airways:UB529:line
+High airways:UB534:line
+High airways:UB540:line
+High airways:UB733:line
+High airways:UG465:line
+High airways:UG652:line
+High airways:UG653:line
+High airways:UG655:line
+High airways:UG853:line
+High airways:UL307:line
+High airways:UL316:line
+High airways:UL432:line
+High airways:UL435:line
+High airways:UL437:line
+High airways:UL686:line
+High airways:UM214:line
+High airways:UM215:line
+High airways:UM427:line
+High airways:UM437:line
+High airways:UM438:line
+High airways:UM439:line
+High airways:UM731:line
+High airways:UM998:line
+High airways:UN181:line
+High airways:UN182:line
+High airways:UN183:line
+High airways:UN184:line
+High airways:UN185:line
+High airways:UN186:line
+High airways:UN187:line
+High airways:UN309:line
+High airways:UN559:line
+High airways:UP301:line
+High airways:UP303:line
+High airways:UP305:line
+High airways:UP306:line
+High airways:UP682:line
+High airways:UP684:line
+High airways:UQ1:line
+High airways:UQ10:line
+High airways:UQ11:line
+High airways:UQ16:line
+High airways:UQ19:line
+High airways:UQ2:line
+High airways:UQ20:line
+High airways:UQ23:line
+High airways:UQ24:line
+High airways:UQ25:line
+High airways:UQ28:line
+High airways:UQ4:line
+High airways:UQ40:line
+High airways:UQ41:line
+High airways:UQ44:line
+High airways:UQ48:line
+High airways:UQ52:line
+High airways:UQ59:line
+High airways:UQ6:line
+High airways:UQ60:line
+High airways:UQ61:line
+High airways:UQ7:line
+High airways:UQ8:line
+High airways:UQ9:line
+High airways:UR525:line
+High airways:UR544:line
+High airways:UR779:line
+High airways:UR782:line
+High airways:UR987:line
+High airways:UT122:line
+High airways:UT356:line
+High airways:UT358:line
+High airways:UT394:line
+High airways:UT396:line
+High airways:UT429:line
+High airways:UT431:line
+High airways:UT433:line
+High airways:UT434:line
+High airways:UT446:line
+High airways:UT915:line
+High airways:UT916:line
+High airways:UT941:line
+High airways:UT942:line
+High airways:UT943:line
+High airways:UT945:line
+High airways:UW95:line
+High airways:UY93:line
+High airways:UY95:line
+High airways:UY99:line
+High airways:UZ10:line
+High airways:UZ11:line
+High airways:UZ16:line
+High airways:UZ17:line
+High airways:UZ18:line
+High airways:UZ2:line
+High airways:UZ20:line
+High airways:UZ21:line
+High airways:UZ22:line
+High airways:UZ23:line
+High airways:UZ27:line
+High airways:UZ29:line
+High airways:UZ30:line
+High airways:UZ31:line
+High airways:UZ33:line
+High airways:UZ35:line
+High airways:UZ36:line
+High airways:UZ4:line
+High airways:UZ445:line
+High airways:UZ5:line
+High airways:UZ6:line
+High airways:UZ7:line
+High airways:UZ8:line
+High airways:UZ9:line
+High airways:V56:line
+VORs:DPV:name
+VORs:DPV:symbol
+VORs:ERV:name
+VORs:ERV:symbol
+VORs:FNV:name
+VORs:FNV:symbol
+VORs:GAV:name
+VORs:GAV:symbol
+VORs:GBV:name
+VORs:GBV:symbol
+VORs:GFV:name
+VORs:GFV:symbol
+VORs:GSV:name
+VORs:GSV:symbol
+VORs:GWV:name
+VORs:GWV:symbol
+VORs:HGV:name
+VORs:HGV:symbol
+VORs:JSV:name
+VORs:JSV:symbol
+VORs:KGV:name
+VORs:KGV:symbol
+VORs:KSV:name
+VORs:KSV:symbol
+VORs:KTV:name
+VORs:KTV:symbol
+VORs:KYV:name
+VORs:KYV:symbol
+VORs:LIV:name
+VORs:LIV:symbol
+VORs:LTV:name
+VORs:LTV:symbol
+VORs:LYV:name
+VORs:LYV:symbol
+VORs:MEV:name
+VORs:MEV:symbol
+VORs:MMV:name
+VORs:MMV:symbol
+VORs:MNV:name
+VORs:MNV:symbol
+VORs:NSV:name
+VORs:NSV:symbol
+VORs:PNV:name
+VORs:PNV:symbol
+VORs:PPV:name
+VORs:PPV:symbol
+VORs:RAV:name
+VORs:RAV:symbol
+VORs:SSV:name
+VORs:SSV:symbol
+VORs:STV:name
+VORs:STV:symbol
+VORs:UPV:name
+VORs:UPV:symbol
+VORs:VBU:name
+VORs:VBU:symbol
+VORs:VFA:name
+VORs:VFA:symbol
+VORs:VFY:name
+VORs:VFY:symbol
+VORs:VGO:name
+VORs:VGO:symbol
+VORs:VLI:name
+VORs:VLI:symbol
+VORs:VLS:name
+VORs:VLS:symbol
+VORs:VMV:name
+VORs:VMV:symbol
+VORs:VTL:name
+VORs:VTL:symbol
+VORs:VWN:name
+VORs:VWN:symbol
+VORs:WHV:name
+VORs:WHV:symbol
+VORs:WIV:name
+VORs:WIV:symbol
+VORs:WKV:name
+VORs:WKV:symbol
+VORs:WMV:name
+VORs:WMV:symbol
+VORs:WRV:name
+VORs:WRV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-29.113562:9.997327:-15.394089:37.890554

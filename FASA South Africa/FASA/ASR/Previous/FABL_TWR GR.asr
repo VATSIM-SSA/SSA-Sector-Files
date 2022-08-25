@@ -1,0 +1,98 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FABL:name
+Airports:FABL:symbol
+Airports:FATP:name
+Airports:FATP:symbol
+Fixes:IBMAD:name
+Fixes:IBMAD:symbol
+Fixes:IBTEK:name
+Fixes:IBTEK:symbol
+Fixes:UNRIM:name
+Fixes:UNRIM:symbol
+Fixes:UTONU:name
+Fixes:UTONU:symbol
+Free Text:FABL Apron\A:freetext
+Free Text:FABL Apron\B:freetext
+Free Text:FABL Apron\C:freetext
+Free Text:FABL Taxiways\A1:freetext
+Free Text:FABL Taxiways\A2:freetext
+Free Text:FABL Taxiways\A3:freetext
+Free Text:FABL Taxiways\A4:freetext
+Free Text:FABL Taxiways\A5:freetext
+Free Text:FABL Taxiways\B1:freetext
+Free Text:FABL Taxiways\B2:freetext
+Free Text:FABL Taxiways\B3:freetext
+Free Text:FABL Taxiways\B4:freetext
+Free Text:FABL Taxiways\B5:freetext
+Free Text:FABL Taxiways\C1:freetext
+Free Text:FABL Taxiways\C2:freetext
+Free Text:FABL Taxiways\C3:freetext
+Free Text:FABL Taxiways\C4:freetext
+Free Text:FABL Taxiways\C5:freetext
+Free Text:FABL Taxiways\D:freetext
+Free Text:FABL Taxiways\E:freetext
+Free Text:FABL Taxiways\F:freetext
+Free Text:FABL Taxiways\G:freetext
+Geo:FABL Groundlayout (New):
+Geo:GEO:
+Regions:FABL Ground Layout:polygon
+Runways:FABL 02-20:centerline
+Runways:FABL 02-20:extended centerline 1
+Runways:FABL 02-20:extended centerline 1 left base
+Runways:FABL 02-20:extended centerline 1 left ticks
+Runways:FABL 02-20:extended centerline 1 left vectoring
+Runways:FABL 02-20:extended centerline 1 right base
+Runways:FABL 02-20:extended centerline 1 right ticks
+Runways:FABL 02-20:extended centerline 1 right vectoring
+Runways:FABL 02-20:extended centerline 2
+Runways:FABL 02-20:extended centerline 2 left base
+Runways:FABL 02-20:extended centerline 2 left ticks
+Runways:FABL 02-20:extended centerline 2 left vectoring
+Runways:FABL 02-20:extended centerline 2 right base
+Runways:FABL 02-20:extended centerline 2 right ticks
+Runways:FABL 02-20:extended centerline 2 right vectoring
+Runways:FABL 02-20:name
+Runways:FABL 12-30:centerline
+Runways:FABL 12-30:extended centerline 1
+Runways:FABL 12-30:extended centerline 1 left base
+Runways:FABL 12-30:extended centerline 1 left ticks
+Runways:FABL 12-30:extended centerline 1 left vectoring
+Runways:FABL 12-30:extended centerline 1 right base
+Runways:FABL 12-30:extended centerline 1 right ticks
+Runways:FABL 12-30:extended centerline 1 right vectoring
+Runways:FABL 12-30:extended centerline 2
+Runways:FABL 12-30:extended centerline 2 left base
+Runways:FABL 12-30:extended centerline 2 left ticks
+Runways:FABL 12-30:extended centerline 2 left vectoring
+Runways:FABL 12-30:extended centerline 2 right base
+Runways:FABL 12-30:extended centerline 2 right ticks
+Runways:FABL 12-30:extended centerline 2 right vectoring
+Runways:FABL 12-30:name
+Stars:FABL RNAV02:
+Stars:FABL RNAV02 EGPID:
+Stars:FABL RNAV02 IBMAD:
+Stars:FABL RNAV02 UNRIM:
+Stars:FABL STAR 02 UTONU1A:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:-29.109587:26.268779:-29.079158:26.333743
+PLUGIN:Ground Radar plugin:AirportElevation:4430
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FABL
+PLUGIN:Ground Radar plugin:TowerMode:FABL
+PLUGIN:TopSky plugin:NoDraw:1

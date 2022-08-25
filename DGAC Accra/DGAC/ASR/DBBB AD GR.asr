@@ -1,0 +1,24 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:DBBB Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:37.10000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:6.350491:2.371109:6.365388:2.398259
+PLUGIN:Ground Radar plugin:AirportElevation:19
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DBBB
+PLUGIN:TopSky plugin:NoDraw:1

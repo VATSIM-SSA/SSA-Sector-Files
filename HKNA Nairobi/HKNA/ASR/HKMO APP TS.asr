@@ -1,0 +1,55 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:HKMO Areas\Apron 1:freetext
+Free Text:HKMO Areas\Apron 2:freetext
+Free Text:HKMO Areas\Apron GA:freetext
+Free Text:HKMO Areas\Heliport:freetext
+Free Text:HKMO Areas\Terminal:freetext
+Free Text:HKMO Stands\1:freetext
+Free Text:HKMO Stands\1:freetext
+Free Text:HKMO Stands\10:freetext
+Free Text:HKMO Stands\11:freetext
+Free Text:HKMO Stands\12:freetext
+Free Text:HKMO Stands\13:freetext
+Free Text:HKMO Stands\14:freetext
+Free Text:HKMO Stands\2:freetext
+Free Text:HKMO Stands\2:freetext
+Free Text:HKMO Stands\3:freetext
+Free Text:HKMO Stands\3:freetext
+Free Text:HKMO Stands\3A:freetext
+Free Text:HKMO Stands\4:freetext
+Free Text:HKMO Stands\4:freetext
+Free Text:HKMO Stands\5:freetext
+Free Text:HKMO Stands\5:freetext
+Free Text:HKMO Stands\6:freetext
+Free Text:HKMO Stands\6:freetext
+Free Text:HKMO Stands\7:freetext
+Free Text:HKMO Stands\7:freetext
+Free Text:HKMO Stands\8:freetext
+Free Text:HKMO Stands\8:freetext
+Free Text:HKMO Stands\9:freetext
+Free Text:HKMO Stands\9:freetext
+Geo:GEO:
+Geo:HK Landmark Coast:
+Geo:HK Landmark Lake Turkana:
+Geo:HK Landmark Lakes:
+Geo:HKMO Groundlayout:
+Regions:HKMO Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-4.413261:38.799128:-3.424768:40.592531
+PLUGIN:TopSky plugin:ShowMapData:HKMO

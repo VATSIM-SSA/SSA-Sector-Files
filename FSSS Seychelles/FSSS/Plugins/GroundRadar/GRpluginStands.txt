@@ -1,0 +1,96 @@
+// ##################################################################
+//                 VATSSA | FIR FSSS | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.1
+// Update Date 30/06/2022
+
+// Active Airports
+// FS | FSIA
+
+// ##################################################################
+//                 FS SEYCHELLES
+// ##################################################################
+
+// ##################################################################
+//                 FSIA Seychelles
+// ##################################################################
+
+// APRON
+// Stand 1
+STAND:FSIA:1:S4.40.11.24:E55.30.40.172:40
+USE:A
+WTC:MH
+
+// Stand 2
+STAND:FSIA:2:S4.40.12.295:E55.30.41.684:30
+USE:A
+WTC:M
+BLOCKS:3
+
+// Stand 3
+STAND:FSIA:3:S4.40.12.986:E55.30.42.732:40
+USE:A
+WTC:MH
+BLOCKS:2,4
+
+// Stand 4
+STAND:FSIA:4:S4.40.13.368:E55.30.43.2:30
+USE:A
+WTC:M
+BLOCKS:3
+
+// Stand 5
+STAND:FSIA:5:S4.40.14.39:E55.30.44.834:40
+USE:A
+WTC:MH
+
+// Stand 6
+STAND:FSIA:6:S4.40.15.686:E55.30.46.753:40
+USE:A
+WTC:MH
+
+// APRON SMALL STANDS
+// Stand 1
+STAND:FSIA:1-S:S4.40.10.854:E55.30.38.432:15
+USE:AB
+WTC:L
+
+// Stand 2
+STAND:FSIA:2-S:S4.40.10.046:E55.30.38.915:15
+USE:AB
+WTC:L
+
+// Stand 3
+STAND:FSIA:3-S:S4.40.9.372:E55.30.39.436:15
+USE:AB
+WTC:L
+
+// PARKING
+// Parking Area
+STAND:FSIA:PA-A:S4.40.6.215:E55.30.31.074:150
+USE:ABP
+WTC:L
+AREA
+
+// GENERAL AVIATION
+// General Aviation Apron 1
+STAND:FSIA:GA-1:S4.40.17.197:E55.30.53.895:60
+USE:PH
+WTC:L
+AREA
+
+// General Aviation Apron 2
+STAND:FSIA:GA-2:S4.40.41.355:E55.31.30.367:70
+USE:PH
+WTC:LMH
+AREA
+
+STAND:FSIA:GA-2:S4.40.50.382:E55.31.38.893:50
+USE:PH
+WTC:L
+AREA
+
+// ##################################################################
+//                 THE END
+// ##################################################################

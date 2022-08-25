@@ -1,0 +1,63 @@
+Settings	SettingsfileSYMBOLOGY	\FCCC\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FCCC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FCCC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FCCC\Settings\Tags.txt
+Settings	SettingsfileSIL	\FCCC\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FCCC\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FCCC\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FCCC\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FCCC\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FCCC\Settings\Plugins.txt
+Settings	Settingsfile	\FCCC\Settings\General.txt
+Settings	SettingsfileSCREEN	\FCCC\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FCCC\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FCCC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FCCC\Settings\PilotingList.txt
+Settings	alias	\FCCC\Alias\alias.txt
+Settings	airlines	\FCCC\ICAO\ICAO_Airlines.txt
+Settings	airports	\FCCC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FCCC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FCCC\NavData\airway.txt
+Settings	airportcoords	\FCCC\NavData\icao.txt
+RecentFiles	Recent1	\FCCC\ASR\1_CTR.asr
+RecentFiles	Recent2	\FCCC\ASR\2_APP.asr
+RecentFiles	Recent3	\FCCC\ASR\3_TWR.asr
+ASRFastKeys	1	\FCCC\ASR\1_CTR.asr
+ASRFastKeys	2	\FCCC\ASR\2_APP.asr
+ASRFastKeys	3	\FCCC\ASR\3_TWR.asr
+Settings	sector	\FCCC-Install-Package_20220811180909-220801-0001.sct
+Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\FCCC\Sounds\handoff_accept.wav
+Sounds	Sound2	\FCCC\Sounds\conflict_alert.wav
+Sounds	Sound3	\FCCC\Sounds\radio_message.wav
+Sounds	Sound4	\FCCC\Sounds\private_message.wav
+Sounds	Sound5	\FCCC\Sounds\atc_message.wav
+Sounds	Sound6	\FCCC\Sounds\broadcast_message.wav
+Sounds	Sound7	\FCCC\Sounds\landline_request.wav
+Sounds	Sound8	\FCCC\Sounds\supervisor_message.wav
+Sounds	Sound9	\FCCC\Sounds\connected.wav
+Sounds	Sound10	\FCCC\Sounds\disconnected.wav
+Sounds	Sound11	\FCCC\Sounds\ongoing_request.wav
+Sounds	Sound12	\FCCC\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FCCC\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FCCC\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FCCC\Sounds\new_atis.wav
+Sounds	Sound16	\FCCC\Sounds\handoff_refused.wav
+Sounds	Sound17	\FCCC\Sounds\pointout.wav
+Sounds	Sound18	\FCCC\Sounds\startup.wav
+Sounds	Sound19	\FCCC\Sounds\startup.wav
+Sounds	Sound20	\FCCC\Sounds\supervisor_message.wav
+Sounds	Sound0	\FCCC\Sounds\handoff_request.wav

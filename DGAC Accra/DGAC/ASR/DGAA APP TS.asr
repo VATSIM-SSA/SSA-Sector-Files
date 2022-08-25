@@ -1,0 +1,79 @@
+// ##################################################################
+//                 VATSSA | FIR DGAC | ASR | DGAA APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | DGAA APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:DBBB_APP:
+ARTCC boundary:DFFD_APP:
+ARTCC boundary:DFOO_APP:
+ARTCC boundary:DGAA_APP:
+ARTCC boundary:DGLE_APP:
+ARTCC boundary:DIAP_APP:
+ARTCC boundary:DNMM_APP:
+ARTCC boundary:FPST_APP:
+ARTCC high boundary:DFFF:
+ARTCC high boundary:DGAC-ALL:
+ARTCC high boundary:DGAC-N:
+ARTCC high boundary:DGAC-S:
+ARTCC high boundary:DNKK:
+ARTCC high boundary:DRRR:
+ARTCC high boundary:DXXX:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FOOO:
+ARTCC high boundary:GOOO:
+ARTCC low boundary:DGAA_TWR:
+ARTCC low boundary:DGSI_TWR:
+ARTCC low boundary:DGSN_TWR:
+ARTCC low boundary:DGTK_TWR:
+ARTCC low boundary:DXNG_TWR:
+ARTCC low boundary:DXXX_TWR:
+Geo:DG Danger area D2 Bundase - GND/A100:
+Geo:DG Danger area D3 Teshie - GND/A012:
+Geo:DG Danger area D4 Sekondi/Takoradi - GND/UNL:
+Geo:DG Danger area D5 Tema - GND/UNL:
+Geo:DG Landmark Coast East:
+Geo:DG Landmark Coast Middle:
+Geo:DG Landmark Coast West:
+Geo:DG Landmark Lakes:
+Geo:DG Prohibited area P12 Flagstaff House - GND/A040:
+Geo:DG Prohibited area P13 State House - GND/A040:
+Geo:DG Prohibited area P14 Ministry of Defence Building - GND/A040:
+Geo:DG Restricted area R10 Tamale - GND/A020:
+Geo:DG Restricted area R11 Tamale - GND/A020:
+Geo:DG Restricted area R15 Takoradi Red Training Area - GND/FL060:
+Geo:DG Restricted area R16 Takoradi Green Training Area - 020AGL/A030:
+Geo:DG Restricted area R6 Takoradi - GND/FL065:
+Geo:DG Restricted area R7 Tamale Air Force Training Area 1 - A070/FL225:
+Geo:DG Restricted area R8 Tamale Air Force Training Area 2 - GND/FL065:
+Geo:DG Restricted area R9 Tamale - GND/A020:
+Geo:DGAA Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:5.077960:-1.643969:6.443294:0.844367
+PLUGIN:TopSky plugin:HideMapData:DXXX,DBBB
+PLUGIN:TopSky plugin:ShowMapData:DGAA

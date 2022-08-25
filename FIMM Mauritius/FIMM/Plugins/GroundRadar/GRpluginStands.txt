@@ -1,0 +1,196 @@
+// ##################################################################
+//                 VATSSA | FIR FIMM | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.3
+// Update Date 18/07/2022
+
+// Changelog
+// v0.2 | Adding of information
+// v0.3 | Fixes to the stands and additions
+
+// Active Airports
+// FI | FIMP
+
+// ##################################################################
+//                 FI Mauritius
+// ##################################################################
+
+// ##################################################################
+//                 FIMP Mauritius
+// ##################################################################
+
+// CARGO APRON
+// Stand 1
+STAND:FIMP:1:S20.25.43.74:E57.40.24.828:30
+USE:C
+WTC:LM
+
+// Stand 2
+STAND:FIMP:2:S20.25.42.996:E57.40.26.418:30
+USE:C
+WTC:LM
+
+// Stand 3
+STAND:FIMP:3:S20.25.41.764:E57.40.29.011:45
+USE:C
+WTC:MH
+
+// Stand 4
+STAND:FIMP:4:S20.25.46.564:E57.40.30.276:30
+USE:A
+ENGINETYPE:T
+WTC:LM
+NOTCALLSIGN:PLS
+
+// Stand 5
+STAND:FIMP:5:S20.25.45.596:E57.40.31.828:30
+USE:A
+ENGINETYPE:T
+WTC:LM
+NOTCALLSIGN:PLS
+
+// MAIN APRON
+// Stand 7
+STAND:FIMP:7:S20.25.49.026:E57.40.33.046:45
+USE:A
+WTC:MH
+
+// Stand 8
+STAND:FIMP:8:S20.25.50.012:E57.40.35.328:45
+USE:A
+WTC:MH
+
+// Stand 9
+STAND:FIMP:9:S20.25.51.046:E57.40.37.542:45
+USE:A
+WTC:MH
+
+// Stand 10
+STAND:FIMP:10:S20.25.52.176:E57.40.39.85:45
+USE:A
+WTC:MH
+
+// Stand 11
+STAND:FIMP:11:S20.25.53.551:E57.40.42.841:45
+USE:A
+WTC:MH
+PRIORITY:+1
+
+// Stand 12
+STAND:FIMP:12:S20.25.55.11:E57.40.45.052:45
+USE:A
+WTC:MH
+PRIORITY:+1
+
+// Stand 13
+STAND:FIMP:13:S020S20.25.57.09:E57.40.46.772:45
+USE:A
+WTC:MH
+PRIORITY:+1
+
+// Stand 14
+STAND:FIMP:14:S20.25.59.455:E57.40.47.665:45
+USE:A
+WTC:MH
+PRIORITY:+1
+
+// Stand 15
+STAND:FIMP:15:S20.26.1.914:E57.40.48.288:45
+USE:A
+WTC:MH
+PRIORITY:+1
+
+// Stand 16
+STAND:FIMP:16:S20.26.7.192:E57.40.48.094:55
+USE:A
+WTC:HJ
+PRIORITY:-1
+
+// GENERAL AVIATION
+// Stand 41
+STAND:FIMP:41:S020.26.05.002:E057.41.07.563:15
+USE:BPM
+CODE:A
+LENGTH:800
+
+// Stand 42
+STAND:FIMP:42:S020.26.05.347:E057.41.08.272:15
+USE:BPM
+CODE:A
+LENGTH:800
+
+// Stand 43
+STAND:FIMP:43:S020.26.05.689:E057.41.09.015:15
+USE:BPM
+CODE:B
+LENGTH:800:1200
+
+// Stand 44
+STAND:FIMP:44:S020.26.06.191:E057.41.10.044:20
+USE:BPM
+CODE:C
+LENGTH:1800:9999
+
+// Stand 45
+STAND:FIMP:45:S020.26.06.724:E057.41.11.138:20
+USE:BPM
+CODE:C
+LENGTH:1200:1800
+
+// Stand 46
+STAND:FIMP:46:S020.26.07.187:E057.41.12.059:15
+USE:BPM
+CODE:B
+LENGTH:800:1200
+
+// Stand 47
+STAND:FIMP:47:S020.26.07.552:E057.41.12.851:15
+USE:BPM
+CODE:A
+LENGTH:800
+
+// Stand 48
+STAND:FIMP:48:S020.26.07.877:E057.41.13.522:15
+USE:BPM
+CODE:A
+LENGTH:800
+
+// General Aviation 2
+STAND:FIMP:GA-2:S20.26.22.251:E57.41.45.527:75
+USE:PM
+WTC:L
+AREA
+
+// HELI STANDS
+// Helipad 1
+STAND:FIMP:H1:S20.26.8.222:E57.41.15.939:15
+USE:H
+WTC:L
+
+// Helipad 2
+STAND:FIMP:H2:S20.26.8.961:E57.41.15.517:15
+USE:H
+WTC:L
+
+// Helipad 3
+STAND:FIMP:H3:S20.26.9.721:E57.41.15.143:15
+USE:H
+WTC:L
+
+// Helipad 4
+STAND:FIMP:H4:S20.25.47.584:E57.40.28.815:15
+USE:H
+WTC:L
+
+// Helipad 5
+STAND:FIMP:H5:S20.25.46.135:E57.40.27.98:15
+USE:H
+WTC:L
+
+// COAST GUARD
+// National Coast Guard Hangars
+STAND:FIMP:NCG:S20.026.13.135:E57.41.14.915:90
+USE:PM
+WTC:L
+AREA

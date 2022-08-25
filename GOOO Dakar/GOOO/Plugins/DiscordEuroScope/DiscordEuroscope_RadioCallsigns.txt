@@ -1,0 +1,34 @@
+DIAP_APP Abidjan Approach
+DIAP_TWR Abidjan Tower
+DIBK_TWR Bouake Tower
+DIII_CTR Abidjan Control
+DISP_TWR San Pedro Tower
+DIYO_TWR Yamoussoukro Tower
+GAAA_CTR Bamako Control
+GABS_TWR Bamako Tower
+GAKD_TWR Kayes Dag Dag Tower
+GAMB_TWR Mopti Tower
+GBYD_APP Banjul Approach
+GBYD_TWR Banjul Tower
+GFLL_APP Freetown Approach
+GFLL_TWR Freetown Tower
+GGOV_APP Bissau Approach
+GGOV_TWR Bissau Tower
+GLRB_APP Roberts Approach
+GLRB_CTR Roberts Control
+GLRB_GND Roberts Ground
+GLRB_TWR Roberts Tower
+GOBD_APP Diass Approach
+GOBD_TWR Diass Tower
+GOGG_TWR Ziguinchor Tower
+GOGS_TWR Cap-Skirring Tower
+GOOO_CTR Dakar Control
+GOOO_FSS Dakar Radio
+GOOY_TWR Yoff Tower
+GOSS_TWR Saint Louis Tower
+GQNO_TWR Nouakchott Tower
+GQPP_TWR Nouadhibou Tower
+GQQQ_CTR Nouakchott Control
+GUCY_APP Conakry Approach
+GUCY_TWR Conakry Tower
+GUOK_TWR Boke Tower

@@ -1,0 +1,659 @@
+[
+   {
+      "icao": "GVAC",
+      "sids": {
+         "BVT": [
+            {
+               "destinations": [
+                  "GVBA"
+               ],
+               "direction": "ANY",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW23",
+                  "W23"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "BULVO": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UN873"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "KESIK": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UR976"               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "NCL": [
+            {
+               "destinations": [
+                  "GVSN"
+               ],
+               "direction": "EVEN",
+               "max_fl": 245
+            }
+         ],
+         "PINPO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UW11"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "PISPU": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UN873",
+                  "B623"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "POLMO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R976",
+                  "UR976"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "RAMOL": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A602",
+                  "UA602"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SNT": [
+            {
+               "destinations": [
+                  "GVNP"
+               ],
+               "direction": "EVEN",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW34",
+                  "UW33",
+                  "W34",
+                  "W33"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SVT": [
+            {
+               "destinations": [
+                  "GVSV"
+               ],
+               "direction": "EVEN",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW46",
+                  "UW47",
+                  "W46",
+                  "W47"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ]
+      }
+   },
+   {
+      "icao": "GVBA",
+      "sids": {
+         "PISPU": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UN873",
+                  "B623"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "PINPO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UW11"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "BA367": [
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }  
+         ],
+         "CVS": [
+            {
+               "destinations": [
+                  "GVAC"
+               ],
+               "direction": "ANY",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UR976",
+                  "W15"
+               ],
+               "min_fl": 245,
+               "max_fl": 460               
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "W11",
+                  "B623",
+                  "UN873",
+                  "UW11"
+               ],
+               "min_fl": 245,
+               "max_fl": 460               
+            }
+         ],
+         "BA366": [
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }  
+         ],
+         "POLMO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R976",
+                  "UR976"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "RAMOL": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A602",
+                  "U602"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SONVA": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "W31",
+                  "UW31"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "BA364": [
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }  
+         ],
+         "BA370": [
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }  
+         ],
+         "DENER": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UN866"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }  
+         ],
+         "EDIPA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW46"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }            
+         ],
+         "NINAU": [
+            {
+               "direction": "ANY",
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SISAU": [
+            {
+               "direction": "ANY",
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "EVKAS": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW47"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "KESIK": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UR976"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "LININ": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UW41"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "MOPAC": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UN866"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "NEMDO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "UW43"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SNT": [
+            {
+               "destinations": [
+                  "GVNP"
+               ],
+               "direction": "EVEN",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW34",
+                  "UW33",
+                  "W34",
+                  "W33"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "NCL": [
+            {
+               "destinations": [
+                  "GVSN"
+               ],
+               "direction": "EVEN",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SVT": [
+            {
+               "destinations": [
+                  "GVSV"
+               ],
+               "direction": "EVEN",
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "W47",
+                  "W46",
+                  "UW47",
+                  "UW46"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ]
+      }
+   },
+   {
+      "icao": "GVNP",
+      "sids": {
+         "BVT": [
+            {
+               "direction": "ANY",
+               "destinations": [
+                  "GVBA",
+                  "GVAC"
+               ],
+               "max_fl": 245
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "W22",
+                  "UW22",
+                  "W21",
+                  "UW21"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "CVS": [
+            {
+               "direction": "ANY",
+               "destinations": [
+                  "GVAC"
+               ],
+               "max_fl": 245
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "B623",
+                  "W11",
+                  "UN873",
+                  "UW11"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UR976",
+                  "W15",
+                  "W14"
+               ]
+            }
+         ],
+         "SONVA": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "W31",
+                  "UW31"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "VONTO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "W32",
+                  "UW32"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "AGTIL": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UB623"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "BULVO": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UN873"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "NCL": [
+            {
+               "direction": "EVEN",
+               "destinations": [
+                  "GVSN"
+               ],
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UN873"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+         "SVT": [
+            {
+               "direction": "EVEN",
+               "destinations": [
+                  "GVSV"
+               ],
+               "max_fl": 245
+            },
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "W47",
+                  "UW47"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ]
+      }
+   },
+   {
+      "icao": "GVSV",
+      "sids": {
+         "EDIPA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "UW46"
+               ],
+               "min_fl": 245,
+               "max_fl": 460
+            }
+         ],
+      "KESIK": [
+         {
+            "direction": "EVEN",
+            "airways": [
+               "UR976"
+            ],
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "LININ": [
+         {
+            "direction": "ODD",
+            "airways": [
+               "UW41"
+            ],
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "MOPAC": [
+         {
+            "direction": "ODD",
+            "airways": [
+               "UN866"
+            ],
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "NEMDO": [
+         {
+            "direction": "ODD",
+            "airways": [
+               "UW43"
+            ],
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "NINAU": [
+         {
+            "direction": "ANY",
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "DENER": [
+         {
+            "direction": "EVEN",
+            "airways": [
+               "UN866"
+            ],
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "SISAU": [
+         {
+            "direction": "ANY",
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "EVKAS": [
+         {
+            "direction": "EVEN",
+            "airways": [
+               "W47",
+               "UW47"
+            ],
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ],
+      "SNT": [
+         {
+            "direction": "ODD",
+            "max_fl": 240,
+            "destinations": [
+               "GVNP"
+            ]
+         },
+         {
+            "suffix": "2G",
+            "airways": [
+               "W31",
+               "W32",
+               "UW31",
+               "UW32"
+            ],
+            "direction": "ODD",
+            "min_fl": 245,
+            "max_fl": 460
+            },
+         {
+            "suffix": "2H",
+            "airways": [
+               "W31",
+               "W32",
+               "UW31",
+               "UW32"
+            ],
+            "direction": "ODD",
+            "min_fl": 245,
+            "max_fl": 460
+            }
+         ]
+      }
+   }
+]

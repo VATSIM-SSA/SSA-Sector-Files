@@ -1,0 +1,52 @@
+// ##################################################################
+//                 VATSSA | FIR FIMM | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.1
+// Update Date 30/07/2022
+
+
+// ##################################################################
+//                 FI MAURITIUS
+// ##################################################################
+
+//FIMP VFR circuits and local
+RANGE:7011:7017
+ADEP:FIMP
+ADES:FIMP
+VFR
+
+/FIMR VFR circuits and local
+RANGE:6331:6337
+
+//FIMM domestic VFR
+RANGE:6340:6347
+ADEP:FI
+ADES:FI
+VFR
+
+//FIMM departures
+RANGE:6250:6277
+ADEP:FI
+
+//FIMM arrivals
+RANGE:6350:6377
+ADES:FI
+
+//FJDG deps
+RANGE:3710:3717
+ADEP:FJDG
+
+//FJDG arrs
+RANGE:3720:3727
+ADES:FJDG
+
+//Overflights
+RANGE:6230:6247
+NOTADEP:FI
+NOTADES:FI
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

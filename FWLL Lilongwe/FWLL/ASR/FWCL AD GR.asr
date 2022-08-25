@@ -1,0 +1,59 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FWCL:name
+Airports:FWCL:symbol
+Geo:GEO:
+Runways:FWCL 10-28:centerline
+Runways:FWCL 10-28:extended centerline 1
+Runways:FWCL 10-28:extended centerline 1 left base
+Runways:FWCL 10-28:extended centerline 1 left ticks
+Runways:FWCL 10-28:extended centerline 1 left vectoring
+Runways:FWCL 10-28:extended centerline 1 right base
+Runways:FWCL 10-28:extended centerline 1 right ticks
+Runways:FWCL 10-28:extended centerline 1 right vectoring
+Runways:FWCL 10-28:extended centerline 2
+Runways:FWCL 10-28:extended centerline 2 left base
+Runways:FWCL 10-28:extended centerline 2 left ticks
+Runways:FWCL 10-28:extended centerline 2 left vectoring
+Runways:FWCL 10-28:extended centerline 2 right base
+Runways:FWCL 10-28:extended centerline 2 right ticks
+Runways:FWCL 10-28:extended centerline 2 right vectoring
+Runways:FWCL 10-28:name
+Runways:FWCL 15-33:centerline
+Runways:FWCL 15-33:extended centerline 1
+Runways:FWCL 15-33:extended centerline 1 left base
+Runways:FWCL 15-33:extended centerline 1 left ticks
+Runways:FWCL 15-33:extended centerline 1 left vectoring
+Runways:FWCL 15-33:extended centerline 1 right base
+Runways:FWCL 15-33:extended centerline 1 right ticks
+Runways:FWCL 15-33:extended centerline 1 right vectoring
+Runways:FWCL 15-33:extended centerline 2
+Runways:FWCL 15-33:extended centerline 2 left base
+Runways:FWCL 15-33:extended centerline 2 left ticks
+Runways:FWCL 15-33:extended centerline 2 left vectoring
+Runways:FWCL 15-33:extended centerline 2 right base
+Runways:FWCL 15-33:extended centerline 2 right ticks
+Runways:FWCL 15-33:extended centerline 2 right vectoring
+Runways:FWCL 15-33:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-15.692678:34.943972:-15.665071:34.995361
+PLUGIN:Ground Radar plugin:AirportElevation:2555
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FWCL
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FWCL

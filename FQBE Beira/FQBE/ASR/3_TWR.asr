@@ -1,0 +1,224 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FDSK-TMA:
+ARTCC boundary:FMCH-TMA:
+ARTCC boundary:FQBR-TMA:
+ARTCC boundary:FQMA-TMA:
+ARTCC boundary:FQNC-TMA:
+ARTCC boundary:FQNP-TMA:
+ARTCC boundary:FQPB-TMA:
+ARTCC boundary:FQQL-TMA:
+ARTCC boundary:FQTT-TMA:
+ARTCC boundary:FQVL-TMA:
+ARTCC boundary:FWCL-TMA:
+ARTCC boundary:FWKI-CTA:
+ARTCC high boundary:FQBE:
+ARTCC low boundary:FQBR-CTR:
+ARTCC low boundary:FQLC-CTR:
+ARTCC low boundary:FQMA-CTR:
+ARTCC low boundary:FQNC-CTR:
+ARTCC low boundary:FQNP-CTR:
+ARTCC low boundary:FQPB-CTR:
+ARTCC low boundary:FQQL-CTR:
+ARTCC low boundary:FQTT-CTR:
+ARTCC low boundary:FQVL-CTR:
+Free Text:FQBR Beira\A:freetext
+Free Text:FQBR Beira\B:freetext
+Free Text:FQBR Beira\C:freetext
+Free Text:FQBR Beira\Terminal:freetext
+Free Text:FQMA Maputo\1:freetext
+Free Text:FQMA Maputo\2:freetext
+Free Text:FQMA Maputo\3:freetext
+Free Text:FQMA Maputo\A:freetext
+Free Text:FQMA Maputo\B:freetext
+Free Text:FQMA Maputo\C:freetext
+Free Text:FQMA Maputo\CARGO:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\D:freetext
+Free Text:FQMA Maputo\E:freetext
+Free Text:FQMA Maputo\F:freetext
+Free Text:FQMA Maputo\MIL_AREA:freetext
+Free Text:FQMA Maputo\TERMINAL:freetext
+Free Text:FQMA Maputo\TOWER:freetext
+Geo:FA Landmark Coast NE:
+Geo:FQ Danger area D23 Moamba - GND/UNL:
+Geo:FQ Danger area D25 Boane - GND/UNL:
+Geo:FQ Landmark Coast M:
+Geo:FQ Landmark Coast N:
+Geo:FQ Landmark Coast S:
+Geo:FQ Landmark Lago de Cahora Bassa:
+Geo:FQ Landmark Lakes:
+Geo:FQ Landmark Rivers:
+Geo:FQ Prohibited area P22 Moamba - GND/FL040:
+Geo:FQ Prohibited area P24 Boane - GND/FL040:
+Geo:FQ Restricted area R2 Gorongosa - GND/A020:
+Geo:FQ Restricted area R28 Inhaca Island - FL050/FL100:
+Geo:FQ Restricted area R29 - GND/FL080:
+Geo:FQ Restricted area R3 Maputo - GND/A020:
+Geo:FQ Restricted area R30 Pungue River - GND/1500M AGL:
+Geo:FQ Restricted area R31 Nhangau - GND/2200M AGL:
+Geo:FQ Restricted area R32 Maputo - GND/UNL:
+Geo:FQ Restricted area R33 Nacala - GND/UNL:
+Geo:FQ Restricted area R4 Chota - GND/FL070:
+Geo:FQ Restricted area R5 Costa do Sol - GND/FL100:
+Geo:FQ Restricted area R6 Nampula - GND/3500M AGL:
+Geo:FQ Restricted area R7 Xiluvo Hills - GND/1500M AGL:
+Geo:FQBR Groundlayout:
+Geo:FQBR Groundlayout Stopbars:
+Geo:FQCH Groundlayout:
+Geo:FQIA Groundlayout:
+Geo:FQIN Groundlayout:
+Geo:FQMA Groundlayout:
+Geo:FQMA Landmark Maputo City:
+Geo:FQMA Landmark Maputo Racetrack:
+Geo:FQNM Groundlayout:
+Geo:FQPB Groundlayout:
+Geo:FQQL Groundlayout:
+Geo:FQVL Groundlayout:
+Geo:FW Landmark Lake Malawi:
+Geo:FW Landmark Lakes:
+Geo:HT Landmark Coast S:
+Regions:FQBR Groundlayout:polygon
+Regions:FQMA Groundlayout:polygon
+Runways:FQBR 06-24:extended centerline 1
+Runways:FQBR 06-24:extended centerline 1 left ticks
+Runways:FQBR 06-24:extended centerline 1 right ticks
+Runways:FQBR 06-24:extended centerline 2
+Runways:FQBR 06-24:extended centerline 2 left ticks
+Runways:FQBR 06-24:extended centerline 2 right ticks
+Runways:FQBR 12-30:extended centerline 1
+Runways:FQBR 12-30:extended centerline 1 left ticks
+Runways:FQBR 12-30:extended centerline 1 right ticks
+Runways:FQBR 12-30:extended centerline 2
+Runways:FQBR 12-30:extended centerline 2 left ticks
+Runways:FQBR 12-30:extended centerline 2 right ticks
+Runways:FQCH 01-19:extended centerline 1
+Runways:FQCH 01-19:extended centerline 1 left ticks
+Runways:FQCH 01-19:extended centerline 1 right ticks
+Runways:FQCH 01-19:extended centerline 2
+Runways:FQCH 01-19:extended centerline 2 left ticks
+Runways:FQCH 01-19:extended centerline 2 right ticks
+Runways:FQIN 16-34:extended centerline 1
+Runways:FQIN 16-34:extended centerline 1 left ticks
+Runways:FQIN 16-34:extended centerline 1 right ticks
+Runways:FQIN 16-34:extended centerline 2
+Runways:FQIN 16-34:extended centerline 2 left ticks
+Runways:FQIN 16-34:extended centerline 2 right ticks
+Runways:FQLC 08-26:centerline
+Runways:FQLC 08-26:extended centerline 1
+Runways:FQLC 08-26:extended centerline 1 left ticks
+Runways:FQLC 08-26:extended centerline 1 right ticks
+Runways:FQLC 08-26:extended centerline 2
+Runways:FQLC 08-26:extended centerline 2 left ticks
+Runways:FQLC 08-26:extended centerline 2 right ticks
+Runways:FQLC 08-26:name
+Runways:FQMA 05-23:extended centerline 1
+Runways:FQMA 05-23:extended centerline 1 left ticks
+Runways:FQMA 05-23:extended centerline 1 right ticks
+Runways:FQMA 05-23:extended centerline 2
+Runways:FQMA 05-23:extended centerline 2 left ticks
+Runways:FQMA 05-23:extended centerline 2 right ticks
+Runways:FQMA 10-28:extended centerline 1
+Runways:FQMA 10-28:extended centerline 1 left ticks
+Runways:FQMA 10-28:extended centerline 1 right ticks
+Runways:FQMA 10-28:extended centerline 2
+Runways:FQMA 10-28:extended centerline 2 left ticks
+Runways:FQMA 10-28:extended centerline 2 right ticks
+Runways:FQNC 01-19:centerline
+Runways:FQNC 01-19:extended centerline 1
+Runways:FQNC 01-19:extended centerline 1 left ticks
+Runways:FQNC 01-19:extended centerline 1 right ticks
+Runways:FQNC 01-19:extended centerline 2
+Runways:FQNC 01-19:extended centerline 2 left ticks
+Runways:FQNC 01-19:extended centerline 2 right ticks
+Runways:FQNC 01-19:name
+Runways:FQNP 05-23:centerline
+Runways:FQNP 05-23:extended centerline 1
+Runways:FQNP 05-23:extended centerline 1 left ticks
+Runways:FQNP 05-23:extended centerline 1 right ticks
+Runways:FQNP 05-23:extended centerline 2
+Runways:FQNP 05-23:extended centerline 2 left ticks
+Runways:FQNP 05-23:extended centerline 2 right ticks
+Runways:FQNP 05-23:name
+Runways:FQNP 13-31:centerline
+Runways:FQNP 13-31:extended centerline 1
+Runways:FQNP 13-31:extended centerline 1 left ticks
+Runways:FQNP 13-31:extended centerline 1 right ticks
+Runways:FQNP 13-31:extended centerline 2
+Runways:FQNP 13-31:extended centerline 2 left ticks
+Runways:FQNP 13-31:extended centerline 2 right ticks
+Runways:FQNP 13-31:name
+Runways:FQPB 17-35:extended centerline 1
+Runways:FQPB 17-35:extended centerline 1 left ticks
+Runways:FQPB 17-35:extended centerline 1 right ticks
+Runways:FQPB 17-35:extended centerline 2
+Runways:FQPB 17-35:extended centerline 2 left ticks
+Runways:FQPB 17-35:extended centerline 2 right ticks
+Runways:FQQL 18-36:extended centerline 1
+Runways:FQQL 18-36:extended centerline 1 left ticks
+Runways:FQQL 18-36:extended centerline 1 right ticks
+Runways:FQQL 18-36:extended centerline 2
+Runways:FQQL 18-36:extended centerline 2 left ticks
+Runways:FQQL 18-36:extended centerline 2 right ticks
+Runways:FQTT 01-19:centerline
+Runways:FQTT 01-19:extended centerline 1
+Runways:FQTT 01-19:extended centerline 1 left ticks
+Runways:FQTT 01-19:extended centerline 1 right ticks
+Runways:FQTT 01-19:extended centerline 2
+Runways:FQTT 01-19:extended centerline 2 left ticks
+Runways:FQTT 01-19:extended centerline 2 right ticks
+Runways:FQTT 01-19:name
+Runways:FQVL 10-28:extended centerline 1
+Runways:FQVL 10-28:extended centerline 1 left ticks
+Runways:FQVL 10-28:extended centerline 1 right ticks
+Runways:FQVL 10-28:extended centerline 2
+Runways:FQVL 10-28:extended centerline 2 left ticks
+Runways:FQVL 10-28:extended centerline 2 right ticks
+Runways:FQVL 17-35:extended centerline 1
+Runways:FQVL 17-35:extended centerline 1 left ticks
+Runways:FQVL 17-35:extended centerline 1 right ticks
+Runways:FQVL 17-35:extended centerline 2
+Runways:FQVL 17-35:extended centerline 2 left ticks
+Runways:FQVL 17-35:extended centerline 2 right ticks
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:PKV:name
+VORs:PKV:symbol
+VORs:TU:name
+VORs:TU:symbol
+VORs:VBR:name
+VORs:VBR:symbol
+VORs:VCL:name
+VORs:VCL:symbol
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VMA:name
+VORs:VMA:symbol
+VORs:VNC:name
+VORs:VNC:symbol
+VORs:VNP:name
+VORs:VNP:symbol
+VORs:VQL:name
+VORs:VQL:symbol
+VORs:VSB:name
+VORs:VSB:symbol
+VORs:VTZ:name
+VORs:VTZ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-19.811863:34.876807:-19.783364:34.933903

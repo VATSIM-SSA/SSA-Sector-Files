@@ -1,0 +1,36 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GLRB APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GLRB APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Geo:GFLL Groundlayout:
+Geo:GLRB Groundlayout:
+Geo:GUCY Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-1.616093:-44.616878:23.219175:1.808351
+PLUGIN:TopSky plugin:HideMapData:GOBD,GOOY,GBYD,DIAP
+PLUGIN:TopSky plugin:ShowMapData:GLRB,GFLL,GUCY

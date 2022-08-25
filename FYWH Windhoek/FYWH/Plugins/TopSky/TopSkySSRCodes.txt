@@ -1,0 +1,63 @@
+// ##################################################################
+//                 VATSSA | FIR FYWH | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.2
+// Update Date 19/08/2022
+
+
+// ##################################################################
+//                 FYWH WYNDHOEK
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:0600:0677
+PRIORITY:3
+NOTADEP:FY
+NOTADES:FY
+IFR
+
+
+// ##################################################################
+//                 FY NAMIBIA
+// ##################################################################
+
+// FYWF DOMESTIC I
+RANGE:1300:1377
+PRIORITY:3
+ADEP:FY
+ADES:FY
+IFR
+
+// FYWF DOMESTIC II
+RANGE:0700:0777
+PRIORITY:2
+ADEP:FY
+ADES:FY
+IFR
+
+// FYWF DOMESTIC III
+RANGE:1200:1277
+PRIORITY:1
+ADEP:FY
+ADES:FY
+IFR
+
+// FYWF INTERNATIONAL OUTBOUND
+RANGE:0600:0677
+PRIORITY:3
+ADEP:FY
+NOTADES:FY
+IFR
+
+// FYWF INTERNATIONAL INBOUND
+RANGE:0600:0677
+PRIORITY:3
+NOTADEP:FY
+ADES:FY
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

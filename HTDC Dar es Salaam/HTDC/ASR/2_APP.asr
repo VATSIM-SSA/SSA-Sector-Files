@@ -1,0 +1,622 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:DULAC-TMA:
+ARTCC boundary:FMCH-TMA:
+ARTCC boundary:FWKI-CTA:
+ARTCC boundary:FZRF-TMA:
+ARTCC boundary:HBBA-TMA:
+ARTCC boundary:HKMO-TMA:
+ARTCC boundary:HRYR-TMA:
+ARTCC boundary:HTDA-CTA:
+ARTCC boundary:HTKJ-TMA:
+ARTCC boundary:HUEN-TMA:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:FWLL:
+ARTCC high boundary:FZZA:
+ARTCC high boundary:HBBA-FIS:
+ARTCC high boundary:HKNA:
+ARTCC high boundary:HTDC-E:
+ARTCC high boundary:HTDC-W:
+ARTCC high boundary:HUEC:
+ARTCC low boundary:HBBA-CTR:
+ARTCC low boundary:HRYR-CTR:
+ARTCC low boundary:HRZA-ATZ:
+ARTCC low boundary:HTDA-CTR:
+ARTCC low boundary:HTDO-CTR:
+ARTCC low boundary:HTKJ-CTR:
+ARTCC low boundary:HTMW-CTR:
+Fixes:ALSAR:name
+Fixes:ALSAR:symbol
+Fixes:APKOL:name
+Fixes:APKOL:symbol
+Fixes:ATBAL:name
+Fixes:ATBAL:symbol
+Fixes:AVATU:name
+Fixes:AVATU:symbol
+Fixes:AVIGO:name
+Fixes:AVIGO:symbol
+Fixes:BOSAD:name
+Fixes:BOSAD:symbol
+Fixes:BOSIT:name
+Fixes:BOSIT:symbol
+Fixes:BOTEN:name
+Fixes:BOTEN:symbol
+Fixes:DARAS:name
+Fixes:DARAS:symbol
+Fixes:DATAN:name
+Fixes:DATAN:symbol
+Fixes:EGREK:name
+Fixes:EGREK:symbol
+Fixes:ELAVA:name
+Fixes:ELAVA:symbol
+Fixes:EPMAB:name
+Fixes:EPMAB:symbol
+Fixes:ETITU:name
+Fixes:ETITU:symbol
+Fixes:ETKOP:name
+Fixes:ETKOP:symbol
+Fixes:EVATO:name
+Fixes:EVATO:symbol
+Fixes:EVUBA:name
+Fixes:EVUBA:symbol
+Fixes:EVUNO:name
+Fixes:EVUNO:symbol
+Fixes:GABSO:name
+Fixes:GABSO:symbol
+Fixes:GAVDA:name
+Fixes:GAVDA:symbol
+Fixes:GEREN:name
+Fixes:GEREN:symbol
+Fixes:GESAT:name
+Fixes:GESAT:symbol
+Fixes:IBGOK:name
+Fixes:IBGOK:symbol
+Fixes:IBTIX:name
+Fixes:IBTIX:symbol
+Fixes:IBVOD:name
+Fixes:IBVOD:symbol
+Fixes:IMLAK:name
+Fixes:IMLAK:symbol
+Fixes:ITBEX:name
+Fixes:ITBEX:symbol
+Fixes:KAROS:name
+Fixes:KAROS:symbol
+Fixes:KASIM:name
+Fixes:KASIM:symbol
+Fixes:KISIR:name
+Fixes:KISIR:symbol
+Fixes:LABAG:name
+Fixes:LABAG:symbol
+Fixes:LUDOL:name
+Fixes:LUDOL:symbol
+Fixes:LUGAP:name
+Fixes:LUGAP:symbol
+Fixes:MUMTU:name
+Fixes:MUMTU:symbol
+Fixes:NEVAB:name
+Fixes:NEVAB:symbol
+Fixes:NEVAX:name
+Fixes:NEVAX:symbol
+Fixes:ODGAT:name
+Fixes:ODGAT:symbol
+Fixes:OKBOT:name
+Fixes:OKBOT:symbol
+Fixes:OKPOL:name
+Fixes:OKPOL:symbol
+Fixes:OVANA:name
+Fixes:OVANA:symbol
+Fixes:RANAG:name
+Fixes:RANAG:symbol
+Fixes:UBTER:name
+Fixes:UBTER:symbol
+Fixes:UBTUG:name
+Fixes:UBTUG:symbol
+Fixes:UBVAB:name
+Fixes:UBVAB:symbol
+Fixes:UDNUR:name
+Fixes:UDNUR:symbol
+Fixes:UDPEM:name
+Fixes:UDPEM:symbol
+Fixes:UMVAR:name
+Fixes:UMVAR:symbol
+Fixes:UMVEN:name
+Fixes:UMVEN:symbol
+Fixes:UTATA:name
+Fixes:UTATA:symbol
+Fixes:UTEMA:name
+Fixes:UTEMA:symbol
+Fixes:UTOPI:name
+Fixes:UTOPI:symbol
+Fixes:UVUKO:name
+Fixes:UVUKO:symbol
+Geo:FL Landmark Lakes:
+Geo:FQ Landmark Coast N:
+Geo:FW Landmark Lake Malawi:
+Geo:HK Landmark Coast:
+Geo:HK Landmark Lakes:
+Geo:HR Landmark Lakes:
+Geo:HR Prohibited area P3 Bugesera - GND/FL190:
+Geo:HR Prohibited area P5 Kigali Centre Ville - GND/FL110:
+Geo:HR Restricted area R1 Volcano Reserve - GND/1000AGL:
+Geo:HR Restricted area R2 National Park Akagera - GND/1000AGL:
+Geo:HR Restricted area R4 Ndera - GND/A080:
+Geo:HT Danger area D10 Sengerema - GND/A200:
+Geo:HT Danger area D11 Rubondo - GND/A200:
+Geo:HT Danger area D9 Ukerewe Island - GND/A200:
+Geo:HT Landmark Coast N:
+Geo:HT Landmark Coast S:
+Geo:HT Landmark Lake Tanganyika:
+Geo:HT Landmark Lake Victoria:
+Geo:HT Landmark Lakes:
+Geo:HT Prohibited area P6 Ngerengere:
+Geo:HT Restricted area R12 Mtera - GND/A100:
+Geo:HT Restricted area R13 Kidatu - GND/A160:
+Geo:HT Restricted area R7 Ngerengere - GND/A100:
+NDBs:AR:name
+NDBs:AR:symbol
+NDBs:BK:name
+NDBs:BK:symbol
+NDBs:BKV:name
+NDBs:BKV:symbol
+NDBs:BN:name
+NDBs:BN:symbol
+NDBs:BS:name
+NDBs:BS:symbol
+NDBs:BU:name
+NDBs:BU:symbol
+NDBs:CP:name
+NDBs:CP:symbol
+NDBs:DM:name
+NDBs:DM:symbol
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:DR:name
+NDBs:DR:symbol
+NDBs:DS:name
+NDBs:DS:symbol
+NDBs:ELI:name
+NDBs:ELI:symbol
+NDBs:EM:name
+NDBs:EM:symbol
+NDBs:FJO:name
+NDBs:FJO:symbol
+NDBs:GA:name
+NDBs:GA:symbol
+NDBs:GI:name
+NDBs:GI:symbol
+NDBs:GS:name
+NDBs:GS:symbol
+NDBs:GY:name
+NDBs:GY:symbol
+NDBs:IR:name
+NDBs:IR:symbol
+NDBs:KA:name
+NDBs:KA:symbol
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KG:name
+NDBs:KG:symbol
+NDBs:KI:name
+NDBs:KI:symbol
+NDBs:KIN:name
+NDBs:KIN:symbol
+NDBs:KL:name
+NDBs:KL:symbol
+NDBs:KM:name
+NDBs:KM:symbol
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KS:name
+NDBs:KS:symbol
+NDBs:KT:name
+NDBs:KT:symbol
+NDBs:KW:name
+NDBs:KW:symbol
+NDBs:KWZ:name
+NDBs:KWZ:symbol
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LH:name
+NDBs:LH:symbol
+NDBs:LO:name
+NDBs:LO:symbol
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:MF:name
+NDBs:MF:symbol
+NDBs:MT:name
+NDBs:MT:symbol
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:MZ:name
+NDBs:MZ:symbol
+NDBs:NL:name
+NDBs:NL:symbol
+NDBs:NS:name
+NDBs:NS:symbol
+NDBs:NW:name
+NDBs:NW:symbol
+NDBs:PA:name
+NDBs:PA:symbol
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:RA:name
+NDBs:RA:symbol
+NDBs:RG:name
+NDBs:RG:symbol
+NDBs:SG:name
+NDBs:SG:symbol
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:TB:name
+NDBs:TB:symbol
+NDBs:TG:name
+NDBs:TG:symbol
+NDBs:UU:name
+NDBs:UU:symbol
+NDBs:YI:name
+NDBs:YI:symbol
+NDBs:ZZ:name
+NDBs:ZZ:symbol
+Runways:HBBA 17-35:centerline
+Runways:HBBA 17-35:extended centerline 1
+Runways:HBBA 17-35:extended centerline 1 left ticks
+Runways:HBBA 17-35:extended centerline 1 right ticks
+Runways:HBBA 17-35:extended centerline 2
+Runways:HBBA 17-35:extended centerline 2 left ticks
+Runways:HBBA 17-35:extended centerline 2 right ticks
+Runways:HRYG 01-19:centerline
+Runways:HRYG 01-19:extended centerline 1
+Runways:HRYG 01-19:extended centerline 1 left ticks
+Runways:HRYG 01-19:extended centerline 1 right ticks
+Runways:HRYG 01-19:extended centerline 2
+Runways:HRYG 01-19:extended centerline 2 left ticks
+Runways:HRYG 01-19:extended centerline 2 right ticks
+Runways:HRYR 10-28:centerline
+Runways:HRYR 10-28:extended centerline 1
+Runways:HRYR 10-28:extended centerline 1 left ticks
+Runways:HRYR 10-28:extended centerline 1 right ticks
+Runways:HRYR 10-28:extended centerline 2
+Runways:HRYR 10-28:extended centerline 2 left ticks
+Runways:HRYR 10-28:extended centerline 2 right ticks
+Runways:HRZA 02-20:centerline
+Runways:HRZA 02-20:extended centerline 1
+Runways:HRZA 02-20:extended centerline 1 left ticks
+Runways:HRZA 02-20:extended centerline 1 right ticks
+Runways:HRZA 02-20:extended centerline 2
+Runways:HRZA 02-20:extended centerline 2 left ticks
+Runways:HRZA 02-20:extended centerline 2 right ticks
+Runways:HTAR 09-27:centerline
+Runways:HTAR 09-27:extended centerline 1
+Runways:HTAR 09-27:extended centerline 1 left ticks
+Runways:HTAR 09-27:extended centerline 1 right ticks
+Runways:HTAR 09-27:extended centerline 2
+Runways:HTAR 09-27:extended centerline 2 left ticks
+Runways:HTAR 09-27:extended centerline 2 right ticks
+Runways:HTBH 17-35:centerline
+Runways:HTBH 17-35:extended centerline 1
+Runways:HTBH 17-35:extended centerline 1 left ticks
+Runways:HTBH 17-35:extended centerline 1 right ticks
+Runways:HTBH 17-35:extended centerline 2
+Runways:HTBH 17-35:extended centerline 2 left ticks
+Runways:HTBH 17-35:extended centerline 2 right ticks
+Runways:HTBU 13-31:centerline
+Runways:HTBU 13-31:extended centerline 1
+Runways:HTBU 13-31:extended centerline 1 left ticks
+Runways:HTBU 13-31:extended centerline 1 right ticks
+Runways:HTBU 13-31:extended centerline 2
+Runways:HTBU 13-31:extended centerline 2 left ticks
+Runways:HTBU 13-31:extended centerline 2 right ticks
+Runways:HTDA 05-23:centerline
+Runways:HTDA 05-23:extended centerline 1
+Runways:HTDA 05-23:extended centerline 1 left ticks
+Runways:HTDA 05-23:extended centerline 1 right ticks
+Runways:HTDA 05-23:extended centerline 2
+Runways:HTDA 05-23:extended centerline 2 left ticks
+Runways:HTDA 05-23:extended centerline 2 right ticks
+Runways:HTDA 14-32:centerline
+Runways:HTDA 14-32:extended centerline 1
+Runways:HTDA 14-32:extended centerline 1 left ticks
+Runways:HTDA 14-32:extended centerline 1 right ticks
+Runways:HTDA 14-32:extended centerline 2
+Runways:HTDA 14-32:extended centerline 2 left ticks
+Runways:HTDA 14-32:extended centerline 2 right ticks
+Runways:HTDO 09-27:centerline
+Runways:HTDO 09-27:extended centerline 1
+Runways:HTDO 09-27:extended centerline 1 left ticks
+Runways:HTDO 09-27:extended centerline 1 right ticks
+Runways:HTDO 09-27:extended centerline 2
+Runways:HTDO 09-27:extended centerline 2 left ticks
+Runways:HTDO 09-27:extended centerline 2 right ticks
+Runways:HTGW 09-27:centerline
+Runways:HTGW 09-27:extended centerline 1
+Runways:HTGW 09-27:extended centerline 1 left ticks
+Runways:HTGW 09-27:extended centerline 1 right ticks
+Runways:HTGW 09-27:extended centerline 2
+Runways:HTGW 09-27:extended centerline 2 left ticks
+Runways:HTGW 09-27:extended centerline 2 right ticks
+Runways:HTIR 02-20:centerline
+Runways:HTIR 02-20:extended centerline 1
+Runways:HTIR 02-20:extended centerline 1 left ticks
+Runways:HTIR 02-20:extended centerline 1 right ticks
+Runways:HTIR 02-20:extended centerline 2
+Runways:HTIR 02-20:extended centerline 2 left ticks
+Runways:HTIR 02-20:extended centerline 2 right ticks
+Runways:HTKA 16-34:centerline
+Runways:HTKA 16-34:extended centerline 1
+Runways:HTKA 16-34:extended centerline 1 left ticks
+Runways:HTKA 16-34:extended centerline 1 right ticks
+Runways:HTKA 16-34:extended centerline 2
+Runways:HTKA 16-34:extended centerline 2 left ticks
+Runways:HTKA 16-34:extended centerline 2 right ticks
+Runways:HTKB 03-21:centerline
+Runways:HTKB 03-21:extended centerline 1
+Runways:HTKB 03-21:extended centerline 1 left ticks
+Runways:HTKB 03-21:extended centerline 1 right ticks
+Runways:HTKB 03-21:extended centerline 2
+Runways:HTKB 03-21:extended centerline 2 left ticks
+Runways:HTKB 03-21:extended centerline 2 right ticks
+Runways:HTKJ 09-27:centerline
+Runways:HTKJ 09-27:extended centerline 1
+Runways:HTKJ 09-27:extended centerline 1 left ticks
+Runways:HTKJ 09-27:extended centerline 1 right ticks
+Runways:HTKJ 09-27:extended centerline 2
+Runways:HTKJ 09-27:extended centerline 2 left ticks
+Runways:HTKJ 09-27:extended centerline 2 right ticks
+Runways:HTKU 08-26:centerline
+Runways:HTKU 08-26:extended centerline 1
+Runways:HTKU 08-26:extended centerline 1 left ticks
+Runways:HTKU 08-26:extended centerline 1 right ticks
+Runways:HTKU 08-26:extended centerline 2
+Runways:HTKU 08-26:extended centerline 2 left ticks
+Runways:HTKU 08-26:extended centerline 2 right ticks
+Runways:HTLI 04-22:centerline
+Runways:HTLI 04-22:extended centerline 1
+Runways:HTLI 04-22:extended centerline 1 left ticks
+Runways:HTLI 04-22:extended centerline 1 right ticks
+Runways:HTLI 04-22:extended centerline 2
+Runways:HTLI 04-22:extended centerline 2 left ticks
+Runways:HTLI 04-22:extended centerline 2 right ticks
+Runways:HTLI 10-28:centerline
+Runways:HTLI 10-28:extended centerline 1
+Runways:HTLI 10-28:extended centerline 1 left ticks
+Runways:HTLI 10-28:extended centerline 1 right ticks
+Runways:HTLI 10-28:extended centerline 2
+Runways:HTLI 10-28:extended centerline 2 left ticks
+Runways:HTLI 10-28:extended centerline 2 right ticks
+Runways:HTLI 16-34:centerline
+Runways:HTLI 16-34:extended centerline 1
+Runways:HTLI 16-34:extended centerline 1 left ticks
+Runways:HTLI 16-34:extended centerline 1 right ticks
+Runways:HTLI 16-34:extended centerline 2
+Runways:HTLI 16-34:extended centerline 2 left ticks
+Runways:HTLI 16-34:extended centerline 2 right ticks
+Runways:HTLM 12-30:centerline
+Runways:HTLM 12-30:extended centerline 1
+Runways:HTLM 12-30:extended centerline 1 left ticks
+Runways:HTLM 12-30:extended centerline 1 right ticks
+Runways:HTLM 12-30:extended centerline 2
+Runways:HTLM 12-30:extended centerline 2 left ticks
+Runways:HTLM 12-30:extended centerline 2 right ticks
+Runways:HTMA 15-33:centerline
+Runways:HTMA 15-33:extended centerline 1
+Runways:HTMA 15-33:extended centerline 1 left ticks
+Runways:HTMA 15-33:extended centerline 1 right ticks
+Runways:HTMA 15-33:extended centerline 2
+Runways:HTMA 15-33:extended centerline 2 left ticks
+Runways:HTMA 15-33:extended centerline 2 right ticks
+Runways:HTMF 15-33:centerline
+Runways:HTMF 15-33:extended centerline 1
+Runways:HTMF 15-33:extended centerline 1 left ticks
+Runways:HTMF 15-33:extended centerline 1 right ticks
+Runways:HTMF 15-33:extended centerline 2
+Runways:HTMF 15-33:extended centerline 2 left ticks
+Runways:HTMF 15-33:extended centerline 2 right ticks
+Runways:HTMG 03-21:centerline
+Runways:HTMG 03-21:extended centerline 1
+Runways:HTMG 03-21:extended centerline 1 left ticks
+Runways:HTMG 03-21:extended centerline 1 right ticks
+Runways:HTMG 03-21:extended centerline 2
+Runways:HTMG 03-21:extended centerline 2 left ticks
+Runways:HTMG 03-21:extended centerline 2 right ticks
+Runways:HTMP 09-27:centerline
+Runways:HTMP 09-27:extended centerline 1
+Runways:HTMP 09-27:extended centerline 1 left ticks
+Runways:HTMP 09-27:extended centerline 1 right ticks
+Runways:HTMP 09-27:extended centerline 2
+Runways:HTMP 09-27:extended centerline 2 left ticks
+Runways:HTMP 09-27:extended centerline 2 right ticks
+Runways:HTMT 01-19:centerline
+Runways:HTMT 01-19:extended centerline 1
+Runways:HTMT 01-19:extended centerline 1 left ticks
+Runways:HTMT 01-19:extended centerline 1 right ticks
+Runways:HTMT 01-19:extended centerline 2
+Runways:HTMT 01-19:extended centerline 2 left ticks
+Runways:HTMT 01-19:extended centerline 2 right ticks
+Runways:HTMT 08-26:centerline
+Runways:HTMT 08-26:extended centerline 1
+Runways:HTMT 08-26:extended centerline 1 left ticks
+Runways:HTMT 08-26:extended centerline 1 right ticks
+Runways:HTMT 08-26:extended centerline 2
+Runways:HTMT 08-26:extended centerline 2 left ticks
+Runways:HTMT 08-26:extended centerline 2 right ticks
+Runways:HTMU 18-36:centerline
+Runways:HTMU 18-36:extended centerline 1
+Runways:HTMU 18-36:extended centerline 1 left ticks
+Runways:HTMU 18-36:extended centerline 1 right ticks
+Runways:HTMU 18-36:extended centerline 2
+Runways:HTMU 18-36:extended centerline 2 left ticks
+Runways:HTMU 18-36:extended centerline 2 right ticks
+Runways:HTMW 12-30:centerline
+Runways:HTMW 12-30:extended centerline 1
+Runways:HTMW 12-30:extended centerline 1 left ticks
+Runways:HTMW 12-30:extended centerline 1 right ticks
+Runways:HTMW 12-30:extended centerline 2
+Runways:HTMW 12-30:extended centerline 2 left ticks
+Runways:HTMW 12-30:extended centerline 2 right ticks
+Runways:HTNA 14-32:centerline
+Runways:HTNA 14-32:extended centerline 1
+Runways:HTNA 14-32:extended centerline 1 left ticks
+Runways:HTNA 14-32:extended centerline 1 right ticks
+Runways:HTNA 14-32:extended centerline 2
+Runways:HTNA 14-32:extended centerline 2 left ticks
+Runways:HTNA 14-32:extended centerline 2 right ticks
+Runways:HTNR 06-24:centerline
+Runways:HTNR 06-24:extended centerline 1
+Runways:HTNR 06-24:extended centerline 1 left ticks
+Runways:HTNR 06-24:extended centerline 1 right ticks
+Runways:HTNR 06-24:extended centerline 2
+Runways:HTNR 06-24:extended centerline 2 left ticks
+Runways:HTNR 06-24:extended centerline 2 right ticks
+Runways:HTPE 03-21:centerline
+Runways:HTPE 03-21:extended centerline 1
+Runways:HTPE 03-21:extended centerline 1 left ticks
+Runways:HTPE 03-21:extended centerline 1 right ticks
+Runways:HTPE 03-21:extended centerline 2
+Runways:HTPE 03-21:extended centerline 2 left ticks
+Runways:HTPE 03-21:extended centerline 2 right ticks
+Runways:HTSH 13-31:centerline
+Runways:HTSH 13-31:extended centerline 1
+Runways:HTSH 13-31:extended centerline 1 left ticks
+Runways:HTSH 13-31:extended centerline 1 right ticks
+Runways:HTSH 13-31:extended centerline 2
+Runways:HTSH 13-31:extended centerline 2 left ticks
+Runways:HTSH 13-31:extended centerline 2 right ticks
+Runways:HTSO 14-32:centerline
+Runways:HTSO 14-32:extended centerline 1
+Runways:HTSO 14-32:extended centerline 1 left ticks
+Runways:HTSO 14-32:extended centerline 1 right ticks
+Runways:HTSO 14-32:extended centerline 2
+Runways:HTSO 14-32:extended centerline 2 left ticks
+Runways:HTSO 14-32:extended centerline 2 right ticks
+Runways:HTSU 07-25:centerline
+Runways:HTSU 07-25:extended centerline 1
+Runways:HTSU 07-25:extended centerline 1 left ticks
+Runways:HTSU 07-25:extended centerline 1 right ticks
+Runways:HTSU 07-25:extended centerline 2
+Runways:HTSU 07-25:extended centerline 2 left ticks
+Runways:HTSU 07-25:extended centerline 2 right ticks
+Runways:HTSY 11-29:centerline
+Runways:HTSY 11-29:extended centerline 1
+Runways:HTSY 11-29:extended centerline 1 left ticks
+Runways:HTSY 11-29:extended centerline 1 right ticks
+Runways:HTSY 11-29:extended centerline 2
+Runways:HTSY 11-29:extended centerline 2 left ticks
+Runways:HTSY 11-29:extended centerline 2 right ticks
+Runways:HTTB 08-26:centerline
+Runways:HTTB 08-26:extended centerline 1
+Runways:HTTB 08-26:extended centerline 1 left ticks
+Runways:HTTB 08-26:extended centerline 1 right ticks
+Runways:HTTB 08-26:extended centerline 2
+Runways:HTTB 08-26:extended centerline 2 left ticks
+Runways:HTTB 08-26:extended centerline 2 right ticks
+Runways:HTTB 13-31:centerline
+Runways:HTTB 13-31:extended centerline 1
+Runways:HTTB 13-31:extended centerline 1 left ticks
+Runways:HTTB 13-31:extended centerline 1 right ticks
+Runways:HTTB 13-31:extended centerline 2
+Runways:HTTB 13-31:extended centerline 2 left ticks
+Runways:HTTB 13-31:extended centerline 2 right ticks
+Runways:HTTG 06-24:centerline
+Runways:HTTG 06-24:extended centerline 1
+Runways:HTTG 06-24:extended centerline 1 left ticks
+Runways:HTTG 06-24:extended centerline 1 right ticks
+Runways:HTTG 06-24:extended centerline 2
+Runways:HTTG 06-24:extended centerline 2 left ticks
+Runways:HTTG 06-24:extended centerline 2 right ticks
+Runways:HTTG 14-32:centerline
+Runways:HTTG 14-32:extended centerline 1
+Runways:HTTG 14-32:extended centerline 1 left ticks
+Runways:HTTG 14-32:extended centerline 1 right ticks
+Runways:HTTG 14-32:extended centerline 2
+Runways:HTTG 14-32:extended centerline 2 left ticks
+Runways:HTTG 14-32:extended centerline 2 right ticks
+Runways:HTZA 18-36:centerline
+Runways:HTZA 18-36:extended centerline 1
+Runways:HTZA 18-36:extended centerline 1 left ticks
+Runways:HTZA 18-36:extended centerline 1 right ticks
+Runways:HTZA 18-36:extended centerline 2
+Runways:HTZA 18-36:extended centerline 2 left ticks
+Runways:HTZA 18-36:extended centerline 2 right ticks
+VORs:BJA:name
+VORs:BJA:symbol
+VORs:DV:name
+VORs:DV:symbol
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:DZP:name
+VORs:DZP:symbol
+VORs:ELD:name
+VORs:ELD:symbol
+VORs:GAR:name
+VORs:GAR:symbol
+VORs:GOM:name
+VORs:GOM:symbol
+VORs:GV:name
+VORs:GV:symbol
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:KGI:name
+VORs:KGI:symbol
+VORs:KI:name
+VORs:KI:symbol
+VORs:KIN:name
+VORs:KIN:symbol
+VORs:KIV:name
+VORs:KIV:symbol
+VORs:KMB:name
+VORs:KMB:symbol
+VORs:KMI:name
+VORs:KMI:symbol
+VORs:KNM:name
+VORs:KNM:symbol
+VORs:KV:name
+VORs:KV:symbol
+VORs:LUB:name
+VORs:LUB:symbol
+VORs:MLD:name
+VORs:MLD:symbol
+VORs:MOV:name
+VORs:MOV:symbol
+VORs:MV:name
+VORs:MV:symbol
+VORs:NAK:name
+VORs:NAK:symbol
+VORs:NN:name
+VORs:NN:symbol
+VORs:NV:name
+VORs:NV:symbol
+VORs:TV:name
+VORs:TV:symbol
+VORs:VKA:name
+VORs:VKA:symbol
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VMF:name
+VORs:VMF:symbol
+VORs:VMZ:name
+VORs:VMZ:symbol
+VORs:VND:name
+VORs:VND:symbol
+VORs:ZV:name
+VORs:ZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-9.250431:33.153072:-3.787770:43.507286

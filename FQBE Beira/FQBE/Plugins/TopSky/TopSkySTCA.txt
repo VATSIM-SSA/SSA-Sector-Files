@@ -1,0 +1,43 @@
+// ##################################################################
+//                 VATSSA | FIR FQBE | TopSky | STCA
+// ##################################################################
+
+// Version v0.2
+// Update Date 23/08/2022
+
+
+// ##################################################################
+//                 FQ MOZAMBIQUE
+// ##################################################################
+
+// FQBR | BEIRA INTL
+
+FINALAPP:FQBR:12
+FINALAPP:FQBR:30
+
+// FQMA | MAPUTO INTL
+
+FINALAPP:FQMA:05
+FINALAPP:FQMA:23
+FINALAPP:FQMA:10
+FINALAPP:FQMA:28
+
+// FQNC | NACALA
+
+FINALAPP:FQNC:01
+FINALAPP:FQNC:19
+
+// FQNP | NAMPULA
+
+FINALAPP:FQNP:05
+FINALAPP:FQNP:23
+
+// FQPB | PEMBA
+
+FINALAPP:FQPB:17
+FINALAPP:FQPB:35
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

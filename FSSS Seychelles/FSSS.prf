@@ -1,0 +1,65 @@
+Settings	SettingsfileSYMBOLOGY	\FSSS\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FSSS\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FSSS\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FSSS\Settings\Tags_TS.txt
+Settings	SettingsfileSIL	\FSSS\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FSSS\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FSSS\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FSSS\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FSSS\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FSSS\Settings\Plugins.txt
+Settings	Settingsfile	\FSSS\Settings\General.txt
+Settings	SettingsfileSCREEN	\FSSS\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FSSS\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FSSS\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FSSS\Settings\PilotingList.txt
+Settings	alias	\FSSS\Alias\alias.txt
+Settings	airlines	\FSSS\ICAO\ICAO_Airlines.txt
+Settings	airports	\FSSS\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FSSS\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FSSS\NavData\airway.txt
+Settings	airportcoords	\FSSS\NavData\icao.txt
+RecentFiles	Recent1	\FSSS\ASR\1_CTR.asr
+RecentFiles	Recent2	\FSSS\ASR\2_APP.asr
+RecentFiles	Recent3	\FSSS\ASR\3_TWR.asr
+ASRFastKeys	1	\FSSS\ASR\1_CTR.asr
+ASRFastKeys	2	\FSSS\ASR\2_APP.asr
+ASRFastKeys	3	\FSSS\ASR\3_TWR.asr
+Plugins	Plugin1	\FSSS\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Settings	sector	\FSSS-Package_20220811172724-220801-0001.sct
+Plugins	Plugin0	\FSSS\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\FSSS\Sounds\handoff_accept.wav
+Sounds	Sound2	\FSSS\Sounds\conflict_alert.wav
+Sounds	Sound3	\FSSS\Sounds\radio_message.wav
+Sounds	Sound4	\FSSS\Sounds\private_message.wav
+Sounds	Sound5	\FSSS\Sounds\atc_message.wav
+Sounds	Sound6	\FSSS\Sounds\broadcast_message.wav
+Sounds	Sound7	\FSSS\Sounds\landline_request.wav
+Sounds	Sound8	\FSSS\Sounds\supervisor_message.wav
+Sounds	Sound9	\FSSS\Sounds\connected.wav
+Sounds	Sound10	\FSSS\Sounds\disconnected.wav
+Sounds	Sound11	\FSSS\Sounds\ongoing_request.wav
+Sounds	Sound12	\FSSS\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FSSS\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FSSS\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FSSS\Sounds\new_atis.wav
+Sounds	Sound16	\FSSS\Sounds\handoff_refused.wav
+Sounds	Sound17	\FSSS\Sounds\pointout.wav
+Sounds	Sound18	\FSSS\Sounds\startup.wav
+Sounds	Sound19	\FSSS\Sounds\startup.wav
+Sounds	Sound20	\FSSS\Sounds\supervisor_message.wav
+Sounds	Sound0	\FSSS\Sounds\handoff_request.wav

@@ -1,0 +1,40 @@
+// ##################################################################
+//                 VATSSA | FIR GVSC | ASR | GVBA AD GR
+// ##################################################################
+
+// Version v0.4
+// Update Date 01/06/2022
+
+// Changelog
+// v0.4 | Small Code Changes
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Geo:GVBA Groundlayout:
+Regions:GVBA Ground Layout:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:73.60000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:16.131890:-22.902638:16.143788:-22.880187
+PLUGIN:Ground Radar plugin:AirportElevation:91
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GVBA
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GVBA
+PLUGIN:TopSky plugin:HideMapData:GVSC

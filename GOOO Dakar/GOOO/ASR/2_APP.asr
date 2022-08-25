@@ -1,0 +1,816 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:DFOO-TMA:
+ARTCC boundary:DIAP-TMA:
+ARTCC boundary:DIBK-TMA:
+ARTCC boundary:GABS-TMA:
+ARTCC boundary:GAMB-TMA:
+ARTCC boundary:GLRB-TMA:
+ARTCC boundary:GOBD-TMA:
+ARTCC boundary:GQNO-TMA:
+ARTCC boundary:GQPP-TMA:
+ARTCC high boundary:DAAA:
+ARTCC high boundary:DFFF:
+ARTCC high boundary:DGAC:
+ARTCC high boundary:DIII:
+ARTCC high boundary:DRRR:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:GAAA:
+ARTCC high boundary:GCCC:
+ARTCC high boundary:GLRB:
+ARTCC high boundary:GMMM:
+ARTCC high boundary:GOOC:
+ARTCC high boundary:GOOO:
+ARTCC high boundary:GQQQ:
+ARTCC high boundary:GVSC:
+ARTCC high boundary:LPPO:
+ARTCC high boundary:SBAO:
+ARTCC high boundary:SOOO:
+ARTCC high boundary:TTZP:
+ARTCC low boundary:DIAP-CTR:
+ARTCC low boundary:DIBK-CTR:
+ARTCC low boundary:DISP-CTR:
+ARTCC low boundary:DIYO-CTR:
+ARTCC low boundary:GABS-CTR:
+ARTCC low boundary:GAKD-CTR:
+ARTCC low boundary:GAMB-CTR:
+ARTCC low boundary:GBYD-CTR:
+ARTCC low boundary:GFLL-CTR:
+ARTCC low boundary:GGOV-CTR:
+ARTCC low boundary:GLMR-ATZ:
+ARTCC low boundary:GLRB-CTR:
+ARTCC low boundary:GOBD-CTR:
+ARTCC low boundary:GOGG-AD:
+ARTCC low boundary:GOGS-AD:
+ARTCC low boundary:GOOY-CTR:
+ARTCC low boundary:GOSS-AD:
+ARTCC low boundary:GQNO-CTR:
+ARTCC low boundary:GQPP-CTR:
+ARTCC low boundary:GUCY-CTR:
+ARTCC low boundary:GUOK-ATZ:
+Fixes:ABIPO:name
+Fixes:ABIPO:symbol
+Fixes:ADUPU:name
+Fixes:ADUPU:symbol
+Fixes:AGRIL:name
+Fixes:AGRIL:symbol
+Fixes:AGSIL:name
+Fixes:AGSIL:symbol
+Fixes:AGSOL:name
+Fixes:AGSOL:symbol
+Fixes:AGSUD:name
+Fixes:AGSUD:symbol
+Fixes:AKDAK:name
+Fixes:AKDAK:symbol
+Fixes:AMDEX:name
+Fixes:AMDEX:symbol
+Fixes:AMPOT:name
+Fixes:AMPOT:symbol
+Fixes:AMTOL:name
+Fixes:AMTOL:symbol
+Fixes:ANOPO:name
+Fixes:ANOPO:symbol
+Fixes:ANUSA:name
+Fixes:ANUSA:symbol
+Fixes:ARBEN:name
+Fixes:ARBEN:symbol
+Fixes:ARDAR:name
+Fixes:ARDAR:symbol
+Fixes:ARDAS:name
+Fixes:ARDAS:symbol
+Fixes:ARLIX:name
+Fixes:ARLIX:symbol
+Fixes:AXIRO:name
+Fixes:AXIRO:symbol
+Fixes:BADIA:name
+Fixes:BADIA:symbol
+Fixes:BIDIL:name
+Fixes:BIDIL:symbol
+Fixes:BIDOK:name
+Fixes:BIDOK:symbol
+Fixes:BIKIS:name
+Fixes:BIKIS:symbol
+Fixes:BIPOS:name
+Fixes:BIPOS:symbol
+Fixes:BIREL:name
+Fixes:BIREL:symbol
+Fixes:BOMSA:name
+Fixes:BOMSA:symbol
+Fixes:BORGU:name
+Fixes:BORGU:symbol
+Fixes:BOSKA:name
+Fixes:BOSKA:symbol
+Fixes:BOVLI:name
+Fixes:BOVLI:symbol
+Fixes:BUGOS:name
+Fixes:BUGOS:symbol
+Fixes:BUKLA:name
+Fixes:BUKLA:symbol
+Fixes:BUPAS:name
+Fixes:BUPAS:symbol
+Fixes:BURAD:name
+Fixes:BURAD:symbol
+Fixes:DEGAS:name
+Fixes:DEGAS:symbol
+Fixes:DELAX:name
+Fixes:DELAX:symbol
+Fixes:DEMAR:name
+Fixes:DEMAR:symbol
+Fixes:DEMIL:name
+Fixes:DEMIL:symbol
+Fixes:DENIS:name
+Fixes:DENIS:symbol
+Fixes:DENOS:name
+Fixes:DENOS:symbol
+Fixes:DETEK:name
+Fixes:DETEK:symbol
+Fixes:DEVLI:name
+Fixes:DEVLI:symbol
+Fixes:DEVRA:name
+Fixes:DEVRA:symbol
+Fixes:DIGDA:name
+Fixes:DIGDA:symbol
+Fixes:DILPO:name
+Fixes:DILPO:symbol
+Fixes:DIMKA:name
+Fixes:DIMKA:symbol
+Fixes:DOPER:name
+Fixes:DOPER:symbol
+Fixes:EBAMA:name
+Fixes:EBAMA:symbol
+Fixes:EBELU:name
+Fixes:EBELU:symbol
+Fixes:EBROS:name
+Fixes:EBROS:symbol
+Fixes:EDBAL:name
+Fixes:EDBAL:symbol
+Fixes:EGADU:name
+Fixes:EGADU:symbol
+Fixes:ENOLU:name
+Fixes:ENOLU:symbol
+Fixes:ENURI:name
+Fixes:ENURI:symbol
+Fixes:EPETI:name
+Fixes:EPETI:symbol
+Fixes:ERENA:name
+Fixes:ERENA:symbol
+Fixes:ERIDI:name
+Fixes:ERIDI:symbol
+Fixes:ERMIT:name
+Fixes:ERMIT:symbol
+Fixes:ERSIT:name
+Fixes:ERSIT:symbol
+Fixes:EVNID:name
+Fixes:EVNID:symbol
+Fixes:GADUT:name
+Fixes:GADUT:symbol
+Fixes:GAGIK:name
+Fixes:GAGIK:symbol
+Fixes:GAGON:name
+Fixes:GAGON:symbol
+Fixes:GAKES:name
+Fixes:GAKES:symbol
+Fixes:GANOT:name
+Fixes:GANOT:symbol
+Fixes:GAVBO:name
+Fixes:GAVBO:symbol
+Fixes:GIBMI:name
+Fixes:GIBMI:symbol
+Fixes:GS001:name
+Fixes:GS001:symbol
+Fixes:GS002:name
+Fixes:GS002:symbol
+Fixes:GS006:name
+Fixes:GS006:symbol
+Fixes:GUPEL:name
+Fixes:GUPEL:symbol
+Fixes:GUPEX:name
+Fixes:GUPEX:symbol
+Fixes:GURAN:name
+Fixes:GURAN:symbol
+Fixes:GUSEK:name
+Fixes:GUSEK:symbol
+Fixes:IBTES:name
+Fixes:IBTES:symbol
+Fixes:IKRAR:name
+Fixes:IKRAR:symbol
+Fixes:IKREL:name
+Fixes:IKREL:symbol
+Fixes:IKTOS:name
+Fixes:IKTOS:symbol
+Fixes:ILGOT:name
+Fixes:ILGOT:symbol
+Fixes:INAKA:name
+Fixes:INAKA:symbol
+Fixes:INBES:name
+Fixes:INBES:symbol
+Fixes:IRALO:name
+Fixes:IRALO:symbol
+Fixes:KELIS:name
+Fixes:KELIS:symbol
+Fixes:KERAS:name
+Fixes:KERAS:symbol
+Fixes:KILGO:name
+Fixes:KILGO:symbol
+Fixes:KOKUT:name
+Fixes:KOKUT:symbol
+Fixes:KOMAB:name
+Fixes:KOMAB:symbol
+Fixes:KOMOR:name
+Fixes:KOMOR:symbol
+Fixes:KONET:name
+Fixes:KONET:symbol
+Fixes:KOPOS:name
+Fixes:KOPOS:symbol
+Fixes:KOSIL:name
+Fixes:KOSIL:symbol
+Fixes:KOSOL:name
+Fixes:KOSOL:symbol
+Fixes:LIDUR:name
+Fixes:LIDUR:symbol
+Fixes:LIGOR:name
+Fixes:LIGOR:symbol
+Fixes:LIMAX:name
+Fixes:LIMAX:symbol
+Fixes:LIPEN:name
+Fixes:LIPEN:symbol
+Fixes:LITED:name
+Fixes:LITED:symbol
+Fixes:LL003:name
+Fixes:LL003:symbol
+Fixes:LL004:name
+Fixes:LL004:symbol
+Fixes:LOLOS:name
+Fixes:LOLOS:symbol
+Fixes:LOVSO:name
+Fixes:LOVSO:symbol
+Fixes:LUBLO:name
+Fixes:LUBLO:symbol
+Fixes:LUGMA:name
+Fixes:LUGMA:symbol
+Fixes:LUSTI:name
+Fixes:LUSTI:symbol
+Fixes:MATRU:name
+Fixes:MATRU:symbol
+Fixes:MB001:name
+Fixes:MB001:symbol
+Fixes:MB002:name
+Fixes:MB002:symbol
+Fixes:MB006:name
+Fixes:MB006:symbol
+Fixes:MB007:name
+Fixes:MB007:symbol
+Fixes:MELAP:name
+Fixes:MELAP:symbol
+Fixes:MEMAR:name
+Fixes:MEMAR:symbol
+Fixes:MENAB:name
+Fixes:MENAB:symbol
+Fixes:MILDA:name
+Fixes:MILDA:symbol
+Fixes:MINBA:name
+Fixes:MINBA:symbol
+Fixes:MINVO:name
+Fixes:MINVO:symbol
+Fixes:MOKAR:name
+Fixes:MOKAR:symbol
+Fixes:MOKIM:name
+Fixes:MOKIM:symbol
+Fixes:MOLAN:name
+Fixes:MOLAN:symbol
+Fixes:MOPAL:name
+Fixes:MOPAL:symbol
+Fixes:MOPEB:name
+Fixes:MOPEB:symbol
+Fixes:MOTUS:name
+Fixes:MOTUS:symbol
+Fixes:NAKOL:name
+Fixes:NAKOL:symbol
+Fixes:NANAN:name
+Fixes:NANAN:symbol
+Fixes:NAPTU:name
+Fixes:NAPTU:symbol
+Fixes:NATNA:name
+Fixes:NATNA:symbol
+Fixes:NEGLO:name
+Fixes:NEGLO:symbol
+Fixes:NERSO:name
+Fixes:NERSO:symbol
+Fixes:NIVAR:name
+Fixes:NIVAR:symbol
+Fixes:NURAS:name
+Fixes:NURAS:symbol
+Fixes:ODRAG:name
+Fixes:ODRAG:symbol
+Fixes:ODSAB:name
+Fixes:ODSAB:symbol
+Fixes:OMUBA:name
+Fixes:OMUBA:symbol
+Fixes:ONPAL:name
+Fixes:ONPAL:symbol
+Fixes:OPARA:name
+Fixes:OPARA:symbol
+Fixes:OXITA:name
+Fixes:OXITA:symbol
+Fixes:PILSO:name
+Fixes:PILSO:symbol
+Fixes:PIMSO:name
+Fixes:PIMSO:symbol
+Fixes:PIMTO:name
+Fixes:PIMTO:symbol
+Fixes:PISRO:name
+Fixes:PISRO:symbol
+Fixes:PITNO:name
+Fixes:PITNO:symbol
+Fixes:POKSO:name
+Fixes:POKSO:symbol
+Fixes:POMET:name
+Fixes:POMET:symbol
+Fixes:PONIS:name
+Fixes:PONIS:symbol
+Fixes:PONKA:name
+Fixes:PONKA:symbol
+Fixes:PORAX:name
+Fixes:PORAX:symbol
+Fixes:POSOR:name
+Fixes:POSOR:symbol
+Fixes:POTAL:name
+Fixes:POTAL:symbol
+Fixes:RALAT:name
+Fixes:RALAT:symbol
+Fixes:RAMIN:name
+Fixes:RAMIN:symbol
+Fixes:RANOS:name
+Fixes:RANOS:symbol
+Fixes:RISOT:name
+Fixes:RISOT:symbol
+Fixes:RITAM:name
+Fixes:RITAM:symbol
+Fixes:SEMAX:name
+Fixes:SEMAX:symbol
+Fixes:SENOT:name
+Fixes:SENOT:symbol
+Fixes:SEPAT:name
+Fixes:SEPAT:symbol
+Fixes:SEPEL:name
+Fixes:SEPEL:symbol
+Fixes:SESEL:name
+Fixes:SESEL:symbol
+Fixes:SESIG:name
+Fixes:SESIG:symbol
+Fixes:TAMOL:name
+Fixes:TAMOL:symbol
+Fixes:TANOS:name
+Fixes:TANOS:symbol
+Fixes:TAPIX:name
+Fixes:TAPIX:symbol
+Fixes:TAVAL:name
+Fixes:TAVAL:symbol
+Fixes:TEKTO:name
+Fixes:TEKTO:symbol
+Fixes:TOBAS:name
+Fixes:TOBAS:symbol
+Fixes:TOBER:name
+Fixes:TOBER:symbol
+Fixes:TUSEK:name
+Fixes:TUSEK:symbol
+Fixes:TUSUR:name
+Fixes:TUSUR:symbol
+Fixes:UBATI:name
+Fixes:UBATI:symbol
+Fixes:UDRAS:name
+Fixes:UDRAS:symbol
+Fixes:ULNOT:name
+Fixes:ULNOT:symbol
+Fixes:USDIS:name
+Fixes:USDIS:symbol
+Fixes:VADAK:name
+Fixes:VADAK:symbol
+Fixes:VADAM:name
+Fixes:VADAM:symbol
+Fixes:VISRO:name
+Fixes:VISRO:symbol
+Fixes:VISTI:name
+Fixes:VISTI:symbol
+Fixes:VOMIN:name
+Fixes:VOMIN:symbol
+Fixes:YD001:name
+Fixes:YD001:symbol
+Fixes:YD002:name
+Fixes:YD002:symbol
+Fixes:YD007:name
+Fixes:YD007:symbol
+Fixes:YD008:name
+Fixes:YD008:symbol
+Fixes:YD009:name
+Fixes:YD009:symbol
+Fixes:YD014:name
+Fixes:YD014:symbol
+Fixes:ZANOU:name
+Fixes:ZANOU:symbol
+Geo:DG Landmark Coast West:
+Geo:DI Danger area D6 Abidjan - GND/600M:
+Geo:DI Landmark Coast:
+Geo:DI Landmark Lakes:
+Geo:DI Prohibited area P1 Fetekro - GND/FL245:
+Geo:DI Restricted area R2 - FL100/FL245:
+Geo:DI Restricted area R3:
+Geo:DI Restricted area R4:
+Geo:DI Restricted area R5 - GND/600M:
+Geo:DIAP Danger area Fuel Dumping:
+Geo:GA Danger area D2 Sirakoroni - GND/FL410:
+Geo:GA Danger area D3 Sibi - FL050/FL410:
+Geo:GA Danger area D4 Simidji - FL050/FL410:
+Geo:GA Danger area D6 - GND/FL030:
+Geo:GA Prohibited area P1 - GND/FL410:
+Geo:GA Prohibited area P5 Kati - GND/FL030:
+Geo:GABS Danger area Fuel Dumping:
+Geo:GB Danger area D1 Kassa Kunda - SFC/FL055:
+Geo:GB Prohibited area P1 Banjul - SFC/FL055:
+Geo:GCCC Landmark Coastline Sahara:
+Geo:GG Prohibited area P1 Bissau - GND/UNL:
+Geo:GG Prohibited area P2 Bissora - 200M/8000M:
+Geo:GG Prohibited area P3 Fulacunda - 200M/10000M:
+Geo:GG Prohibited area P4 Bolama - 200M/10000M:
+Geo:GG Restricted area R1 Quinhamel - 200M/4000M:
+Geo:GG Restricted area R2 Bissora - 200M/8000M:
+Geo:GG Restricted area R3 Fulacunda - 200M/10000M:
+Geo:GG Restricted area R4 Bolama - 200M/10000M:
+Geo:GL Danger area D42 - GND/FL065:
+Geo:GL Danger area D43 - GND/FL065:
+Geo:GL Landmark Coast:
+Geo:GL Restricted area R41 - GND/A030:
+Geo:GO Danger area D12 Sangal - GND/400M:
+Geo:GO Danger area D13 Niaga - GND/4000M:
+Geo:GO Danger area D14 MBaouane - GND/4000M:
+Geo:GO Danger area D15 MBour - GND/400M:
+Geo:GO Danger area D17 Tambacounda - GND/500M:
+Geo:GO Danger area D18 Alpha - NOTAM:
+Geo:GO Danger area D19 Bravo - NOTAM:
+Geo:GO Danger area D21 Botou - GND/A035:
+Geo:GO Danger area D23 Kaniak - GND/FL100:
+Geo:GO Danger area D25 Thiaroye - GND/FL100:
+Geo:GO Danger area D27 St Louis - GND/FL100:
+Geo:GO Danger area D28 Dodji - GND/FL100:
+Geo:GO Danger area D7 Thies - NOTAM:
+Geo:GO Danger area D8 Thies - GND/1000M:
+Geo:GO Danger area D9 Semou Djimitte - GND/1000M:
+Geo:GO Landmark Coast:
+Geo:GO Prohibited area P1 Military Aerodrome - GND/FL100:
+Geo:GO Prohibited area P30 Blaise Diagne - GND/FL040:
+Geo:GO Restricted area R10 National Park of Basse Casamance - GND/300M:
+Geo:GO Restricted area R11 - GND/FL050:
+Geo:GO Restricted area R2 National Park of Djoudj - GND/300M:
+Geo:GO Restricted area R22 Dakar - GND/FL040:
+Geo:GO Restricted area R29 Defile Aerien - A002/A020:
+Geo:GO Restricted area R3 National Park of Niokolo Koba - GND/300M:
+Geo:GO Restricted area R4 National Park of the Madeleine Islands - GND/300M:
+Geo:GO Restricted area R5 National Park of the Lagune of Barbarie - GND/300M:
+Geo:GO Restricted area R6 - GND/FL195:
+Geo:GOOY Danger area Fuel Dumping - GND/FL060:
+Geo:GQ Danger area D10 Touila - GND/FL040:
+Geo:GQ Danger area D11 Ground Fire Area - GND/FL030:
+Geo:GQ Danger area D12 Ground Fire Area - GND/FL100:
+Geo:GQ Danger area D3 Parachute:
+Geo:GQ Danger area D4 Parachute:
+Geo:GQ Danger area D5 Gun Fire Training - GND/9000M:
+Geo:GQ Danger area D6 Gun Fire Training - GND/1000M:
+Geo:GQ Danger area D7 Aerial shots - GND/2000M:
+Geo:GQ Prohibited area P15 Nouakchott City - GND/A120:
+Geo:GQ Restricted area R8 National Park - GND/1000M:
+Geo:GQ Restricted area R9:
+Geo:GQNO Danger area Fuel Dumping:
+Geo:GQPP Danger area Fuel Dumping:
+Geo:GU Restricted area R1 - FL060/FL170:
+Geo:GU Restricted area R2 - FL060/FL170:
+Geo:GU Restricted area R3 - FL060/FL170:
+Geo:GU Restricted area R4 - FL060/FL170:
+Geo:GU Restricted area R5 - FL060/FL170:
+Geo:GU Restricted area R6 - FL060/FL170:
+Geo:GU Restricted area R7 - FL060/FL170:
+NDBs:AFO:name
+NDBs:AFO:symbol
+NDBs:MO:name
+NDBs:MO:symbol
+NDBs:NZ:name
+NDBs:NZ:symbol
+NDBs:SAP:name
+NDBs:SAP:symbol
+NDBs:SI:name
+NDBs:SI:symbol
+NDBs:SLO:name
+NDBs:SLO:symbol
+Runways:DIAP 03-21:centerline
+Runways:DIAP 03-21:extended centerline 1
+Runways:DIAP 03-21:extended centerline 1 left ticks
+Runways:DIAP 03-21:extended centerline 1 right ticks
+Runways:DIAP 03-21:extended centerline 2
+Runways:DIAP 03-21:extended centerline 2 left ticks
+Runways:DIAP 03-21:extended centerline 2 right ticks
+Runways:DIBK 03-21:centerline
+Runways:DIBK 03-21:extended centerline 1
+Runways:DIBK 03-21:extended centerline 1 left ticks
+Runways:DIBK 03-21:extended centerline 1 right ticks
+Runways:DIBK 03-21:extended centerline 2
+Runways:DIBK 03-21:extended centerline 2 left ticks
+Runways:DIBK 03-21:extended centerline 2 right ticks
+Runways:DIKO 09-27:centerline
+Runways:DIKO 09-27:extended centerline 1
+Runways:DIKO 09-27:extended centerline 1 left ticks
+Runways:DIKO 09-27:extended centerline 1 right ticks
+Runways:DIKO 09-27:extended centerline 2
+Runways:DIKO 09-27:extended centerline 2 left ticks
+Runways:DIKO 09-27:extended centerline 2 right ticks
+Runways:DIMN 03-21:centerline
+Runways:DIMN 03-21:extended centerline 1
+Runways:DIMN 03-21:extended centerline 1 left ticks
+Runways:DIMN 03-21:extended centerline 1 right ticks
+Runways:DIMN 03-21:extended centerline 2
+Runways:DIMN 03-21:extended centerline 2 left ticks
+Runways:DIMN 03-21:extended centerline 2 right ticks
+Runways:DIOD 06-24:centerline
+Runways:DIOD 06-24:extended centerline 1
+Runways:DIOD 06-24:extended centerline 1 left ticks
+Runways:DIOD 06-24:extended centerline 1 right ticks
+Runways:DIOD 06-24:extended centerline 2
+Runways:DIOD 06-24:extended centerline 2 left ticks
+Runways:DIOD 06-24:extended centerline 2 right ticks
+Runways:DISP 03-21:centerline
+Runways:DISP 03-21:extended centerline 1
+Runways:DISP 03-21:extended centerline 1 left ticks
+Runways:DISP 03-21:extended centerline 1 right ticks
+Runways:DISP 03-21:extended centerline 2
+Runways:DISP 03-21:extended centerline 2 left ticks
+Runways:DISP 03-21:extended centerline 2 right ticks
+Runways:DISS 04-22:centerline
+Runways:DISS 04-22:extended centerline 1
+Runways:DISS 04-22:extended centerline 1 left ticks
+Runways:DISS 04-22:extended centerline 1 right ticks
+Runways:DISS 04-22:extended centerline 2
+Runways:DISS 04-22:extended centerline 2 left ticks
+Runways:DISS 04-22:extended centerline 2 right ticks
+Runways:DIYO 05-23:centerline
+Runways:DIYO 05-23:extended centerline 1
+Runways:DIYO 05-23:extended centerline 1 left ticks
+Runways:DIYO 05-23:extended centerline 1 right ticks
+Runways:DIYO 05-23:extended centerline 2
+Runways:DIYO 05-23:extended centerline 2 left ticks
+Runways:DIYO 05-23:extended centerline 2 right ticks
+Runways:GABS 06-24:centerline
+Runways:GABS 06-24:extended centerline 1
+Runways:GABS 06-24:extended centerline 1 left ticks
+Runways:GABS 06-24:extended centerline 1 right ticks
+Runways:GABS 06-24:extended centerline 2
+Runways:GABS 06-24:extended centerline 2 left ticks
+Runways:GABS 06-24:extended centerline 2 right ticks
+Runways:GAGO 07L-25R:centerline
+Runways:GAGO 07L-25R:extended centerline 1
+Runways:GAGO 07L-25R:extended centerline 1 left ticks
+Runways:GAGO 07L-25R:extended centerline 2
+Runways:GAGO 07L-25R:extended centerline 2 right ticks
+Runways:GAGO 07R-25L:centerline
+Runways:GAGO 07R-25L:extended centerline 1
+Runways:GAGO 07R-25L:extended centerline 1 right ticks
+Runways:GAGO 07R-25L:extended centerline 2
+Runways:GAGO 07R-25L:extended centerline 2 left ticks
+Runways:GAKD 09-27:centerline
+Runways:GAKD 09-27:extended centerline 1
+Runways:GAKD 09-27:extended centerline 1 left ticks
+Runways:GAKD 09-27:extended centerline 1 right ticks
+Runways:GAKD 09-27:extended centerline 2
+Runways:GAKD 09-27:extended centerline 2 left ticks
+Runways:GAKD 09-27:extended centerline 2 right ticks
+Runways:GAMB 05-23:centerline
+Runways:GAMB 05-23:extended centerline 1
+Runways:GAMB 05-23:extended centerline 1 left ticks
+Runways:GAMB 05-23:extended centerline 1 right ticks
+Runways:GAMB 05-23:extended centerline 2
+Runways:GAMB 05-23:extended centerline 2 left ticks
+Runways:GAMB 05-23:extended centerline 2 right ticks
+Runways:GASO 08-26:centerline
+Runways:GASO 08-26:extended centerline 1
+Runways:GASO 08-26:extended centerline 1 left ticks
+Runways:GASO 08-26:extended centerline 1 right ticks
+Runways:GASO 08-26:extended centerline 2
+Runways:GASO 08-26:extended centerline 2 left ticks
+Runways:GASO 08-26:extended centerline 2 right ticks
+Runways:GATB 07-25:centerline
+Runways:GATB 07-25:extended centerline 1
+Runways:GATB 07-25:extended centerline 1 left ticks
+Runways:GATB 07-25:extended centerline 1 right ticks
+Runways:GATB 07-25:extended centerline 2
+Runways:GATB 07-25:extended centerline 2 left ticks
+Runways:GATB 07-25:extended centerline 2 right ticks
+Runways:GATS 05-23:centerline
+Runways:GATS 05-23:extended centerline 1
+Runways:GATS 05-23:extended centerline 1 left ticks
+Runways:GATS 05-23:extended centerline 1 right ticks
+Runways:GATS 05-23:extended centerline 2
+Runways:GATS 05-23:extended centerline 2 left ticks
+Runways:GATS 05-23:extended centerline 2 right ticks
+Runways:GBYD 14-32:centerline
+Runways:GBYD 14-32:extended centerline 1
+Runways:GBYD 14-32:extended centerline 1 left ticks
+Runways:GBYD 14-32:extended centerline 1 right ticks
+Runways:GBYD 14-32:extended centerline 2
+Runways:GBYD 14-32:extended centerline 2 left ticks
+Runways:GBYD 14-32:extended centerline 2 right ticks
+Runways:GFLL 12-30:centerline
+Runways:GFLL 12-30:extended centerline 1
+Runways:GFLL 12-30:extended centerline 1 left ticks
+Runways:GFLL 12-30:extended centerline 1 right ticks
+Runways:GFLL 12-30:extended centerline 2
+Runways:GFLL 12-30:extended centerline 2 left ticks
+Runways:GFLL 12-30:extended centerline 2 right ticks
+Runways:GGOV 03-21:centerline
+Runways:GGOV 03-21:extended centerline 1
+Runways:GGOV 03-21:extended centerline 1 left ticks
+Runways:GGOV 03-21:extended centerline 1 right ticks
+Runways:GGOV 03-21:extended centerline 2
+Runways:GGOV 03-21:extended centerline 2 left ticks
+Runways:GGOV 03-21:extended centerline 2 right ticks
+Runways:GLRB 04-22:centerline
+Runways:GLRB 04-22:extended centerline 1
+Runways:GLRB 04-22:extended centerline 1 left ticks
+Runways:GLRB 04-22:extended centerline 1 right ticks
+Runways:GLRB 04-22:extended centerline 2
+Runways:GLRB 04-22:extended centerline 2 left ticks
+Runways:GLRB 04-22:extended centerline 2 right ticks
+Runways:GOBD 01-19:centerline
+Runways:GOBD 01-19:extended centerline 1
+Runways:GOBD 01-19:extended centerline 1 left ticks
+Runways:GOBD 01-19:extended centerline 1 right ticks
+Runways:GOBD 01-19:extended centerline 2
+Runways:GOBD 01-19:extended centerline 2 left ticks
+Runways:GOBD 01-19:extended centerline 2 right ticks
+Runways:GOGG 10-28:centerline
+Runways:GOGG 10-28:extended centerline 1
+Runways:GOGG 10-28:extended centerline 1 left ticks
+Runways:GOGG 10-28:extended centerline 1 right ticks
+Runways:GOGG 10-28:extended centerline 2
+Runways:GOGG 10-28:extended centerline 2 left ticks
+Runways:GOGG 10-28:extended centerline 2 right ticks
+Runways:GOGS 15-33:centerline
+Runways:GOGS 15-33:extended centerline 1
+Runways:GOGS 15-33:extended centerline 1 left ticks
+Runways:GOGS 15-33:extended centerline 1 right ticks
+Runways:GOGS 15-33:extended centerline 2
+Runways:GOGS 15-33:extended centerline 2 left ticks
+Runways:GOGS 15-33:extended centerline 2 right ticks
+Runways:GOOY 03-21:centerline
+Runways:GOOY 03-21:extended centerline 1
+Runways:GOOY 03-21:extended centerline 1 left ticks
+Runways:GOOY 03-21:extended centerline 1 right ticks
+Runways:GOOY 03-21:extended centerline 2
+Runways:GOOY 03-21:extended centerline 2 left ticks
+Runways:GOOY 03-21:extended centerline 2 right ticks
+Runways:GOOY 18-36:centerline
+Runways:GOOY 18-36:extended centerline 1
+Runways:GOOY 18-36:extended centerline 1 left ticks
+Runways:GOOY 18-36:extended centerline 1 right ticks
+Runways:GOOY 18-36:extended centerline 2
+Runways:GOOY 18-36:extended centerline 2 left ticks
+Runways:GOOY 18-36:extended centerline 2 right ticks
+Runways:GOSS 18-36:centerline
+Runways:GOSS 18-36:extended centerline 1
+Runways:GOSS 18-36:extended centerline 1 left ticks
+Runways:GOSS 18-36:extended centerline 1 right ticks
+Runways:GOSS 18-36:extended centerline 2
+Runways:GOSS 18-36:extended centerline 2 left ticks
+Runways:GOSS 18-36:extended centerline 2 right ticks
+Runways:GOTT 06-24:centerline
+Runways:GOTT 06-24:extended centerline 1
+Runways:GOTT 06-24:extended centerline 1 left ticks
+Runways:GOTT 06-24:extended centerline 1 right ticks
+Runways:GOTT 06-24:extended centerline 2
+Runways:GOTT 06-24:extended centerline 2 left ticks
+Runways:GOTT 06-24:extended centerline 2 right ticks
+Runways:GQNI 09-27:centerline
+Runways:GQNI 09-27:extended centerline 1
+Runways:GQNI 09-27:extended centerline 1 left ticks
+Runways:GQNI 09-27:extended centerline 1 right ticks
+Runways:GQNI 09-27:extended centerline 2
+Runways:GQNI 09-27:extended centerline 2 left ticks
+Runways:GQNI 09-27:extended centerline 2 right ticks
+Runways:GQNN 04-22:centerline
+Runways:GQNN 04-22:extended centerline 1
+Runways:GQNN 04-22:extended centerline 1 left ticks
+Runways:GQNN 04-22:extended centerline 1 right ticks
+Runways:GQNN 04-22:extended centerline 2
+Runways:GQNN 04-22:extended centerline 2 left ticks
+Runways:GQNN 04-22:extended centerline 2 right ticks
+Runways:GQNO 06-24:centerline
+Runways:GQNO 06-24:extended centerline 1
+Runways:GQNO 06-24:extended centerline 1 left ticks
+Runways:GQNO 06-24:extended centerline 1 right ticks
+Runways:GQNO 06-24:extended centerline 2
+Runways:GQNO 06-24:extended centerline 2 left ticks
+Runways:GQNO 06-24:extended centerline 2 right ticks
+Runways:GQNO 16-34:centerline
+Runways:GQNO 16-34:extended centerline 1
+Runways:GQNO 16-34:extended centerline 1 left ticks
+Runways:GQNO 16-34:extended centerline 1 right ticks
+Runways:GQNO 16-34:extended centerline 2
+Runways:GQNO 16-34:extended centerline 2 left ticks
+Runways:GQNO 16-34:extended centerline 2 right ticks
+Runways:GQPA 04-22:centerline
+Runways:GQPA 04-22:extended centerline 1
+Runways:GQPA 04-22:extended centerline 1 left ticks
+Runways:GQPA 04-22:extended centerline 1 right ticks
+Runways:GQPA 04-22:extended centerline 2
+Runways:GQPA 04-22:extended centerline 2 left ticks
+Runways:GQPA 04-22:extended centerline 2 right ticks
+Runways:GQPP 02-20:centerline
+Runways:GQPP 02-20:extended centerline 1
+Runways:GQPP 02-20:extended centerline 1 left ticks
+Runways:GQPP 02-20:extended centerline 1 right ticks
+Runways:GQPP 02-20:extended centerline 2
+Runways:GQPP 02-20:extended centerline 2 left ticks
+Runways:GQPP 02-20:extended centerline 2 right ticks
+Runways:GUBE 15-33:centerline
+Runways:GUBE 15-33:extended centerline 1
+Runways:GUBE 15-33:extended centerline 1 left ticks
+Runways:GUBE 15-33:extended centerline 1 right ticks
+Runways:GUBE 15-33:extended centerline 2
+Runways:GUBE 15-33:extended centerline 2 left ticks
+Runways:GUBE 15-33:extended centerline 2 right ticks
+Runways:GUCY 06-24:centerline
+Runways:GUCY 06-24:extended centerline 1
+Runways:GUCY 06-24:extended centerline 1 left ticks
+Runways:GUCY 06-24:extended centerline 1 right ticks
+Runways:GUCY 06-24:extended centerline 2
+Runways:GUCY 06-24:extended centerline 2 left ticks
+Runways:GUCY 06-24:extended centerline 2 right ticks
+Runways:GULB 06-24:centerline
+Runways:GULB 06-24:extended centerline 1
+Runways:GULB 06-24:extended centerline 1 left ticks
+Runways:GULB 06-24:extended centerline 1 right ticks
+Runways:GULB 06-24:extended centerline 2
+Runways:GULB 06-24:extended centerline 2 left ticks
+Runways:GULB 06-24:extended centerline 2 right ticks
+VORs:ACC:name
+VORs:ACC:symbol
+VORs:AD:name
+VORs:AD:symbol
+VORs:BIS:name
+VORs:BIS:symbol
+VORs:BJ:name
+VORs:BJ:symbol
+VORs:BKY:name
+VORs:BKY:symbol
+VORs:DKH:name
+VORs:DKH:symbol
+VORs:DS:name
+VORs:DS:symbol
+VORs:FRH:name
+VORs:FRH:symbol
+VORs:GDV:name
+VORs:GDV:symbol
+VORs:GIA:name
+VORs:GIA:symbol
+VORs:KAY:name
+VORs:KAY:symbol
+VORs:KRG:name
+VORs:KRG:symbol
+VORs:KSI:name
+VORs:KSI:symbol
+VORs:LGI:name
+VORs:LGI:symbol
+VORs:MAN:name
+VORs:MAN:symbol
+VORs:NM:name
+VORs:NM:symbol
+VORs:ODN:name
+VORs:ODN:symbol
+VORs:OT:name
+VORs:OT:symbol
+VORs:PE:name
+VORs:PE:symbol
+VORs:ROB:name
+VORs:ROB:symbol
+VORs:SKO:name
+VORs:SKO:symbol
+VORs:SPO:name
+VORs:SPO:symbol
+VORs:YAM:name
+VORs:YAM:symbol
+VORs:YF:name
+VORs:YF:symbol
+VORs:ZG:name
+VORs:ZG:symbol
+VORs:ZRT:name
+VORs:ZRT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:11.206442:-23.535555:17.992505:-10.351745

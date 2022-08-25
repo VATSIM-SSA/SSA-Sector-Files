@@ -1,0 +1,70 @@
+Settings	SettingsfileSYMBOLOGY	\HKNA\Settings\ACCRAC_SYMBOLOGY.txt
+Settings	SettingsfileVOICE	\HKNA\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\HKNA\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\HKNA\Settings\VATSSA_Tags_Prev.txt
+Settings	SettingsfileSIL	\HKNA\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\HKNA\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\HKNA\Settings\DepartureList.txt
+Settings	SettingsfileARR	\HKNA\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\HKNA\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\HKNA\Settings\Plugins.txt
+Settings	Settingsfile	\HKNA\Settings\General.txt
+Settings	SettingsfileSCREEN	\HKNA\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\HKNA\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\HKNA\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\HKNA\Settings\PilotingList.txt
+Settings	alias	\HKNA\Alias\alias.txt
+Settings	airlines	\HKNA\ICAO\ICAO_Airlines.txt
+Settings	airports	\HKNA\ICAO\ICAO_Airports.txt
+Settings	aircraft	\HKNA\ICAO\ICAO_Aircraft.txt
+Settings	airways	\HKNA\NavData\airway.txt
+Settings	airportcoords	\HKNA\NavData\icao.txt
+RecentFiles	Recent1	\HKNA\ASR\1_CTR.asr
+RecentFiles	Recent2	\HKNA\ASR\3_TWR.asr
+RecentFiles	Recent3	\HKNA\ASR\2_APP.asr
+ASRFastKeys	1	\HKNA\ASR\1_CTR.asr
+ASRFastKeys	2	\HKNA\ASR\2_APP.asr
+ASRFastKeys	3	\HKNA\ASR\3_TWR.asr
+Settings	sector	\HKNA-Package_20220811150941-220801-0001.sct
+Plugins	Plugin0	\HKNA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\HKNA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin1Display2	SMR radar display
+Plugins	Plugin2	\HKNA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\HKNA\Sounds\handoff_accept.wav
+Sounds	Sound2	\HKNA\Sounds\conflict_alert.wav
+Sounds	Sound3	\HKNA\Sounds\radio_message.wav
+Sounds	Sound4	\HKNA\Sounds\private_message.wav
+Sounds	Sound5	\HKNA\Sounds\atc_message.wav
+Sounds	Sound6	\HKNA\Sounds\broadcast_message.wav
+Sounds	Sound7	\HKNA\Sounds\landline_request.wav
+Sounds	Sound8	\HKNA\Sounds\supervisor_message.wav
+Sounds	Sound9	\HKNA\Sounds\connected.wav
+Sounds	Sound10	\HKNA\Sounds\disconnected.wav
+Sounds	Sound11	\HKNA\Sounds\ongoing_request.wav
+Sounds	Sound12	\HKNA\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\HKNA\Sounds\ongoing_refused.wav
+Sounds	Sound14	\HKNA\Sounds\ongoing_manual.wav
+Sounds	Sound15	\HKNA\Sounds\new_atis.wav
+Sounds	Sound16	\HKNA\Sounds\handoff_refused.wav
+Sounds	Sound17	\HKNA\Sounds\pointout.wav
+Sounds	Sound18	\HKNA\Sounds\startup.wav
+Sounds	Sound19	\HKNA\Sounds\startup.wav
+Sounds	Sound20	\HKNA\Sounds\supervisor_message.wav
+Sounds	Sound0	\HKNA\Sounds\handoff_request.wav

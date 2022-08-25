@@ -1,0 +1,346 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Fixes:AKUMU:name
+Fixes:AKUMU:symbol
+Fixes:ALEMU:name
+Fixes:ALEMU:symbol
+Fixes:ALKON:name
+Fixes:ALKON:symbol
+Fixes:AMSAD:name
+Fixes:AMSAD:symbol
+Fixes:ANTAX:name
+Fixes:ANTAX:symbol
+Fixes:ANVET:name
+Fixes:ANVET:symbol
+Fixes:APLOG:name
+Fixes:APLOG:symbol
+Fixes:AVAGI:name
+Fixes:AVAGI:symbol
+Fixes:AVEDI:name
+Fixes:AVEDI:symbol
+Fixes:AVIGO:name
+Fixes:AVIGO:symbol
+Fixes:EKBUL:name
+Fixes:EKBUL:symbol
+Fixes:ELAVA:name
+Fixes:ELAVA:symbol
+Fixes:ENABO:name
+Fixes:ENABO:symbol
+Fixes:EPLAS:name
+Fixes:EPLAS:symbol
+Fixes:ETKOP:name
+Fixes:ETKOP:symbol
+Fixes:EVATO:name
+Fixes:EVATO:symbol
+Fixes:GETAT:name
+Fixes:GETAT:symbol
+Fixes:GONGU:name
+Fixes:GONGU:symbol
+Fixes:ITMAR:name
+Fixes:ITMAR:symbol
+Fixes:KESOM:name
+Fixes:KESOM:symbol
+Fixes:KISAK:name
+Fixes:KISAK:symbol
+Fixes:LUDOL:name
+Fixes:LUDOL:symbol
+Fixes:MAGAD:name
+Fixes:MAGAD:symbol
+Fixes:NETAR:name
+Fixes:NETAR:symbol
+Fixes:PARIN:name
+Fixes:PARIN:symbol
+Fixes:PATAR:name
+Fixes:PATAR:symbol
+Fixes:UTATA:name
+Fixes:UTATA:symbol
+Fixes:UVUKO:name
+Fixes:UVUKO:symbol
+Fixes:XABON:name
+Fixes:XABON:symbol
+Fixes:XAKRI:name
+Fixes:XAKRI:symbol
+Free Text:HKJK Areas\Apron 1:freetext
+Free Text:HKJK Areas\Apron 2:freetext
+Free Text:HKJK Areas\Apron 3:freetext
+Free Text:HKJK Areas\Cargo:freetext
+Free Text:HKJK Areas\Terminal:freetext
+Free Text:HKJK MSA\1:freetext
+Free Text:HKJK MSA\1   7500 within D17:freetext
+Free Text:HKJK MSA\6500 within D9:freetext
+Free Text:HKJK MSA\7000 within D14:freetext
+Free Text:HKJK MSA\8000:freetext
+Free Text:HKJK MSA\8100:freetext
+Free Text:HKJK MSA\9100:freetext
+Free Text:HKJK MSA\9600:freetext
+Free Text:HKJK MSA\FL100:freetext
+Free Text:HKJK MSA\FL100:freetext
+Free Text:HKJK MSA\FL100:freetext
+Free Text:HKJK MSA\FL100:freetext
+Free Text:HKJK MSA\FL120:freetext
+Free Text:HKJK MSA\FL150:freetext
+Free Text:HKJK MSA\FL190:freetext
+Free Text:HKJK MSA\FL210:freetext
+Free Text:HKJK MSA\FL210:freetext
+Free Text:HKJK Stands\1:freetext
+Free Text:HKJK Stands\10:freetext
+Free Text:HKJK Stands\10:freetext
+Free Text:HKJK Stands\11:freetext
+Free Text:HKJK Stands\12:freetext
+Free Text:HKJK Stands\13:freetext
+Free Text:HKJK Stands\14:freetext
+Free Text:HKJK Stands\2:freetext
+Free Text:HKJK Stands\2A:freetext
+Free Text:HKJK Stands\2B:freetext
+Free Text:HKJK Stands\2C:freetext
+Free Text:HKJK Stands\3:freetext
+Free Text:HKJK Stands\3A:freetext
+Free Text:HKJK Stands\3B:freetext
+Free Text:HKJK Stands\3C:freetext
+Free Text:HKJK Stands\4:freetext
+Free Text:HKJK Stands\4:freetext
+Free Text:HKJK Stands\5:freetext
+Free Text:HKJK Stands\5:freetext
+Free Text:HKJK Stands\6:freetext
+Free Text:HKJK Stands\6:freetext
+Free Text:HKJK Stands\7:freetext
+Free Text:HKJK Stands\7:freetext
+Free Text:HKJK Stands\8:freetext
+Free Text:HKJK Stands\8:freetext
+Free Text:HKJK Stands\9:freetext
+Free Text:HKJK Stands\9:freetext
+Free Text:HKJK Stands\F1:freetext
+Free Text:HKJK Stands\F2:freetext
+Free Text:HKJK Stands\F3:freetext
+Free Text:HKJK Stands\F4:freetext
+Free Text:HKJK Stands\F5:freetext
+Free Text:HKJK Stands\F6:freetext
+Free Text:HKJK Stands\F7:freetext
+Free Text:HKJK Stands\F8:freetext
+Free Text:HKJK Stands\F9:freetext
+Free Text:HKJK Stands\G15:freetext
+Free Text:HKJK Stands\G16:freetext
+Free Text:HKJK Stands\G17:freetext
+Free Text:HKJK Stands\G18:freetext
+Free Text:HKJK Stands\G19:freetext
+Free Text:HKJK Stands\G20:freetext
+Free Text:HKJK Stands\G21:freetext
+Free Text:HKJK Stands\Helipad:freetext
+Free Text:HKJK Stands\J1:freetext
+Free Text:HKJK Stands\J2:freetext
+Free Text:HKJK Stands\J3:freetext
+Free Text:HKJK Stands\J4:freetext
+Free Text:HKJK Stands\J5:freetext
+Free Text:HKJK Stands\J6:freetext
+Free Text:HKJK Stands\J7:freetext
+Free Text:HKJK Stands\J8:freetext
+Free Text:HKJK Stands\J9:freetext
+Free Text:HKJK Taxiways\A:freetext
+Free Text:HKJK Taxiways\A:freetext
+Free Text:HKJK Taxiways\A:freetext
+Free Text:HKJK Taxiways\B:freetext
+Free Text:HKJK Taxiways\C:freetext
+Free Text:HKJK Taxiways\D:freetext
+Free Text:HKJK Taxiways\E:freetext
+Free Text:HKJK Taxiways\F:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\G:freetext
+Free Text:HKJK Taxiways\H:freetext
+Free Text:HKJK Taxiways\J:freetext
+Free Text:HKJK Taxiways\K:freetext
+Free Text:HKJK Taxiways\K:freetext
+Free Text:HKJK Taxiways\L:freetext
+Free Text:HKJK Taxiways\M:freetext
+Free Text:HKJK Taxiways\M:freetext
+Free Text:HKML Stands\1:freetext
+Free Text:HKML Stands\2:freetext
+Free Text:HKML Stands\3:freetext
+Free Text:HKMO Areas\Apron 1:freetext
+Free Text:HKMO Areas\Apron 2:freetext
+Free Text:HKMO Areas\Apron GA:freetext
+Free Text:HKMO Areas\Heliport:freetext
+Free Text:HKMO Areas\Terminal:freetext
+Free Text:HKMO Stands\1:freetext
+Free Text:HKMO Stands\1:freetext
+Free Text:HKMO Stands\10:freetext
+Free Text:HKMO Stands\11:freetext
+Free Text:HKMO Stands\12:freetext
+Free Text:HKMO Stands\13:freetext
+Free Text:HKMO Stands\14:freetext
+Free Text:HKMO Stands\2:freetext
+Free Text:HKMO Stands\2:freetext
+Free Text:HKMO Stands\3:freetext
+Free Text:HKMO Stands\3:freetext
+Free Text:HKMO Stands\3A:freetext
+Free Text:HKMO Stands\4:freetext
+Free Text:HKMO Stands\4:freetext
+Free Text:HKMO Stands\5:freetext
+Free Text:HKMO Stands\5:freetext
+Free Text:HKMO Stands\6:freetext
+Free Text:HKMO Stands\6:freetext
+Free Text:HKMO Stands\7:freetext
+Free Text:HKMO Stands\7:freetext
+Free Text:HKMO Stands\8:freetext
+Free Text:HKMO Stands\8:freetext
+Free Text:HKMO Stands\9:freetext
+Free Text:HKMO Stands\9:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\A:freetext
+Free Text:HKMO Taxiways\B:freetext
+Free Text:HKMO Taxiways\C:freetext
+Free Text:HKMO Taxiways\D:freetext
+Free Text:HKMO Taxiways\E:freetext
+Free Text:HKMO Taxiways\F:freetext
+Free Text:HKMO Taxiways\G:freetext
+Free Text:HKMO Taxiways\G:freetext
+Free Text:HKMO Taxiways\G:freetext
+Free Text:HKMO Taxiways\J:freetext
+Free Text:HKMO Taxiways\K:freetext
+Free Text:HKMO Taxiways\L:freetext
+Free Text:HKMO Taxiways\N:freetext
+Free Text:HKNW Taxiways\A:freetext
+Free Text:HKNW Taxiways\APRON 1:freetext
+Free Text:HKNW Taxiways\APRON 2:freetext
+Free Text:HKNW Taxiways\APRON 3:freetext
+Free Text:HKNW Taxiways\APRON 4:freetext
+Free Text:HKNW Taxiways\B:freetext
+Free Text:HKNW Taxiways\C:freetext
+Free Text:HKNW Taxiways\C:freetext
+Free Text:HKNW Taxiways\E:freetext
+Free Text:HKNW Taxiways\F:freetext
+Free Text:HKNW Taxiways\G:freetext
+Free Text:HKNW Taxiways\H:freetext
+Free Text:HKNW Taxiways\H:freetext
+Geo:HK Danger area D13 Nairobi Control Zone:
+Geo:HK Danger area D20 Samburu:
+Geo:HK Danger area D23 Yatta:
+Geo:HK Danger area D26 Keekorok Lodge:
+Geo:HK Danger area D27 Mweiga Airstrip:
+Geo:HK Danger area D28 Aberdare Country Club:
+Geo:HK Danger area D29 Mombasa:
+Geo:HK Danger area D30 Lokichoggio:
+Geo:HK Prohibited area P1 Mount Longonot:
+Geo:HK Prohibited area P2 Nanykui:
+Geo:HK Prohibited area P24 Nairobi:
+Geo:HK Prohibited area P3 Nairobi:
+Geo:HK Prohibited area P31 Kakamega:
+Geo:HK Prohibited area P32 Muthaiga Gardens:
+Geo:HK Prohibited area P33 Manda Base:
+Geo:HK Prohibited area P4 Sagana:
+Geo:HK Prohibited area P5 Eldoret:
+Geo:HK Prohibited area P6 Kisumu:
+Geo:HK Prohibited area P7 Mombasa:
+Geo:HK Prohibited area P9 Nakuru:
+Geo:HK Restricted area R10 Nanyuki:
+Geo:HK Restricted area R11 Mombasa:
+Geo:HK Restricted area R12 Manda Base:
+Geo:HK Restricted area R14 Embu Airstrip:
+Geo:HKEL Groundlayout:
+Geo:HKEM Groundlayout:
+Geo:HKJK Groundlayout:
+Geo:HKJK MRVA:
+Geo:HKKI Groundlayout:
+Geo:HKLK Groundlayout Stopbars:
+Geo:HKML Groundlayout:
+Geo:HKMO Groundlayout:
+Geo:HKNW Groundlayout:
+Geo:HKNY Groundlayout:
+Geo:HKOL Groundlayout:
+Geo:HKRE Groundlayout:
+Geo:HKWJ Groundlayout:
+Geo:KQVF Groundlayout:
+Regions:HKEL Groundlayout:polygon
+Regions:HKEM Groundlayout:polygon
+Regions:HKJK Groundlayout:polygon
+Regions:HKKI Groundlayout:polygon
+Regions:HKLK Groundlayout:polygon
+Regions:HKMO Groundlayout:polygon
+Regions:HKWJ Groundlayout:polygon
+Runways:HKEL 08-26:centerline
+Runways:HKEM 14-32:centerline
+Runways:HKHB 14-32:centerline
+Runways:HKJK 06-24:centerline
+Runways:HKKI 06-24:centerline
+Runways:HKLK 09-27:centerline
+Runways:HKLO 09-27:centerline
+Runways:HKLU 08-26:centerline
+Runways:HKLU 15-33:centerline
+Runways:HKML 08-26:centerline
+Runways:HKML 17-35:centerline
+Runways:HKMO 03-21:centerline
+Runways:HKMO 15-33:centerline
+Runways:HKNL 03-21:centerline
+Runways:HKNW 07-25:centerline
+Runways:HKNW 14-32:centerline
+Runways:HKNY 02-20:centerline
+Runways:HKOK 09-27:centerline
+Runways:HKRE 06-24:centerline
+Runways:HKWJ 15-33:centerline
+Runways:KQVF 16-34:centerline
+VORs:DV:name
+VORs:DV:symbol
+VORs:ELD:name
+VORs:ELD:symbol
+VORs:GV:name
+VORs:GV:symbol
+VORs:JUB:name
+VORs:JUB:symbol
+VORs:KI:name
+VORs:KI:symbol
+VORs:KIV:name
+VORs:KIV:symbol
+VORs:KV:name
+VORs:KV:symbol
+VORs:LOV:name
+VORs:LOV:symbol
+VORs:MAV:name
+VORs:MAV:symbol
+VORs:MG:name
+VORs:MG:symbol
+VORs:MGU:name
+VORs:MGU:symbol
+VORs:MLD:name
+VORs:MLD:symbol
+VORs:MOV:name
+VORs:MOV:symbol
+VORs:MV:name
+VORs:MV:symbol
+VORs:NAK:name
+VORs:NAK:symbol
+VORs:NN:name
+VORs:NN:symbol
+VORs:NV:name
+VORs:NV:symbol
+VORs:SV:name
+VORs:SV:symbol
+VORs:TV:name
+VORs:TV:symbol
+VORs:VKA:name
+VORs:VKA:symbol
+VORs:WAV:name
+VORs:WAV:symbol
+VORs:ZV:name
+VORs:ZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:359.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-5.638600:36.306384:-1.697682:43.456314
+PLUGIN:TopSky plugin:ShowMapData:HKNA

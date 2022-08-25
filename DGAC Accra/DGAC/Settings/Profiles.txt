@@ -1,0 +1,62 @@
+PROFILE
+PROFILE:DGAC_CTR:400:6
+ATIS2:$radioname, covering DG*, DB* and DX* if local ATC offline
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Does NOT cover Oceanic airspace. Visit us at vatssa.com
+PROFILE:DGAC_N_CTR:400:6
+ATIS2:$radioname, covering northern Ghana if local ATC offline
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DXXX_CTR:400:6
+ATIS2:$radioname, covering Togo and Benin if local ATC offline
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DBBB_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGAA_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGLE_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DBBB_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGAA_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGSI_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGSN_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGTK_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DXNG_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DXXX_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:DGAA_GND:10:3
+ATIS2:$radioname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:<initials>_OBS:300:0
+ATIS2:$myrealname
+ATIS3:Welcome to Accra FIR, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+END

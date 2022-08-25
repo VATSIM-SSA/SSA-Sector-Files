@@ -1,0 +1,60 @@
+// ##################################################################
+//                 VATSSA | FIR GOOO | ASR | GBYD AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | GBYD AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:GBYD Parking\1:freetext
+Free Text:GBYD Parking\10:freetext
+Free Text:GBYD Parking\11:freetext
+Free Text:GBYD Parking\2:freetext
+Free Text:GBYD Parking\3:freetext
+Free Text:GBYD Parking\4:freetext
+Free Text:GBYD Parking\5:freetext
+Free Text:GBYD Parking\6:freetext
+Free Text:GBYD Parking\7:freetext
+Free Text:GBYD Parking\8:freetext
+Free Text:GBYD Parking\9:freetext
+Free Text:GBYD Taxiways and Aprons\A:freetext
+Free Text:GBYD Taxiways and Aprons\ATC Control Tower:freetext
+Free Text:GBYD Taxiways and Aprons\B:freetext
+Free Text:GBYD Taxiways and Aprons\C:freetext
+Free Text:GBYD Taxiways and Aprons\Closed Apron:freetext
+Free Text:GBYD Taxiways and Aprons\Main Apron:freetext
+Free Text:GBYD Taxiways and Aprons\Terminal:freetext
+Geo:GB Danger area D1 Kassa Kunda - SFC/FL055:
+Geo:GB Prohibited area P1 Banjul - SFC/FL055:
+Geo:GBYD Groundlayout:
+Geo:GO Landmark Coast:
+Geo:GOBD Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:319.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:13.328838:-16.670818:13.352296:-16.626968
+PLUGIN:Ground Radar plugin:AirportElevation:93
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:GBYD
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:GOOO,GBYD
+PLUGIN:TopSky plugin:HideMapData:ICAO

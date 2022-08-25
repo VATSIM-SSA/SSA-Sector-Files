@@ -1,0 +1,70 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.3
+// Update Date 19/08/2022
+
+
+// ##################################################################
+//                 DNKK KANO
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:5200:5277
+PRIORITY:3
+NOTADEP:DN
+NOTADES:DN
+IFR
+
+
+// ##################################################################
+//                 DN NIGERIA
+// ##################################################################
+
+// KANO DOMESTIC I
+RANGE:0700:0700
+PRIORITY:3
+ADEP:DN
+ADES:DN
+IFR
+
+// KANO DOMESTIC II
+RANGE:0400:0477
+PRIORITY:2
+ADEP:DN
+ADES:DN
+IFR
+
+// KANO DOMESTIC III
+RANGE:0500:0577
+PRIORITY:1
+ADEP:DN
+ADES:DN
+IFR
+
+// KANO DOMESTIC IV
+RANGE:0600:0677
+PRIORITY:3
+ADEP:DN
+ADES:DN
+VFR
+
+// KANO INTERNATIONAL OUTBOUND
+RANGE:5200:5277
+PRIORITY:3
+ADEP:DN
+NOTADES:DN
+IFR
+
+// KANO INTERNATIONAL INBOUND
+RANGE:5200:5277
+PRIORITY:3
+NOTADEP:DN
+ADES:DN
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

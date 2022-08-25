@@ -1,0 +1,54 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FDSK Taxiways & Apron\A:freetext
+Free Text:FDSK Taxiways & Apron\A1:freetext
+Free Text:FDSK Taxiways & Apron\A2:freetext
+Free Text:FDSK Taxiways & Apron\A3:freetext
+Free Text:FDSK Taxiways & Apron\A4:freetext
+Free Text:FDSK Taxiways & Apron\A5:freetext
+Free Text:FDSK Taxiways & Apron\C:freetext
+Free Text:FDSK Taxiways & Apron\D:freetext
+Free Text:FDSK Taxiways & Apron\D3:freetext
+Free Text:FDSK Taxiways & Apron\D4:freetext
+Free Text:FDSK Taxiways & Apron\Terminal:freetext
+Free Text:FDSK Taxiways & Apron\VIP Terminal:freetext
+Geo:FDSK Groundlayout Ground Markers:
+Regions:FDSK Ground Layout:polygon
+Runways:FDSK 02-20:centerline
+Runways:FDSK 02-20:extended centerline 1
+Runways:FDSK 02-20:extended centerline 1 left base
+Runways:FDSK 02-20:extended centerline 1 left ticks
+Runways:FDSK 02-20:extended centerline 1 left vectoring
+Runways:FDSK 02-20:extended centerline 1 right base
+Runways:FDSK 02-20:extended centerline 1 right ticks
+Runways:FDSK 02-20:extended centerline 1 right vectoring
+Runways:FDSK 02-20:extended centerline 2
+Runways:FDSK 02-20:extended centerline 2 left base
+Runways:FDSK 02-20:extended centerline 2 left ticks
+Runways:FDSK 02-20:extended centerline 2 left vectoring
+Runways:FDSK 02-20:extended centerline 2 right base
+Runways:FDSK 02-20:extended centerline 2 right ticks
+Runways:FDSK 02-20:extended centerline 2 right vectoring
+Runways:FDSK 02-20:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-26.375783:31.687371:-26.347714:31.747298
+PLUGIN:Ground Radar plugin:AirportElevation:1070
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:FDSK
+PLUGIN:Ground Radar plugin:TowerMode:FDSK
+PLUGIN:TopSky plugin:NoDraw:1

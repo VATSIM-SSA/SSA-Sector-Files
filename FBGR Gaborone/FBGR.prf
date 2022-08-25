@@ -1,0 +1,63 @@
+Settings	SettingsfileSYMBOLOGY	\FBGR\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FBGR\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FBGR\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FBGR\Settings\Tags.txt
+Settings	SettingsfileSIL	\FBGR\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FBGR\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FBGR\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FBGR\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FBGR\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FBGR\Settings\Plugins.txt
+Settings	Settingsfile	\FBGR\Settings\General.txt
+Settings	SettingsfileSCREEN	\FBGR\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FBGR\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FBGR\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FBGR\Settings\PilotingList.txt
+Settings	alias	\FBGR\Alias\alias.txt
+Settings	airlines	\FBGR\ICAO\ICAO_Airlines.txt
+Settings	airports	\FBGR\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FBGR\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FBGR\NavData\airway.txt
+Settings	airportcoords	\FBGR\NavData\icao.txt
+RecentFiles	Recent1	\FBGR\ASR\1_CTR.asr
+RecentFiles	Recent2	\FBGR\ASR\2_APP.asr
+RecentFiles	Recent3	\FBGR\ASR\3_TWR.asr
+ASRFastKeys	1	\FBGR\ASR\1_CTR.asr
+ASRFastKeys	2	\FBGR\ASR\2_APP.asr
+ASRFastKeys	3	\FBGR\ASR\3_TWR.asr
+Settings	sector	\FBGR-Package_20220811181436-220801-0001.sct
+Plugins	Plugin0	\FBGR\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\FBGR\Sounds\handoff_accept.wav
+Sounds	Sound2	\FBGR\Sounds\conflict_alert.wav
+Sounds	Sound3	\FBGR\Sounds\radio_message.wav
+Sounds	Sound4	\FBGR\Sounds\private_message.wav
+Sounds	Sound5	\FBGR\Sounds\atc_message.wav
+Sounds	Sound6	\FBGR\Sounds\broadcast_message.wav
+Sounds	Sound7	\FBGR\Sounds\landline_request.wav
+Sounds	Sound8	\FBGR\Sounds\supervisor_message.wav
+Sounds	Sound9	\FBGR\Sounds\connected.wav
+Sounds	Sound10	\FBGR\Sounds\disconnected.wav
+Sounds	Sound11	\FBGR\Sounds\ongoing_request.wav
+Sounds	Sound12	\FBGR\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FBGR\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FBGR\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FBGR\Sounds\new_atis.wav
+Sounds	Sound16	\FBGR\Sounds\handoff_refused.wav
+Sounds	Sound17	\FBGR\Sounds\pointout.wav
+Sounds	Sound18	\FBGR\Sounds\startup.wav
+Sounds	Sound19	\FBGR\Sounds\startup.wav
+Sounds	Sound20	\FBGR\Sounds\supervisor_message.wav
+Sounds	Sound0	\FBGR\Sounds\handoff_request.wav

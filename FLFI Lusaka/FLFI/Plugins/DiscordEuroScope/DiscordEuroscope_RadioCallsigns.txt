@@ -1,0 +1,13 @@
+FLCP_I_TWR Chipata Radio
+FLFI_CTR Lusaka Control
+FLHN_APP Livingstone Approach
+FLHN_TWR Livingstone Tower
+FLKK_APP Lusaka Approach
+FLKK_TWR Lusaka Tower
+FLKS_I_TWR Kasama Radio
+FLMA_I_TWR Mansa Radio
+FLMF_APP Mfuwe Approach
+FLMG_I_TWR Mongu Radio
+FLND_APP Ndola Approach
+FLND_TWR Ndola Tower
+FLSW_I_TWR Solwezi Radio

@@ -1,0 +1,216 @@
+// ##################################################################
+//                 VATSSA | FIR GVSC | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.2
+// Update Date 03/05/2022
+
+// Changelog
+// v0.2 | Category Versioning Across WAF
+
+// Active Airports
+// GVSC | GVAC, GVBA, GVNP, GVSV, GVSF, GVSN
+
+// ##################################################################
+//                 General v0.1
+// ##################################################################
+
+// Airline Groups
+GROUP:StarAlliance:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:SIA:SAA:SWR:TAP:THA:THY:UAL
+GROUP:OneWorld:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
+GROUP:SkyTeam:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
+GROUP:Charter:TOM
+GROUP:Cargo:BOX:CAO:GEC:FDX:UPS
+
+
+// ##################################################################
+//                 GV CAPE VERDE
+// ##################################################################
+
+// ##################################################################
+//                 GVAC Sal
+// ##################################################################
+
+// Stand 1
+STAND:GVAC:1:N016.43.54.09:W022.56.42.09:20
+BLOCKS:1A
+USE:A
+
+// Stand 1A
+STAND:GVAC:1A:N016.43.54.36:W022.56.42.21:20
+BLOCKS:1,2
+USE:A
+
+// Stand 2
+STAND:GVAC:2:N016.43.56.43:W022.56.41.94:20
+USE:A
+
+// Stand 3
+STAND:GVAC:3:N016.43.58.76:W022.56.42.14:20
+USE:A
+PRIORITY:2
+
+// Stand 4
+STAND:GVAC:4:N016.44.01.10:W022.56.42.24:20
+USE:A
+PRIORITY:2
+
+// Stand 5
+STAND:GVAC:5:N016.44.03.48:W022.56.42.22:20
+USE:A
+PRIORITY:2
+
+// Stand 6
+STAND:GVAC:6:N016.44.05.83:W022.56.42.25:20
+USE:A
+
+// Stand 7
+STAND:GVAC:7:N016.44.08.15:W022.56.42.02:20
+BLOCKS:7A
+USE:A:C
+
+// Stand 7A
+STAND:GVAC:7A:N016.44.07.79:W022.56.43.45:20
+BLOCKS:7
+USE:B
+NOTWTC:H
+
+
+// ##################################################################
+//                 GVBA Rabil
+// ##################################################################
+
+// Stand 1
+STAND:GVBA:1:N016.08.05.57:W022.53.29.13:20
+BLOCKS:1A,2A
+
+// Stand 1A
+STAND:GVBA:1A:N016.08.05.20:W022.53.28.62:15
+BLOCKS:1
+PRIORITY:-1
+
+// Stand 2
+STAND:GVBA:2:N016.08.06.89:W022.53.28.68:20
+BLOCKS:2A,2B
+
+// Stand 2A
+STAND:GVBA:2A:N016.08.06.23:W022.53.28.35:15
+BLOCKS:2
+
+// Stand 2B
+STAND:GVBA:2B:N016.08.07.20:W022.53.28.05:15
+BLOCKS:2,3
+PRIORITY:2
+
+// Stand 3
+STAND:GVBA:3:N016.08.08.17:W022.53.28.31:20
+BLOCKS:2B,3A
+PRIORITY:2
+
+// Stand 3A
+STAND:GVBA:3A:N016.08.08.30:W022.53.28.11:15
+BLOCKS:3
+
+// Stand 4
+STAND:GVBA:4:N016.08.09.78:W022.53.27.98:20
+PRIORITY:2
+
+// Stand 5
+STAND:GVBA:5:N016.08.11.48:W022.53.27.38:20
+
+
+// ##################################################################
+//                 GVNP Praia
+// ##################################################################
+
+// Stand 1
+STAND:GVNP:1:N014.56.46.05:W023.29.06.18:20
+BLOCKS:6A
+
+// Stand 2
+STAND:GVNP:2:N014.56.44.35:W023.29.07.18:20
+
+// Stand 3
+STAND:GVNP:3:N014.56.42.81:W023.29.07.76:20
+
+// Stand 4
+STAND:GVNP:4:N014.56.41.18:W023.29.08.44:20
+
+// Stand 5
+STAND:GVNP:5:N014.56.39.55:W023.29.09.22:20
+
+// Stand 6
+STAND:GVNP:6:N014.56.38.25:W023.29.09.68:20
+
+// Stand 6A
+STAND:GVNP:6A:N014.56.45.80:W023.29.06.47:20
+BLOCKS:1
+
+// Stand 7
+STAND:GVNP:7:N014.56.47.23:W023.29.06.01:20
+BLOCKS:7A
+
+// Stand 7A
+STAND:GVNP:7A:N014.56.46.92:W023.29.05.94:20
+BLOCKS:7
+
+// Stand 8
+STAND:GVNP:8:N014.56.48.77:W023.29.05.22:20
+BLOCKS:8A
+
+// Stand 8A
+STAND:GVNP:8A:N014.56.48.48:W023.29.05.17:20
+BLOCKS:8
+
+
+// ##################################################################
+//                 GVSF Sao Filipe
+// ##################################################################
+
+// Stand 1
+STAND:GVSF:1:N014.53.16.99:W024.29.04.09:20
+
+// Stand 2
+STAND:GVSF:2:N014.53.18.16:W024.29.05.75:20
+
+// Stand 3
+STAND:GVSF:3:N014.53.19.31:W024.29.06.93:20
+
+
+// ##################################################################
+//                 GVSN Sao Nicolau
+// ##################################################################
+
+// Stand 1
+STAND:GVSN:1:N016.35.24.47:W024.17.08.72:20
+
+
+// ##################################################################
+//                 GVSV Sao Vicente
+// ##################################################################
+
+// Stand 1
+STAND:GVSV:1:N016.50.12.17:W025.03.13.82:20
+
+// Stand 2
+STAND:GVSV:2:N016.50.10.68:W025.03.15.87:20
+
+// Stand 3
+STAND:GVSV:3:N016.50.07.53:W025.03.20.82:20
+
+// Stand 4
+STAND:GVSV:4:N016.50.06.63:W025.03.22.42:20
+
+// Stand 5
+STAND:GVSV:5:N016.50.06.46:W025.03.25.57:20
+
+// Stand 6
+STAND:GVSV:6:N016.50.05.81:W025.03.27.70:20
+
+// Stand 7
+STAND:GVSV:7:N016.50.04.87:W025.03.29.19:20
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

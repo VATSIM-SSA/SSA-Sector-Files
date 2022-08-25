@@ -1,0 +1,25 @@
+AFRS_FSS Africa South Control
+FAJA_W_CTR Johannesburg Area West
+FAJO_FSS Johannesburg Oceanic
+FBGR_CTR Gaberone Center
+FBKE_APP Kasane Approach
+FBKE_TWR Kasane Tower
+FLFI_CTR Lusaka Control
+FLHN_APP Livingstone Approach
+FNAN_CTR Luanda Control
+FVHF_CTR Harare East Control
+FVHF_W_CTR Harare West Control
+FYGF_TWR Grootfontein Tower
+FYKM_TWR Katima Tower
+FYKT_TWR Keetmanshoop Tower
+FYLZ_TWR Luderitz Tower
+FYOA_APP Ondangwa Approach/Tower
+FYSM_TWR Swakopmund Tower
+FYWB_APP Walvis Bay Approach/Tower
+FYWB_GND Walvis Bay Ground
+FYWE_A_GND Eros Apron
+FYWE_TWR Eros Tower
+FYWH_APP Windhoek Approach
+FYWH_A_GND Windhoek Apron
+FYWH_CTR Windhoek Radar
+FYWH_TWR Windhoek Tower

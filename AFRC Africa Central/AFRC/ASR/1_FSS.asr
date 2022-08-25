@@ -1,0 +1,28 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:FWLL:
+ARTCC high boundary:FZZA:
+ARTCC high boundary:FZZAE:
+ARTCC high boundary:FZZAS:
+ARTCC high boundary:HKNA:
+ARTCC high boundary:HTDC:
+ARTCC high boundary:HTDCW:
+ARTCC high boundary:HUEC:
+SHOWC:1
+SHOWSB:0
+BELOW:17500
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:-0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-27.258039:-27.903501:13.958046:82.677639

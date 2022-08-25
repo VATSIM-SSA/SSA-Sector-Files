@@ -1,0 +1,317 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:DBBB:name
+Airports:DBBK:name
+Airports:DBBN:name
+Airports:DBBO:name
+Airports:DBBP:name
+Airports:DBBS:name
+Airports:DGAA:name
+Airports:DGLE:name
+Airports:DGLN:name
+Airports:DGLW:name
+Airports:DGSI:name
+Airports:DGSN:name
+Airports:DGTK:name
+Airports:DXAK:name
+Airports:DXDP:name
+Airports:DXKP:name
+Airports:DXMG:name
+Airports:DXNG:name
+Airports:DXSK:name
+Airports:DXXX:name
+ARTCC boundary:DBBB_APP:
+ARTCC boundary:DFFD_APP:
+ARTCC boundary:DFOO_APP:
+ARTCC boundary:DGAA_APP:
+ARTCC boundary:DGLE_APP:
+ARTCC boundary:DIAP_APP:
+ARTCC boundary:DNMM_APP:
+ARTCC boundary:FPST_APP:
+ARTCC high boundary:DFFF:
+ARTCC high boundary:DGAC-ALL:
+ARTCC high boundary:DGAC-N:
+ARTCC high boundary:DGAC-O:
+ARTCC high boundary:DGAC-S:
+ARTCC high boundary:DNKK:
+ARTCC high boundary:DRRR:
+ARTCC high boundary:DXXX:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FOOO:
+ARTCC high boundary:GOOC:
+ARTCC high boundary:GOOO:
+ARTCC low boundary:DGAA_TWR:
+ARTCC low boundary:DGLE_TWR:
+ARTCC low boundary:DGSI_TWR:
+ARTCC low boundary:DGSN_TWR:
+ARTCC low boundary:DGTK_TWR:
+ARTCC low boundary:DXNG_TWR:
+ARTCC low boundary:DXXX_TWR:
+Fixes:AMSAT:name
+Fixes:AMSAT:symbol
+Fixes:ANUVO:name
+Fixes:ANUVO:symbol
+Fixes:ARABA:name
+Fixes:ARABA:symbol
+Fixes:ARKOS:name
+Fixes:ARKOS:symbol
+Fixes:BATIA:name
+Fixes:BATIA:symbol
+Fixes:BONGO:name
+Fixes:BONGO:symbol
+Fixes:DENAD:name
+Fixes:DENAD:symbol
+Fixes:DIBMI:name
+Fixes:DIBMI:symbol
+Fixes:EBULI:name
+Fixes:EBULI:symbol
+Fixes:EDUKO:name
+Fixes:EDUKO:symbol
+Fixes:EGADU:name
+Fixes:EGADU:symbol
+Fixes:EMTAL:name
+Fixes:EMTAL:symbol
+Fixes:EREGO:name
+Fixes:EREGO:symbol
+Fixes:GANDA:name
+Fixes:GANDA:symbol
+Fixes:GANKO:name
+Fixes:GANKO:symbol
+Fixes:GAPAG:name
+Fixes:GAPAG:symbol
+Fixes:GAPAK:name
+Fixes:GAPAK:symbol
+Fixes:GAPEL:name
+Fixes:GAPEL:symbol
+Fixes:GARLA:name
+Fixes:GARLA:symbol
+Fixes:INAKA:name
+Fixes:INAKA:symbol
+Fixes:INOSA:name
+Fixes:INOSA:symbol
+Fixes:KOBNA:name
+Fixes:KOBNA:symbol
+Fixes:LIREX:name
+Fixes:LIREX:symbol
+Fixes:LITAK:name
+Fixes:LITAK:symbol
+Fixes:NAKUT:name
+Fixes:NAKUT:symbol
+Fixes:NANGA:name
+Fixes:NANGA:symbol
+Fixes:NARPI:name
+Fixes:NARPI:symbol
+Fixes:NASTO:name
+Fixes:NASTO:symbol
+Fixes:NAVON:name
+Fixes:NAVON:symbol
+Fixes:OPALA:name
+Fixes:OPALA:symbol
+Fixes:OXIDU:name
+Fixes:OXIDU:symbol
+Fixes:PINGO:name
+Fixes:PINGO:symbol
+Fixes:POLTO:name
+Fixes:POLTO:symbol
+Fixes:RASAD:name
+Fixes:RASAD:symbol
+Fixes:SENOR:name
+Fixes:SENOR:symbol
+Fixes:SESIG:name
+Fixes:SESIG:symbol
+Fixes:SEVAX:name
+Fixes:SEVAX:symbol
+Fixes:SIRPA:name
+Fixes:SIRPA:symbol
+Fixes:TATAT:name
+Fixes:TATAT:symbol
+Fixes:TEMSA:name
+Fixes:TEMSA:symbol
+Fixes:TENTA:name
+Fixes:TENTA:symbol
+Fixes:TENTU:name
+Fixes:TENTU:symbol
+Fixes:TERBA:name
+Fixes:TERBA:symbol
+Fixes:TUMUT:name
+Fixes:TUMUT:symbol
+Fixes:TUSEK:name
+Fixes:TUSEK:symbol
+Fixes:URAPI:name
+Fixes:URAPI:symbol
+Fixes:XURUT:name
+Fixes:XURUT:symbol
+Geo:DB Danger area D1 - GND/A040 - Firing and Parachute:
+Geo:DB Danger area D2 - GND/A015 - Parachute:
+Geo:DB Danger area D3 - GND/A050 - Firing:
+Geo:DB Danger area D4 - GND/A060 - Firing:
+Geo:DB Danger area GND/FL080 - Fuel Dumping:
+Geo:DG Danger area D2 Bundase - GND/A100:
+Geo:DG Danger area D3 Teshie - GND/A012:
+Geo:DG Danger area D4 Sekondi/Takoradi - GND/UNL:
+Geo:DG Danger area D5 Tema - GND/UNL:
+Geo:DG Landmark Coast East:
+Geo:DG Landmark Coast Middle:
+Geo:DG Landmark Coast West:
+Geo:DG Landmark Lakes:
+Geo:DG Prohibited area P12 Flagstaff House - GND/A040:
+Geo:DG Prohibited area P13 State House - GND/A040:
+Geo:DG Prohibited area P14 Ministry of Defence Building - GND/A040:
+Geo:DG Restricted area R10 Tamale - GND/A020:
+Geo:DG Restricted area R11 Tamale - GND/A020:
+Geo:DG Restricted area R15 Takoradi Red Training Area - GND/FL060:
+Geo:DG Restricted area R16 Takoradi Green Training Area - 020AGL/A030:
+Geo:DG Restricted area R6 Takoradi - GND/FL065:
+Geo:DG Restricted area R7 Tamale Air Force Training Area 1 - A070/FL225:
+Geo:DG Restricted area R8 Tamale Air Force Training Area 2 - GND/FL065:
+Geo:DG Restricted area R9 Tamale - GND/A020:
+Geo:DI Landmark Coast:
+Geo:DN Landmark Coast:
+Geo:DX Danger area D1 - GND/FL140:
+Geo:DX Danger area Fuel Dumping:
+Geo:DX Prohibited area P1 - GND/FL035:
+Geo:DX Prohibited area P2 - GND/FL035:
+Geo:DX Prohibited area P3 - GND/FL035:
+Geo:DX Restricted area R1 - GND/FL400:
+Geo:DX Restricted area R2 - GND/FL400:
+High airways:R984:line
+High airways:UA400:line
+High airways:UA560:line
+High airways:UA600:line
+High airways:UA601:line
+High airways:UA603:line
+High airways:UA604:line
+High airways:UA608:line
+High airways:UA609:line
+High airways:UA614:line
+High airways:UA616:line
+High airways:UB600:line
+High airways:UB726:line
+High airways:UB729:line
+High airways:UB731:line
+High airways:UB737:line
+High airways:UG625:line
+High airways:UG660:line
+High airways:UG851:line
+High airways:UG853:line
+High airways:UG854:line
+High airways:UG855:line
+High airways:UG856:line
+High airways:UG858:line
+High airways:UG859:line
+High airways:UG860:line
+High airways:UH206:line
+High airways:UH340:line
+High airways:UJ222:line
+High airways:UJ332:line
+High airways:UJ333:line
+High airways:UJ707:line
+High airways:UL435:line
+High airways:UL683:line
+High airways:UL684:line
+High airways:UM104:line
+High airways:UM114:line
+High airways:UM566:line
+High airways:UM629:line
+High airways:UN121:line
+High airways:UN550:line
+High airways:UP685:line
+High airways:UQ360:line
+High airways:UQ558:line
+High airways:UQ559:line
+High airways:UQ582:line
+High airways:UQ583:line
+High airways:UQ584:line
+High airways:UQ589:line
+High airways:UQ590:line
+High airways:UQ592:line
+High airways:UQ594:line
+High airways:UR603:line
+High airways:UR778:line
+High airways:UR854:line
+High airways:UR866:line
+High airways:UR979:line
+High airways:UR981:line
+High airways:UR982:line
+High airways:UR983:line
+High airways:UR984:line
+High airways:UR986:line
+High airways:UR991:line
+High airways:UT272:line
+High airways:UT365:line
+High airways:UT416:line
+High airways:UT419:line
+High airways:UT457:line
+High airways:UT458:line
+High airways:UT467:line
+High airways:UT475:line
+High airways:UV207:line
+High airways:UV224:line
+High airways:UV377:line
+High airways:UV456:line
+High airways:UW225:line
+High airways:UW951:line
+High airways:UY124:line
+High airways:UY149:line
+High airways:UY252:line
+High airways:UZ136:line
+High airways:UZ151:line
+High airways:W7:line
+NDBs:AFO:name
+NDBs:AFO:symbol
+NDBs:SN:name
+NDBs:SN:symbol
+VORs:ABC:symbol
+VORs:ACC:symbol
+VORs:AD:symbol
+VORs:AKW:symbol
+VORs:BD:symbol
+VORs:BDA:symbol
+VORs:BEN:symbol
+VORs:BIK:symbol
+VORs:BKY:symbol
+VORs:CAL:symbol
+VORs:ENG:symbol
+VORs:IBA:symbol
+VORs:ILR:symbol
+VORs:JOS:symbol
+VORs:KAN:symbol
+VORs:KDA:symbol
+VORs:KIS:symbol
+VORs:KRG:symbol
+VORs:KSI:symbol
+VORs:KUA:symbol
+VORs:LAG:symbol
+VORs:LM:symbol
+VORs:MBO:symbol
+VORs:MNA:symbol
+VORs:NT:symbol
+VORs:OG:symbol
+VORs:OSB:symbol
+VORs:OWR:symbol
+VORs:PA:symbol
+VORs:PAM:symbol
+VORs:PG:symbol
+VORs:POT:symbol
+VORs:SKO:symbol
+VORs:SOK:symbol
+VORs:STM:symbol
+VORs:TLE:symbol
+VORs:TYE:symbol
+VORs:YAM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:0.956557:-11.813323:12.534584:10.116883

@@ -1,0 +1,168 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Fixes:AKBON:name
+Fixes:AKBON:symbol
+Fixes:ALKON:name
+Fixes:ALKON:symbol
+Fixes:APNAD:name
+Fixes:APNAD:symbol
+Fixes:ATUGA:name
+Fixes:ATUGA:symbol
+Fixes:BETAF:name
+Fixes:BETAF:symbol
+Fixes:EGREK:name
+Fixes:EGREK:symbol
+Fixes:EPLAS:name
+Fixes:EPLAS:symbol
+Fixes:GONGU:name
+Fixes:GONGU:symbol
+Fixes:GOTOD:name
+Fixes:GOTOD:symbol
+Fixes:IMPOG:name
+Fixes:IMPOG:symbol
+Fixes:IMVIP:name
+Fixes:IMVIP:symbol
+Fixes:KABLA:name
+Fixes:KABLA:symbol
+Fixes:LABAT:name
+Fixes:LABAT:symbol
+Fixes:MANDY:name
+Fixes:MANDY:symbol
+Fixes:NALOS:name
+Fixes:NALOS:symbol
+Fixes:NESAL:name
+Fixes:NESAL:symbol
+Fixes:OKSUM:name
+Fixes:OKSUM:symbol
+Fixes:OPERO:name
+Fixes:OPERO:symbol
+Fixes:OVELA:name
+Fixes:OVELA:symbol
+Fixes:OVPAP:name
+Fixes:OVPAP:symbol
+Fixes:PATAR:name
+Fixes:PATAR:symbol
+Fixes:SEZIM:name
+Fixes:SEZIM:symbol
+Fixes:TAREM:name
+Fixes:TAREM:symbol
+Fixes:UVBAX:name
+Fixes:UVBAX:symbol
+High airways:ATS10:line
+High airways:ATS11:line
+High airways:ATS13:line
+High airways:ATS14:line
+High airways:ATS17:line
+High airways:ATS18:line
+High airways:ATS19:line
+High airways:ATS20:line
+High airways:ATS21:line
+High airways:ATS3:line
+High airways:B527:line
+High airways:UA401:line
+High airways:UA613:line
+High airways:UA618:line
+High airways:UA727:line
+High airways:UB12:line
+High airways:UB527:line
+High airways:UB531:line
+High airways:UB535:line
+High airways:UB607:line
+High airways:UG655:line
+High airways:UG656:line
+High airways:UG862:line
+High airways:UH1:line
+High airways:UH10:line
+High airways:UL432:line
+High airways:UL433:line
+High airways:UL434:line
+High airways:UL442:line
+High airways:UL445:line
+High airways:UM215:line
+High airways:UM216:line
+High airways:UM220:line
+High airways:UM304:line
+High airways:UM306:line
+High airways:UM308:line
+High airways:UM315:line
+High airways:UM441:line
+High airways:UN306:line
+High airways:UN553:line
+High airways:UN554:line
+High airways:UN556:line
+High airways:UP312:line
+High airways:UP676:line
+High airways:UQ135:line
+High airways:UQ315:line
+High airways:UQ579:line
+High airways:UR784:line
+High airways:UR984:line
+High airways:UT136:line
+High airways:UT146:line
+High airways:UT238:line
+High airways:UT252:line
+High airways:UT325:line
+High airways:UT419:line
+High airways:UT910:line
+High airways:UT911:line
+High airways:UT912:line
+High airways:UT913:line
+High airways:UT946:line
+High airways:UV3:line
+High airways:UW305:line
+High airways:UW325:line
+VORs:BJA:name
+VORs:BJA:symbol
+VORs:BUN:name
+VORs:BUN:symbol
+VORs:ELD:name
+VORs:ELD:symbol
+VORs:GOM:name
+VORs:GOM:symbol
+VORs:GV:name
+VORs:GV:symbol
+VORs:IRO:name
+VORs:IRO:symbol
+VORs:JUB:name
+VORs:JUB:symbol
+VORs:KGI:name
+VORs:KGI:symbol
+VORs:KIN:name
+VORs:KIN:symbol
+VORs:KIV:name
+VORs:KIV:symbol
+VORs:KNM:name
+VORs:KNM:symbol
+VORs:KV:name
+VORs:KV:symbol
+VORs:LOV:name
+VORs:LOV:symbol
+VORs:MV:name
+VORs:MV:symbol
+VORs:NAK:name
+VORs:NAK:symbol
+VORs:NN:name
+VORs:NN:symbol
+VORs:NV:name
+VORs:NV:symbol
+VORs:SV:name
+VORs:SV:symbol
+VORs:TV:name
+VORs:TV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA - TopSky
+WINDOWAREA:-1.923365:27.173634:4.492960:39.158579

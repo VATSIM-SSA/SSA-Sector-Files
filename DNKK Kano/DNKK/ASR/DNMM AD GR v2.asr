@@ -1,0 +1,39 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | ASR | DNMM AD GR v2
+// ##################################################################
+
+// Version v0.0.1
+// Update Date 07/05/2022
+
+// Changelog
+// v0.0.1 | New DNMM Ground Layout
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:90.70000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:6.562898:3.294605:6.592747:3.349420
+PLUGIN:Ground Radar plugin:AirportElevation:138
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DNMM
+PLUGIN:Ground Radar plugin:ShowMapData:DNMMv2
+PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:DNMM

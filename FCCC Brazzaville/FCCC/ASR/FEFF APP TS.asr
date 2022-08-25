@@ -1,0 +1,32 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | ASR | FEFF APP TS
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | FEFF APP TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:1.490042:13.230376:7.305273:23.809186
+PLUGIN:TopSky plugin:ShowMapData:FCCC,FEFF-APP

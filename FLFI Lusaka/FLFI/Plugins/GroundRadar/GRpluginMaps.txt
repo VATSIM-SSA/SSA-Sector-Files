@@ -1,0 +1,195 @@
+// ##################################################################
+//                 VATSSA | FIR FLFI | GroundRadar | Maps
+// ##################################################################
+
+// Version v0.1
+// Update Date 14/07/2022
+
+
+// ##################################################################
+//                 #1 COLORS v0.2
+// ##################################################################
+
+// ACTIVE
+COLORDEF:DEPLINES:255:253:228
+COLORDEF:BLUE:0:145:255
+COLORDEF:GREEN:0:175:29
+COLORDEF:YELLOW:80:80:0
+COLORDEF:RED:130:0:0
+COLORDEF:CLSD:128:0:0
+COLORDEF:DEV:255:253:228
+COLORDEF:TWY:43:43:43
+// COLORDEF:TWY:96:96:96
+COLORDEF:TWYSAFE:125:0:0
+COLORDEF:BLACK:0:0:0
+COLORDEF:WHITE:125:125:125
+
+// TEST
+// COLORDEF:APRONSURFACE:43:43:43
+COLORDEF:APRONSURFACE:96:96:96
+COLORDEF:BUILDING:70:70:70
+COLORDEF:HARDSURFACE1:25:25:25
+COLORDEF:HARDSURFACE2:35:35:35
+COLORDEF:STOPBAR:255:179:0
+COLORDEF:BACKGROUND:25:25:25
+COLORDEF:CENTERLINES:111:111:60
+
+
+// ##################################################################
+//                 #2 SYMBOLS v0.3
+// ##################################################################
+
+// VFR FIXES
+SYMBOLDEF:VFR
+ARC:0:0:3:0:360
+
+// APPROACH  <--
+SYMBOLDEF:APPL
+POLYGON:0:-5:-5:0:0:5
+
+// APPROACH  -->
+SYMBOLDEF:APPR
+POLYGON:0:5:5:0:0:-5
+
+// DEPARTURE <--
+SYMBOLDEF:DEPL
+POLYGON:0:-5:-5:0:0:5
+
+// DEPARTURE -->
+SYMBOLDEF:DEPR
+POLYGON:0:5:5:0:0:-5
+
+// WAYPOINT
+SYMBOLDEF:WPT
+MOVETO:-4:4
+LINETO:5:4
+MOVETO:-3:3
+LINETO:4:3
+MOVETO:-3:2
+LINETO:4:2
+MOVETO:-2:1
+LINETO:3:1
+MOVETO:-2:0
+LINETO:3:0
+MOVETO:-1:-1
+LINETO:2:-1
+MOVETO:-1:-2
+LINETO:2:-2
+MOVETO:0:-3
+LINETO:0:-5
+
+// VOR
+SYMBOLDEF:VOR
+MOVETO:-5:-5
+LINETO:5:-5
+LINETO:5:5
+LINETO:-5:5
+LINETO:-5:-5
+MOVETO:-5:0
+LINETO:0:-5
+LINETO:5:0
+LINETO:0:5
+LINETO:-5:0
+MOVETO:0:1
+LINETO:1:0
+LINETO:0:-1
+LINETO:-1:0
+LINETO:0:1
+
+// NDB
+SYMBOLDEF:NDB
+MOVETO:-5:-5
+LINETO:5:-5
+LINETO:5:5
+LINETO:-5:5
+LINETO:-5:-5
+MOVETO:-1:-2
+LINETO:1:-2
+LINETO:1:-1
+LINETO:2:-1
+LINETO:2:1
+LINETO:1:1
+LINETO:1:2
+LINETO:-1:2
+LINETO:-1:1
+LINETO:-2:1
+LINETO:-2:-1
+LINETO:0:-1
+
+
+// ##################################################################
+//                 #3 APPROACHES v0.1
+// ##################################################################
+
+// FLKK | LUSAKA KENNETH KAUNDA INTL
+
+MAP:APPROACH 10:A
+FOLDER:APPROACHES
+AIRPORT:FLKK
+ACTIVE:RWY:ARR:FLKK10:DEP:FLKK10
+COLOR:RED
+SYMBOL:APPR:APLAT
+SYMBOL:APPR:ATULI
+SYMBOL:APPR:AXADO
+COLOR:BLACK
+TEXT:APLAT:APLAT:0:17
+TEXT:APLAT:5500:0:-17
+TEXT:ATULI:ATULI:0:17
+TEXT:ATULI:5500:0:-17
+TEXT:AXADO:AXADO:0:17
+TEXT:AXADO:+6500:0:-17
+STYLE:Dot
+SCTDATA:STAR\FLKK RNP10
+SCTDATA:STAR\FLKK RNP10 AXADO
+SCTDATA:STAR\FLKK RNP10 EGRAN
+SCTDATA:STAR\FLKK RNP10 APRAS
+
+MAP:APPROACH 28:A
+FOLDER:APPROACHES
+AIRPORT:FLKK
+ACTIVE:RWY:ARR:FLKK28:DEP:FLKK28
+COLOR:RED
+SYMBOL:APPL:EGPAL
+SYMBOL:APPL:AVIRA
+SYMBOL:APPL:ATUPO
+COLOR:BLACK
+TEXT:EGPAL:EGPAL:0:17
+TEXT:EGPAL:5500:0:-17
+TEXT:AVIRA:AVIRA:0:17
+TEXT:AVIRA:5500:0:-17
+TEXT:ATUPO:ATUPO:0:17
+TEXT:ATUPO:+6500:0:-17
+STYLE:Dot
+SCTDATA:STAR\FLKK RNP28
+SCTDATA:STAR\FLKK RNP28 APREG
+SCTDATA:STAR\FLKK RNP28 ATUPO
+SCTDATA:STAR\FLKK RNP28 AXOGA
+
+
+// ##################################################################
+//                 #4 DEPARTURES v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #5 VFR v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #6 AIRSPACE v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #7 NOTAMS v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #8 GROUND LAYOUTS v0.1
+// ##################################################################
+
+// ##################################################################
+//                 #9 GEO v0.1
+// ##################################################################
+
+// ##################################################################
+//                 THE END
+// ##################################################################

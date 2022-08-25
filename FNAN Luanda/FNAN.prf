@@ -1,0 +1,67 @@
+Settings	SettingsfileSYMBOLOGY	\FNAN\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\FNAN\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FNAN\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FNAN\Settings\Tags.txt
+Settings	SettingsfileSIL	\FNAN\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\FNAN\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\FNAN\Settings\DepartureList.txt
+Settings	SettingsfileARR	\FNAN\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\FNAN\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\FNAN\Settings\Plugins.txt
+Settings	Settingsfile	\FNAN\Settings\General.txt
+Settings	SettingsfileSCREEN	\FNAN\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\FNAN\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\FNAN\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FNAN\Settings\PilotingList.txt
+Settings	alias	\FNAN\Alias\alias.txt
+Settings	airlines	\FNAN\ICAO\ICAO_Airlines.txt
+Settings	airports	\FNAN\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FNAN\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FNAN\NavData\airway.txt
+Settings	airportcoords	\FNAN\NavData\icao.txt
+RecentFiles	Recent1	\FNAN\ASR\1_CTR.asr
+RecentFiles	Recent2	\FNAN\ASR\2_APP.asr
+RecentFiles	Recent3	\FNAN\ASR\3_TWR.asr
+ASRFastKeys	1	\FNAN\ASR\1_CTR.asr
+ASRFastKeys	2	\FNAN\ASR\2_APP.asr
+ASRFastKeys	3	\FNAN\ASR\3_TWR.asr
+Plugins	Plugin1	\FNAN\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\FNAN\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Settings	sector	\FNAN-Package_20220811174304-220801-0002.sct
+Plugins	Plugin0	\FNAN\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\FNAN\Sounds\handoff_accept.wav
+Sounds	Sound2	\FNAN\Sounds\conflict_alert.wav
+Sounds	Sound3	\FNAN\Sounds\radio_message.wav
+Sounds	Sound4	\FNAN\Sounds\private_message.wav
+Sounds	Sound5	\FNAN\Sounds\atc_message.wav
+Sounds	Sound6	\FNAN\Sounds\broadcast_message.wav
+Sounds	Sound7	\FNAN\Sounds\landline_request.wav
+Sounds	Sound8	\FNAN\Sounds\supervisor_message.wav
+Sounds	Sound9	\FNAN\Sounds\connected.wav
+Sounds	Sound10	\FNAN\Sounds\disconnected.wav
+Sounds	Sound11	\FNAN\Sounds\ongoing_request.wav
+Sounds	Sound12	\FNAN\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FNAN\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FNAN\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FNAN\Sounds\new_atis.wav
+Sounds	Sound16	\FNAN\Sounds\handoff_refused.wav
+Sounds	Sound17	\FNAN\Sounds\pointout.wav
+Sounds	Sound18	\FNAN\Sounds\startup.wav
+Sounds	Sound19	\FNAN\Sounds\startup.wav
+Sounds	Sound20	\FNAN\Sounds\supervisor_message.wav
+Sounds	Sound0	\FNAN\Sounds\handoff_request.wav

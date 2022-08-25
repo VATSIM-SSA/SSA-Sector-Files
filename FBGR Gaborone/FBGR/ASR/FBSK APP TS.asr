@@ -1,0 +1,68 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FB Airport Elevations\FBFT-3280ft:freetext
+Free Text:FB Airport Elevations\FBKN-3280ft:freetext
+Free Text:FB Airport Elevations\FBMN-3095ft:freetext
+Free Text:FB Airport Elevations\FBSK-3309ft:freetext
+Free Text:FB Airport Elevations\FVFA-3500ft:freetext
+Free Text:FBSK Areas\CARGO_APRON:freetext
+Free Text:FBSK Areas\DEBSWANA_APRON:freetext
+Free Text:FBSK Areas\Fire_Station:freetext
+Free Text:FBSK Areas\General_Aviation:freetext
+Free Text:FBSK Areas\Isolation_APRON:freetext
+Free Text:FBSK Areas\Maintenance_APRON:freetext
+Free Text:FBSK Areas\PAX_APRON:freetext
+Free Text:FBSK Areas\TERMINAL:freetext
+Free Text:FBSK KUTLA ILS08\6000:freetext
+Free Text:FBSK KUTLA ILS08\6500:freetext
+Free Text:FBSK KUTLA ILS08\8000:freetext
+Free Text:FBSK KUTLA ILS08\FL100:freetext
+Free Text:FBSK KUTLA ILS08\FL150:freetext
+Free Text:FBSK NESEK ILS08\6000:freetext
+Free Text:FBSK NESEK ILS08\6500:freetext
+Free Text:FBSK NESEK ILS08\8000:freetext
+Free Text:FBSK NESEK ILS08\FL180:freetext
+Free Text:FBSK Taxiways\A:freetext
+Free Text:FBSK Taxiways\A:freetext
+Free Text:FBSK Taxiways\A:freetext
+Free Text:FBSK Taxiways\B:freetext
+Free Text:FBSK Taxiways\B:freetext
+Free Text:FBSK Taxiways\B:freetext
+Free Text:FBSK Taxiways\D:freetext
+Free Text:FBSK Taxiways\E:freetext
+Free Text:FBSK Taxiways\F:freetext
+Free Text:FBSK Taxiways\G:freetext
+Free Text:FBSK Taxiways\H:freetext
+Free Text:FBSK Taxiways\J:freetext
+Free Text:FBSK Taxiways\K:freetext
+Free Text:FBSK Taxiways\L:freetext
+Free Text:FBSK Taxiways\M:freetext
+Free Text:FBSK Taxiways\N:freetext
+Geo:FB Landmark Okavanga Delta:
+Geo:FB Landmark Sua Pan and Nwetwe Pan:
+Geo:FBSK Groundlayout:
+Geo:FV Landmark Victoria Falls:
+Geo:GEO:
+Regions:FBSK Layer0:polygon
+Regions:FBSK Layer1:polygon
+Regions:FBSK Layer2:polygon
+Regions:FBSK Layer3:polygon
+Regions:FBSK RUNWAY:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-26.155047:22.724200:-22.429751:30.011796
+PLUGIN:TopSky plugin:ShowMapData:FBGR,FBSK

@@ -1,0 +1,104 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Airports:FAEL:name
+Airports:FAEL:symbol
+Fixes:EGRAL:name
+Fixes:EGRAL:symbol
+Fixes:EL1M1:name
+Fixes:EL1M1:symbol
+Fixes:EL1M2:name
+Fixes:EL1M2:symbol
+Fixes:EL1MP:name
+Fixes:EL1MP:symbol
+Fixes:EL1T1:name
+Fixes:EL1T1:symbol
+Fixes:EL2F1:name
+Fixes:EL2F1:symbol
+Fixes:EL2M1:name
+Fixes:EL2M1:symbol
+Fixes:EL2M2:name
+Fixes:EL2M2:symbol
+Fixes:EL2MP:name
+Fixes:EL2MP:symbol
+Fixes:EL2T1:name
+Fixes:EL2T1:symbol
+Fixes:ETMOT:name
+Fixes:ETMOT:symbol
+Fixes:IBMON:name
+Fixes:IBMON:symbol
+Fixes:IMVAV:name
+Fixes:IMVAV:symbol
+Fixes:UTABU:name
+Fixes:UTABU:symbol
+Free Text:FAEL Taxiways\A:freetext
+Free Text:FAEL Taxiways\A1:freetext
+Free Text:FAEL Taxiways\A2:freetext
+Free Text:FAEL Taxiways\A3:freetext
+Free Text:FAEL Taxiways\A4:freetext
+Free Text:FAEL Taxiways\B:freetext
+Free Text:FAEL Taxiways\B1:freetext
+Free Text:FAEL Taxiways\C3:freetext
+Free Text:FAEL Taxiways\G:freetext
+Free Text:FAEL Terrain\3000:freetext
+Free Text:FAEL Terrain\4500:freetext
+Free Text:FAEL Terrain\4800:freetext
+Free Text:FAEL Terrain\5100:freetext
+Free Text:FAEL Terrain\6300:freetext
+Free Text:FAEL Terrain\7900:freetext
+Geo:FA Landmark Coast S:
+Geo:FAEL Groundlayout:
+Geo:GEO:
+Runways:FAEL 06-24:centerline
+Runways:FAEL 06-24:extended centerline 1
+Runways:FAEL 06-24:extended centerline 1 left base
+Runways:FAEL 06-24:extended centerline 1 left ticks
+Runways:FAEL 06-24:extended centerline 1 left vectoring
+Runways:FAEL 06-24:extended centerline 1 right base
+Runways:FAEL 06-24:extended centerline 1 right ticks
+Runways:FAEL 06-24:extended centerline 1 right vectoring
+Runways:FAEL 06-24:extended centerline 2
+Runways:FAEL 06-24:extended centerline 2 left base
+Runways:FAEL 06-24:extended centerline 2 left ticks
+Runways:FAEL 06-24:extended centerline 2 left vectoring
+Runways:FAEL 06-24:extended centerline 2 right base
+Runways:FAEL 06-24:extended centerline 2 right ticks
+Runways:FAEL 06-24:extended centerline 2 right vectoring
+Runways:FAEL 06-24:name
+Runways:FAEL 11-29:centerline
+Runways:FAEL 11-29:extended centerline 1
+Runways:FAEL 11-29:extended centerline 1 left base
+Runways:FAEL 11-29:extended centerline 1 left ticks
+Runways:FAEL 11-29:extended centerline 1 left vectoring
+Runways:FAEL 11-29:extended centerline 1 right base
+Runways:FAEL 11-29:extended centerline 1 right ticks
+Runways:FAEL 11-29:extended centerline 1 right vectoring
+Runways:FAEL 11-29:extended centerline 2
+Runways:FAEL 11-29:extended centerline 2 left base
+Runways:FAEL 11-29:extended centerline 2 left ticks
+Runways:FAEL 11-29:extended centerline 2 left vectoring
+Runways:FAEL 11-29:extended centerline 2 right base
+Runways:FAEL 11-29:extended centerline 2 right ticks
+Runways:FAEL 11-29:extended centerline 2 right vectoring
+Runways:FAEL 11-29:name
+VORs:ELV:frequency
+VORs:ELV:name
+VORs:ELV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-33.052190:27.796957:-33.026321:27.850921
+PLUGIN:Ground Radar plugin:AirportElevation:435
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FAEL
+PLUGIN:TopSky plugin:NoDraw:1

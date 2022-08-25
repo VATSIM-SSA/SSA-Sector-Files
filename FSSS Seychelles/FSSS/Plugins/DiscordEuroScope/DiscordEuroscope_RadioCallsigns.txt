@@ -1,0 +1,14 @@
+AFRN_FSS North Africa Control
+AFRS_FSS Africa South Control
+FIMM_CTR Mauritius Centre
+FIMM_FSS Mauritius Radio
+FMCH_TWR Moroni Tower
+FMMM_CTR Antananarivo Control
+FSIA_APP Seychelles Approach
+FSIA_GND Seychelles Ground
+FSIA_TWR Seychelles Tower
+FSPP_TWR Praslin Tower
+FSSS_CTR Seychelles Control
+FSSS_FSS Seychelles Control
+HCSM_I_CTR Mogadishu Information
+HTDC_CTR Dar-Es-Salaam Control

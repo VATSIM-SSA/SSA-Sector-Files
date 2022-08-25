@@ -1,0 +1,29 @@
+DGAC_CTR Accra Control
+DGAC_O_CTR Accra Radio
+DNCA_APP Calabar Approach/Tower
+DNKN_CTR Kano East
+DNMM_CTR Lagos West
+FCBB_APP Brazza Approach
+FCBB_TWR Brazza Tower
+FCCC_CTR Brazzaville Control
+FCPD_TWR Dolisie Tower
+FCPP_APP Pointe Noire Approach
+FCPP_TWR Pointe Noire Tower
+FEFF_TWR Bangui Tower
+FGSL_TWR Malabo Tower
+FKKD_TWR Douala Tower
+FKKK_CTR Douala Control
+FKKN_TWR N'gaoundere Tower
+FKKR_TWR Garoua Tower
+FKYS_APP Yaounde Approach
+FKYS_TWR Nsimalen Tower
+FNAN_CTR Luanda Control
+FOOG_APP Port-Gentil Tower
+FOOG_TWR Port-Gentil Tower
+FOOL_TWR Libreville Tower
+FOON_TWR Mvengue Tower
+FOOO_CTR Libreville Control
+FPST_APP Sao Tome Control
+FPST_TWR Sao Tome Tower
+FTTT_CTR N'Djamena Control
+FZZA_CTR Kinshasa Control

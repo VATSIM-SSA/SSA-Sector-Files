@@ -1,0 +1,149 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:FIMP-TMA:
+ARTCC boundary:FMEE-TMA:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FIMP:
+Free Text:FIMP Parkings\1:freetext
+Free Text:FIMP Parkings\10:freetext
+Free Text:FIMP Parkings\11:freetext
+Free Text:FIMP Parkings\12:freetext
+Free Text:FIMP Parkings\13:freetext
+Free Text:FIMP Parkings\14:freetext
+Free Text:FIMP Parkings\15:freetext
+Free Text:FIMP Parkings\16:freetext
+Free Text:FIMP Parkings\2:freetext
+Free Text:FIMP Parkings\3:freetext
+Free Text:FIMP Parkings\4:freetext
+Free Text:FIMP Parkings\41:freetext
+Free Text:FIMP Parkings\42:freetext
+Free Text:FIMP Parkings\43:freetext
+Free Text:FIMP Parkings\44:freetext
+Free Text:FIMP Parkings\45:freetext
+Free Text:FIMP Parkings\46:freetext
+Free Text:FIMP Parkings\47:freetext
+Free Text:FIMP Parkings\48:freetext
+Free Text:FIMP Parkings\5:freetext
+Free Text:FIMP Parkings\7:freetext
+Free Text:FIMP Parkings\8:freetext
+Free Text:FIMP Parkings\9:freetext
+Free Text:FIMP Taxiways\A:freetext
+Free Text:FIMP Taxiways\B:freetext
+Free Text:FIMP Taxiways\C:freetext
+Free Text:FIMP Taxiways\D:freetext
+Free Text:FIMP Taxiways\E:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\F:freetext
+Free Text:FIMP Taxiways\G:freetext
+Free Text:FIMP Taxiways\H:freetext
+Free Text:FIMP Taxiways\J:freetext
+Free Text:FIMP Taxiways\K:freetext
+Free Text:FIMP Taxiways\L:freetext
+Free Text:FIMP Taxiways\M:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\N:freetext
+Free Text:FIMP Taxiways\P:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Free Text:FIMP Taxiways\Y:freetext
+Geo:FI Danger area D01 Canados Hill - GND/A030:
+Geo:FI Danger area D02 Mountain St. Pierre - GND/A030:
+Geo:FI Danger area D03 Flat Island - GND/A105:
+Geo:FI Danger area D04 Pointe Aux Caves - GND/A060:
+Geo:FI Danger area D05 - GND/A400:
+Geo:FI Danger area D06 - GND/A400:
+Geo:FI Danger area D07 - GND/A400:
+Geo:FI Landmark Coast:
+Geo:FI Prohibited area P06 MBC Transmitter site - GND/A035:
+Geo:FI Prohibited area P07 St. Louis Power Station - GND/A035:
+Geo:FI Prohibited area P08 Fort Victoria Power Station - GND/A035:
+Geo:FI Prohibited area P09 Mauritius Telecommunication Services - GND/A035:
+Geo:FI Prohibited area P10 Shell Depot - GND/A035:
+Geo:FI Prohibited area R11 Hydro electric project - GND/A035:
+Geo:FI Restricted area R12 Met Headquarter - GND/A035:
+Geo:FI Restricted area R13 MBC Headquarters - GND/A035:
+Geo:FI Restricted area R14 Port Louis - GND/A035:
+Geo:FI Restricted area R15 State House - GND/A035:
+Geo:FI Restricted area R16 Police Headquarters - GND/A035:
+Geo:FIMP Groundlayout:
+NDBs:NDG:name
+NDBs:NDG:symbol
+NDBs:RS:name
+NDBs:RS:symbol
+Regions:FIMP Ground layout:polygon
+Runways:FIML 12-30:centerline
+Runways:FIML 12-30:extended centerline 1
+Runways:FIML 12-30:extended centerline 1 left ticks
+Runways:FIML 12-30:extended centerline 1 right ticks
+Runways:FIML 12-30:extended centerline 2
+Runways:FIML 12-30:extended centerline 2 left ticks
+Runways:FIML 12-30:extended centerline 2 right ticks
+Runways:FIMP 14-32:extended centerline 1
+Runways:FIMP 14-32:extended centerline 1 left ticks
+Runways:FIMP 14-32:extended centerline 1 right ticks
+Runways:FIMP 14-32:extended centerline 2
+Runways:FIMP 14-32:extended centerline 2 left ticks
+Runways:FIMP 14-32:extended centerline 2 right ticks
+Runways:FIMR 12-30:extended centerline 1
+Runways:FIMR 12-30:extended centerline 1 left ticks
+Runways:FIMR 12-30:extended centerline 1 right ticks
+Runways:FIMR 12-30:extended centerline 2
+Runways:FIMR 12-30:extended centerline 2 left ticks
+Runways:FIMR 12-30:extended centerline 2 right ticks
+Runways:FJDG 13-31:extended centerline 1
+Runways:FJDG 13-31:extended centerline 1 left ticks
+Runways:FJDG 13-31:extended centerline 1 right ticks
+Runways:FJDG 13-31:extended centerline 2
+Runways:FJDG 13-31:extended centerline 2 left ticks
+Runways:FJDG 13-31:extended centerline 2 right ticks
+Runways:FMEE 12-30:centerline
+Runways:FMEE 12-30:extended centerline 1
+Runways:FMEE 12-30:extended centerline 1 left ticks
+Runways:FMEE 12-30:extended centerline 1 right ticks
+Runways:FMEE 12-30:extended centerline 2
+Runways:FMEE 12-30:extended centerline 2 left ticks
+Runways:FMEE 12-30:extended centerline 2 right ticks
+Runways:FMEE 14-32:centerline
+Runways:FMEE 14-32:extended centerline 1
+Runways:FMEE 14-32:extended centerline 1 left ticks
+Runways:FMEE 14-32:extended centerline 1 right ticks
+Runways:FMEE 14-32:extended centerline 2
+Runways:FMEE 14-32:extended centerline 2 left ticks
+Runways:FMEE 14-32:extended centerline 2 right ticks
+Runways:FMEP 15-33:centerline
+Runways:FMEP 15-33:extended centerline 1
+Runways:FMEP 15-33:extended centerline 1 left ticks
+Runways:FMEP 15-33:extended centerline 1 right ticks
+Runways:FMEP 15-33:extended centerline 2
+Runways:FMEP 15-33:extended centerline 2 left ticks
+Runways:FMEP 15-33:extended centerline 2 right ticks
+VORs:GBY:name
+VORs:GBY:symbol
+VORs:PLS:name
+VORs:PLS:symbol
+VORs:PRA:name
+VORs:PRA:symbol
+VORs:PRF:name
+VORs:PRF:symbol
+VORs:SDG:name
+VORs:SDG:symbol
+SHOWC:0
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:GRplugin
+WINDOWAREA:-20.468403:57.610384:-20.392643:57.761300
+PLUGIN:Ground Radar plugin:AirportElevation:183
+PLUGIN:Ground Radar plugin:AirportRadius:2.5
+PLUGIN:Ground Radar plugin:GroundMode:FIMP
+PLUGIN:TopSky plugin:NoDraw:1

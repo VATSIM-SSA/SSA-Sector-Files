@@ -1,0 +1,539 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:DULAC-TMA:
+ARTCC boundary:FMCH-TMA:
+ARTCC boundary:FWKI-CTA:
+ARTCC boundary:FZRF-TMA:
+ARTCC boundary:HBBA-TMA:
+ARTCC boundary:HKMO-TMA:
+ARTCC boundary:HRYR-TMA:
+ARTCC boundary:HTDA-CTA:
+ARTCC boundary:HTKJ-TMA:
+ARTCC boundary:HUEN-TMA:
+ARTCC high boundary:FLFI:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FSSS:
+ARTCC high boundary:FWLL:
+ARTCC high boundary:FZZA:
+ARTCC high boundary:HBBA-FIS:
+ARTCC high boundary:HKNA:
+ARTCC high boundary:HTDC-E:
+ARTCC high boundary:HTDC-W:
+ARTCC high boundary:HUEC:
+ARTCC low boundary:HBBA-CTR:
+ARTCC low boundary:HRYR-CTR:
+ARTCC low boundary:HRZA-ATZ:
+ARTCC low boundary:HTDA-CTR:
+ARTCC low boundary:HTDO-CTR:
+ARTCC low boundary:HTKJ-CTR:
+ARTCC low boundary:HTMW-CTR:
+Fixes:AKUMU:name
+Fixes:AKUMU:symbol
+Fixes:ALSAR:name
+Fixes:ALSAR:symbol
+Fixes:ALTIN:name
+Fixes:ALTIN:symbol
+Fixes:AMGID:name
+Fixes:AMGID:symbol
+Fixes:AMSAD:name
+Fixes:AMSAD:symbol
+Fixes:AMTAS:name
+Fixes:AMTAS:symbol
+Fixes:APKOL:name
+Fixes:APKOL:symbol
+Fixes:APLOG:name
+Fixes:APLOG:symbol
+Fixes:APNAD:name
+Fixes:APNAD:symbol
+Fixes:AREMA:name
+Fixes:AREMA:symbol
+Fixes:AVATU:name
+Fixes:AVATU:symbol
+Fixes:AVIGO:name
+Fixes:AVIGO:symbol
+Fixes:BIKON:name
+Fixes:BIKON:symbol
+Fixes:BILAK:name
+Fixes:BILAK:symbol
+Fixes:BONAP:name
+Fixes:BONAP:symbol
+Fixes:BOSAD:name
+Fixes:BOSAD:symbol
+Fixes:DATAN:name
+Fixes:DATAN:symbol
+Fixes:DIMTO:name
+Fixes:DIMTO:symbol
+Fixes:DUSKA:name
+Fixes:DUSKA:symbol
+Fixes:EGMOL:name
+Fixes:EGMOL:symbol
+Fixes:EGREK:name
+Fixes:EGREK:symbol
+Fixes:EGTAN:name
+Fixes:EGTAN:symbol
+Fixes:ELAVA:name
+Fixes:ELAVA:symbol
+Fixes:EPMAB:name
+Fixes:EPMAB:symbol
+Fixes:ESRES:name
+Fixes:ESRES:symbol
+Fixes:EVATO:name
+Fixes:EVATO:symbol
+Fixes:GAVDA:name
+Fixes:GAVDA:symbol
+Fixes:GESAT:name
+Fixes:GESAT:symbol
+Fixes:GETAB:name
+Fixes:GETAB:symbol
+Fixes:ITSIR:name
+Fixes:ITSIR:symbol
+Fixes:KINAN:name
+Fixes:KINAN:symbol
+Fixes:KISAK:name
+Fixes:KISAK:symbol
+Fixes:LABAG:name
+Fixes:LABAG:symbol
+Fixes:LABAT:name
+Fixes:LABAT:symbol
+Fixes:LUDOL:name
+Fixes:LUDOL:symbol
+Fixes:MAGAD:name
+Fixes:MAGAD:symbol
+Fixes:MERKU:name
+Fixes:MERKU:symbol
+Fixes:NESAL:name
+Fixes:NESAL:symbol
+Fixes:OKDAS:name
+Fixes:OKDAS:symbol
+Fixes:ORLIM:name
+Fixes:ORLIM:symbol
+Fixes:OVANA:name
+Fixes:OVANA:symbol
+Fixes:PARIN:name
+Fixes:PARIN:symbol
+Fixes:ROVUM:name
+Fixes:ROVUM:symbol
+Fixes:SELRU:name
+Fixes:SELRU:symbol
+Fixes:SINGI:name
+Fixes:SINGI:symbol
+Fixes:TABNO:name
+Fixes:TABNO:symbol
+Fixes:TALAC:name
+Fixes:TALAC:symbol
+Fixes:UDNOT:name
+Fixes:UDNOT:symbol
+Fixes:UTATA:name
+Fixes:UTATA:symbol
+Fixes:UTEMA:name
+Fixes:UTEMA:symbol
+Fixes:UTINA:name
+Fixes:UTINA:symbol
+Fixes:UTOVU:name
+Fixes:UTOVU:symbol
+Fixes:UVORA:name
+Fixes:UVORA:symbol
+Fixes:UVUKO:name
+Fixes:UVUKO:symbol
+Fixes:XAKRI:name
+Fixes:XAKRI:symbol
+Geo:FL Landmark Lakes:
+Geo:FQ Landmark Coast N:
+Geo:FW Landmark Lake Malawi:
+Geo:HK Landmark Coast:
+Geo:HK Landmark Lakes:
+Geo:HR Landmark Lakes:
+Geo:HR Prohibited area P3 Bugesera - GND/FL190:
+Geo:HR Prohibited area P5 Kigali Centre Ville - GND/FL110:
+Geo:HR Restricted area R1 Volcano Reserve - GND/1000AGL:
+Geo:HR Restricted area R2 National Park Akagera - GND/1000AGL:
+Geo:HR Restricted area R4 Ndera - GND/A080:
+Geo:HT Danger area D10 Sengerema - GND/A200:
+Geo:HT Danger area D11 Rubondo - GND/A200:
+Geo:HT Danger area D9 Ukerewe Island - GND/A200:
+Geo:HT Landmark Coast N:
+Geo:HT Landmark Coast S:
+Geo:HT Landmark Lake Tanganyika:
+Geo:HT Landmark Lake Victoria:
+Geo:HT Landmark Lakes:
+Geo:HT Prohibited area P6 Ngerengere:
+Geo:HT Restricted area R12 Mtera - GND/A100:
+Geo:HT Restricted area R13 Kidatu - GND/A160:
+Geo:HT Restricted area R7 Ngerengere - GND/A100:
+High airways:A406:line
+High airways:ATS10:line
+High airways:ATS11:line
+High airways:ATS13:line
+High airways:ATS14:line
+High airways:ATS18:line
+High airways:ATS19:line
+High airways:ATS20:line
+High airways:ATS21:line
+High airways:ATS3:line
+High airways:ATS4:line
+High airways:ATS5:line
+High airways:ATS7:line
+High airways:ATS8:line
+High airways:B527:line
+High airways:B530:line
+High airways:UA401:line
+High airways:UA405:line
+High airways:UA406:line
+High airways:UA407:line
+High airways:UA408:line
+High airways:UA409:line
+High airways:UA607:line
+High airways:UA610:line
+High airways:UA613:line
+High airways:UA618:line
+High airways:UA727:line
+High airways:UB12:line
+High airways:UB400:line
+High airways:UB527:line
+High airways:UB530:line
+High airways:UB531:line
+High airways:UB533:line
+High airways:UB535:line
+High airways:UB607:line
+High airways:UB790:line
+High airways:UG424:line
+High airways:UG450:line
+High airways:UG465:line
+High airways:UG652:line
+High airways:UG655:line
+High airways:UG656:line
+High airways:UG657:line
+High airways:UG661:line
+High airways:UH1:line
+High airways:UH10:line
+High airways:UH4:line
+High airways:UJ5:line
+High airways:UL303:line
+High airways:UL431:line
+High airways:UL432:line
+High airways:UL433:line
+High airways:UL434:line
+High airways:UL437:line
+High airways:UL442:line
+High airways:UL445:line
+High airways:UM214:line
+High airways:UM215:line
+High airways:UM216:line
+High airways:UM304:line
+High airways:UM306:line
+High airways:UM308:line
+High airways:UM310:line
+High airways:UM311:line
+High airways:UM315:line
+High airways:UM441:line
+High airways:UM665:line
+High airways:UN301:line
+High airways:UN305:line
+High airways:UN306:line
+High airways:UN308:line
+High airways:UN554:line
+High airways:UN556:line
+High airways:UP312:line
+High airways:UP676:line
+High airways:UQ135:line
+High airways:UQ315:line
+High airways:UQ34:line
+High airways:UQ579:line
+High airways:UR410:line
+High airways:UR775:line
+High airways:UR779:line
+High airways:UR780:line
+High airways:UR782:line
+High airways:UR784:line
+High airways:UR984:line
+High airways:UT146:line
+High airways:UT252:line
+High airways:UT253:line
+High airways:UT281:line
+High airways:UT386:line
+High airways:UT481:line
+High airways:UT548:line
+High airways:UT910:line
+High airways:UT911:line
+High airways:UT912:line
+High airways:UT913:line
+High airways:UT914:line
+High airways:UT946:line
+High airways:UV3:line
+High airways:UV48:line
+High airways:UW10:line
+High airways:UW11:line
+High airways:UW305:line
+High airways:UW325:line
+High airways:UW601:line
+NDBs:AR:frequency
+NDBs:AR:name
+NDBs:AR:symbol
+NDBs:BK:frequency
+NDBs:BK:name
+NDBs:BK:symbol
+NDBs:BKV:frequency
+NDBs:BKV:name
+NDBs:BKV:symbol
+NDBs:BN:frequency
+NDBs:BN:name
+NDBs:BN:symbol
+NDBs:BS:frequency
+NDBs:BS:name
+NDBs:BS:symbol
+NDBs:BU:frequency
+NDBs:BU:name
+NDBs:BU:symbol
+NDBs:CP:frequency
+NDBs:CP:name
+NDBs:CP:symbol
+NDBs:DM:frequency
+NDBs:DM:name
+NDBs:DM:symbol
+NDBs:DO:frequency
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:DR:frequency
+NDBs:DR:name
+NDBs:DR:symbol
+NDBs:DS:frequency
+NDBs:DS:name
+NDBs:DS:symbol
+NDBs:ELI:frequency
+NDBs:ELI:name
+NDBs:ELI:symbol
+NDBs:EM:frequency
+NDBs:EM:name
+NDBs:EM:symbol
+NDBs:FJO:frequency
+NDBs:FJO:name
+NDBs:FJO:symbol
+NDBs:GA:frequency
+NDBs:GA:name
+NDBs:GA:symbol
+NDBs:GI:frequency
+NDBs:GI:name
+NDBs:GI:symbol
+NDBs:GS:frequency
+NDBs:GS:name
+NDBs:GS:symbol
+NDBs:GY:frequency
+NDBs:GY:name
+NDBs:GY:symbol
+NDBs:IR:frequency
+NDBs:IR:name
+NDBs:IR:symbol
+NDBs:KA:frequency
+NDBs:KA:name
+NDBs:KA:symbol
+NDBs:KB:frequency
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KG:frequency
+NDBs:KG:name
+NDBs:KG:symbol
+NDBs:KI:frequency
+NDBs:KI:name
+NDBs:KI:symbol
+NDBs:KIN:frequency
+NDBs:KIN:name
+NDBs:KIN:symbol
+NDBs:KL:frequency
+NDBs:KL:name
+NDBs:KL:symbol
+NDBs:KM:frequency
+NDBs:KM:name
+NDBs:KM:symbol
+NDBs:KO:frequency
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KS:frequency
+NDBs:KS:name
+NDBs:KS:symbol
+NDBs:KT:frequency
+NDBs:KT:name
+NDBs:KT:symbol
+NDBs:KW:frequency
+NDBs:KW:name
+NDBs:KW:symbol
+NDBs:KWZ:frequency
+NDBs:KWZ:name
+NDBs:KWZ:symbol
+NDBs:LC:frequency
+NDBs:LC:name
+NDBs:LC:symbol
+NDBs:LH:frequency
+NDBs:LH:name
+NDBs:LH:symbol
+NDBs:LO:frequency
+NDBs:LO:name
+NDBs:LO:symbol
+NDBs:MA:frequency
+NDBs:MA:name
+NDBs:MA:symbol
+NDBs:MB:frequency
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:MF:frequency
+NDBs:MF:name
+NDBs:MF:symbol
+NDBs:MT:frequency
+NDBs:MT:name
+NDBs:MT:symbol
+NDBs:MU:frequency
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:MZ:frequency
+NDBs:MZ:name
+NDBs:MZ:symbol
+NDBs:NL:frequency
+NDBs:NL:name
+NDBs:NL:symbol
+NDBs:NS:frequency
+NDBs:NS:name
+NDBs:NS:symbol
+NDBs:NW:frequency
+NDBs:NW:name
+NDBs:NW:symbol
+NDBs:PA:frequency
+NDBs:PA:name
+NDBs:PA:symbol
+NDBs:PB:frequency
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:RA:frequency
+NDBs:RA:name
+NDBs:RA:symbol
+NDBs:RG:frequency
+NDBs:RG:name
+NDBs:RG:symbol
+NDBs:SG:frequency
+NDBs:SG:name
+NDBs:SG:symbol
+NDBs:SW:frequency
+NDBs:SW:name
+NDBs:SW:symbol
+NDBs:TB:frequency
+NDBs:TB:name
+NDBs:TB:symbol
+NDBs:TG:frequency
+NDBs:TG:name
+NDBs:TG:symbol
+NDBs:UU:frequency
+NDBs:UU:name
+NDBs:UU:symbol
+NDBs:YI:frequency
+NDBs:YI:name
+NDBs:YI:symbol
+NDBs:ZZ:frequency
+NDBs:ZZ:name
+NDBs:ZZ:symbol
+VORs:BJA:frequency
+VORs:BJA:name
+VORs:BJA:symbol
+VORs:DV:frequency
+VORs:DV:name
+VORs:DV:symbol
+VORs:DVL:frequency
+VORs:DVL:name
+VORs:DVL:symbol
+VORs:DZP:frequency
+VORs:DZP:name
+VORs:DZP:symbol
+VORs:ELD:frequency
+VORs:ELD:name
+VORs:ELD:symbol
+VORs:GAR:frequency
+VORs:GAR:name
+VORs:GAR:symbol
+VORs:GOM:frequency
+VORs:GOM:name
+VORs:GOM:symbol
+VORs:GV:frequency
+VORs:GV:name
+VORs:GV:symbol
+VORs:HAI:frequency
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:KGI:frequency
+VORs:KGI:name
+VORs:KGI:symbol
+VORs:KI:frequency
+VORs:KI:name
+VORs:KI:symbol
+VORs:KIN:frequency
+VORs:KIN:name
+VORs:KIN:symbol
+VORs:KIV:frequency
+VORs:KIV:name
+VORs:KIV:symbol
+VORs:KMB:frequency
+VORs:KMB:name
+VORs:KMB:symbol
+VORs:KMI:frequency
+VORs:KMI:name
+VORs:KMI:symbol
+VORs:KNM:frequency
+VORs:KNM:name
+VORs:KNM:symbol
+VORs:KV:frequency
+VORs:KV:name
+VORs:KV:symbol
+VORs:LUB:frequency
+VORs:LUB:name
+VORs:LUB:symbol
+VORs:MLD:frequency
+VORs:MLD:name
+VORs:MLD:symbol
+VORs:MOV:frequency
+VORs:MOV:name
+VORs:MOV:symbol
+VORs:MV:frequency
+VORs:MV:name
+VORs:MV:symbol
+VORs:NAK:frequency
+VORs:NAK:name
+VORs:NAK:symbol
+VORs:NN:frequency
+VORs:NN:name
+VORs:NN:symbol
+VORs:NV:frequency
+VORs:NV:name
+VORs:NV:symbol
+VORs:TV:frequency
+VORs:TV:name
+VORs:TV:symbol
+VORs:VKA:frequency
+VORs:VKA:name
+VORs:VKA:symbol
+VORs:VLC:frequency
+VORs:VLC:name
+VORs:VLC:symbol
+VORs:VMF:frequency
+VORs:VMF:name
+VORs:VMF:symbol
+VORs:VMZ:frequency
+VORs:VMZ:name
+VORs:VMZ:symbol
+VORs:VND:frequency
+VORs:VND:name
+VORs:VND:symbol
+VORs:ZV:frequency
+VORs:ZV:name
+VORs:ZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-12.968404:21.988606:0.368172:47.267449

@@ -1,0 +1,113 @@
+// ##################################################################
+//                 VATSSA | FIR FLFI | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.1
+// Update Date 18/07/2022
+
+// Active Airports
+// FL | FLFI
+
+// ##################################################################
+//                 FL ZAMBIA
+// ##################################################################
+
+// ##################################################################
+//                 FLKK Lusaka
+// ##################################################################
+
+// MAIN APRON
+// Stand 1
+STAND:FLKK:1:S15.19.34.091:E28.26.36.743:30
+USE:A
+WTC:ML
+
+// Stand 2
+STAND:FLKK:2:S15.19.36.954:E28.26.36.702:30
+USE:A
+WTC:ML
+
+// Stand 3
+STAND:FLKK:3:S15.19.34.305:E28.26.39.612:30
+USE:A
+WTC:ML
+
+// Stand 4
+STAND:FLKK:4:S15.19.37.15:E28.26.39.409:30
+USE:A
+WTC:ML
+
+// Stand 5
+STAND:FLKK:5:S15.19.34.543:E28.26.42.57:30
+USE:A
+WTC:ML
+
+// Stand 6
+STAND:FLKK:6:S15.19.37.288:E28.26.42.223:30
+USE:A
+WTC:ML
+
+// Stand 7
+STAND:FLKK:7:S15.19.34.493:E28.26.44.848:20
+USE:AC
+WTC:L
+
+// Stand 8
+STAND:FLKK:8:S15.19.34.675:E28.26.46.883:20
+USE:AC
+WTC:L
+
+// Stand 9
+STAND:FLKK:9:S15.19.34.833:E28.26.48.913:20
+USE:AC
+WTC:L
+
+// Stand 10
+STAND:FLKK:10:S15.19.36.766:E28.26.48.759:20
+USE:AC
+WTC:L
+
+// Stand 11
+STAND:FLKK:11:S15.19.34.933:E28.26.50.914:20
+USE:AC
+WTC:L
+
+// Stand 12
+STAND:FLKK:12:S15.19.36.955:E28.26.50.769:20
+USE:AC
+WTC:L
+
+// APRONS
+// General Aviation 1
+STAND:FLKK:GA:S15.19.32.493:E28.27.17.494:350
+USE:BP
+WTC:L
+AREA
+
+// Military Ramp - Zambian Air Force
+STAND:FLKK:MIL:S15.20.0.549:E28.26.0.253:330
+USE:MTI
+WTC:LMH
+AREA
+
+// Apron 2
+STAND:FLKK:AP-2:S15.19.29.237:E28.26.5.294:180
+USE:MTI
+WTC:LMH
+AREA
+
+// Apron 3
+STAND:FLKK:AP-3:S15.19.17.547:E28.26.22.487:180
+USE:MTI
+WTC:LMH
+AREA
+
+// New Apron - Still under construction
+STAND:FLKK:AP-N:S15.19.37.157:E28.26.57.087:180
+USE:A
+WTC:LMH
+AREA
+
+// ##################################################################
+//                 THE END 
+// ##################################################################

@@ -1,0 +1,31 @@
+AFRN_FSS North Africa Control
+AFRS_FSS Africa South Control
+FSSS_CTR Seychelles Control
+FSSS_FSS Seychelles Control
+HAAA_2_CTR Addis Control
+HCSM_I_CTR Mogadishu Information
+HKEL_TWR Eldoret Tower
+HKEM_TWR Embu Tower
+HKJK_APP Nairobi Radar
+HKJK_GND Nairobi Apron
+HKJK_TWR Nairobi Tower
+HKKI_GND Kisumu Ground
+HKKI_TWR Kisumu Tower
+HKLK_GND Loki Ground
+HKLK_TWR Loki Tower
+HKML_GND Malindi Ground
+HKML_TWR Malindi Tower
+HKMO_APP Mombasa Radar
+HKMO_GND Mombasa Ground
+HKMO_TWR Mombasa Tower
+HKNA_CTR Nairobi Control
+HKNL_APP Nanyuki Approach
+HKNW_GND Wilson Ground
+HKNW_TWR Wilson Tower
+HKRE_TWR Eastleigh Tower
+HKWJ_GND Wajir Ground
+HKWJ_TWR Wajir Tower
+HTDA_APP Dar-Es-Salaam Approach
+HTDC_CTR Dar-Es-Salaam Control
+HTKJ_APP Kilimanjaro Approach
+HUEC_CTR Entebbe Control

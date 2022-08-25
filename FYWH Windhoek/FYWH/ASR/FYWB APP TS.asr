@@ -1,0 +1,31 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FY Airport Elevations\FYLZ-423ft:freetext
+Free Text:FY Airport Elevations\FYWB-271ft:freetext
+Free Text:FY Airport Elevations\FYWH-5630ft:freetext
+Geo:FA Landmark Coast:
+Geo:FY Landmark Coast M:
+Geo:FY Landmark Coast N:
+Geo:FY Landmark Coast S:
+Geo:FY Landmark Etosha:
+Geo:FY Landmark Lakes:
+Geo:FYWB Groundlayout:
+Geo:GEO:
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-24.172094:12.313248:-21.787905:16.977308
+PLUGIN:TopSky plugin:ShowMapData:FYWB

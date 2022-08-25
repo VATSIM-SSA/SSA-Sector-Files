@@ -1,0 +1,117 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FMEE Ground Labels\1:freetext
+Free Text:FMEE Ground Labels\10:freetext
+Free Text:FMEE Ground Labels\12:freetext
+Free Text:FMEE Ground Labels\13:freetext
+Free Text:FMEE Ground Labels\14:freetext
+Free Text:FMEE Ground Labels\15:freetext
+Free Text:FMEE Ground Labels\16:freetext
+Free Text:FMEE Ground Labels\17:freetext
+Free Text:FMEE Ground Labels\2:freetext
+Free Text:FMEE Ground Labels\3:freetext
+Free Text:FMEE Ground Labels\4:freetext
+Free Text:FMEE Ground Labels\5:freetext
+Free Text:FMEE Ground Labels\6:freetext
+Free Text:FMEE Ground Labels\7:freetext
+Free Text:FMEE Ground Labels\8:freetext
+Free Text:FMEE Ground Labels\9:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\B:freetext
+Free Text:FMEE Ground Labels\C:freetext
+Free Text:FMEE Ground Labels\Cargo:freetext
+Free Text:FMEE Ground Labels\Civil:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F1:freetext
+Free Text:FMEE Ground Labels\G:freetext
+Free Text:FMEE Ground Labels\G:freetext
+Free Text:FMEE Ground Labels\General Aviation:freetext
+Free Text:FMEE Ground Labels\Helilagon:freetext
+Free Text:FMEE Ground Labels\M:freetext
+Free Text:FMEE Ground Labels\Military:freetext
+Free Text:FMMI Parkings\11:freetext
+Free Text:FMMI Parkings\1A:freetext
+Free Text:FMMI Parkings\2:freetext
+Free Text:FMMI Parkings\21R-21-21L:freetext
+Free Text:FMMI Parkings\22R-22-22L:freetext
+Free Text:FMMI Parkings\23R-23-23L:freetext
+Free Text:FMMI Parkings\24:freetext
+Free Text:FMMI Parkings\25:freetext
+Free Text:FMMI Parkings\26:freetext
+Free Text:FMMI Parkings\27:freetext
+Free Text:FMMI Parkings\29:freetext
+Free Text:FMMI Parkings\3:freetext
+Free Text:FMMI Parkings\4:freetext
+Free Text:FMMI Parkings\5:freetext
+Free Text:FMMI Parkings\6:freetext
+Free Text:FMMI Parkings\7:freetext
+Free Text:FMMI Parkings\8:freetext
+Free Text:FMMI Parkings\9:freetext
+Free Text:FMMI Parkings\C:freetext
+Free Text:FMMI Parkings\E:freetext
+Free Text:FMMI Parkings\N:freetext
+Free Text:FMMI Parkings\R1:freetext
+Free Text:FMMI Parkings\R2:freetext
+Free Text:FMMI Parkings\S1:freetext
+Free Text:FMMI Parkings\S10:freetext
+Free Text:FMMI Parkings\S12:freetext
+Free Text:FMMI Parkings\S2:freetext
+Free Text:FMMI Parkings\S3:freetext
+Free Text:FMMI Parkings\S4:freetext
+Free Text:FMMI Parkings\S5:freetext
+Free Text:FMMI Parkings\S6:freetext
+Free Text:FMMI Parkings\S8:freetext
+Free Text:FMMI Parkings\W:freetext
+Free Text:FMMI Parkings\Z:freetext
+Geo:FM43 Groundlayout:
+Geo:FMCH Groundlayout:
+Geo:FMEE Groundlayout:
+Geo:FMHH Groundlayout:
+Geo:FMME Groundlayout:
+Geo:FMMI Groundlayout:
+Geo:FMMK Groundlayout:
+Geo:FMML Groundlayout:
+Geo:FMMN Groundlayout:
+Geo:FMMS Groundlayout:
+Geo:FMMT Groundlayout:
+Geo:FMNA Groundlayout:
+Geo:FMNM Groundlayout:
+Geo:FMNN Groundlayout:
+Geo:FMNO Groundlayout:
+Geo:FMNQ Groundlayout:
+Geo:FMNR Groundlayout:
+Geo:FMNW Groundlayout:
+Geo:FMNZ Groundlayout:
+Geo:FMSD Groundlayout:
+Geo:FMSG Groundlayout:
+Geo:FMSK Groundlayout:
+Geo:FMST Groundlayout:
+Geo:FMXX Groundlayout:
+Geo:FMYY Groundlayout:
+Geo:FMZZ Groundlayout:
+Geo:GEO:
+Regions:FM Terrain Madagascar:polygon
+Regions:FM Terrain Reunion:polygon
+Regions:FMMI FMMI Airport Regions:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-26.524240:18.802824:0.910906:71.758288
+PLUGIN:TopSky plugin:ShowMapData:FMMM

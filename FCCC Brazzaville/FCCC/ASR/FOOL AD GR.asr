@@ -1,0 +1,51 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | ASR | FOOL AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | FOOL AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:FOOL Taxiways and Aprons\A:freetext
+Free Text:FOOL Taxiways and Aprons\B:freetext
+Free Text:FOOL Taxiways and Aprons\C:freetext
+Free Text:FOOL Taxiways and Aprons\D:freetext
+Free Text:FOOL Taxiways and Aprons\E:freetext
+Free Text:FOOL Taxiways and Aprons\F:freetext
+Free Text:FOOL Taxiways and Aprons\G:freetext
+Free Text:FOOL Taxiways and Aprons\H:freetext
+Free Text:FOOL Taxiways and Aprons\J:freetext
+Free Text:FOOL Taxiways and Aprons\K:freetext
+Free Text:FOOL Taxiways and Aprons\Main Apron:freetext
+Free Text:FOOL Taxiways and Aprons\Military Apron E:freetext
+Free Text:FOOL Taxiways and Aprons\Military Apron F:freetext
+Free Text:FOOL Taxiways and Aprons\Military Apron G:freetext
+Geo:FOOL Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:296.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:0.451004:9.399051:0.468631:9.431025
+PLUGIN:Ground Radar plugin:AirportElevation:33
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FOOL
+PLUGIN:TopSky plugin:NoDraw:1

@@ -1,0 +1,36 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | ASR | FPST AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | FPST AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Geo:FP Groundlayout Sao Tome:
+Geo:FP Landmark Coast:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:347.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:0.372928:6.700213:0.387030:6.725793
+PLUGIN:Ground Radar plugin:AirportElevation:33
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FPST
+PLUGIN:TopSky plugin:NoDraw:1

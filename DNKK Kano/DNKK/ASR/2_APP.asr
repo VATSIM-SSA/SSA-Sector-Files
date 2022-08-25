@@ -1,0 +1,559 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:DBBB-TMA:
+ARTCC boundary:DNAA_APP:
+ARTCC boundary:DNCA_APP:
+ARTCC boundary:DNKA_APP:
+ARTCC boundary:DNKN_APP:
+ARTCC boundary:DNMA_APP:
+ARTCC boundary:DNMM_APP:
+ARTCC boundary:DNPO_APP:
+ARTCC boundary:FC-APP:
+ARTCC boundary:FKKD_APP:
+ARTCC boundary:FKKL-TMA:
+ARTCC boundary:FKKR-TMA:
+ARTCC boundary:FPST:
+ARTCC boundary:FTTJ_APP:
+ARTCC high boundary:DGAC:
+ARTCC high boundary:DNKK-E:
+ARTCC high boundary:DNKK-W:
+ARTCC high boundary:DNLL:
+ARTCC high boundary:DRRR-E:
+ARTCC high boundary:DRRR-W:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FKKK:
+ARTCC high boundary:FOOO:
+ARTCC high boundary:FTTT:
+ARTCC low boundary:DN-TWR:
+ARTCC low boundary:DNYO_TWR:
+Fixes:AGSEM:name
+Fixes:AGSEM:symbol
+Fixes:AI422:name
+Fixes:AI422:symbol
+Fixes:AI901:name
+Fixes:AI901:symbol
+Fixes:AK901:name
+Fixes:AK901:symbol
+Fixes:AKDIT:name
+Fixes:AKDIT:symbol
+Fixes:AMLEL:name
+Fixes:AMLEL:symbol
+Fixes:AMTAB:name
+Fixes:AMTAB:symbol
+Fixes:ARDAP:name
+Fixes:ARDAP:symbol
+Fixes:BE401:name
+Fixes:BE401:symbol
+Fixes:BE501:name
+Fixes:BE501:symbol
+Fixes:BIRAM:name
+Fixes:BIRAM:symbol
+Fixes:BOPSO:name
+Fixes:BOPSO:symbol
+Fixes:DEMUV:name
+Fixes:DEMUV:symbol
+Fixes:DETAR:name
+Fixes:DETAR:symbol
+Fixes:EBALA:name
+Fixes:EBALA:symbol
+Fixes:EBSEV:name
+Fixes:EBSEV:symbol
+Fixes:EBTUG:name
+Fixes:EBTUG:symbol
+Fixes:EDKUV:name
+Fixes:EDKUV:symbol
+Fixes:EK401:name
+Fixes:EK401:symbol
+Fixes:EMVUP:name
+Fixes:EMVUP:symbol
+Fixes:EMVUR:name
+Fixes:EMVUR:symbol
+Fixes:EN801:name
+Fixes:EN801:symbol
+Fixes:EPETA:name
+Fixes:EPETA:symbol
+Fixes:ERAMI:name
+Fixes:ERAMI:symbol
+Fixes:GAMAV:name
+Fixes:GAMAV:symbol
+Fixes:GEKBU:name
+Fixes:GEKBU:symbol
+Fixes:IKSEM:name
+Fixes:IKSEM:symbol
+Fixes:IKVAD:name
+Fixes:IKVAD:symbol
+Fixes:IM501:name
+Fixes:IM501:symbol
+Fixes:INUGU:name
+Fixes:INUGU:symbol
+Fixes:IPOMA:name
+Fixes:IPOMA:symbol
+Fixes:IRSOX:name
+Fixes:IRSOX:symbol
+Fixes:ISBIK:name
+Fixes:ISBIK:symbol
+Fixes:IVDAB:name
+Fixes:IVDAB:symbol
+Fixes:IVMEX:name
+Fixes:IVMEX:symbol
+Fixes:KITSU:name
+Fixes:KITSU:symbol
+Fixes:KOMOL:name
+Fixes:KOMOL:symbol
+Fixes:LINOX:name
+Fixes:LINOX:symbol
+Fixes:LOTSO:name
+Fixes:LOTSO:symbol
+Fixes:LUKRO:name
+Fixes:LUKRO:symbol
+Fixes:MENAX:name
+Fixes:MENAX:symbol
+Fixes:MESES:name
+Fixes:MESES:symbol
+Fixes:MILBO:name
+Fixes:MILBO:symbol
+Fixes:MOLOP:name
+Fixes:MOLOP:symbol
+Fixes:MONEK:name
+Fixes:MONEK:symbol
+Fixes:MOPAD:name
+Fixes:MOPAD:symbol
+Fixes:MOSEB:name
+Fixes:MOSEB:symbol
+Fixes:NANUV:name
+Fixes:NANUV:symbol
+Fixes:NAROM:name
+Fixes:NAROM:symbol
+Fixes:NEBNO:name
+Fixes:NEBNO:symbol
+Fixes:NUMEM:name
+Fixes:NUMEM:symbol
+Fixes:NUMUG:name
+Fixes:NUMUG:symbol
+Fixes:NUPAM:name
+Fixes:NUPAM:symbol
+Fixes:NUPIV:name
+Fixes:NUPIV:symbol
+Fixes:NUVIX:name
+Fixes:NUVIX:symbol
+Fixes:ODLEM:name
+Fixes:ODLEM:symbol
+Fixes:OGBIS:name
+Fixes:OGBIS:symbol
+Fixes:ONTAP:name
+Fixes:ONTAP:symbol
+Fixes:OVMIX:name
+Fixes:OVMIX:symbol
+Fixes:OVNEN:name
+Fixes:OVNEN:symbol
+Fixes:OVRIG:name
+Fixes:OVRIG:symbol
+Fixes:PODMI:name
+Fixes:PODMI:symbol
+Fixes:POLTO:name
+Fixes:POLTO:symbol
+Fixes:POSAD:name
+Fixes:POSAD:symbol
+Fixes:POSAX:name
+Fixes:POSAX:symbol
+Fixes:RASAL:name
+Fixes:RASAL:symbol
+Fixes:RILOV:name
+Fixes:RILOV:symbol
+Fixes:RULMA:name
+Fixes:RULMA:symbol
+Fixes:RUVDI:name
+Fixes:RUVDI:symbol
+Fixes:TANUL:name
+Fixes:TANUL:symbol
+Fixes:TARUB:name
+Fixes:TARUB:symbol
+Fixes:ULPIK:name
+Fixes:ULPIK:symbol
+Fixes:ULPOV:name
+Fixes:ULPOV:symbol
+Fixes:USNUB:name
+Fixes:USNUB:symbol
+Fixes:VIVMO:name
+Fixes:VIVMO:symbol
+Fixes:VONIS:name
+Fixes:VONIS:symbol
+Fixes:VOPAP:name
+Fixes:VOPAP:symbol
+Fixes:VOPVO:name
+Fixes:VOPVO:symbol
+Fixes:XUNRU:name
+Fixes:XUNRU:symbol
+Geo:DG Landmark Coast:
+Geo:DN Danger area Air Force Training Area 1:
+Geo:DN Danger area Air Force Training Area 2:
+Geo:DN Danger area Air Force Training Area 3:
+Geo:DN Danger area D1 - GND/A300:
+Geo:DN Danger area D10 - GND/A300:
+Geo:DN Danger area D11 - GND/A300:
+Geo:DN Danger area D12 - GND/A400:
+Geo:DN Danger area D13 - GND/A400:
+Geo:DN Danger area D2 - GND/A300:
+Geo:DN Danger area D3 - GND/A300:
+Geo:DN Danger area D4 - GND/A300:
+Geo:DN Danger area D5 - GND/A300:
+Geo:DN Danger area D6 - GND/A300:
+Geo:DN Danger area D7 - GND/A300:
+Geo:DN Danger area D8 - GND/A300:
+Geo:DN Danger area D9 - GND/A300:
+Geo:DN Danger area Military Training Area 1 - GND/A035:
+Geo:DN Danger area Military Training Area 11 - GND/A035:
+Geo:DN Landmark Coast East:
+Geo:DN Landmark Coast Middle:
+Geo:DN Landmark Coast West:
+Geo:DN Landmark Lakes:
+Geo:DN Prohibited area P1 Lagos/Murtala Muhammed - GND/A050:
+Geo:DN Prohibited area P2 Lanlate - GND/A020:
+Geo:DN Prohibited area P3 Lagos - GND/A150:
+Geo:DN Prohibited area P4 Abuja - GND/FL450:
+Geo:DN Restricted area R1 - GND/FL100:
+Geo:DN Restricted area R2 Ikang and Bakassi - GND/FL100:
+Geo:DN Restricted area R3 Bulldog Sector B - GND/FL120:
+Geo:DN Restricted area R3 North-East Sector A - GND/FL120:
+Geo:FT Landmark Lake Chad:
+Runways:DNAA 04-22:centerline
+Runways:DNAA 04-22:extended centerline 1
+Runways:DNAA 04-22:extended centerline 1 left ticks
+Runways:DNAA 04-22:extended centerline 1 right ticks
+Runways:DNAA 04-22:extended centerline 2
+Runways:DNAA 04-22:extended centerline 2 left ticks
+Runways:DNAA 04-22:extended centerline 2 right ticks
+Runways:DNAI 03-21:centerline
+Runways:DNAI 03-21:extended centerline 1
+Runways:DNAI 03-21:extended centerline 1 left ticks
+Runways:DNAI 03-21:extended centerline 1 right ticks
+Runways:DNAI 03-21:extended centerline 2
+Runways:DNAI 03-21:extended centerline 2 left ticks
+Runways:DNAI 03-21:extended centerline 2 right ticks
+Runways:DNAK 03-21:centerline
+Runways:DNAK 03-21:extended centerline 1
+Runways:DNAK 03-21:extended centerline 1 left ticks
+Runways:DNAK 03-21:extended centerline 1 right ticks
+Runways:DNAK 03-21:extended centerline 2
+Runways:DNAK 03-21:extended centerline 2 left ticks
+Runways:DNAK 03-21:extended centerline 2 right ticks
+Runways:DNBA 17-35:centerline
+Runways:DNBA 17-35:extended centerline 1
+Runways:DNBA 17-35:extended centerline 1 left ticks
+Runways:DNBA 17-35:extended centerline 1 right ticks
+Runways:DNBA 17-35:extended centerline 2
+Runways:DNBA 17-35:extended centerline 2 left ticks
+Runways:DNBA 17-35:extended centerline 2 right ticks
+Runways:DNBB 10-28:centerline
+Runways:DNBB 10-28:extended centerline 1
+Runways:DNBB 10-28:extended centerline 1 left ticks
+Runways:DNBB 10-28:extended centerline 1 right ticks
+Runways:DNBB 10-28:extended centerline 2
+Runways:DNBB 10-28:extended centerline 2 left ticks
+Runways:DNBB 10-28:extended centerline 2 right ticks
+Runways:DNBE 05-23:centerline
+Runways:DNBE 05-23:extended centerline 1
+Runways:DNBE 05-23:extended centerline 1 left ticks
+Runways:DNBE 05-23:extended centerline 1 right ticks
+Runways:DNBE 05-23:extended centerline 2
+Runways:DNBE 05-23:extended centerline 2 left ticks
+Runways:DNBE 05-23:extended centerline 2 right ticks
+Runways:DNBK 06-24:centerline
+Runways:DNBK 06-24:extended centerline 1
+Runways:DNBK 06-24:extended centerline 1 left ticks
+Runways:DNBK 06-24:extended centerline 1 right ticks
+Runways:DNBK 06-24:extended centerline 2
+Runways:DNBK 06-24:extended centerline 2 left ticks
+Runways:DNBK 06-24:extended centerline 2 right ticks
+Runways:DNCA 03-21:centerline
+Runways:DNCA 03-21:extended centerline 1
+Runways:DNCA 03-21:extended centerline 1 left ticks
+Runways:DNCA 03-21:extended centerline 1 right ticks
+Runways:DNCA 03-21:extended centerline 2
+Runways:DNCA 03-21:extended centerline 2 left ticks
+Runways:DNCA 03-21:extended centerline 2 right ticks
+Runways:DNDS 06-24:centerline
+Runways:DNDS 06-24:extended centerline 1
+Runways:DNDS 06-24:extended centerline 1 left ticks
+Runways:DNDS 06-24:extended centerline 1 right ticks
+Runways:DNDS 06-24:extended centerline 2
+Runways:DNDS 06-24:extended centerline 2 left ticks
+Runways:DNDS 06-24:extended centerline 2 right ticks
+Runways:DNEK 01-19:centerline
+Runways:DNEK 01-19:extended centerline 1
+Runways:DNEK 01-19:extended centerline 1 left ticks
+Runways:DNEK 01-19:extended centerline 1 right ticks
+Runways:DNEK 01-19:extended centerline 2
+Runways:DNEK 01-19:extended centerline 2 left ticks
+Runways:DNEK 01-19:extended centerline 2 right ticks
+Runways:DNEN 08-26:centerline
+Runways:DNEN 08-26:extended centerline 1
+Runways:DNEN 08-26:extended centerline 1 left ticks
+Runways:DNEN 08-26:extended centerline 1 right ticks
+Runways:DNEN 08-26:extended centerline 2
+Runways:DNEN 08-26:extended centerline 2 left ticks
+Runways:DNEN 08-26:extended centerline 2 right ticks
+Runways:DNES 13-31:centerline
+Runways:DNES 13-31:extended centerline 1
+Runways:DNES 13-31:extended centerline 1 left ticks
+Runways:DNES 13-31:extended centerline 1 right ticks
+Runways:DNES 13-31:extended centerline 2
+Runways:DNES 13-31:extended centerline 2 left ticks
+Runways:DNES 13-31:extended centerline 2 right ticks
+Runways:DNFB 04-22:centerline
+Runways:DNFB 04-22:extended centerline 1
+Runways:DNFB 04-22:extended centerline 1 left ticks
+Runways:DNFB 04-22:extended centerline 1 right ticks
+Runways:DNFB 04-22:extended centerline 2
+Runways:DNFB 04-22:extended centerline 2 left ticks
+Runways:DNFB 04-22:extended centerline 2 right ticks
+Runways:DNFD 02-20:centerline
+Runways:DNFD 02-20:extended centerline 1
+Runways:DNFD 02-20:extended centerline 1 left ticks
+Runways:DNFD 02-20:extended centerline 1 right ticks
+Runways:DNFD 02-20:extended centerline 2
+Runways:DNFD 02-20:extended centerline 2 left ticks
+Runways:DNFD 02-20:extended centerline 2 right ticks
+Runways:DNGO 05-23:centerline
+Runways:DNGO 05-23:extended centerline 1
+Runways:DNGO 05-23:extended centerline 1 left ticks
+Runways:DNGO 05-23:extended centerline 1 right ticks
+Runways:DNGO 05-23:extended centerline 2
+Runways:DNGO 05-23:extended centerline 2 left ticks
+Runways:DNGO 05-23:extended centerline 2 right ticks
+Runways:DNIB 04-22:centerline
+Runways:DNIB 04-22:extended centerline 1
+Runways:DNIB 04-22:extended centerline 1 left ticks
+Runways:DNIB 04-22:extended centerline 1 right ticks
+Runways:DNIB 04-22:extended centerline 2
+Runways:DNIB 04-22:extended centerline 2 left ticks
+Runways:DNIB 04-22:extended centerline 2 right ticks
+Runways:DNIL 05-23:centerline
+Runways:DNIL 05-23:extended centerline 1
+Runways:DNIL 05-23:extended centerline 1 left ticks
+Runways:DNIL 05-23:extended centerline 1 right ticks
+Runways:DNIL 05-23:extended centerline 2
+Runways:DNIL 05-23:extended centerline 2 left ticks
+Runways:DNIL 05-23:extended centerline 2 right ticks
+Runways:DNIM 17-35:centerline
+Runways:DNIM 17-35:extended centerline 1
+Runways:DNIM 17-35:extended centerline 1 left ticks
+Runways:DNIM 17-35:extended centerline 1 right ticks
+Runways:DNIM 17-35:extended centerline 2
+Runways:DNIM 17-35:extended centerline 2 left ticks
+Runways:DNIM 17-35:extended centerline 2 right ticks
+Runways:DNJO 10-28:centerline
+Runways:DNJO 10-28:extended centerline 1
+Runways:DNJO 10-28:extended centerline 1 left ticks
+Runways:DNJO 10-28:extended centerline 1 right ticks
+Runways:DNJO 10-28:extended centerline 2
+Runways:DNJO 10-28:extended centerline 2 left ticks
+Runways:DNJO 10-28:extended centerline 2 right ticks
+Runways:DNKA 05-23:centerline
+Runways:DNKA 05-23:extended centerline 1
+Runways:DNKA 05-23:extended centerline 1 left ticks
+Runways:DNKA 05-23:extended centerline 1 right ticks
+Runways:DNKA 05-23:extended centerline 2
+Runways:DNKA 05-23:extended centerline 2 left ticks
+Runways:DNKA 05-23:extended centerline 2 right ticks
+Runways:DNKN 05-23:centerline
+Runways:DNKN 05-23:extended centerline 1
+Runways:DNKN 05-23:extended centerline 1 left ticks
+Runways:DNKN 05-23:extended centerline 1 right ticks
+Runways:DNKN 05-23:extended centerline 2
+Runways:DNKN 05-23:extended centerline 2 left ticks
+Runways:DNKN 05-23:extended centerline 2 right ticks
+Runways:DNKN 06-24:centerline
+Runways:DNKN 06-24:extended centerline 1
+Runways:DNKN 06-24:extended centerline 1 left ticks
+Runways:DNKN 06-24:extended centerline 1 right ticks
+Runways:DNKN 06-24:extended centerline 2
+Runways:DNKN 06-24:extended centerline 2 left ticks
+Runways:DNKN 06-24:extended centerline 2 right ticks
+Runways:DNKT 05-23:centerline
+Runways:DNKT 05-23:extended centerline 1
+Runways:DNKT 05-23:extended centerline 1 left ticks
+Runways:DNKT 05-23:extended centerline 1 right ticks
+Runways:DNKT 05-23:extended centerline 2
+Runways:DNKT 05-23:extended centerline 2 left ticks
+Runways:DNKT 05-23:extended centerline 2 right ticks
+Runways:DNMA 05-23:centerline
+Runways:DNMA 05-23:extended centerline 1
+Runways:DNMA 05-23:extended centerline 1 left ticks
+Runways:DNMA 05-23:extended centerline 1 right ticks
+Runways:DNMA 05-23:extended centerline 2
+Runways:DNMA 05-23:extended centerline 2 left ticks
+Runways:DNMA 05-23:extended centerline 2 right ticks
+Runways:DNMM 18L-36R:centerline
+Runways:DNMM 18L-36R:extended centerline 1
+Runways:DNMM 18L-36R:extended centerline 1 left ticks
+Runways:DNMM 18L-36R:extended centerline 1 right ticks
+Runways:DNMM 18L-36R:extended centerline 2
+Runways:DNMM 18L-36R:extended centerline 2 left ticks
+Runways:DNMM 18L-36R:extended centerline 2 right ticks
+Runways:DNMM 18R-36L:centerline
+Runways:DNMM 18R-36L:extended centerline 1
+Runways:DNMM 18R-36L:extended centerline 1 left ticks
+Runways:DNMM 18R-36L:extended centerline 1 right ticks
+Runways:DNMM 18R-36L:extended centerline 2
+Runways:DNMM 18R-36L:extended centerline 2 left ticks
+Runways:DNMM 18R-36L:extended centerline 2 right ticks
+Runways:DNMN 05-23:centerline
+Runways:DNMN 05-23:extended centerline 1
+Runways:DNMN 05-23:extended centerline 1 left ticks
+Runways:DNMN 05-23:extended centerline 1 right ticks
+Runways:DNMN 05-23:extended centerline 2
+Runways:DNMN 05-23:extended centerline 2 left ticks
+Runways:DNMN 05-23:extended centerline 2 right ticks
+Runways:DNPM 04-22:centerline
+Runways:DNPM 04-22:extended centerline 1
+Runways:DNPM 04-22:extended centerline 1 left ticks
+Runways:DNPM 04-22:extended centerline 1 right ticks
+Runways:DNPM 04-22:extended centerline 2
+Runways:DNPM 04-22:extended centerline 2 left ticks
+Runways:DNPM 04-22:extended centerline 2 right ticks
+Runways:DNPO 03-21:centerline
+Runways:DNPO 03-21:extended centerline 1
+Runways:DNPO 03-21:extended centerline 1 left ticks
+Runways:DNPO 03-21:extended centerline 1 right ticks
+Runways:DNPO 03-21:extended centerline 2
+Runways:DNPO 03-21:extended centerline 2 left ticks
+Runways:DNPO 03-21:extended centerline 2 right ticks
+Runways:DNSO 08-26:centerline
+Runways:DNSO 08-26:extended centerline 1
+Runways:DNSO 08-26:extended centerline 1 left ticks
+Runways:DNSO 08-26:extended centerline 1 right ticks
+Runways:DNSO 08-26:extended centerline 2
+Runways:DNSO 08-26:extended centerline 2 left ticks
+Runways:DNSO 08-26:extended centerline 2 right ticks
+Runways:DNSU 06-24:centerline
+Runways:DNSU 06-24:extended centerline 1
+Runways:DNSU 06-24:extended centerline 1 left ticks
+Runways:DNSU 06-24:extended centerline 1 right ticks
+Runways:DNSU 06-24:extended centerline 2
+Runways:DNSU 06-24:extended centerline 2 left ticks
+Runways:DNSU 06-24:extended centerline 2 right ticks
+Runways:DNYO 17-35:centerline
+Runways:DNYO 17-35:extended centerline 1
+Runways:DNYO 17-35:extended centerline 1 left ticks
+Runways:DNYO 17-35:extended centerline 1 right ticks
+Runways:DNYO 17-35:extended centerline 2
+Runways:DNYO 17-35:extended centerline 2 left ticks
+Runways:DNYO 17-35:extended centerline 2 right ticks
+Runways:DNZA 05-23:centerline
+Runways:DNZA 05-23:extended centerline 1
+Runways:DNZA 05-23:extended centerline 1 left ticks
+Runways:DNZA 05-23:extended centerline 1 right ticks
+Runways:DNZA 05-23:extended centerline 2
+Runways:DNZA 05-23:extended centerline 2 left ticks
+Runways:DNZA 05-23:extended centerline 2 right ticks
+VORs:ABC:name
+VORs:ABC:symbol
+VORs:AKW:name
+VORs:AKW:symbol
+VORs:BDA:name
+VORs:BDA:symbol
+VORs:BEB:name
+VORs:BEB:symbol
+VORs:BEN:name
+VORs:BEN:symbol
+VORs:BF:name
+VORs:BF:symbol
+VORs:BIK:name
+VORs:BIK:symbol
+VORs:BT:name
+VORs:BT:symbol
+VORs:BTA:name
+VORs:BTA:symbol
+VORs:CAL:name
+VORs:CAL:symbol
+VORs:DLA:name
+VORs:DLA:symbol
+VORs:DUT:name
+VORs:DUT:symbol
+VORs:ENG:name
+VORs:ENG:symbol
+VORs:FL:name
+VORs:FL:symbol
+VORs:GB:name
+VORs:GB:symbol
+VORs:GME:name
+VORs:GME:symbol
+VORs:IBA:name
+VORs:IBA:symbol
+VORs:ILR:name
+VORs:ILR:symbol
+VORs:JOS:name
+VORs:JOS:symbol
+VORs:KAN:name
+VORs:KAN:symbol
+VORs:KAT:name
+VORs:KAT:symbol
+VORs:KDA:name
+VORs:KDA:symbol
+VORs:KIS:name
+VORs:KIS:symbol
+VORs:KUA:name
+VORs:KUA:symbol
+VORs:LAG:name
+VORs:LAG:symbol
+VORs:LM:name
+VORs:LM:symbol
+VORs:MBO:name
+VORs:MBO:symbol
+VORs:MF:name
+VORs:MF:symbol
+VORs:MGY:name
+VORs:MGY:symbol
+VORs:MIU:name
+VORs:MIU:symbol
+VORs:MNA:name
+VORs:MNA:symbol
+VORs:MVR:name
+VORs:MVR:symbol
+VORs:NLY:name
+VORs:NLY:symbol
+VORs:NT:name
+VORs:NT:symbol
+VORs:NY:name
+VORs:NY:symbol
+VORs:OE:name
+VORs:OE:symbol
+VORs:OSB:name
+VORs:OSB:symbol
+VORs:OWR:name
+VORs:OWR:symbol
+VORs:PA:name
+VORs:PA:symbol
+VORs:PAM:name
+VORs:PAM:symbol
+VORs:POT:name
+VORs:POT:symbol
+VORs:SOK:name
+VORs:SOK:symbol
+VORs:TD:name
+VORs:TD:symbol
+VORs:TJN:name
+VORs:TJN:symbol
+VORs:TJR:name
+VORs:TJR:symbol
+VORs:TYE:name
+VORs:TYE:symbol
+VORs:YOL:name
+VORs:YOL:symbol
+VORs:ZR:name
+VORs:ZR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:4.849347:-0.066375:8.467857:6.839921

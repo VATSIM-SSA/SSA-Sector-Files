@@ -1,0 +1,187 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | GroundRadar | Stands
+// ##################################################################
+
+// Version v0.2
+// Update Date 03/05/2022
+
+// Changelog
+// v0.2 | Category Versioning Across WAF
+
+// Active Airports
+// FK | FKKD
+// FO | FOOG
+
+
+// ##################################################################
+//                 General v0.1
+// ##################################################################
+
+// Airline Groups
+GROUP:StarAlliance:ACA:CCA:AIC:ANZ:ANA:AUA:AVA:BEL:EDW:MSR:ETH:EWG:LOT:DLH:SAS:SIA:SAA:SWR:TAP:THA:THY:UAL
+GROUP:OneWorld:EIN:ASA:AAL:BAW:CPA:FJI:FIN:IBE:JAL:JBU:MAS:QFA:QTR:RAM:RJA
+GROUP:SkyTeam:ARG:AMX:AEA:AFR:CAL:CKK:CES:CSN:CUA:CSA:DAL:ETD:GIA:GOL:ITY:KQA:KLM:KAL:LAN:MHP:MEA:OTT:SVA:ROT:VIR:CXA
+GROUP:Charter:TOM
+GROUP:Cargo:BOX:CAO:GEC
+
+
+// ##################################################################
+//                 FK CAMEROON
+// ##################################################################
+
+// ##################################################################
+//                 FKKD Douala
+// ##################################################################
+
+// APRON A
+// Stand A1
+STAND:FKKD:A1:N004.00.38.45:E009.43.11.60:25
+BLOCKS:A3
+
+// Stand A2
+STAND:FKKD:A2:N004.00.37.77:E009.43.13.03:25
+BLOCKS:A3
+
+// Stand A3
+STAND:FKKD:A3:N004.00.38.13:E009.43.12.63:20
+BLOCKS:A1,A2
+
+// Stand A4
+STAND:FKKD:A4:N004.00.37.10:E009.43.14.42:20
+
+// Stand A5
+STAND:FKKD:A5:N004.00.36.50:E009.43.15.57:20
+BLOCKS:A7
+
+// Stand A6
+STAND:FKKD:A6:N004.00.35.84:E009.43.16.98:20
+BLOCKS:A7
+
+// Stand A7
+STAND:FKKD:A7:N004.00.36.24:E009.43.16.47:20
+BLOCKS:A5,A6
+
+
+// APRON B
+// Stand B1
+STAND:FKKD:B1:N004.00.42.61:E009.43.03.75:20
+
+// Stand B2
+STAND:FKKD:B2:N004.00.41.29:E009.43.03.24:20
+
+// Stand B3
+STAND:FKKD:B3:N004.00.39.67:E009.43.02.20:20
+
+// Stand P1
+STAND:FKKD:P1:N004.00.40.52:E009.43.07.71:20
+
+
+// APRON C
+// Stand C1
+STAND:FKKD:C1:N004.00.43.22:E009.43.02.55:20
+
+// Stand C2
+STAND:FKKD:C2:N004.00.45.45:E009.42.57.77:20
+
+// Stand C3
+STAND:FKKD:C3:N004.00.41.83:E009.43.01.86:20
+
+// Stand C4
+STAND:FKKD:C4:N004.00.44.30:E009.42.57.77:20
+
+// Stand C5
+STAND:FKKD:C5:N004.00.40.30:E009.43.01.07:20
+
+// Stand C6
+STAND:FKKD:C6:N004.00.42.68:E009.42.56.36:20
+
+// Stand C7
+STAND:FKKD:C7:N004.00.36.87:E009.43.00.06:20
+
+// Stand C8
+STAND:FKKD:C8:N004.00.39.78:E009.42.54.26:20
+
+
+// ##################################################################
+//                 FO GABON
+// ##################################################################
+
+// ##################################################################
+//                 FOOG Port Gentil
+// ##################################################################
+
+// Stand P1
+STAND:FOOG:P1:S000.43.5.49:E008.45.13.03:20
+BLOCKS:P1A
+
+// Stand P1A
+STAND:FOOG:P1A:S000.43.6.62:E008.45.11.60:20
+BLOCKS:P1
+
+// Stand P2
+STAND:FOOG:P2:S000.43.8.39:E008.45.10.81:20
+BLOCKS:P3
+
+// Stand P3
+STAND:FOOG:P3:S000.43.9.26:E008.45.10.85:20
+BLOCKS:P2
+
+// Stand P4
+STAND:FOOG:P4:S000.43.10.54:E008.45.10.30:20
+
+// Stand P5
+STAND:FOOG:P5:S000.43.13.64:E008.45.9.81:20
+
+// Stand P6
+STAND:FOOG:P6:S000.43.15.06:E008.45.9.31:20
+
+// Stand P7
+STAND:FOOG:P7:S000.43.16.28:E008.45.8.76:20
+
+// HELICOPTER STANDS
+// Stand H1
+STAND:FOOG:H1:S000.43.17.98:E008.45.8.18:10
+USE:H
+
+// Stand H2
+STAND:FOOG:H2:S000.43.17.93:E008.45.6.65:10
+USE:H
+
+// Stand H3
+STAND:FOOG:H3:S000.43.18.94:E008.45.7.83:10
+USE:H
+
+// Stand H4
+STAND:FOOG:H4:S000.43.18.88:E008.45.6.27:10
+USE:H
+
+// Stand H5
+STAND:FOOG:H5:S000.43.19.92:E008.45.7.45:10
+USE:H
+
+// Stand H6
+STAND:FOOG:H6:S000.43.19.75:E008.45.6.10:10
+USE:H
+
+// Stand H7
+STAND:FOOG:H7:S000.43.20.75:E008.45.7.09:10
+USE:H
+
+// Stand H8
+STAND:FOOG:H8:S000.43.21.60:E008.45.6.74:10
+USE:H
+
+// Stand H9
+STAND:FOOG:H9:S000.43.22.49:E008.45.6.43:10
+USE:H
+
+// Stand H10
+STAND:FOOG:H10:S000.43.23.36:E008.45.6.11:10
+USE:H
+
+// Stand H11
+STAND:FOOG:H11:S000.43.24.20:E008.45.5.73:10
+USE:H
+
+// Stand VIP
+STAND:FOOG:VIP:S000.43.35.13:E008.45.3.44:50

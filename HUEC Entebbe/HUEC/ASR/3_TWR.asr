@@ -1,0 +1,267 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:HUEN Parkings\1:freetext
+Free Text:HUEN Parkings\10:freetext
+Free Text:HUEN Parkings\11:freetext
+Free Text:HUEN Parkings\2:freetext
+Free Text:HUEN Parkings\3:freetext
+Free Text:HUEN Parkings\4:freetext
+Free Text:HUEN Parkings\5:freetext
+Free Text:HUEN Parkings\6:freetext
+Free Text:HUEN Parkings\7:freetext
+Free Text:HUEN Parkings\8:freetext
+Free Text:HUEN Parkings\9:freetext
+Free Text:HUEN Taxiways\A:freetext
+Free Text:HUEN Taxiways\A:freetext
+Free Text:HUEN Taxiways\B:freetext
+Free Text:HUEN Taxiways\C:freetext
+Free Text:HUEN Taxiways\C:freetext
+Free Text:HUEN Taxiways\D:freetext
+Free Text:HUEN Taxiways\E:freetext
+Free Text:HUEN Taxiways\F:freetext
+Free Text:HUEN Taxiways\G:freetext
+Free Text:HUEN Taxiways\H:freetext
+Geo:HUEN Groundlayout:
+NDBs:AR:name
+NDBs:AR:symbol
+NDBs:BKV:name
+NDBs:BKV:symbol
+NDBs:BN:name
+NDBs:BN:symbol
+NDBs:BU:name
+NDBs:BU:symbol
+NDBs:BUN:name
+NDBs:BUN:symbol
+NDBs:DO:name
+NDBs:DO:symbol
+NDBs:EM:name
+NDBs:EM:symbol
+NDBs:GA:name
+NDBs:GA:symbol
+NDBs:GI:name
+NDBs:GI:symbol
+NDBs:GS:name
+NDBs:GS:symbol
+NDBs:GY:name
+NDBs:GY:symbol
+NDBs:IRO:name
+NDBs:IRO:symbol
+NDBs:KA:name
+NDBs:KA:symbol
+NDBs:KB:name
+NDBs:KB:symbol
+NDBs:KG:name
+NDBs:KG:symbol
+NDBs:KIN:name
+NDBs:KIN:symbol
+NDBs:KL:name
+NDBs:KL:symbol
+NDBs:KO:name
+NDBs:KO:symbol
+NDBs:KS:name
+NDBs:KS:symbol
+NDBs:KW:name
+NDBs:KW:symbol
+NDBs:LO:name
+NDBs:LO:symbol
+NDBs:MU:name
+NDBs:MU:symbol
+NDBs:NL:name
+NDBs:NL:symbol
+NDBs:PB:name
+NDBs:PB:symbol
+NDBs:RA:name
+NDBs:RA:symbol
+NDBs:RG:name
+NDBs:RG:symbol
+NDBs:SO:name
+NDBs:SO:symbol
+NDBs:YI:name
+NDBs:YI:symbol
+Runways:FZKA 10-28:centerline
+Runways:FZKA 10-28:extended centerline 1
+Runways:FZKA 10-28:extended centerline 1 left ticks
+Runways:FZKA 10-28:extended centerline 1 right ticks
+Runways:FZKA 10-28:extended centerline 2
+Runways:FZKA 10-28:extended centerline 2 left ticks
+Runways:FZKA 10-28:extended centerline 2 right ticks
+Runways:FZKA 10-28:name
+Runways:FZNA 17-35:centerline
+Runways:FZNA 17-35:extended centerline 1
+Runways:FZNA 17-35:extended centerline 1 left ticks
+Runways:FZNA 17-35:extended centerline 1 right ticks
+Runways:FZNA 17-35:extended centerline 2
+Runways:FZNA 17-35:extended centerline 2 left ticks
+Runways:FZNA 17-35:extended centerline 2 right ticks
+Runways:FZNA 17-35:name
+Runways:HKEL 08-26:centerline
+Runways:HKEL 08-26:extended centerline 1
+Runways:HKEL 08-26:extended centerline 1 left ticks
+Runways:HKEL 08-26:extended centerline 1 right ticks
+Runways:HKEL 08-26:extended centerline 2
+Runways:HKEL 08-26:extended centerline 2 left ticks
+Runways:HKEL 08-26:extended centerline 2 right ticks
+Runways:HKEL 08-26:name
+Runways:HKKI 06-24:centerline
+Runways:HKKI 06-24:extended centerline 1
+Runways:HKKI 06-24:extended centerline 1 left ticks
+Runways:HKKI 06-24:extended centerline 1 right ticks
+Runways:HKKI 06-24:extended centerline 2
+Runways:HKKI 06-24:extended centerline 2 left ticks
+Runways:HKKI 06-24:extended centerline 2 right ticks
+Runways:HKKI 06-24:name
+Runways:HKLK 09-27:centerline
+Runways:HKLK 09-27:extended centerline 1
+Runways:HKLK 09-27:extended centerline 1 left ticks
+Runways:HKLK 09-27:extended centerline 1 right ticks
+Runways:HKLK 09-27:extended centerline 2
+Runways:HKLK 09-27:extended centerline 2 left ticks
+Runways:HKLK 09-27:extended centerline 2 right ticks
+Runways:HKLK 09-27:name
+Runways:HKLO 09-27:centerline
+Runways:HKLO 09-27:extended centerline 1
+Runways:HKLO 09-27:extended centerline 1 left ticks
+Runways:HKLO 09-27:extended centerline 1 right ticks
+Runways:HKLO 09-27:extended centerline 2
+Runways:HKLO 09-27:extended centerline 2 left ticks
+Runways:HKLO 09-27:extended centerline 2 right ticks
+Runways:HKLO 09-27:name
+Runways:HRYG 01-19:centerline
+Runways:HRYG 01-19:extended centerline 1
+Runways:HRYG 01-19:extended centerline 1 left ticks
+Runways:HRYG 01-19:extended centerline 1 right ticks
+Runways:HRYG 01-19:extended centerline 2
+Runways:HRYG 01-19:extended centerline 2 left ticks
+Runways:HRYG 01-19:extended centerline 2 right ticks
+Runways:HRYG 01-19:name
+Runways:HRYR 10-28:centerline
+Runways:HRYR 10-28:extended centerline 1
+Runways:HRYR 10-28:extended centerline 1 left ticks
+Runways:HRYR 10-28:extended centerline 1 right ticks
+Runways:HRYR 10-28:extended centerline 2
+Runways:HRYR 10-28:extended centerline 2 left ticks
+Runways:HRYR 10-28:extended centerline 2 right ticks
+Runways:HRYR 10-28:name
+Runways:HTBU 13-31:centerline
+Runways:HTBU 13-31:extended centerline 1
+Runways:HTBU 13-31:extended centerline 1 left ticks
+Runways:HTBU 13-31:extended centerline 1 right ticks
+Runways:HTBU 13-31:extended centerline 2
+Runways:HTBU 13-31:extended centerline 2 left ticks
+Runways:HTBU 13-31:extended centerline 2 right ticks
+Runways:HTBU 13-31:name
+Runways:HTMU 18-36:centerline
+Runways:HTMU 18-36:extended centerline 1
+Runways:HTMU 18-36:extended centerline 1 left ticks
+Runways:HTMU 18-36:extended centerline 1 right ticks
+Runways:HTMU 18-36:extended centerline 2
+Runways:HTMU 18-36:extended centerline 2 left ticks
+Runways:HTMU 18-36:extended centerline 2 right ticks
+Runways:HTMU 18-36:name
+Runways:HUEN 12-30:centerline
+Runways:HUEN 12-30:extended centerline 1
+Runways:HUEN 12-30:extended centerline 1 left base
+Runways:HUEN 12-30:extended centerline 1 left ticks
+Runways:HUEN 12-30:extended centerline 1 left vectoring
+Runways:HUEN 12-30:extended centerline 1 right base
+Runways:HUEN 12-30:extended centerline 1 right ticks
+Runways:HUEN 12-30:extended centerline 1 right vectoring
+Runways:HUEN 12-30:extended centerline 2
+Runways:HUEN 12-30:extended centerline 2 left base
+Runways:HUEN 12-30:extended centerline 2 left ticks
+Runways:HUEN 12-30:extended centerline 2 left vectoring
+Runways:HUEN 12-30:extended centerline 2 right base
+Runways:HUEN 12-30:extended centerline 2 right ticks
+Runways:HUEN 12-30:extended centerline 2 right vectoring
+Runways:HUEN 12-30:name
+Runways:HUEN 17-35:centerline
+Runways:HUEN 17-35:extended centerline 1
+Runways:HUEN 17-35:extended centerline 1 left base
+Runways:HUEN 17-35:extended centerline 1 left ticks
+Runways:HUEN 17-35:extended centerline 1 left vectoring
+Runways:HUEN 17-35:extended centerline 1 right base
+Runways:HUEN 17-35:extended centerline 1 right ticks
+Runways:HUEN 17-35:extended centerline 1 right vectoring
+Runways:HUEN 17-35:extended centerline 2
+Runways:HUEN 17-35:extended centerline 2 left base
+Runways:HUEN 17-35:extended centerline 2 left ticks
+Runways:HUEN 17-35:extended centerline 2 left vectoring
+Runways:HUEN 17-35:extended centerline 2 right base
+Runways:HUEN 17-35:extended centerline 2 right ticks
+Runways:HUEN 17-35:extended centerline 2 right vectoring
+Runways:HUEN 17-35:name
+Runways:HUKS 01-19:centerline
+Runways:HUKS 01-19:extended centerline 1
+Runways:HUKS 01-19:extended centerline 1 left ticks
+Runways:HUKS 01-19:extended centerline 1 right ticks
+Runways:HUKS 01-19:extended centerline 2
+Runways:HUKS 01-19:extended centerline 2 left ticks
+Runways:HUKS 01-19:extended centerline 2 right ticks
+Runways:HUKS 01-19:name
+Runways:HUSO 05-23:centerline
+Runways:HUSO 05-23:extended centerline 1
+Runways:HUSO 05-23:extended centerline 1 left ticks
+Runways:HUSO 05-23:extended centerline 1 right ticks
+Runways:HUSO 05-23:extended centerline 2
+Runways:HUSO 05-23:extended centerline 2 left ticks
+Runways:HUSO 05-23:extended centerline 2 right ticks
+Runways:HUSO 05-23:name
+VORs:BJA:name
+VORs:BJA:symbol
+VORs:BUN:name
+VORs:BUN:symbol
+VORs:ELD:name
+VORs:ELD:symbol
+VORs:GOM:name
+VORs:GOM:symbol
+VORs:GV:name
+VORs:GV:symbol
+VORs:IRO:name
+VORs:IRO:symbol
+VORs:JUB:name
+VORs:JUB:symbol
+VORs:KGI:name
+VORs:KGI:symbol
+VORs:KIN:name
+VORs:KIN:symbol
+VORs:KIV:name
+VORs:KIV:symbol
+VORs:KNM:name
+VORs:KNM:symbol
+VORs:KV:name
+VORs:KV:symbol
+VORs:LOV:name
+VORs:LOV:symbol
+VORs:MV:name
+VORs:MV:symbol
+VORs:NAK:name
+VORs:NAK:symbol
+VORs:NN:name
+VORs:NN:symbol
+VORs:NV:name
+VORs:NV:symbol
+VORs:SV:name
+VORs:SV:symbol
+VORs:TV:name
+VORs:TV:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:0.012929:32.396839:0.064685:32.493513
+PLUGIN:Ground Radar plugin:AirportElevation:3784
+PLUGIN:Ground Radar plugin:AirportRadius:5
+PLUGIN:Ground Radar plugin:GroundMode:HUEN
+PLUGIN:TopSky plugin:NoDraw:1

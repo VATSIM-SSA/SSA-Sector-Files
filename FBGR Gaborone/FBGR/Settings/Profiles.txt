@@ -1,0 +1,50 @@
+PROFILE
+PROFILE:FBGR_CTR:500:6
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBPM_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBKE_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBMN_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBSK_APP:150:5
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBPM_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBKE_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBLV_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBMN_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBSK_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:FBSP_TWR:50:4
+ATIS2:$radioname
+ATIS3:Welcome to Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:<initials>_OBS:300:0
+ATIS2:$myrealname
+ATIS3:Observing Botswana, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+END

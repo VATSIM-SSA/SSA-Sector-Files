@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+    <apt icao="DNAA">
+		<runway name="04">
+			<sid name="IKSEM">
+				<alt>090</alt>
+			</sid>
+			<sid name="IKVAD">
+				<alt>090</alt>
+			</sid>
+			<sid name="OXORU">
+				<alt>090</alt>
+			</sid>	
+		</runway>				
+		<runway name="22">
+			<sid name="IKSEM">
+				<alt>090</alt>
+			</sid>
+			<sid name="IKVAD">
+				<alt>090</alt>
+			</sid>
+			<sid name="OXORU">
+				<alt>090</alt>
+			</sid>	
+		</runway>														
+    </apt>
+    <apt icao="DNBE">
+		<runway name="05">
+			<sid name="DEKUX">
+				<alt>7000</alt>
+			</sid>	
+		</runway>				
+		<runway name="23">
+			<sid name="DEKUX">
+				<alt>7000</alt>
+			</sid>	
+		</runway>								
+    </apt>
+    <apt icao="DNKN">
+		<runway name="06">
+			<sid name="BOMVO">
+				<alt>070</alt>
+			</sid>		
+			<sid name="DETAR">
+				<alt>070</alt>
+			</sid>	
+		</runway>			
+		<runway name="24">
+			<sid name="BOMVO">
+				<alt>070</alt>
+			</sid>		
+			<sid name="DETAR">
+				<alt>070</alt>
+			</sid>
+		</runway>									
+    </apt>	
+    <apt icao="DNMM">
+		<runway name="18R">
+			<sid name="BUDSI">
+				<alt>070</alt>
+			</sid>
+			<sid name="IBA">
+				<alt>070</alt>
+			</sid>
+			<sid name="ILKEL">
+				<alt>070</alt>
+			</sid>
+			<sid name="UMUNA">
+				<alt>070</alt>
+			</sid>
+			<sid name="POLTO">
+				<alt>070</alt>
+			</sid>
+			<sid name="BOTBO">
+				<alt>070</alt>
+			</sid>
+			<sid name="PISBA">
+				<alt>070</alt>
+			</sid>
+		</runway>
+		<runway name="18L">
+			<sid name="BUDSI">
+				<alt>070</alt>
+			</sid>
+			<sid name="IBA">
+				<alt>070</alt>
+			</sid>
+			<sid name="UMUNA">
+				<alt>070</alt>
+			</sid>
+			<sid name="BOTBO">
+				<alt>070</alt>
+			</sid>
+		</runway>
+    </apt>
+    <apt icao="DNPO">
+		<runway name="21">
+			<sid name="AKDIT">
+				<alt>070</alt>
+			</sid>		
+			<sid name="ETVUN">
+				<alt>070</alt>
+			</sid>				
+		</runway>					
+    </apt>
+</initialClimb>

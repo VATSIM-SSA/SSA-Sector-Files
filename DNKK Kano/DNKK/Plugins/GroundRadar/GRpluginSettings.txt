@@ -1,0 +1,274 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | GroundRadar | Settings
+// ##################################################################
+
+// GroundRadar Version 1.5 Beta 5
+
+// Version v0.5
+// Update Date 30/06/2022
+
+
+// ##################################################################
+//                 #1 SYSTEM SETTINGS v0.3
+// ##################################################################
+
+Equip_ModeS=WZLCISG
+Equip_ProMode=0
+RawVideo=1
+RawVideo_MaxHistory=5
+
+System_GroundMode_AltFilter_AAL=5000
+System_UseReportedGS=1
+System_RwyArea=45.0 
+System_RwyBufferArea=90.0 
+System_RwyArea_LVP=90.0
+System_RwyBufferArea_LVP=140.0
+
+System_State_OnFreq=ON FREQ
+System_State_DeIce=DEICE
+System_State_StartUp=START UP
+System_State_Push=PUSH
+System_State_Taxi=TAXI
+System_State_Taxi_In=TAXI
+System_State_Taxi_Out=TAXI
+System_State_LineUp=LINE UP
+System_State_Depa=TAKE OFF
+System_State_Parked=PARKED
+
+System_TagColor=2
+
+
+// ##################################################################
+//                 #2 COLORS v0.3
+// ##################################################################
+
+Color_Arrival=253,189,166
+Color_Background=160,160,160
+Color_Departure=210,236,166
+Color_RawVideo=175,190,200
+Color_RawVideoHistory=175,190,200
+Color_SelectedLabelFill_App=200,200,200
+Color_SelectedLabelFill_Gnd=200,200,200
+Color_Unknown=0,0,0
+Color_WBackground=170,170,170
+Color_WBorder=250,250,250
+Color_WForeground2=170,170,170
+Color_WForeground=65,65,65
+Color_WTitleBar=250,250,250
+
+AppLabel_Font=EuroScope
+AppLabel_Transparency_Bg=255
+
+
+// ##################################################################
+//                 #3 LABELS v0.4
+// ##################################################################
+
+GroundLabel=1
+GroundLabel_Font=EuroScope
+GroundLabel_FontStyle=1000,0,0,0
+GroundLabel_FontSize=11
+GroundLabel_Transparency_Bg=100
+TowerLabel_FontSize=11
+AppLabel_FontSize=11
+
+Label=GND:ARR:0:ALRT,0,0:COMM,0,1 
+Label=GND:ARR:1:CALLSIGN,0,0:STAND,0,1 
+Label=GND:ARR:2:ATYP,0,0:WTC,0,1,0
+Label=GND:ARR:3:RMK,0,1 
+
+Label=GND:DEP:0:ALRT,0,0:ASSR_E,0,1:COMM,0,1 
+Label=GND:DEP:1:CALLSIGN,0,0:DRWY,0,1,1 
+Label=GND:DEP:2:ATYP,0,0:WTC,0,1,0
+Label=GND:DEP:3:DEP,0,0:GS,2,1,0:RMK,0,1 
+
+Label=TWR:ARR:0:ALRT,0,0:COMM,0,1 
+Label=TWR:ARR:1:CALLSIGN,0,0:ARWY,0,1 
+Label=TWR:ARR:2:AFL+VS,0,1,20:GS,0,1
+Label=TWR:ARR:3:ATYP,0,0:RMK,0,1 
+
+Label=TWR:DEP:0:ALRT,0,0:COMM,0,1 
+Label=TWR:DEP:1:CALLSIGN,0,0:ATYP,0,1
+Label=TWR:DEP:2:AFL+VS,0,1,20:GS,0,1
+Label=TWR:DEP:3:DEP,0,0:RMK,0,1
+
+Label=APP:ARR:0:ALRT,0,0:COMM,0,1
+Label=APP:ARR:1:CALLSIGN,0,0
+Label=APP:ARR:2:AFL+VS,0,1,20
+
+Label=APP:DEP:0:ALRT,0,0:COMM,0,1
+Label=APP:DEP:1:CALLSIGN,0,0
+Label=APP:DEP:2:AFL+VS,0,1,20
+
+Label_AFL+VS=1,1,1,1
+Label_ARWY=0,0,0
+Label_ATYP=0,0,0
+Label_DEP=0,1,0
+Label_DRWY=0,1,0
+Label_RMK=0,1,1
+Label_STAND=0,1,0
+Label_GS=0,1,1,0
+
+
+// ##################################################################
+//                 #6A LISTS | DEPARTURE v0.1
+// ##################################################################
+
+List_Departure=0,1100,45
+List_Departure_RWY=1
+List_Departure_TYPE=1
+List_Departure_WTC=1
+List_Departure_EOBT=1
+List_Departure_STAND=1
+List_Departure_Items=10
+
+
+// ##################################################################
+//                 #6B LISTS | ARRIVALS v0.1
+// ##################################################################
+
+List_Arrival=0,1390,45
+List_Arrival_RWY=1
+List_Arrival_TYPE=1
+List_Arrival_WTC=1
+List_Arrival_ETA=1
+List_Arrival_STAND=1
+List_Arrival_Items=10
+List_Arrival_MaxTime=60
+
+List_Inbound_TYPE=0
+List_Inbound_WTC=0
+List_Inbound_ETA=1
+List_Inbound_STAND=0
+
+
+// ##################################################################
+//                 #6C LISTS | STANDS v0.1
+// ##################################################################
+
+List_Stand=0,1680,45
+List_Stand_Items=20
+
+
+// ##################################################################
+//                 #7 TIMERS | DEPARTURE v0.1
+// ##################################################################
+
+List_Outbound_DefPos=1100,150
+List_Outbound_TYPE=1
+List_Outbound_WTC=1
+List_Outbound_WTC_Type=2
+List_Outbound_SID=1
+List_Outbound_ExpiryTime=600
+
+
+// ##################################################################
+//                 #7B TIMERS | TTT v0.1
+// ##################################################################
+
+List_Inbound_DefPos=1100,150
+List_Inbound_DTT=0
+List_Inbound_TYPE=1
+List_Inbound_WTC=1
+List_Inbound_WTC_Type=2
+List_Inbound_ETA=1
+List_Inbound_STAND=1
+
+
+// ##################################################################
+//                 #8 OTHERS v0.1
+// ##################################################################
+
+Track_PredictionLine_TWR=1
+Window_APP_Extensions=1
+
+System_GroundMode_AltFilter_AAL=24000
+System_UseReportedGS=0
+System_RwyArea=45.0 
+System_RwyBufferArea=90.0 
+System_RwyArea_LVP=90.0
+System_RwyBufferArea_LVP=140.0
+
+Track_PredictionLine_APP=2
+Track_HistoryDots_APP=5
+Track_HistoryDots_GND=0
+Track_HistoryDots_TWR_Type=1
+Track_Heading_Line=0
+
+
+// ##################################################################
+//                 #9 AIRPORT SETTINGS v0.1
+// ##################################################################
+
+// ##################################################################
+//                 DN NIGERIA
+// ##################################################################
+
+[DNAA]
+Airport_Elevation=1122
+Airport_Radius=3
+
+Window_APP=1,200,650,500,300
+Window_APP_Rotation=55
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=6122
+
+AppPath=DNAA:DNAA 04:N008.59.36.398:E007.15.13.460:035:R:1087:3.0
+AppPath=DNAA:DNAA 22:N009.01.12.529:E007.16.21.399:215:L:1121:3.0
+
+[DNMM]
+Airport_Elevation=138
+Airport_Radius=3
+
+Window_APP=1,200,450,500,300
+Window_APP_Rotation=90.7
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=5000
+
+AppPath=DNMM:DNMM 18R:N006.35.16.018:E003.18.47.271:181:L:65:3.0
+AppPath=DNMM:DNMM 18L:N006.35.49.250:E003.19.43.791:181:L:138:3.0
+
+[DNKN]
+Airport_Elevation=1562
+Airport_Radius=3
+
+Window_APP=1,50,700,500,250
+Window_APP_Rotation=28.7
+Window_APP_Scale=10
+Window_APP_Extensions=10
+Window_APP_AltFilter=5000
+
+Window_APW_MaxDist=15
+
+AppPath=DNKN:DNKN 06:N012.02.30.69:E008.30.25.37:062:R:1562:3.0
+AppPath=DNKN:DNKN 24:N012.03.21.05:E008.31.58.00:242:L:1562:3.0
+
+[DNPO]
+Airport_Elevation=91
+Airport_Radius=3
+
+Window_APP=1,300,300,500,250
+Window_APP_Rotation=62
+Window_APP_Scale=10
+Window_APP_Extensions=10
+Window_APP_AltFilter=5000
+
+Window_APW_MaxDist=15
+
+[DNYO]
+Airport_Elevation=613
+Airport_Radius=3
+
+Window_APP=1,500,500,500,250
+Window_APP_Rotation=99
+Window_APP_Scale=10
+Window_APP_Extensions=10
+Window_APP_AltFilter=5000
+
+Window_APW_MaxDist=15
+
+// ##################################################################
+//                 THE END
+// ##################################################################

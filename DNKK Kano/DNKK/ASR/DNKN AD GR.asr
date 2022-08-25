@@ -1,0 +1,62 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | ASR | DNKN AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | DNKN AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:DNKN Ground Labels\1C:freetext
+Free Text:DNKN Ground Labels\1L:freetext
+Free Text:DNKN Ground Labels\1R:freetext
+Free Text:DNKN Ground Labels\2L:freetext
+Free Text:DNKN Ground Labels\2R:freetext
+Free Text:DNKN Ground Labels\3L:freetext
+Free Text:DNKN Ground Labels\3R:freetext
+Free Text:DNKN Ground Labels\4L:freetext
+Free Text:DNKN Ground Labels\4R:freetext
+Free Text:DNKN Ground Labels\5L:freetext
+Free Text:DNKN Ground Labels\5R:freetext
+Free Text:DNKN Ground Labels\A:freetext
+Free Text:DNKN Ground Labels\A:freetext
+Free Text:DNKN Ground Labels\A:freetext
+Free Text:DNKN Ground Labels\A:freetext
+Free Text:DNKN Ground Labels\A1:freetext
+Free Text:DNKN Ground Labels\A2:freetext
+Free Text:DNKN Ground Labels\A3:freetext
+Free Text:DNKN Ground Labels\A4:freetext
+Free Text:DNKN Ground Labels\A5:freetext
+Free Text:DNKN Ground Labels\B:freetext
+Free Text:DNKN Ground Labels\B1:freetext
+Free Text:DNKN Ground Labels\B2:freetext
+Geo:DNKN Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:28.70000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:12.037764:8.499938:12.061643:8.543790
+PLUGIN:Ground Radar plugin:AirportElevation:1562
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DNKN
+PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:DNKN

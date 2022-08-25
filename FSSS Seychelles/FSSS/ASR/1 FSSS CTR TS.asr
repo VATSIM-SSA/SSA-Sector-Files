@@ -1,0 +1,248 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:FSAL:name
+Airports:FSAL:symbol
+Airports:FSAS:name
+Airports:FSAS:symbol
+Airports:FSDA:name
+Airports:FSDA:symbol
+Airports:FSDR:name
+Airports:FSDR:symbol
+Airports:FSFA:name
+Airports:FSFA:symbol
+Airports:FSIA:name
+Airports:FSIA:symbol
+Airports:FSMA:name
+Airports:FSMA:symbol
+Airports:FSPL:name
+Airports:FSPL:symbol
+Airports:FSPP:name
+Airports:FSPP:symbol
+Airports:FSSB:name
+Airports:FSSB:symbol
+Airports:FSSC:name
+Airports:FSSC:symbol
+Airports:FSSD:name
+Airports:FSSD:symbol
+Airports:FSSF:name
+Airports:FSSF:symbol
+Airports:FSSR:name
+Airports:FSSR:symbol
+ARTCC boundary:FSIA-CTA:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:HCSM:
+ARTCC high boundary:HKNA:
+ARTCC high boundary:HTDC:
+Fixes:ALRAN:name
+Fixes:ALRAN:symbol
+Fixes:AMBAN:name
+Fixes:AMBAN:symbol
+Fixes:AMSAD:name
+Fixes:AMSAD:symbol
+Fixes:ANKOR:name
+Fixes:ANKOR:symbol
+Fixes:ANVET:name
+Fixes:ANVET:symbol
+Fixes:ANVIX:name
+Fixes:ANVIX:symbol
+Fixes:APKAK:name
+Fixes:APKAK:symbol
+Fixes:ATOLA:name
+Fixes:ATOLA:symbol
+Fixes:ATUTI:name
+Fixes:ATUTI:symbol
+Fixes:AVIMO:name
+Fixes:AVIMO:symbol
+Fixes:AXINA:name
+Fixes:AXINA:symbol
+Fixes:BERIL:name
+Fixes:BERIL:symbol
+Fixes:BOMOB:name
+Fixes:BOMOB:symbol
+Fixes:BUSUX:name
+Fixes:BUSUX:symbol
+Fixes:CLAVA:name
+Fixes:CLAVA:symbol
+Fixes:DANEL:name
+Fixes:DANEL:symbol
+Fixes:DENLI:name
+Fixes:DENLI:symbol
+Fixes:EGLOM:name
+Fixes:EGLOM:symbol
+Fixes:ESTOK:name
+Fixes:ESTOK:symbol
+Fixes:GITOP:name
+Fixes:GITOP:symbol
+Fixes:HENRY:name
+Fixes:HENRY:symbol
+Fixes:IMPOX:name
+Fixes:IMPOX:symbol
+Fixes:ITLOX:name
+Fixes:ITLOX:symbol
+Fixes:KATEB:name
+Fixes:KATEB:symbol
+Fixes:KISAK:name
+Fixes:KISAK:symbol
+Fixes:LOXIN:name
+Fixes:LOXIN:symbol
+Fixes:LYNDY:name
+Fixes:LYNDY:symbol
+Fixes:MAGUG:name
+Fixes:MAGUG:symbol
+Fixes:MALON:name
+Fixes:MALON:symbol
+Fixes:MIRON:name
+Fixes:MIRON:symbol
+Fixes:MIROV:name
+Fixes:MIROV:symbol
+Fixes:MOGUD:name
+Fixes:MOGUD:symbol
+Fixes:NESAM:name
+Fixes:NESAM:symbol
+Fixes:NESID:name
+Fixes:NESID:symbol
+Fixes:NETAR:name
+Fixes:NETAR:symbol
+Fixes:NEVIN:name
+Fixes:NEVIN:symbol
+Fixes:NORSI:name
+Fixes:NORSI:symbol
+Fixes:OKLAB:name
+Fixes:OKLAB:symbol
+Fixes:OKLIM:name
+Fixes:OKLIM:symbol
+Fixes:ORLOM:name
+Fixes:ORLOM:symbol
+Fixes:OTKIR:name
+Fixes:OTKIR:symbol
+Fixes:PAOLO:name
+Fixes:PAOLO:symbol
+Fixes:PERRY:name
+Fixes:PERRY:symbol
+Fixes:PETER:name
+Fixes:PETER:symbol
+Fixes:RERUS:name
+Fixes:RERUS:symbol
+Fixes:ROUTY:name
+Fixes:ROUTY:symbol
+Fixes:RUBAM:name
+Fixes:RUBAM:symbol
+Fixes:SAVVY:name
+Fixes:SAVVY:symbol
+Fixes:TEDDY:name
+Fixes:TEDDY:symbol
+Fixes:TILOM:name
+Fixes:TILOM:symbol
+Fixes:UDLET:name
+Fixes:UDLET:symbol
+Fixes:UNBED:name
+Fixes:UNBED:symbol
+Fixes:UNPAR:name
+Fixes:UNPAR:symbol
+Fixes:UNRED:name
+Fixes:UNRED:symbol
+Fixes:UTALI:name
+Fixes:UTALI:symbol
+Fixes:VUTAS:name
+Fixes:VUTAS:symbol
+Fixes:XABON:name
+Fixes:XABON:symbol
+Free Text:FSIA Airport\13:freetext
+Free Text:FSIA Airport\31:freetext
+Free Text:FSIA Airport\A:freetext
+Free Text:FSIA Airport\APRON:freetext
+Free Text:FSIA Airport\B:freetext
+Free Text:FSIA Airport\Fire Station:freetext
+Free Text:FSIA Airport\Hangar:freetext
+Free Text:FSIA Airport\Light Aircraft:freetext
+Free Text:FSIA Airport\NPA1:freetext
+Free Text:FSIA Airport\NPA1=TWY not for AVBL for taxi. Largest ACFT that can be towed/pushed is A345:freetext
+Free Text:FSIA Airport\NPA2:freetext
+Free Text:FSIA Airport\Parking Area:freetext
+Free Text:FSIA Airport\Terminal:freetext
+Free Text:FSPP Airport\APRON:freetext
+Free Text:FSPP Airport\Terminal:freetext
+Geo:FS Landmark Coast:
+Geo:FS Landmark Coast Astove Island:
+Geo:FS Landmark Coast Farquhar Island:
+Geo:FS Restricted area Aride Island:
+Geo:FS Restricted area Bird Island:
+Geo:FS Restricted area Cousin Island:
+Geo:FS Restricted area Fregate Island:
+Geo:FSIA Groundlayout:
+Geo:GEO:
+High airways:B413:line
+High airways:G651:line
+High airways:M651:line
+High airways:N628:line
+High airways:R401:line
+High airways:R775:line
+High airways:UA401:line
+High airways:UA405:line
+High airways:UA474:line
+High airways:UA665:line
+High airways:UB403:line
+High airways:UB404:line
+High airways:UB535:line
+High airways:UB790:line
+High airways:UG424:line
+High airways:UG651:line
+High airways:UG657:line
+High airways:UG661:line
+High airways:UG667:line
+High airways:UL434:line
+High airways:UL437:line
+High airways:UM216:line
+High airways:UM311:line
+High airways:UM634:line
+High airways:UM651:line
+High airways:UM665:line
+High airways:UM997:line
+High airways:UN303:line
+High airways:UN764:line
+High airways:UP312:line
+High airways:UR212:line
+High airways:UR400:line
+High airways:UR401:line
+High airways:UR775:line
+High airways:UR780:line
+High airways:UT253:line
+High airways:UT382:line
+High airways:UT383:line
+High airways:UT384:line
+High airways:UT386:line
+High airways:UT702:line
+High airways:UT914:line
+High airways:UW735:line
+High airways:UW885:line
+High airways:W312:line
+Regions:FS Coast:polygon
+Regions:FSIA Groundlayout:polygon
+Regions:FSPP Groundlayout:polygon
+Runways:FSIA 13-31:centerline
+Runways:FSPP 15-33:centerline
+VORs:DTI:symbol
+VORs:HAI:symbol
+VORs:KI:symbol
+VORs:MG:symbol
+VORs:MGU:symbol
+VORs:PRA:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-6.721037:52.067387:-2.492144:59.763348
+PLUGIN:TopSky plugin:ShowMapData:FSSS

@@ -1,0 +1,108 @@
+// ##################################################################
+//                 VATSSA | FIR DGAC | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.2
+// Update Date 19/08/2022
+
+
+// ##################################################################
+//                 DGAC ACCRA
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:3100:3177
+PRIORITY:3
+NOTADEP:DG,DB,DX
+NOTADES:DG,DB,DX
+IFR
+
+
+// ##################################################################
+//                 DB BENIN
+// ##################################################################
+
+// DOMESTIC I
+RANGE:7300:7377
+PRIORITY:3
+ADEP:DB
+ADES:DB
+IFR
+
+// INTERNATIONAL OUTBOUND
+RANGE:3530:3557
+PRIORITY:3
+ADEP:DB
+NOTADES:DB
+IFR
+
+// INTERNATIONAL INBOUND
+RANGE:3530:3557
+PRIORITY:3
+NOTADEP:DB
+ADES:DB
+IFR
+
+
+// ##################################################################
+//                 DG GHANA
+// ##################################################################
+
+// DOMESTIC I
+RANGE:4700:4757
+PRIORITY:3
+ADEP:DG
+ADES:DG
+IFR
+
+// DOMESTIC II
+RANGE:4500:4577
+PRIORITY:1
+ADEP:DG
+ADES:DG
+IFR
+
+// INTERNATIONAL OUTBOUND
+RANGE:3100:3177
+PRIORITY:3
+ADEP:DG
+NOTADES:DG
+IFR
+
+// INTERNATIONAL INBOUND
+RANGE:3100:3177
+PRIORITY:3
+NOTADEP:DG
+ADES:DG
+IFR
+
+
+// ##################################################################
+//                 DX TOGO
+// ##################################################################
+
+// DOMESTIC I
+RANGE:4000:4077
+PRIORITY:3
+ADEP:DX
+ADES:DX
+IFR
+
+// INTERNATIONAL OUTBOUND
+RANGE:3500:3527
+PRIORITY:3
+ADEP:DX
+NOTADES:DX
+IFR
+
+// INTERNATIONAL INBOUND
+RANGE:3500:3527
+PRIORITY:3
+NOTADEP:DX
+ADES:DX
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

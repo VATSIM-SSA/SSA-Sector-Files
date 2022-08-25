@@ -1,0 +1,42 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | ASR | DNYO AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | DNYO AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:DNYO Ground Labels\1:freetext
+Free Text:DNYO Ground Labels\2:freetext
+Free Text:DNYO Ground Labels\3:freetext
+Geo:DNYO Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:99.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:9.247483:12.407401:9.266586:12.442482
+PLUGIN:Ground Radar plugin:AirportElevation:613
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DNYO
+PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:DNYO

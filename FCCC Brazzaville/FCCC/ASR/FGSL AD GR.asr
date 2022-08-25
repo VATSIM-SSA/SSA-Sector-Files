@@ -1,0 +1,60 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | ASR | FGSL AD GR
+// ##################################################################
+
+// Version 0.0.1
+// Update Date 06/04/2022
+
+// Changelog
+// v0.0.1 | FGSL AD GR Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:FGSL Taxiways and Aprons\A:freetext
+Free Text:FGSL Taxiways and Aprons\A:freetext
+Free Text:FGSL Taxiways and Aprons\Apron A:freetext
+Free Text:FGSL Taxiways and Aprons\Apron B:freetext
+Free Text:FGSL Taxiways and Aprons\Apron C:freetext
+Free Text:FGSL Taxiways and Aprons\B:freetext
+Free Text:FGSL Taxiways and Aprons\C1:freetext
+Free Text:FGSL Taxiways and Aprons\C2:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\D:freetext
+Free Text:FGSL Taxiways and Aprons\Future Terminal:freetext
+Free Text:FGSL Taxiways and Aprons\G:freetext
+Free Text:FGSL Taxiways and Aprons\Hangar:freetext
+Free Text:FGSL Taxiways and Aprons\Hangar:freetext
+Free Text:FGSL Taxiways and Aprons\Helicopter Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Military Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Military Twy:freetext
+Free Text:FGSL Taxiways and Aprons\Presidential Apron:freetext
+Free Text:FGSL Taxiways and Aprons\Presidential Terminal:freetext
+Free Text:FGSL Taxiways and Aprons\Terminal:freetext
+Geo:FGSL Groundlayout Malabo:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:48.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:3.747872:8.691516:3.765462:8.723490
+PLUGIN:Ground Radar plugin:AirportElevation:33
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FGSL
+PLUGIN:TopSky plugin:NoDraw:1

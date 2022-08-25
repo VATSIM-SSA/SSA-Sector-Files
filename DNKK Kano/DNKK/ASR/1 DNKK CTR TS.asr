@@ -1,0 +1,43 @@
+// ##################################################################
+//                 VATSSA | FIR DNKK | ASR | DNKK CTR TS
+// ##################################################################
+
+// Version v0.0.2
+// Update Date 30/04/2022
+
+// Changelog
+// v0.0.1 | DNKK CTR TS Initial Setup
+// v0.0.2 | Code Cleanup
+// v0.1 | DNMM v2 Ground Layout
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:DNAA Groundlayout:
+Geo:DNEN Groundlayout:
+Geo:DNKA Groundlayout:
+Geo:DNKN Groundlayout:
+Geo:DNPO Groundlayout:
+Geo:DNYO Groundlayout:
+Geo:GEO:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:6.912219:4.615913:14.378886:18.328025
+PLUGIN:TopSky plugin:ShowMapData:DNKK

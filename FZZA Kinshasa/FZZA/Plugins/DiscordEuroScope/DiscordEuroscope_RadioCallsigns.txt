@@ -1,0 +1,37 @@
+AFRN_FSS North Africa Control
+AFRS_FSS Africa South Control
+FCBB_APP Brazza Approach
+FCBB_TWR Brazza Tower
+FCCC_CTR Brazzaville Control
+FCPP_APP Pointe Noire Approach
+FLFI_CTR Lusaka Control
+FLND_APP Ndola Approach
+FNAN_CTR Luanda Control
+FNCA_TWR Cabinda Tower
+FZAA_APP Kinshasa Approach
+FZAA_TWR Kinshasa Tower
+FZAM_TWR Matadi Tower
+FZEA_TWR Mbandaka Tower
+FZFD_TWR Gbadolit Tower
+FZFK_TWR Gemena Tower
+FZIC_TWR Kisangani Tower
+FZJH_TWR Isiro Matari Tower
+FZKA_TWR Bunia Tower
+FZKJ_TWR Buta Zega Tower
+FZMA_TWR Bukavu Tower
+FZNA_TWR Goma Tower
+FZOA_TWR Kindu Tower
+FZQA_APP Lubumbashi Approach
+FZQA_TWR Lubumbashi Tower
+FZQM_TWR Kolwezi Tower
+FZRF_TWR Kalemie Tower
+FZUA_TWR Kananga Tower
+FZWA_APP Mbuji-Mayi Approach
+FZZA_CTR Kinshasa Control
+FZZA_E_CTR Kisangani Control
+FZZA_S_CTR Lubumbashi Control
+HBBA_APP Bujumbura Approach
+HBBA_TWR Bujumbura Tower
+HRYR_APP Kigali Approach
+HTDC_CTR Dar-Es-Salaam Control
+HUEC_CTR Entebbe Control

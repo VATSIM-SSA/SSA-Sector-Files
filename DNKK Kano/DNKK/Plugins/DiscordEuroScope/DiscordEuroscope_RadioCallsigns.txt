@@ -1,0 +1,49 @@
+DBBB_APP Cotonou Approach
+DGAC_CTR Accra Control
+DGAC_O_CTR Accra Radio
+DNAA_APP Abuja Approach
+DNAA_GND Abuja Ground Control
+DNAA_TWR Abuja Tower
+DNAI_TWR Uyo Tower
+DNAK_TWR Akure Tower
+DNBE_TWR Benin Tower
+DNBK_TWR Kebbi Tower
+DNCA_APP Calabar Approach/Tower
+DNDS_TWR Dutse Tower
+DNEN_TWR Enugu Tower
+DNES_TWR Escravos Tower
+DNFB_TWR Finima Tower
+DNGO_TWR Gombe Tower
+DNIB_TWR Ibadan Tower
+DNIL_APP Ilorin Approach/Tower
+DNIM_TWR Owerri Tower
+DNJO_TWR Jos Tower
+DNKA_APP Kaduna Approach/Tower
+DNKK_CTR Kano East
+DNKK_W_CTR Kano West
+DNKN_APP Kano Approach
+DNKN_TWR Kano Tower
+DNKT_TWR Katsina Tower
+DNMA_APP Maiduguri Approach/Tower
+DNMM_APP Lagos Approach
+DNMM_CTR Lagos West
+DNMM_GND Lagos Ground Control
+DNMM_TWR Lagos Tower
+DNMN_TWR Minna Tower
+DNPO_APP Port Harcourt Approach
+DNPO_TWR Port Harcourt Tower
+DNSO_TWR Sokoto Tower
+DNSU_TWR Osubi Tower
+DNYO_TWR Yola Tower
+DNZA_TWR Zaria Tower
+DRRR_CTR Niamey Control
+DRRR_W_CTR Niamey Control
+DXXX_CTR Lome Control
+FCCC_CTR Brazzaville Control
+FKKK_CTR Douala Control
+FKKL_TWR Salak Tower
+FKKR_TWR Garoua Tower
+FOOO_CTR Libreville Control
+FPST_APP S?o Tom» Control
+FTTJ_APP N'Djamena Approach
+FTTT_CTR N'Djamena Control

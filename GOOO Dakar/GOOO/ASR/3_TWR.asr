@@ -1,0 +1,461 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:DIAP Parkings\1:freetext
+Free Text:DIAP Parkings\10:freetext
+Free Text:DIAP Parkings\11:freetext
+Free Text:DIAP Parkings\12:freetext
+Free Text:DIAP Parkings\13:freetext
+Free Text:DIAP Parkings\14:freetext
+Free Text:DIAP Parkings\15B:freetext
+Free Text:DIAP Parkings\2:freetext
+Free Text:DIAP Parkings\2A:freetext
+Free Text:DIAP Parkings\3:freetext
+Free Text:DIAP Parkings\4:freetext
+Free Text:DIAP Parkings\4A:freetext
+Free Text:DIAP Parkings\5A:freetext
+Free Text:DIAP Parkings\6A:freetext
+Free Text:DIAP Parkings\7:freetext
+Free Text:DIAP Parkings\8:freetext
+Free Text:DIAP Parkings\9:freetext
+Free Text:DIAP Taxiways\A:freetext
+Free Text:DIAP Taxiways\B:freetext
+Free Text:GLRB Ground Labels\A:freetext
+Free Text:GLRB Ground Labels\A:freetext
+Free Text:GLRB Ground Labels\A1:freetext
+Free Text:GLRB Ground Labels\B:freetext
+Free Text:GLRB Ground Labels\C:freetext
+Free Text:GLRB Ground Labels\Terminal:freetext
+Free Text:GQNO Ground Labels\A:freetext
+Free Text:GQNO Ground Labels\A:freetext
+Free Text:GQNO Ground Labels\A:freetext
+Free Text:GQNO Ground Labels\A1:freetext
+Free Text:GQNO Ground Labels\A2:freetext
+Free Text:GQNO Ground Labels\A4:freetext
+Free Text:GQNO Ground Labels\Apron G (GA):freetext
+Free Text:GQNO Ground Labels\Apron I:freetext
+Free Text:GQNO Ground Labels\Apron M:freetext
+Free Text:GQNO Ground Labels\B:freetext
+Free Text:GQNO Ground Labels\B1:freetext
+Free Text:GQNO Ground Labels\B3:freetext
+Free Text:GQNO Ground Labels\B4:freetext
+Free Text:GQNO Ground Labels\Cargo Apron:freetext
+Free Text:GQNO Ground Labels\Cargo Terminal:freetext
+Free Text:GQNO Ground Labels\D:freetext
+Free Text:GQNO Ground Labels\E:freetext
+Free Text:GQNO Ground Labels\F:freetext
+Free Text:GQNO Ground Labels\G:freetext
+Free Text:GQNO Ground Labels\M:freetext
+Free Text:GQNO Ground Labels\P:freetext
+Free Text:GQNO Ground Labels\Passenger Terminal:freetext
+Free Text:GQNO Ground Labels\Presidential Apron:freetext
+Free Text:GQNO Ground Labels\Presidential Terminal:freetext
+Free Text:GQNO Ground Labels\R:freetext
+Free Text:GQNO Ground Labels\Stand 1:freetext
+Free Text:GQNO Ground Labels\Stand 1A:freetext
+Free Text:GQNO Ground Labels\Stand 2:freetext
+Free Text:GQNO Ground Labels\Stand 3:freetext
+Free Text:GQNO Ground Labels\Stand 4:freetext
+Free Text:GQNO Ground Labels\Stand 5:freetext
+Free Text:GQNO Ground Labels\Stand 5A:freetext
+Free Text:GQNO Ground Labels\Stand 6:freetext
+Free Text:GQNO Ground Labels\Stand 7:freetext
+Free Text:GQNO Ground Labels\Stand 8:freetext
+Free Text:GQNO Ground Labels\Stand F1:freetext
+Free Text:GQNO Ground Labels\Stand F2:freetext
+Free Text:GQNO Ground Labels\Stand F3:freetext
+Free Text:GQNO Ground Labels\Stand I6:freetext
+Free Text:GQNO Ground Labels\Stand I7:freetext
+Free Text:GQNO Ground Labels\Stand P1:freetext
+Free Text:GQNO Ground Labels\Stand P2:freetext
+Free Text:GQPA Ground Labels\Main Apron:freetext
+Free Text:GQPA Ground Labels\Military Apron:freetext
+Free Text:GQPA Ground Labels\Terminal:freetext
+Free Text:GQPP Ground Labels\Main Apron:freetext
+Free Text:GQPP Ground Labels\Military Apron:freetext
+Free Text:GQPP Ground Labels\Military Taxiway:freetext
+Free Text:GQPP Ground Labels\Stand 1:freetext
+Free Text:GQPP Ground Labels\Stand 2:freetext
+Free Text:GQPP Ground Labels\Stand 3:freetext
+Free Text:GQPP Ground Labels\Terminal:freetext
+Free Text:GQPZ Ground Labels\Main Apron:freetext
+Free Text:GQPZ Ground Labels\Terminal:freetext
+Geo:DG Landmark Coast West:
+Geo:DI Danger area D6 Abidjan - GND/600M:
+Geo:DI Landmark Coast:
+Geo:DI Landmark Lakes:
+Geo:DI Prohibited area P1 Fetekro - GND/FL245:
+Geo:DI Restricted area R2 - FL100/FL245:
+Geo:DI Restricted area R3:
+Geo:DI Restricted area R4:
+Geo:DI Restricted area R5 - GND/600M:
+Geo:DIAP Danger area Fuel Dumping:
+Geo:DIAP Groundlayout:
+Geo:DIBK Groundlayout:
+Geo:DIDL Groundlayout:
+Geo:DIKO Groundlayout:
+Geo:DIMN Groundlayout:
+Geo:DISP Groundlayout:
+Geo:DIYO Groundlayout:
+Geo:GA Danger area D2 Sirakoroni - GND/FL410:
+Geo:GA Danger area D3 Sibi - FL050/FL410:
+Geo:GA Danger area D4 Simidji - FL050/FL410:
+Geo:GA Danger area D6 - GND/FL030:
+Geo:GA Prohibited area P1 - GND/FL410:
+Geo:GA Prohibited area P5 Kati - GND/FL030:
+Geo:GABS Danger area Fuel Dumping:
+Geo:GABS Groundlayout:
+Geo:GB Danger area D1 Kassa Kunda - SFC/FL055:
+Geo:GB Prohibited area P1 Banjul - SFC/FL055:
+Geo:GBYD Groundlayout:
+Geo:GCCC Landmark Coastline Sahara:
+Geo:GFLL Groundlayout:
+Geo:GG Prohibited area P1 Bissau - GND/UNL:
+Geo:GG Prohibited area P2 Bissora - 200M/8000M:
+Geo:GG Prohibited area P3 Fulacunda - 200M/10000M:
+Geo:GG Prohibited area P4 Bolama - 200M/10000M:
+Geo:GG Restricted area R1 Quinhamel - 200M/4000M:
+Geo:GG Restricted area R2 Bissora - 200M/8000M:
+Geo:GG Restricted area R3 Fulacunda - 200M/10000M:
+Geo:GG Restricted area R4 Bolama - 200M/10000M:
+Geo:GGOV Groundlayout:
+Geo:GL Danger area D42 - GND/FL065:
+Geo:GL Danger area D43 - GND/FL065:
+Geo:GL Landmark Coast:
+Geo:GL Restricted area R41 - GND/A030:
+Geo:GLRB Groundlayout:
+Geo:GO Danger area D12 Sangal - GND/400M:
+Geo:GO Danger area D13 Niaga - GND/4000M:
+Geo:GO Danger area D14 MBaouane - GND/4000M:
+Geo:GO Danger area D15 MBour - GND/400M:
+Geo:GO Danger area D17 Tambacounda - GND/500M:
+Geo:GO Danger area D18 Alpha - NOTAM:
+Geo:GO Danger area D19 Bravo - NOTAM:
+Geo:GO Danger area D21 Botou - GND/A035:
+Geo:GO Danger area D23 Kaniak - GND/FL100:
+Geo:GO Danger area D25 Thiaroye - GND/FL100:
+Geo:GO Danger area D27 St Louis - GND/FL100:
+Geo:GO Danger area D28 Dodji - GND/FL100:
+Geo:GO Danger area D7 Thies - NOTAM:
+Geo:GO Danger area D8 Thies - GND/1000M:
+Geo:GO Danger area D9 Semou Djimitte - GND/1000M:
+Geo:GO Landmark Coast:
+Geo:GO Prohibited area P1 Military Aerodrome - GND/FL100:
+Geo:GO Prohibited area P30 Blaise Diagne - GND/FL040:
+Geo:GO Restricted area R10 National Park of Basse Casamance - GND/300M:
+Geo:GO Restricted area R11 - GND/FL050:
+Geo:GO Restricted area R2 National Park of Djoudj - GND/300M:
+Geo:GO Restricted area R22 Dakar - GND/FL040:
+Geo:GO Restricted area R29 Defile Aerien - A002/A020:
+Geo:GO Restricted area R3 National Park of Niokolo Koba - GND/300M:
+Geo:GO Restricted area R4 National Park of the Madeleine Islands - GND/300M:
+Geo:GO Restricted area R5 National Park of the Lagune of Barbarie - GND/300M:
+Geo:GO Restricted area R6 - GND/FL195:
+Geo:GOBD Groundlayout:
+Geo:GOGG Groundlayout:
+Geo:GOGS Groundlayout:
+Geo:GOOY Danger area Fuel Dumping - GND/FL060:
+Geo:GOOY Groundlayout:
+Geo:GOSS Groundlayout:
+Geo:GQ Danger area D10 Touila - GND/FL040:
+Geo:GQ Danger area D11 Ground Fire Area - GND/FL030:
+Geo:GQ Danger area D12 Ground Fire Area - GND/FL100:
+Geo:GQ Danger area D3 Parachute:
+Geo:GQ Danger area D4 Parachute:
+Geo:GQ Danger area D5 Gun Fire Training - GND/9000M:
+Geo:GQ Danger area D6 Gun Fire Training - GND/1000M:
+Geo:GQ Danger area D7 Aerial shots - GND/2000M:
+Geo:GQ Prohibited area P15 Nouakchott City - GND/A120:
+Geo:GQ Restricted area R8 National Park - GND/1000M:
+Geo:GQ Restricted area R9:
+Geo:GQNA Groundlayout:
+Geo:GQND Groundlayout:
+Geo:GQNF Groundlayout:
+Geo:GQNI Groundlayout:
+Geo:GQNJ Groundlayout:
+Geo:GQNK Groundlayout:
+Geo:GQNO Danger area Fuel Dumping:
+Geo:GQNO Groundlayout:
+Geo:GQNS Groundlayout:
+Geo:GQPA Groundlayout:
+Geo:GQPP Danger area Fuel Dumping:
+Geo:GQPP Groundlayout:
+Geo:GQPZ Groundlayout:
+Geo:GU Restricted area R1 - FL060/FL170:
+Geo:GU Restricted area R2 - FL060/FL170:
+Geo:GU Restricted area R3 - FL060/FL170:
+Geo:GU Restricted area R4 - FL060/FL170:
+Geo:GU Restricted area R5 - FL060/FL170:
+Geo:GU Restricted area R6 - FL060/FL170:
+Geo:GU Restricted area R7 - FL060/FL170:
+Geo:GUCY Groundlayout:
+NDBs:NZ:name
+NDBs:NZ:symbol
+NDBs:SI:name
+NDBs:SI:symbol
+NDBs:SLO:name
+NDBs:SLO:symbol
+Regions:GQNA Ground Layout:polygon
+Regions:GQND Ground Layout:polygon
+Regions:GQNF Ground Layout:polygon
+Regions:GQNI Ground Layout:polygon
+Regions:GQNJ Ground Layout:polygon
+Regions:GQNK Ground Layout:polygon
+Regions:GQNO Ground Layout:polygon
+Regions:GQNS Ground Layout:polygon
+Regions:GQPA Ground Layout:polygon
+Regions:GQPP Ground Layout:polygon
+Regions:GQPZ Ground Layout:polygon
+Runways:DIAP 03-21:extended centerline 1
+Runways:DIAP 03-21:extended centerline 1 left ticks
+Runways:DIAP 03-21:extended centerline 1 right ticks
+Runways:DIAP 03-21:extended centerline 2
+Runways:DIAP 03-21:extended centerline 2 left ticks
+Runways:DIAP 03-21:extended centerline 2 right ticks
+Runways:DIBK 03-21:extended centerline 1
+Runways:DIBK 03-21:extended centerline 1 left ticks
+Runways:DIBK 03-21:extended centerline 1 right ticks
+Runways:DIBK 03-21:extended centerline 2
+Runways:DIBK 03-21:extended centerline 2 left ticks
+Runways:DIBK 03-21:extended centerline 2 right ticks
+Runways:DIMN 03-21:extended centerline 1
+Runways:DIMN 03-21:extended centerline 1 left ticks
+Runways:DIMN 03-21:extended centerline 1 right ticks
+Runways:DIMN 03-21:extended centerline 2
+Runways:DIMN 03-21:extended centerline 2 left ticks
+Runways:DIMN 03-21:extended centerline 2 right ticks
+Runways:DIOD 06-24:centerline
+Runways:DIOD 06-24:extended centerline 1
+Runways:DIOD 06-24:extended centerline 1 left ticks
+Runways:DIOD 06-24:extended centerline 1 right ticks
+Runways:DIOD 06-24:extended centerline 2
+Runways:DIOD 06-24:extended centerline 2 left ticks
+Runways:DIOD 06-24:extended centerline 2 right ticks
+Runways:DISP 03-21:extended centerline 1
+Runways:DISP 03-21:extended centerline 1 left ticks
+Runways:DISP 03-21:extended centerline 1 right ticks
+Runways:DISP 03-21:extended centerline 2
+Runways:DISP 03-21:extended centerline 2 left ticks
+Runways:DISP 03-21:extended centerline 2 right ticks
+Runways:DISS 04-22:centerline
+Runways:DISS 04-22:extended centerline 1
+Runways:DISS 04-22:extended centerline 1 left ticks
+Runways:DISS 04-22:extended centerline 1 right ticks
+Runways:DISS 04-22:extended centerline 2
+Runways:DISS 04-22:extended centerline 2 left ticks
+Runways:DISS 04-22:extended centerline 2 right ticks
+Runways:DIYO 05-23:extended centerline 1
+Runways:DIYO 05-23:extended centerline 1 left ticks
+Runways:DIYO 05-23:extended centerline 1 right ticks
+Runways:DIYO 05-23:extended centerline 2
+Runways:DIYO 05-23:extended centerline 2 left ticks
+Runways:DIYO 05-23:extended centerline 2 right ticks
+Runways:GABS 06-24:extended centerline 1
+Runways:GABS 06-24:extended centerline 1 left ticks
+Runways:GABS 06-24:extended centerline 1 right ticks
+Runways:GABS 06-24:extended centerline 2
+Runways:GABS 06-24:extended centerline 2 left ticks
+Runways:GABS 06-24:extended centerline 2 right ticks
+Runways:GAKD 09-27:centerline
+Runways:GAKD 09-27:extended centerline 1
+Runways:GAKD 09-27:extended centerline 1 left ticks
+Runways:GAKD 09-27:extended centerline 1 right ticks
+Runways:GAKD 09-27:extended centerline 2
+Runways:GAKD 09-27:extended centerline 2 left ticks
+Runways:GAKD 09-27:extended centerline 2 right ticks
+Runways:GAMB 05-23:centerline
+Runways:GAMB 05-23:extended centerline 1
+Runways:GAMB 05-23:extended centerline 1 left ticks
+Runways:GAMB 05-23:extended centerline 1 right ticks
+Runways:GAMB 05-23:extended centerline 2
+Runways:GAMB 05-23:extended centerline 2 left ticks
+Runways:GAMB 05-23:extended centerline 2 right ticks
+Runways:GATB 07-25:centerline
+Runways:GATB 07-25:extended centerline 1
+Runways:GATB 07-25:extended centerline 1 left ticks
+Runways:GATB 07-25:extended centerline 1 right ticks
+Runways:GATB 07-25:extended centerline 2
+Runways:GATB 07-25:extended centerline 2 left ticks
+Runways:GATB 07-25:extended centerline 2 right ticks
+Runways:GATS 05-23:centerline
+Runways:GATS 05-23:extended centerline 1
+Runways:GATS 05-23:extended centerline 1 left ticks
+Runways:GATS 05-23:extended centerline 1 right ticks
+Runways:GATS 05-23:extended centerline 2
+Runways:GATS 05-23:extended centerline 2 left ticks
+Runways:GATS 05-23:extended centerline 2 right ticks
+Runways:GBYD 14-32:extended centerline 1
+Runways:GBYD 14-32:extended centerline 1 left ticks
+Runways:GBYD 14-32:extended centerline 1 right ticks
+Runways:GBYD 14-32:extended centerline 2
+Runways:GBYD 14-32:extended centerline 2 left ticks
+Runways:GBYD 14-32:extended centerline 2 right ticks
+Runways:GFLL 12-30:extended centerline 1
+Runways:GFLL 12-30:extended centerline 1 left ticks
+Runways:GFLL 12-30:extended centerline 1 right ticks
+Runways:GFLL 12-30:extended centerline 2
+Runways:GFLL 12-30:extended centerline 2 left ticks
+Runways:GFLL 12-30:extended centerline 2 right ticks
+Runways:GGOV 03-21:extended centerline 1
+Runways:GGOV 03-21:extended centerline 1 left ticks
+Runways:GGOV 03-21:extended centerline 1 right ticks
+Runways:GGOV 03-21:extended centerline 2
+Runways:GGOV 03-21:extended centerline 2 left ticks
+Runways:GGOV 03-21:extended centerline 2 right ticks
+Runways:GLRB 04-22:extended centerline 1
+Runways:GLRB 04-22:extended centerline 1 left ticks
+Runways:GLRB 04-22:extended centerline 1 right ticks
+Runways:GLRB 04-22:extended centerline 2
+Runways:GLRB 04-22:extended centerline 2 left ticks
+Runways:GLRB 04-22:extended centerline 2 right ticks
+Runways:GOBD 01-19:extended centerline 1
+Runways:GOBD 01-19:extended centerline 1 left ticks
+Runways:GOBD 01-19:extended centerline 1 right ticks
+Runways:GOBD 01-19:extended centerline 2
+Runways:GOBD 01-19:extended centerline 2 left ticks
+Runways:GOBD 01-19:extended centerline 2 right ticks
+Runways:GOGG 10-28:extended centerline 1
+Runways:GOGG 10-28:extended centerline 1 left ticks
+Runways:GOGG 10-28:extended centerline 1 right ticks
+Runways:GOGG 10-28:extended centerline 2
+Runways:GOGG 10-28:extended centerline 2 left ticks
+Runways:GOGG 10-28:extended centerline 2 right ticks
+Runways:GOOY 03-21:extended centerline 1
+Runways:GOOY 03-21:extended centerline 1 left ticks
+Runways:GOOY 03-21:extended centerline 1 right ticks
+Runways:GOOY 03-21:extended centerline 2
+Runways:GOOY 03-21:extended centerline 2 left ticks
+Runways:GOOY 03-21:extended centerline 2 right ticks
+Runways:GOOY 18-36:extended centerline 1
+Runways:GOOY 18-36:extended centerline 1 left ticks
+Runways:GOOY 18-36:extended centerline 1 right ticks
+Runways:GOOY 18-36:extended centerline 2
+Runways:GOOY 18-36:extended centerline 2 left ticks
+Runways:GOOY 18-36:extended centerline 2 right ticks
+Runways:GOSS 18-36:extended centerline 1
+Runways:GOSS 18-36:extended centerline 1 left ticks
+Runways:GOSS 18-36:extended centerline 1 right ticks
+Runways:GOSS 18-36:extended centerline 2
+Runways:GOSS 18-36:extended centerline 2 left ticks
+Runways:GOSS 18-36:extended centerline 2 right ticks
+Runways:GOTT 06-24:centerline
+Runways:GOTT 06-24:extended centerline 1
+Runways:GOTT 06-24:extended centerline 1 left ticks
+Runways:GOTT 06-24:extended centerline 1 right ticks
+Runways:GOTT 06-24:extended centerline 2
+Runways:GOTT 06-24:extended centerline 2 left ticks
+Runways:GOTT 06-24:extended centerline 2 right ticks
+Runways:GQNI 09-27:extended centerline 1
+Runways:GQNI 09-27:extended centerline 1 left ticks
+Runways:GQNI 09-27:extended centerline 1 right ticks
+Runways:GQNI 09-27:extended centerline 2
+Runways:GQNI 09-27:extended centerline 2 left ticks
+Runways:GQNI 09-27:extended centerline 2 right ticks
+Runways:GQNO 06-24:extended centerline 1
+Runways:GQNO 06-24:extended centerline 1 left ticks
+Runways:GQNO 06-24:extended centerline 1 right ticks
+Runways:GQNO 06-24:extended centerline 2
+Runways:GQNO 06-24:extended centerline 2 left ticks
+Runways:GQNO 06-24:extended centerline 2 right ticks
+Runways:GQNO 16-34:extended centerline 1
+Runways:GQNO 16-34:extended centerline 1 left ticks
+Runways:GQNO 16-34:extended centerline 1 right ticks
+Runways:GQNO 16-34:extended centerline 2
+Runways:GQNO 16-34:extended centerline 2 left ticks
+Runways:GQNO 16-34:extended centerline 2 right ticks
+Runways:GQPA 04-22:extended centerline 1
+Runways:GQPA 04-22:extended centerline 1 left ticks
+Runways:GQPA 04-22:extended centerline 1 right ticks
+Runways:GQPA 04-22:extended centerline 2
+Runways:GQPA 04-22:extended centerline 2 left ticks
+Runways:GQPA 04-22:extended centerline 2 right ticks
+Runways:GQPP 02-20:extended centerline 1
+Runways:GQPP 02-20:extended centerline 1 left ticks
+Runways:GQPP 02-20:extended centerline 1 right ticks
+Runways:GQPP 02-20:extended centerline 2
+Runways:GQPP 02-20:extended centerline 2 left ticks
+Runways:GQPP 02-20:extended centerline 2 right ticks
+Runways:GUBE 15-33:centerline
+Runways:GUBE 15-33:extended centerline 1
+Runways:GUBE 15-33:extended centerline 1 left ticks
+Runways:GUBE 15-33:extended centerline 1 right ticks
+Runways:GUBE 15-33:extended centerline 2
+Runways:GUBE 15-33:extended centerline 2 left ticks
+Runways:GUBE 15-33:extended centerline 2 right ticks
+Runways:GUCY 06-24:extended centerline 1
+Runways:GUCY 06-24:extended centerline 1 left ticks
+Runways:GUCY 06-24:extended centerline 1 right ticks
+Runways:GUCY 06-24:extended centerline 2
+Runways:GUCY 06-24:extended centerline 2 left ticks
+Runways:GUCY 06-24:extended centerline 2 right ticks
+Runways:GULB 06-24:centerline
+Runways:GULB 06-24:extended centerline 1
+Runways:GULB 06-24:extended centerline 1 left ticks
+Runways:GULB 06-24:extended centerline 1 right ticks
+Runways:GULB 06-24:extended centerline 2
+Runways:GULB 06-24:extended centerline 2 left ticks
+Runways:GULB 06-24:extended centerline 2 right ticks
+VORs:ACC:name
+VORs:ACC:symbol
+VORs:AD:name
+VORs:AD:symbol
+VORs:BIS:name
+VORs:BIS:symbol
+VORs:BJ:name
+VORs:BJ:symbol
+VORs:BKY:name
+VORs:BKY:symbol
+VORs:DKH:name
+VORs:DKH:symbol
+VORs:DS:name
+VORs:DS:symbol
+VORs:FRH:name
+VORs:FRH:symbol
+VORs:GDV:name
+VORs:GDV:symbol
+VORs:GIA:name
+VORs:GIA:symbol
+VORs:KAY:name
+VORs:KAY:symbol
+VORs:KRG:name
+VORs:KRG:symbol
+VORs:KSI:name
+VORs:KSI:symbol
+VORs:LGI:name
+VORs:LGI:symbol
+VORs:MAN:name
+VORs:MAN:symbol
+VORs:NM:name
+VORs:NM:symbol
+VORs:ODN:name
+VORs:ODN:symbol
+VORs:OT:name
+VORs:OT:symbol
+VORs:PE:name
+VORs:PE:symbol
+VORs:ROB:name
+VORs:ROB:symbol
+VORs:SKO:name
+VORs:SKO:symbol
+VORs:SPO:name
+VORs:SPO:symbol
+VORs:YAM:name
+VORs:YAM:symbol
+VORs:ZG:name
+VORs:ZG:symbol
+VORs:ZRT:name
+VORs:ZRT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:6.210597:-10.403535:6.252229:-10.325711

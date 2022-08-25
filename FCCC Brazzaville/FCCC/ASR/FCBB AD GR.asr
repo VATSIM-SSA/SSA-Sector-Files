@@ -1,0 +1,37 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:FCBB Taxiways and Aprons\A:freetext
+Free Text:FCBB Taxiways and Aprons\B:freetext
+Free Text:FCBB Taxiways and Aprons\C:freetext
+Free Text:FCBB Taxiways and Aprons\D:freetext
+Free Text:FCBB Taxiways and Aprons\E:freetext
+Free Text:FCBB Taxiways and Aprons\F:freetext
+Free Text:FCBB Taxiways and Aprons\G:freetext
+Free Text:FCBB Taxiways and Aprons\M1:freetext
+Free Text:FCBB Taxiways and Aprons\M2:freetext
+Free Text:FCBB Taxiways and Aprons\Main Apron:freetext
+Free Text:FCBB Taxiways and Aprons\Military Apron:freetext
+Free Text:FCBB Taxiways and Aprons\Passenger Terminal:freetext
+Free Text:FCBB Taxiways and Aprons\Presidential Apron:freetext
+Free Text:FCBB Taxiways and Aprons\Presidential Terminal:freetext
+Free Text:FCBB Taxiways and Aprons\T:freetext
+Geo:FCBB Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:40.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-4.258346:15.236519:-4.240767:15.268492
+PLUGIN:Ground Radar plugin:AirportElevation:1052
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FCBB
+PLUGIN:TopSky plugin:NoDraw:1

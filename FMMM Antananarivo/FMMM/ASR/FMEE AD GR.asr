@@ -1,0 +1,59 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FMEE Ground Labels\1:freetext
+Free Text:FMEE Ground Labels\10:freetext
+Free Text:FMEE Ground Labels\12:freetext
+Free Text:FMEE Ground Labels\13:freetext
+Free Text:FMEE Ground Labels\14:freetext
+Free Text:FMEE Ground Labels\15:freetext
+Free Text:FMEE Ground Labels\16:freetext
+Free Text:FMEE Ground Labels\17:freetext
+Free Text:FMEE Ground Labels\2:freetext
+Free Text:FMEE Ground Labels\3:freetext
+Free Text:FMEE Ground Labels\4:freetext
+Free Text:FMEE Ground Labels\5:freetext
+Free Text:FMEE Ground Labels\6:freetext
+Free Text:FMEE Ground Labels\7:freetext
+Free Text:FMEE Ground Labels\8:freetext
+Free Text:FMEE Ground Labels\9:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\A:freetext
+Free Text:FMEE Ground Labels\B:freetext
+Free Text:FMEE Ground Labels\C:freetext
+Free Text:FMEE Ground Labels\Cargo:freetext
+Free Text:FMEE Ground Labels\Civil:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F:freetext
+Free Text:FMEE Ground Labels\F1:freetext
+Free Text:FMEE Ground Labels\G:freetext
+Free Text:FMEE Ground Labels\G:freetext
+Free Text:FMEE Ground Labels\General Aviation:freetext
+Free Text:FMEE Ground Labels\Helilagon:freetext
+Free Text:FMEE Ground Labels\M:freetext
+Free Text:FMEE Ground Labels\Military:freetext
+Geo:FMEE Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:334.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-20.899295:55.498447:-20.880705:55.534331
+PLUGIN:Ground Radar plugin:AirportElevation:66
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FMEE
+PLUGIN:TopSky plugin:HideMapData:
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FMEE

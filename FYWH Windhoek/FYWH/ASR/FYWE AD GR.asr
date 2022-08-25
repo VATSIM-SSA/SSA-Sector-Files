@@ -1,0 +1,57 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Runways:FYWE 01-19:centerline
+Runways:FYWE 01-19:extended centerline 1
+Runways:FYWE 01-19:extended centerline 1 left base
+Runways:FYWE 01-19:extended centerline 1 left ticks
+Runways:FYWE 01-19:extended centerline 1 left vectoring
+Runways:FYWE 01-19:extended centerline 1 right base
+Runways:FYWE 01-19:extended centerline 1 right ticks
+Runways:FYWE 01-19:extended centerline 1 right vectoring
+Runways:FYWE 01-19:extended centerline 2
+Runways:FYWE 01-19:extended centerline 2 left base
+Runways:FYWE 01-19:extended centerline 2 left ticks
+Runways:FYWE 01-19:extended centerline 2 left vectoring
+Runways:FYWE 01-19:extended centerline 2 right base
+Runways:FYWE 01-19:extended centerline 2 right ticks
+Runways:FYWE 01-19:extended centerline 2 right vectoring
+Runways:FYWE 01-19:name
+Runways:FYWE 09-27:centerline
+Runways:FYWE 09-27:extended centerline 1
+Runways:FYWE 09-27:extended centerline 1 left base
+Runways:FYWE 09-27:extended centerline 1 left ticks
+Runways:FYWE 09-27:extended centerline 1 left vectoring
+Runways:FYWE 09-27:extended centerline 1 right base
+Runways:FYWE 09-27:extended centerline 1 right ticks
+Runways:FYWE 09-27:extended centerline 1 right vectoring
+Runways:FYWE 09-27:extended centerline 2
+Runways:FYWE 09-27:extended centerline 2 left base
+Runways:FYWE 09-27:extended centerline 2 left ticks
+Runways:FYWE 09-27:extended centerline 2 left vectoring
+Runways:FYWE 09-27:extended centerline 2 right base
+Runways:FYWE 09-27:extended centerline 2 right ticks
+Runways:FYWE 09-27:extended centerline 2 right vectoring
+Runways:FYWE 09-27:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-22.616796:17.060982:-22.598204:17.097351
+PLUGIN:Ground Radar plugin:AirportElevation:5575
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FYWE
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FYWE

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+	<apt icao="DGAA">
+		<runway name="03">
+			<sid name="EREKA">
+				<alt>070</alt>
+			</sid>
+			<sid name="KEMOK">
+				<alt>080</alt>
+			</sid>
+			<sid name="MIMTI">
+				<alt>100</alt>
+			</sid>
+		</runway>
+		<runway name="21">
+			<sid name="EREKA">
+				<alt>080</alt>
+			</sid>
+			<sid name="LITEX">
+				<alt>100</alt>
+			</sid>
+			<sid name="KEMOK">
+				<alt>080</alt>
+			</sid>
+			<sid name="MIMTI">
+				<alt>100</alt>
+			</sid>
+			<sid name="DIRKO">
+				<alt>080</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="DGLE">
+		<runway name="05">
+			<sid name="AGRAT">
+				<alt>110</alt>
+			</sid>
+		</runway>
+		<runway name="23">
+			<sid name="VOPEN">
+				<alt>080</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="DGSI">
+		<runway name="20">
+			<sid name="SAGMA">
+				<alt>090</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="DGTK">
+		<runway name="21">
+			<sid name="NAKOB">
+				<alt>070</alt>
+			</sid>
+		</runway>
+    </apt>
+	<apt icao="DXXX">
+		<runway name="04">
+			<sid name="GATKA">
+				<alt>050</alt>
+			</sid>
+			<sid name="MONOS">
+				<alt>050</alt>
+			</sid>
+			<sid name="SABGO">
+				<alt>050</alt>
+			</sid>
+			<sid name="KETAT">
+				<alt>080</alt>
+			</sid>
+			<sid name="MIRBO">
+				<alt>080</alt>
+			</sid>
+			<sid name="AMSOM">
+				<alt>080</alt>
+			</sid>
+			<sid name="ONVAS">
+				<alt>070</alt>
+			</sid>
+			<sid name="PINKU">
+				<alt>070</alt>
+			</sid>
+		</runway>
+		<runway name="22">
+			<sid name="GATKA">
+				<alt>050</alt>
+			</sid>
+			<sid name="MONOS">
+				<alt>050</alt>
+			</sid>
+			<sid name="SABGO">
+				<alt>050</alt>
+			</sid>
+			<sid name="KETAT">
+				<alt>080</alt>
+			</sid>
+			<sid name="MIRBO">
+				<alt>080</alt>
+			</sid>
+			<sid name="AMSOM">
+				<alt>080</alt>
+			</sid>
+			<sid name="ONVAS">
+				<alt>070</alt>
+			</sid>
+			<sid name="PINKU">
+				<alt>070</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

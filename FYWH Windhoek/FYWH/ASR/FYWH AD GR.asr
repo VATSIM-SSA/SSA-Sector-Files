@@ -1,0 +1,31 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Geo:FYWB Groundlayout:
+Geo:FYWH Groundlayout:
+Geo:FYWH Groundlayout Stopbars:
+Geo:FYWH Groundlayout Taxiway Centerlines:
+Geo:FYWH Landmark Windhoek City:
+Regions:FYWH Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:26.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-22.491606:17.446474:-22.468367:17.491936
+PLUGIN:Ground Radar plugin:AirportElevation:5641
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FYWH
+PLUGIN:TopSky plugin:HideMapData:ICAO
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FYWH

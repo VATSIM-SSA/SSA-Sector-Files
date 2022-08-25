@@ -1,0 +1,96 @@
+// ##################################################################
+//                 VATSSA | FIR FCCC | TopSky | STCA
+// ##################################################################
+
+// Version v0.3
+// Update Date 15/08/2022
+
+
+// ##################################################################
+//                 FC REPUBLIC OF THE CONGO
+// ##################################################################
+
+// FCBB | BRAZZAVILLE MAYA-MAYA
+FINALAPP:FCBB:05
+FINALAPP:FCBB:23
+
+// FCOD | OLLOMBO DENIS SASSOU N'GUESSO INTL
+FINALAPP:FCOD:04
+FINALAPP:FCOD:22
+
+// FCPP | POINTE NOIRE ANTONIO AGOSTINHO NETO
+FINALAPP:FCPP:17
+FINALAPP:FCPP:35
+
+
+// ##################################################################
+//                 FE CENTRAL AFRICAN REPUBLIC
+// ##################################################################
+
+// FEFF | BANGUI M'POKO
+FINALAPP:FEFF:16
+FINALAPP:FEFF:34
+
+
+// ##################################################################
+//                 FG EQUATORIAL GUINEA
+// ##################################################################
+
+// FGBT | BATA
+FINALAPP:FGBT:03
+FINALAPP:FGBT:21
+
+// FGSL | MALABO
+FINALAPP:FGSL:04
+FINALAPP:FGSL:22
+
+
+// ##################################################################
+//                 FK CAMEROON
+// ##################################################################
+
+// FKKD | DOUALA
+FINALAPP:FKKD:12
+FINALAPP:FKKD:30
+
+// FKKN | N'GAOUNDERE
+FINALAPP:FKKN:02
+FINALAPP:FKKN:20
+
+// FKKR | GAROUA
+FINALAPP:FKKR:09
+FINALAPP:FKKR:27
+
+// FKYS | NSIMALEN
+FINALAPP:FKYS:01
+FINALAPP:FKYS:19
+
+
+// ##################################################################
+//                 FO GABON
+// ##################################################################
+
+// FOOG | PORT GENTIL
+FINALAPP:FOOG:03
+FINALAPP:FOOG:21
+
+// FOOL | LIBREVILLE LEON M'BA
+FINALAPP:FOOL:16
+FINALAPP:FOOL:34
+
+// FOON | FRANCEVILLE M'VENGUE
+FINALAPP:FOON:15
+FINALAPP:FOON:33
+
+
+// ##################################################################
+//                 FP SAO TOME & PRINCIPE
+// ##################################################################
+
+// FPST | SAO TOME INTL
+FINALAPP:FPST:29
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

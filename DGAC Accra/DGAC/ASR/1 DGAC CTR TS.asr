@@ -1,0 +1,79 @@
+// ##################################################################
+//                 VATSSA | FIR DGAC | ASR | DGAC CTR TS
+// ##################################################################
+
+// Version v1.0
+// Update Date 06/04/2022
+
+// Changelog
+// v1.0 | DGAC CTR TS Initial Setup
+
+
+// ##################################################################
+//                 SETTINGS
+// ##################################################################
+
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:DGAA Parking\B1:freetext
+Free Text:DGAA Parking\B2:freetext
+Free Text:DGAA Parking\B3:freetext
+Free Text:DGAA Parking\C1:freetext
+Free Text:DGAA Parking\C2:freetext
+Free Text:DGAA Parking\C3:freetext
+Free Text:DGAA Parking\C4:freetext
+Free Text:DGAA Parking\C5:freetext
+Free Text:DGAA Parking\C6:freetext
+Free Text:DGAA Parking\C7:freetext
+Free Text:DGAA Parking\C8:freetext
+Free Text:DGAA Parking\D1:freetext
+Free Text:DGAA Parking\D2:freetext
+Free Text:DGAA Parking\D3:freetext
+Free Text:DGAA Parking\D4:freetext
+Free Text:DGAA Parking\D5:freetext
+Free Text:DGAA Parking\D6:freetext
+Free Text:DGAA Parking\E1:freetext
+Free Text:DGAA Parking\E2:freetext
+Free Text:DGAA Parking\E3:freetext
+Free Text:DGAA Taxiways and Aprons\A:freetext
+Free Text:DGAA Taxiways and Aprons\A:freetext
+Free Text:DGAA Taxiways and Aprons\A:freetext
+Free Text:DGAA Taxiways and Aprons\A:freetext
+Free Text:DGAA Taxiways and Aprons\A1:freetext
+Free Text:DGAA Taxiways and Aprons\A2:freetext
+Free Text:DGAA Taxiways and Aprons\A3:freetext
+Free Text:DGAA Taxiways and Aprons\Apron J:freetext
+Free Text:DGAA Taxiways and Aprons\Cargo:freetext
+Free Text:DGAA Taxiways and Aprons\Military:freetext
+Free Text:DGAA Taxiways and Aprons\Term 1:freetext
+Free Text:DGAA Taxiways and Aprons\Term 2:freetext
+Free Text:DGAA Taxiways and Aprons\Term 3:freetext
+Free Text:DGAA Taxiways and Aprons\Y:freetext
+Free Text:DGAA Taxiways and Aprons\Z:freetext
+Geo:DBBB Groundlayout:
+Geo:DGAA Groundlayout:
+Geo:DGLE Groundlayout:
+Geo:DGLN Groundlayout:
+Geo:DGLW Groundlayout:
+Geo:DGLY Groundlayout:
+Geo:DGSI Groundlayout:
+Geo:DGSN Groundlayout:
+Geo:DGTK Groundlayout:
+Geo:DXXX Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:2.435296:-8.047390:12.136573:9.633298
+PLUGIN:TopSky plugin:HideMapData:DNMM
+PLUGIN:TopSky plugin:ShowMapData:DGAC
