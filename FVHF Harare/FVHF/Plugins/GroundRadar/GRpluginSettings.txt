@@ -2,7 +2,7 @@
 //                 VATSSA | FIR FVHF | GroundRadar | Settings
 // ##################################################################
 
-// GroundRadar Version 1.5 Beta 5
+// GroundRadar Version 1.5 Stable
 
 // Version v0.1
 // Update Date 30/06/2022
@@ -224,7 +224,7 @@ Window_APP_Scale=20
 Window_APP_Extensions=1
 Window_APP_AltFilter=9901
 
-AppPath=FVRG:FVRG 05:S017.56.48.598:E031.04.37.711:052:L:4793:3.0
+AppPath=FVRG:FVRG 05:S017.56.48.598:E031.04.37.711:052:R:4793:3.0
 
 
 // ##################################################################
