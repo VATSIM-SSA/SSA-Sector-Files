@@ -2,7 +2,7 @@
 //                 VATSSA | FIR FMMM | GroundRadar | Settings
 // ##################################################################
 
-// GroundRadar Version 1.5 Beta 5
+// GroundRadar Version 1.5 Stable
 
 // Version v0.1
 // Update Date 30/06/2022
