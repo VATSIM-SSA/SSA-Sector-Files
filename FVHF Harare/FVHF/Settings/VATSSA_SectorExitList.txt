@@ -1,7 +1,7 @@
 SEL
 m_Visible:1
 m_X:0
-m_Y:89
+m_Y:76
 m_LineNumber:10
 m_Resizable:1
 m_OrderingColumn:21
@@ -25,6 +25,8 @@ m_Column:CFL:5:1:10002:12:44:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
 m_Column:^:3:1:3:0:0:1::::0:0.0
 m_Column:ALT:5:1:10013:0:0:1:TopSky plugin:::0:0.0
 m_Column:RFL:5:0:10006:59:59:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
-m_Column:AIRLINE:12:1:132:0:0:1:EasyTag:::0:0.0
-m_Column:TK NM:5:1:170:0:0:1:EasyTag:::0:0.0
+m_Column:ETX:6:1:10017:0:0:0:TopSky plugin:::0:0.0
+m_Column:RMK:10:0:155:2:2:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:AIRLINE:12:1:132:0:0:0:EasyTag:::0:0.0
+m_Column:TK NM:5:1:170:0:0:0:EasyTag:::0:0.0
 END
