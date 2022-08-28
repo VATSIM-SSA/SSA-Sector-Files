@@ -2,49 +2,87 @@
 //                 VATSSA | FIR FIMM | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.1
-// Update Date 30/07/2022
+// Version v0.2
+// Update Date 28/08/2022
+
+
+// ##################################################################
+//                 FIMM MAURITIUS
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:5600:5677
+PRIORITY:3
+NOTADEP:FI
+NOTADES:FI
+IFR
 
 
 // ##################################################################
 //                 FI MAURITIUS
 // ##################################################################
 
-//FIMP VFR circuits and local
+// FI DOMESTIC
+RANGE:5300:5377
+PRIORITY:3
+ADEP:FI
+ADES:FI
+IFR
+
+// FI INTERNATIONAL OUTBOUND
+RANGE:5600:5677
+PRIORITY:3
+ADEP:FI
+NOTADES:FI
+IFR
+
+// FI INTERNATIONAL INBOUND
+RANGE:5600:5677
+PRIORITY:3
+NOTADEP:FI
+ADES:FI
+IFR
+
+// FIMP DOMESTIC VFR
 RANGE:7011:7017
 ADEP:FIMP
 ADES:FIMP
 VFR
 
-/FIMR VFR circuits and local
+// FIMR DOMESTIC VFR
 RANGE:6331:6337
 
-//FIMM domestic VFR
+// FIMM DOMESTIC VFR
 RANGE:6340:6347
 ADEP:FI
 ADES:FI
 VFR
 
-//FIMM departures
-RANGE:6250:6277
-ADEP:FI
 
-//FIMM arrivals
-RANGE:6350:6377
-ADES:FI
+// ##################################################################
+//                 FJDG DIEGO GARCIA
+// ##################################################################
 
-//FJDG deps
-RANGE:3710:3717
+// FJDG DOMESTIC
+RANGE:3700:3707
+PRIORITY:3
 ADEP:FJDG
-
-//FJDG arrs
-RANGE:3720:3727
 ADES:FJDG
+IFR
 
-//Overflights
-RANGE:6230:6247
-NOTADEP:FI
-NOTADES:FI
+// FJDG INTERNATIONAL OUTBOUND
+RANGE:3710:3717
+PRIORITY:3
+ADEP:FJDG
+NOTADES:FJDG
+IFR
+
+// FJDG INTERNATIONAL INBOUND
+RANGE:3720:3727
+PRIORITY:3
+NOTADEP:FJDG
+ADES:FJDG
+IFR
 
 
 // ##################################################################

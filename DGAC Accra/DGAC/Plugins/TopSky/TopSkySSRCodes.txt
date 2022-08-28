@@ -22,7 +22,7 @@ IFR
 //                 DB BENIN
 // ##################################################################
 
-// DOMESTIC I
+// DOMESTIC
 RANGE:7300:7377
 PRIORITY:3
 ADEP:DB
@@ -48,14 +48,13 @@ IFR
 //                 DG GHANA
 // ##################################################################
 
-// DOMESTIC I
+// DOMESTIC
 RANGE:4700:4757
 PRIORITY:3
 ADEP:DG
 ADES:DG
 IFR
 
-// DOMESTIC II
 RANGE:4500:4577
 PRIORITY:1
 ADEP:DG
@@ -81,7 +80,7 @@ IFR
 //                 DX TOGO
 // ##################################################################
 
-// DOMESTIC I
+// DOMESTIC
 RANGE:4000:4077
 PRIORITY:3
 ADEP:DX

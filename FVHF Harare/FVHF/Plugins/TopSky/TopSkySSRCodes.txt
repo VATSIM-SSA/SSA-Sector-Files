@@ -3,23 +3,57 @@
 // ##################################################################
 
 // Version v0.1
-// Update Date 24/06/2022
+// Update Date 28/08/2022
+
+
+// ##################################################################
+//                 FVHF HARARE
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:7200:7277
+PRIORITY:3
+NOTADEP:FV
+NOTADES:FV
+IFR
 
 
 // ##################################################################
 //                 FV ZIMBABWE
 // ##################################################################
 
-//HKJK DEPs
-RANGE:0500:0577
-ADEP:HKJK
+// FV DOMESTIC
+RANGE:6600:6677
+PRIORITY:3
+ADEP:FV
+ADES:FV
 IFR
 
-//HKJK DEPs
-RANGE:1300:1377
-ADEP:HKJK
+RANGE:6700:6777
+PRIORITY:2
+ADEP:FV
+ADES:FV
 IFR
-VFR
+
+RANGE:0500:0577
+PRIORITY:1
+ADEP:FV
+ADES:FV
+IFR
+
+// FV INTERNATIONAL OUTBOUND
+RANGE:7200:7277
+PRIORITY:3
+ADEP:FV
+NOTADES:FV
+IFR
+
+// FV INTERNATIONAL INBOUND
+RANGE:7200:7277
+PRIORITY:3
+NOTADEP:FV
+ADES:FV
+IFR
 
 
 // ##################################################################

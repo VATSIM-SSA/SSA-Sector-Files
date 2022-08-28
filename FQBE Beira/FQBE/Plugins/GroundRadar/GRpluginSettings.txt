@@ -2,7 +2,7 @@
 //                 VATSSA | FIR FQBE | GroundRadar | Settings
 // ##################################################################
 
-// GroundRadar Version 1.5 Beta 5
+// GroundRadar Version 1.5 Stable
 
 // Version v0.2
 // Update Date 23/08/2022

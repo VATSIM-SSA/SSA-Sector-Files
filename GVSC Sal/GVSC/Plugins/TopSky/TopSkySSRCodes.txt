@@ -22,14 +22,13 @@ IFR
 //                 GV CAPE VERDE
 // ##################################################################
 
-// SAL DOMESTIC I
+// SAL DOMESTIC
 RANGE:0400:0477
 PRIORITY:3
 ADEP:GV
 ADES:GV
 IFR
 
-// SAL DOMESTIC II
 RANGE:0500:0577
 PRIORITY:1
 ADEP:GV
