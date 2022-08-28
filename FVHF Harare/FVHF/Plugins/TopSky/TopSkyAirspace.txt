@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FVHF | TopSky | Airspace
 // ##################################################################
 
-// Version v0.2
-// Update Date 24/07/2022
+// Version v0.3
+// Update Date 28/08/2022
 
 
 // ##################################################################
@@ -22,6 +22,35 @@ QNHTL:FVWN:85,995,80,1013,75,1031,70,1049,65,1060,65
 // LEVELS
 LEVELS:FVFA:47,50,55
 LEVELS:FVRG:60,61,70
+
+
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+// FVFA | VICTORIA FALLS
+INITIAL_CFL:8000
+CFL_FRUL:I
+CFL_ADEP:FVFA
+CFL_AHDG:118:298
+
+// FVJN | BULAWAYO J M NKOMO
+INITIAL_CFL:8000
+CFL_FRUL:I
+CFL_ADEP:FVJN
+CFL_AHDG:017:127:197:307
+
+// FVRG | HARARE ROBERT GABRIEL MUGABE INTL
+INITIAL_CFL:10000
+CFL_FRUL:I
+CFL_ADEP:FVRG
+CFL_AHDG:053:233
+
+// FVWN | HWANGE NATIONAL PARK
+INITIAL_CFL:8000
+CFL_FRUL:I
+CFL_ADEP:FVWN
+CFL_AHDG:078:258
 
 
 // ##################################################################
