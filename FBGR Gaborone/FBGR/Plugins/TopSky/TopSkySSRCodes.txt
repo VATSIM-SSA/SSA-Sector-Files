@@ -22,13 +22,12 @@ IFR
 //                 FB BOTSWANA
 // ##################################################################
 
-// GABORONE DOMESTIC I
+// GABORONE DOMESTIC
 RANGE:2300:2377
 PRIORITY:3
 ADEP:FB
 ADES:FB
 
-// GABORONE DOMESTIC II
 RANGE:6000:6077
 PRIORITY:1
 ADEP:FB
