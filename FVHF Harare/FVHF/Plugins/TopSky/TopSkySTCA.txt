@@ -2,21 +2,31 @@
 //                 VATSSA | FIR FVHF | TopSky | STCA
 // ##################################################################
 
-// Version v0.1
-// Update Date 24/07/2022
+// Version v0.2
+// Update Date 28/08/2022
 
 
 // ##################################################################
 //                 FV ZIMBABWE
 // ##################################################################
 
-// FVRG | ROBERT GABRIEL MUGABE INTL
-FINALAPP:FVRG:05
-FINALAPP:FVRG:23
-
 // FVFA | VICTORIA FALLS
 FINALAPP:FVFA:12
 FINALAPP:FVFA:30
+
+// FVJN | BULAWAYO J M NKOMO
+FINALAPP:FVJN:02
+FINALAPP:FVJN:20
+FINALAPP:FVJN:13
+FINALAPP:FVJN:31
+
+// FVRG | HARARE ROBERT GABRIEL MUGABE INTL
+FINALAPP:FVRG:05
+FINALAPP:FVRG:23
+
+// FVWN | HWANGE NATIONAL PARK
+FINALAPP:FVWN:05
+FINALAPP:FVWN:23
 
 
 // ##################################################################

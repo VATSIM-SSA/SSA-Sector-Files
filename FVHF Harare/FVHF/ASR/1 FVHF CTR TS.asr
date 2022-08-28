@@ -3,6 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
+Geo:FVBU Groundlayout:
+Geo:FVFA Groundlayout:
+Geo:FVRG Groundlayout:
 SHOWC:1
 SHOWSB:0
 BELOW:0
