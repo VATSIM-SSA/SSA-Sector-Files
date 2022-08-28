@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FCCC | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.2
-// Update Date 19/08/2022
+// Version v0.3
+// Update Date 28/08/2022
 
 
 // ##################################################################
@@ -11,7 +11,7 @@
 // ##################################################################
 
 // FIR TRANSIT
-RANGE:5600:5615
+RANGE:5600:5677
 PRIORITY:3
 NOTADEP:FC,FE,FG,FK,FO,FP
 NOTADES:FC,FE,FG,FK,FO,FP
@@ -29,7 +29,6 @@ ADEP:FC
 ADES:FC
 IFR
 
-// FC DOMESTIC I
 RANGE:1217:1277
 PRIORITY:2
 ADEP:FC
@@ -55,7 +54,7 @@ IFR
 //                 FE CENTRAL AFRICAN REPUBLIC
 // ##################################################################
 
-// FE DOMESTIC I
+// FE DOMESTIC
 RANGE:6000:6077
 PRIORITY:3
 ADEP:FE
@@ -81,7 +80,7 @@ IFR
 //                 FG EQUATORIAL GUINEA
 // ##################################################################
 
-// FG DOMESTIC I
+// FG DOMESTIC
 RANGE:6300:6377
 PRIORITY:3
 ADEP:FG
@@ -107,7 +106,7 @@ IFR
 //                 FK CAMEROON
 // ##################################################################
 
-// FK DOMESTIC I
+// FK DOMESTIC
 RANGE:5700:5777
 PRIORITY:3
 ADEP:FK
@@ -133,7 +132,7 @@ IFR
 //                 FO GABON
 // ##################################################################
 
-// FO DOMESTIC I
+// FO DOMESTIC
 RANGE:6400:6477
 PRIORITY:3
 ADEP:FO
