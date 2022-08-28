@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FMMMM | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.3
-// Update Date 19/08/2022
+// Version v0.4
+// Update Date 28/08/2022
 
 
 // ##################################################################
@@ -17,21 +17,12 @@ NOTADEP:FM
 NOTADES:FM
 IFR
 
-
-// ##################################################################
-//                 FM MADAGASCAR
-// ##################################################################
-
-//HKJK DEPs
-RANGE:0500:0577
-ADEP:HKJK
+RANGE:4700:4717
+PRIORITY:2
+NOTADEP:FM
+NOTADES:FM
 IFR
 
-//HKJK DEPs
-RANGE:1300:1377
-ADEP:HKJK
-IFR
-VFR
 
 // ##################################################################
 //                 FM MADAGASCAR
@@ -39,14 +30,13 @@ VFR
 
 // MADAGASCAR DOMESTIC I
 RANGE:0620:0677
-PRIORITY:3
+PRIORITY:2
 ADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
 ADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
 IFR
 
-// MADAGASCAR DOMESTIC I
 RANGE:5200:5277
-PRIORITY:2
+PRIORITY:3
 ADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
 ADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
 IFR
@@ -64,13 +54,6 @@ PRIORITY:3
 NOTADEP:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
 ADES:FMME:FMMG:FMMH:FMMI:FMMK:FMMO:FMMS:FMMT:FMMV:FMMZ
 IFR
-
-
-// ##################################################################
-//                 FM MAYOTTE
-// ##################################################################
-
-// FMCZ | DZAOUDZI PAMANDZI
 
 
 // ##################################################################
@@ -100,11 +83,23 @@ ADES:FMEE
 //                 FM COMOROS
 // ##################################################################
 
-// FMCH | PRINCE SAID IBRAHIM MORONI
+// COMOROS DOMESTIC
+RANGE:0600:0617
+PRIORITY:3
+ADEP:FMCH:FMCI:FMCV
+ADES:FMCH:FMCI:FMCV
 
-// FMCI | BANDARESSALAM MOHELI
+// COMOROS INTERNATIONAL OUTBOUND
+RANGE:4700:4717
+PRIORITY:3
+ADEP:FMCH:FMCI:FMCV
+NOTADES:FMCH:FMCI:FMCV
 
-// FMCV | OUANI ANJOUAN
+// COMOROS INTERNATIONAL INBOUND
+RANGE:4700:4717
+PRIORITY:3
+NOTADEP:FMCH:FMCI:FMCV
+ADES:FMCH:FMCI:FMCV
 
 
 // ##################################################################

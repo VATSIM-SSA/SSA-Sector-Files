@@ -3,23 +3,63 @@
 // ##################################################################
 
 // Version v0.1
-// Update Date 24/06/2022
+// Update Date 28/08/2022
 
 
 // ##################################################################
-//                 FP SAO TOME & PRINCIPE
+//                 FZZA KINSHASA
 // ##################################################################
 
-//HKJK DEPs
-RANGE:0500:0577
-ADEP:HKJK
+// FIR TRANSIT
+RANGE:4500:4577
+PRIORITY:3
+NOTADEP:FZ
+NOTADES:FZ
 IFR
 
-//HKJK DEPs
-RANGE:1300:1377
-ADEP:HKJK
+
+// ##################################################################
+//                 FZ DEMOCRATING REPUBLIC OF CONGO
+// ##################################################################
+
+// FZ DOMESTIC
+RANGE:7200:7277
+PRIORITY:3
+ADEP:FZ
+ADES:FZ
 IFR
-VFR
+
+RANGE:5400:5477
+PRIORITY:2
+ADEP:FZ
+ADES:FZ
+IFR
+
+RANGE:4700:4777
+PRIORITY:1
+ADEP:FZ
+ADES:FZ
+IFR
+
+RANGE:5300:5377
+PRIORITY:1
+ADEP:FZ
+ADES:FZ
+IFR
+
+// FZ INTERNATIONAL OUTBOUND
+RANGE:4500:4577
+PRIORITY:3
+ADEP:FZ
+NOTADES:FZ
+IFR
+
+// FZ INTERNATIONAL INBOUND
+RANGE:4500:4577
+PRIORITY:3
+NOTADEP:FZ
+ADES:FZ
+IFR
 
 
 // ##################################################################

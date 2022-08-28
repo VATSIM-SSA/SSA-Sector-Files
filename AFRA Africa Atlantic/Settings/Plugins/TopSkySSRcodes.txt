@@ -1,0 +1,40 @@
+// ##################################################################
+//                 VATSSA | FIR AFRA | TopSky | SSRCodes
+// ##################################################################
+
+// Version v0.2
+// Update Date 28/08/2022
+
+
+// ##################################################################
+//                 AFRA AFRICA ATLANTIC
+// ##################################################################
+
+// DAKAR OCEANIC TRANSIT
+RANGE:2000:2000
+PRIORITY:3
+UNIT:GOOC_FSS
+IFR
+
+// ACCRA OCEANIC TRANSIT
+RANGE:2000:2000
+PRIORITY:3
+UNIT:DGAO_CTR
+IFR
+
+// LUANDA OCEANIC TRANSIT
+RANGE:0400:0477
+PRIORITY:3
+UNIT:AFRC_FSS
+IFR
+
+// JOHANNESBURG OCEANIC TRANSIT
+RANGE:2000:2000
+PRIORITY:3
+UNIT:FAJO_FSS
+IFR
+
+
+// ##################################################################
+//                 THE END
+// ##################################################################

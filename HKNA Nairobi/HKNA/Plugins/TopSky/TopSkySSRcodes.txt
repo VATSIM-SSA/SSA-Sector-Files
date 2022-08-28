@@ -2,41 +2,76 @@
 //                 VATSSA | FIR HKNA | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.1
-// Update Date 18/07/2022
+// Version v0.2
+// Update Date 28/08/2022
+
+
+// ##################################################################
+//                 HKNA NAIROBI
+// ##################################################################
+
+// FIR TRANSIT
+RANGE:0500:0577
+PRIORITY:2
+NOTADEP:HK
+NOTADES:HK
+IFR
+
+RANGE:1320:1377
+PRIORITY:3
+NOTADEP:HK
+NOTADES:HK
+IFR
 
 
 // ##################################################################
 //                 HK KENYA
 // ##################################################################
 
-// HKJK DEPs
-RANGE:0500:0577
-ADEP:HKJK
-IFR
-
-// HKJK DEPs
-RANGE:1300:1377
-ADEP:HKJK
-IFR
-VFR
-
-// HK KENYA DOMESTIC
-RANGE:5340:5377
+// HK DOMESTIC
+RANGE:0700:0777
+PRIORITY:1
 ADEP:HK
 ADES:HK
 IFR
-VFR
 
-// HK KENYA OUTBOUND
-RANGE:5400:5477
+RANGE:5300:5377
+PRIORITY:3
 ADEP:HK
+ADES:HK
 IFR
-VFR
 
-// NBO CTR
-RANGE:1640:1670
+RANGE:5400:5477
+PRIORITY:2
+ADEP:HK
+ADES:HK
+IFR
+
+// HK INTERNATIONAL OUTBOUND
+RANGE:0500:0577
+PRIORITY:3
+ADEP:HK
+NOTADES:HK
+IFR
+
+RANGE:1320:1377
+PRIORITY:3
+ADEP:HK
+NOTADES:HK
+IFR
+
+// HK INTERNATIONAL INBOUND
+RANGE:0500:0577
+PRIORITY:3
 NOTADEP:HK
+ADES:HK
+IFR
+
+RANGE:1320:1377
+PRIORITY:3
+NOTADEP:HK
+ADES:HK
+IFR
 
 
 // ##################################################################
