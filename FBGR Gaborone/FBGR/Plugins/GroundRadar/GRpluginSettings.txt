@@ -151,7 +151,7 @@ List_Stand_Items=20
 
 
 // ##################################################################
-//                 #7 TIMERS | DEPARTURE v0.1
+//                 #7A TIMERS | DEPARTURE v0.1
 // ##################################################################
 
 List_Outbound_DefPos=1100,150
@@ -160,6 +160,19 @@ List_Outbound_WTC=1
 List_Outbound_WTC_Type=2
 List_Outbound_SID=1
 List_Outbound_ExpiryTime=600
+
+
+// ##################################################################
+//                 #7B TIMERS | TTT v0.1
+// ##################################################################
+
+List_Inbound_DefPos=1100,150
+List_Inbound_DTT=0
+List_Inbound_TYPE=1
+List_Inbound_WTC=1
+List_Inbound_WTC_Type=2
+List_Inbound_ETA=1
+List_Inbound_STAND=1
 
 
 // ##################################################################
@@ -199,7 +212,7 @@ Window_APP=1,1300,200,500,250
 Window_APP_Rotation=28
 Window_APP_Scale=10
 Window_APP_Extensions=1
-Window_APP_AltFilter=5000
+Window_APP_AltFilter=8299
 
 AppPath=FBSK:FBSK 08:S024.33.42.141:E025.54.19.418:078:L:3292:3.0
 
@@ -211,7 +224,7 @@ Window_APP=1,1300,350,500,250
 Window_APP_Rotation=24.4
 Window_APP_Scale=10
 Window_APP_Extensions=1
-Window_APP_AltFilter=5000
+Window_APP_AltFilter=8094
 
 
 // ##################################################################
