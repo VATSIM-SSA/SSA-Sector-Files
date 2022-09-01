@@ -2,8 +2,8 @@
 //                 VATSSA | FIR GOOO | TopSky | Settings
 // ##################################################################
 
-// Version v0.4
-// Update Date 15/08/2022
+// Version v0.5
+// Update Date 30/08/2022
 
 
 // ##################################################################
@@ -221,12 +221,13 @@ Malrt_Irregular=IRR
 
 
 // ##################################################################
-//                 #7 CPDLC v0.2
+//                 #7 CPDLC v0.3
 // ##################################################################
 
 CPDLC_Default=1
 CPDLC_MinLevel=195
 CPDLC_Server=http://www.hoppie.nl/
+CPDLC_MiniServer=localhost
 CPDLC_Page=acars/system/connect.html
 CPDLC_PlaySound=1
 CPDLC_PDC_PlaySound=1
@@ -280,7 +281,7 @@ MSAW_PredictionTime=45
 
 
 // ##################################################################
-//                   #10 NOTAMs v0.1
+//                   #10 NOTAMs v0.2
 // ##################################################################
 
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
@@ -288,7 +289,7 @@ HTTP_NOTAM_Page_Prefix=PilotWeb/notamRetrievalByICAOAction.do?method=displayByIC
 HTTP_NOTAM_Page_Suffix=&actionType=notamRetrievalByICAOs
 HTTP_NOTAM_Data_Prefix=<PRE>
 HTTP_NOTAM_Data_Suffix=</PRE>
-//HTTP_NOTAM_Area_Sched_Text
+HTTP_NOTAM_Area_Sched_Text=ACTIVATED
 //HTTP_NOTAM_Area_Sched_Debug
 
 HTTP_NOTAM_AUP_Text=NO RSA     MNM MAX WEF   TIL REMARK
@@ -296,6 +297,8 @@ HTTP_NOTAM_AUP_Offset_MNM=8
 HTTP_NOTAM_AUP_Offset_MAX=12
 HTTP_NOTAM_AUP_Offset_WEF=16
 HTTP_NOTAM_AUP_Offset_TIL=22
+
+Areas_NOTAM_Activation=1
 
 
 // ##################################################################
