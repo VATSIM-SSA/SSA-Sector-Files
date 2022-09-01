@@ -2,23 +2,49 @@
 //                 VATSSA | FIR FZZA | TopSky | STCA
 // ##################################################################
 
-// Version v0.1
-// Update Date 24/06/2022
-
-// Changelog
-// v0.1 | FZZA TopSkySTCA Initial Setup
+// Version v0.2
+// Update Date 30/08/2022
 
 
 // ##################################################################
-//                 FZ DEM REP OF CONGO
+//                 FZ DEMOCRATIC REPUBLIC OF THE CONGO
 // ##################################################################
 
-// FZAA
+// FZAA | KINSHASA N'DJILI
 FINALAPP:FZAA:06
 FINALAPP:FZAA:24
 
-// FZNA
+// FZEA | MBANDAKA
+FINALAPP:FZEA:18
+FINALAPP:FZEA:36
+
+// FZFD | GBADOLITE
+FINALAPP:FZFD:07
+FINALAPP:FZFD:25
+
+// FZIC | KISANGANI BANGOKA INTL
+FINALAPP:FZIC:12
+FINALAPP:FZIC:30
+
+// FZKA | BUNIA
+FINALAPP:FZKA:10
+FINALAPP:FZKA:28
+
+// FZNA | GOMA INTL
+FINALAPP:FZNA:17
 FINALAPP:FZNA:35
+
+// FZOA | KINDU
+FINALAPP:FZOA:18
+FINALAPP:FZOA:36
+
+// FZQA | LUBUMBASHI LUANO
+FINALAPP:FZQA:07
+FINALAPP:FZQA:25
+
+// FZUA | KANANGA
+FINALAPP:FZUA:11
+FINALAPP:FZUA:29
 
 
 // ##################################################################

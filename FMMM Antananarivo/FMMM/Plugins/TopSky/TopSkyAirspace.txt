@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FMMM | TopSky | Airspace
 // ##################################################################
 
-// Version v0.2
-// Update Date 30/07/2022
+// Version v0.3
+// Update Date 01/09/2022
 
 
 // ##################################################################
@@ -45,9 +45,45 @@ LEVELS:FMCZ:16,25
 
 // TL Transition Level
 QNHTL:FMEE:140,995,135,1013,130,1031,125,1049,120,1060,120
+QNHTL:FMEP:140,995,135,1013,130,1031,125,1049,120,1060,120
 
 // LEVELS
 LEVELS:FMEE:30,31,35
+LEVELS:FMEP:13,30,35
+
+// FMEE  | ST DENIS / LA REUNION ROLAND GARROS
+APPLINE:FMEE:12:107:FMEE/12
+
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+// FMMI | ANTANANARIVO IVATO
+INITIAL_CFL:6000
+CFL_FRUL:I
+CFL_ADEP:FMMI
+CFL_DRWY:11:29
+CFL_SID:*
+
+// FMEE  | ST DENIS / LA REUNION ROLAND GARROS
+INITIAL_CFL:3000
+CFL_FRUL:I
+CFL_ADEP:FMEE
+CFL_DRWY:12:14:30:32
+CFL_SID:*
+
+// FMEP | ST PIERRE PIERREFONDS
+INITIAL_CFL:11000
+CFL_FRUL:I
+CFL_ADEP:FMEP
+CFL_DRWY:15:33
+CFL_SID:SDG:RECIF
+
+INITIAL_CFL:3000
+CFL_FRUL:I
+CFL_ADEP:FMEP
+CFL_DRWY:15:33
+CFL_SID:ANTOL:DOBUT:GERAG:GETIR:MG:NODSI:UNKIK:UVENA
 
 
 // ##################################################################
