@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:FACA:
+ARTCC high boundary:FAJA:
+ARTCC high boundary:FAJO:
+ARTCC high boundary:FIMM:
+ARTCC high boundary:FMMM:
+ARTCC high boundary:FNAN:
+ARTCC high boundary:FQBE:
+ARTCC high boundary:FYWH:
+ARTCC high boundary:SAEF:
+ARTCC high boundary:SAVF:
+ARTCC high boundary:SBAO:
+ARTCC high boundary:SUEO:
+ARTCC high boundary:YMMM:
+Geo:FA Landmark Coast NE:
+Geo:FA Landmark Coast NW:
+Geo:FA Landmark Coast S:
+Geo:FAJO Landmark Coast Antarctica:
+Geo:FAJO Landmark Coast Islands:
+Geo:FN Landmark Coast S:
+Geo:FQ Landmark Coast S:
+Geo:FY Landmark Coast M:
+Geo:FY Landmark Coast N:
+Geo:FY Landmark Coast S:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-76.332973:-83.895884:-13.826306:151.762846
