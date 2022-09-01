@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FBGR | TopSky | Airspace
 // ##################################################################
 
-// Version v0.2
-// Update Date 30/07/2022
+// Version v0.3
+// Update Date 29/08/2022
 
 
 // ##################################################################
@@ -20,6 +20,37 @@ QNHTL:FBSP:90,995,85,1013,80,1031,75,1049,70,1060,70
 // LEVELS
 LEVELS:FBSK:51,55,60
 LEVELS:FBMN:50,51,60
+
+
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+// FBMN | MAUN
+INITIAL_CFL:5500
+CFL_FRUL:I
+CFL_ADEP:FBMN
+CFL_DRWY:08:26
+CFL_SID:APDEX:APDUN:APGAR:APLEV:APLUD:EGMIR:EKBOG
+
+INITIAL_CFL:7000
+CFL_FRUL:I
+CFL_ADEP:FBMN
+CFL_DRWY:26
+CFL_SID:APKIS
+
+INITIAL_CFL:8000
+CFL_FRUL:I
+CFL_ADEP:FBMN
+CFL_DRWY:08
+CFL_SID:APKIS
+
+// FBSK | GABORONE SIR SERETSE KHAMA INTL
+INITIAL_CFL:8000
+CFL_FRUL:I
+CFL_ADEP:FBSK
+CFL_DRWY:08:26
+CFL_SID:*
 
 
 // ##################################################################
