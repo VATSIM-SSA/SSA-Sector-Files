@@ -1,0 +1,55 @@
+Settings	SettingsfileVOICE	\FASA\Settings\VoiceChannels.txt
+Settings	SettingsfileSYMBOLOGY	\FASA\Settings\Local\Symbology.txt
+Settings	SettingsfilePROFILE	\FASA\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FASA\Settings\Tags_TS.txt
+Settings	SettingsfileSIL	\FASA\Settings\Local\SectorInboundList.txt
+Settings	SettingsfileSEL	\FASA\Settings\Local\SectorExitList.txt
+Settings	SettingsfileDEP	\FASA\Settings\Local\DepartureList.txt
+Settings	SettingsfileARR	\FASA\Settings\Local\ArrivalList.txt
+Settings	SettingsfileFP	\FASA\Settings\Local\FPList.txt
+Settings	SettingsfileCONFLICT	\FASA\Settings\Local\Conflict.txt
+Settings	SettingsfilePLUGINS	\FASA\Settings\Local\Plugins.txt
+Settings	Settingsfile	\FASA\Settings\Local\General.txt
+Settings	SettingsfileSCREEN	\FASA\Settings\Local\Screen.txt
+Settings	SettingsfileVCCS	\FASA\Settings\VCCS.txt
+Settings	alias	\FASA\Alias\Alias.txt
+Settings	AtisFolder	ATIS\ATIS-FASA.txt
+Settings	airlines	\FASA\ICAO\ICAO_Airlines.txt
+Settings	airports	\FASA\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FASA\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FASA\NavData\airway.txt
+Plugins	Plugin0	\FASA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1	\FASA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin2	\FASA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+RecentFiles	Recent1	\FASA\ASR\1_GEN.asr
+RecentFiles	Recent1	\FASA\ASR\2_TWR.asr
+ASRFastKeys	1	\FASA\ASR\1_GEN.asr
+ASRFastKeys	2	\FASA\ASR\FAOR_TWR GR.asr
+ASRFastKeys	3	\FASA\ASR\FACT_TWR GR.asr
+ASRFastKeys	4	\FASA\ASR\FAPE_TWR GR.asr
+Settings	sector	\FASA-Package_20220811185358-220801-0004.sct
+Sounds	Sound1	\FASA\Sounds\handoff_accept.wav
+Sounds	Sound2	\FASA\Sounds\conflict_alert.wav
+Sounds	Sound3	\FASA\Sounds\radio_message.wav
+Sounds	Sound4	\FASA\Sounds\private_message.wav
+Sounds	Sound5	\FASA\Sounds\atc_message.wav
+Sounds	Sound6	\FASA\Sounds\broadcast_message.wav
+Sounds	Sound7	\FASA\Sounds\landline_request.wav
+Sounds	Sound8	\FASA\Sounds\supervisor_message.wav
+Sounds	Sound9	\FASA\Sounds\connected.wav
+Sounds	Sound10	\FASA\Sounds\disconnected.wav
+Sounds	Sound11	\FASA\Sounds\ongoing_request.wav
+Sounds	Sound12	\FASA\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FASA\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FASA\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FASA\Sounds\new_atis.wav
+Sounds	Sound16	\FASA\Sounds\handoff_refused.wav
+Sounds	Sound17	\FASA\Sounds\pointout.wav
+Sounds	Sound18	\FASA\Sounds\startup.wav
+Sounds	Sound19	\FASA\Sounds\startup.wav
+Sounds	Sound20	\FASA\Sounds\supervisor_message.wav
+Sounds	Sound0	\FASA\Sounds\handoff_request.wav

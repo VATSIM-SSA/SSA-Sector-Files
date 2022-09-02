@@ -2,11 +2,8 @@
 //                 VATSSA | FIR FZZA | TopSky | Airspace
 // ##################################################################
 
-// Version v0.2
-// Update Date 30/07/2022
-
-// Changelog
-// v0.1 | FZZA TopSkyAirspace Initial Setup
+// Version v0.3
+// Update Date 30/08/2022
 
 
 // ##################################################################
@@ -30,6 +27,61 @@ QNHTL:FZWA:60
 // LEVELS
 LEVELS:FZAA:26,,30,35,40,42,45,50,55,60
 LEVELS:FZNA:69,70,80
+
+
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+// FZAA | KINSHASA N'DJILI
+INITIAL_CFL:4000
+CFL_FRUL:I
+CFL_ADEP:FZAA
+CFL_DRWY:06:24
+CFL_SID:DILGO:EMKON:GEDPO
+
+INITIAL_CFL:4500
+CFL_FRUL:I
+CFL_ADEP:FZAA
+CFL_DRWY:06:24
+CFL_SID:ABGUV:EGVID:GUSAR:LUSNO:OGNIK:ORVIP:RUVIL:UDRID:ULVAS:XIVMA
+
+INITIAL_CFL:5500
+CFL_FRUL:I
+CFL_ADEP:FZAA
+CFL_DRWY:06:24
+CFL_SID:BZ
+
+// FZNA | GOMA INTL
+INITIAL_CFL:11000
+CFL_FRUL:I
+CFL_ADEP:FZNA
+CFL_DRWY:17:35
+CFL_SID:KAROS
+
+INITIAL_CFL:12000
+CFL_FRUL:I
+CFL_ADEP:FZNA
+CFL_DRWY:17:35
+CFL_SID:OGUDI:GIGAG
+
+INITIAL_CFL:14000
+CFL_FRUL:I
+CFL_ADEP:FZNA
+CFL_DRWY:17:35
+CFL_SID:OKDIV:BKU:BKV
+
+INITIAL_CFL:15000
+CFL_FRUL:I
+CFL_ADEP:FZNA
+CFL_DRWY:17:35
+CFL_SID:DIBLO:DITVA:NESOG:NKUBI:ILKIL:LURBI:VADNI
+
+INITIAL_CFL:16000
+CFL_FRUL:I
+CFL_ADEP:FZNA
+CFL_DRWY:17:35
+CFL_SID:RANAG:UXOBU:XIBKI
 
 
 // ##################################################################

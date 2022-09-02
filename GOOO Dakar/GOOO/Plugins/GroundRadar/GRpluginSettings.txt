@@ -4,8 +4,8 @@
 
 /// GroundRadar Version 1.5 Stable
 
-// Version v0.3
-// Update Date 30/06/2022
+// Version v0.4
+// Update Date 30/08/2022
 
 
 // ##################################################################
@@ -151,7 +151,7 @@ List_Stand_Items=20
 
 
 // ##################################################################
-//                 #7 TIMERS | DEPARTURE v0.1
+//                 #7A TIMERS | DEPARTURE v0.1
 // ##################################################################
 
 List_Outbound_DefPos=1100,150
@@ -160,6 +160,19 @@ List_Outbound_WTC=1
 List_Outbound_WTC_Type=2
 List_Outbound_SID=1
 List_Outbound_ExpiryTime=600
+
+
+// ##################################################################
+//                 #7B TIMERS | TTT v0.1
+// ##################################################################
+
+List_Inbound_DefPos=1100,150
+List_Inbound_DTT=0
+List_Inbound_TYPE=1
+List_Inbound_WTC=1
+List_Inbound_WTC_Type=2
+List_Inbound_ETA=1
+List_Inbound_STAND=1
 
 
 // ##################################################################
@@ -198,8 +211,8 @@ Airport_Radius=3
 Window_APP=1,1075,425,500,250
 Window_APP_Rotation=68
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5021
 
 AppPath=DIAP:DIAP 21:N005.16.25.658:W003.55.14.520:207:R:11:3.0
 
@@ -215,8 +228,8 @@ Airport_Radius=3
 Window_APP=1,1075,700,500,250
 Window_APP_Rotation=34
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=6247
 
 AppPath=GABS:GABS 06:N012.31.36.559:W007.57.37.270:061:R:1188:3.0
 
@@ -232,10 +245,10 @@ Airport_Radius=3
 Window_APP=1,1075,400,500,300
 Window_APP_Rotation=319
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5093
 
-AppPath=GBYD:GBYD 32:N013.19.38.269:W016.38.22.869:321:R:74:3.0
+AppPath=GBYD:GBYD 32:N013.19.38.269:W016.38.22.869:321:L:74:3.0
 
 
 // ##################################################################
@@ -249,8 +262,8 @@ Airport_Radius=3
 Window_APP=1,1075,425,500,250
 Window_APP_Rotation=343
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5093
 
 AppPath=GFLL:GFLL 30:N008.36.43.959:W013.10.53.918:295:R:90:3.0
 
@@ -266,8 +279,8 @@ Airport_Radius=3
 Window_APP=1,1075,720,500,250
 Window_APP_Rotation=71.4
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5128
 
 AppPath=GGOV:GGOV 21:N011.54.30.740:W015.38.56.299:206:R:89:3.0
 
@@ -283,8 +296,8 @@ Airport_Radius=3
 Window_APP=1,550,700,500,250
 Window_APP_Rotation=60
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5031
 
 AppPath=GLRB:GLRB 04:N006.13.14.779:W010.22.12.590:042:R:29:2.99
 
@@ -300,10 +313,10 @@ Airport_Radius=3
 Window_APP=1,475,680,600,275
 Window_APP_Rotation=270
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5290
 
-AppPath=GOBD:GOBD 01:N014.39.18.629:W017.04.21.630:007:R:272:3.0
+AppPath=GOBD:GOBD 01:N014.39.18.629:W017.04.21.630:007:L:272:3.0
 
 [GOOY]
 Airport_Elevation=85
@@ -312,8 +325,8 @@ Airport_Radius=3
 Window_APP=1,175,650,500,300
 Window_APP_Rotation=341
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5085
 
 [GOSS]
 Airport_Elevation=10
@@ -322,8 +335,8 @@ Airport_Radius=3
 Window_APP=1,1175,400,500,300
 Window_APP_Rotation=278
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5010
 
 
 // ##################################################################
@@ -337,8 +350,8 @@ Airport_Radius=3
 Window_APP=1,600,650,500,300
 Window_APP_Rotation=355
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5010
 
 AppPath=GQNO:GQNO 06:N018.17.41.251:W015.59.32.618:056:R:10:3.0
 AppPath=GQNO:GQNO 34:N020.31.07.028:W013.02.09.859:336:R:7:3.0
@@ -350,8 +363,8 @@ Airport_Radius=3
 Window_APP=1,1075,425,500,300
 Window_APP_Rotation=75
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5009
 
 AppPath=GQPP:GQPP 02:N020.55.20.341:W017.01.58.141:021:R:4:3.0
 
@@ -367,8 +380,8 @@ Airport_Radius=3
 Window_APP=1,1075,425,500,250
 Window_APP_Rotation=41
 Window_APP_Scale=10
-Window_APP_Extensions=10
-Window_APP_AltFilter=5000
+Window_APP_Extensions=1
+Window_APP_AltFilter=5071
 
 AppPath=GUCY:GUCY 06:N009.34.02.038:W013.37.24.160:057:R:68:3.0
 

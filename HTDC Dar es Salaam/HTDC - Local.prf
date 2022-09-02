@@ -1,0 +1,66 @@
+Settings	SettingsfileSYMBOLOGY	\HTDC\Settings\Local\Symbology.txt
+Settings	SettingsfileVOICE	\HTDC\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\HTDC\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\HTDC\Settings\Local\Tags.txt
+Settings	SettingsfileSIL	\HTDC\Settings\Local\SectorInboundList.txt
+Settings	SettingsfileSEL	\HTDC\Settings\Local\SectorExitList.txt
+Settings	SettingsfileDEP	\HTDC\Settings\Local\DepartureList.txt
+Settings	SettingsfileARR	\HTDC\Settings\Local\ArrivalList.txt
+Settings	SettingsfileFP	\HTDC\Settings\Local\FPList.txt
+Settings	SettingsfilePLUGINS	\HTDC\Settings\Local\Plugins.txt
+Settings	Settingsfile	\HTDC\Settings\Local\General.txt
+Settings	SettingsfileSCREEN	\HTDC\Settings\Local\Screen.txt
+Settings	SettingsfileCONFLICT	\HTDC\Settings\Local\Conflict.txt
+Settings	SettingsfileVCCS	\HTDC\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\HTDC\Settings\Local\PilotingList.txt
+Settings	alias	\HTDC\Alias\alias.txt
+Settings	airlines	\HTDC\ICAO\ICAO_Airlines.txt
+Settings	airports	\HTDC\ICAO\ICAO_Airports.txt
+Settings	aircraft	\HTDC\ICAO\ICAO_Aircraft.txt
+Settings	airways	\HTDC\NavData\airway.txt
+Settings	airportcoords	\HTDC\NavData\icao.txt
+RecentFiles	Recent1	\HTDC\ASR\1_CTR.asr
+RecentFiles	Recent2	\HTDC\ASR\2_APP.asr
+RecentFiles	Recent3	\HTDC\ASR\3_TWR.asr
+ASRFastKeys	1	\HTDC\ASR\1_CTR.asr
+ASRFastKeys	2	\HTDC\ASR\2_APP.asr
+ASRFastKeys	3	\HTDC\ASR\3_TWR.asr
+Settings	sector	\HTDC-Package_20220811150333-220801-0001.sct
+Plugins	Plugin0	\HTDC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\HTDC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Sounds	Sound1	\HTDC\Sounds\handoff_accept.wav
+Sounds	Sound2	\HTDC\Sounds\conflict_alert.wav
+Sounds	Sound3	\HTDC\Sounds\radio_message.wav
+Sounds	Sound4	\HTDC\Sounds\private_message.wav
+Sounds	Sound5	\HTDC\Sounds\atc_message.wav
+Sounds	Sound6	\HTDC\Sounds\broadcast_message.wav
+Sounds	Sound7	\HTDC\Sounds\landline_request.wav
+Sounds	Sound8	\HTDC\Sounds\supervisor_message.wav
+Sounds	Sound9	\HTDC\Sounds\connected.wav
+Sounds	Sound10	\HTDC\Sounds\disconnected.wav
+Sounds	Sound11	\HTDC\Sounds\ongoing_request.wav
+Sounds	Sound12	\HTDC\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\HTDC\Sounds\ongoing_refused.wav
+Sounds	Sound14	\HTDC\Sounds\ongoing_manual.wav
+Sounds	Sound15	\HTDC\Sounds\new_atis.wav
+Sounds	Sound16	\HTDC\Sounds\handoff_refused.wav
+Sounds	Sound17	\HTDC\Sounds\pointout.wav
+Sounds	Sound18	\HTDC\Sounds\startup.wav
+Sounds	Sound19	\HTDC\Sounds\startup.wav
+Sounds	Sound20	\HTDC\Sounds\supervisor_message.wav
+Sounds	Sound0	\HTDC\Sounds\handoff_request.wav
