@@ -7,12 +7,12 @@ Settings	SettingsfileSEL	\FIMM\Settings\Lists_TS.txt
 Settings	SettingsfileDEP	\FIMM\Settings\Lists_TS.txt
 Settings	SettingsfileARR	\FIMM\Settings\Lists_TS.txt
 Settings	SettingsfileFP	\FIMM\Settings\Lists_TS.txt
-Settings	SettingsfilePLUGINS	\FIMM\Settings\Plugins.txt
-Settings	Settingsfile	\FIMM\Settings\General.txt
-Settings	SettingsfileSCREEN	\FIMM\Settings\Screen.txt
+Settings	SettingsfilePLUGINS	\FIMM\Settings\Local\Plugins.txt
+Settings	Settingsfile	\FIMM\Settings\Local\General.txt
+Settings	SettingsfileSCREEN	\FIMM\Settings\Local\Screen.txt
 Settings	SettingsfileCONFLICT	\FIMM\Settings\Lists_TS.txt
 Settings	SettingsfileVCCS	\FIMM\Settings\VCCS.txt
-Settings	SettingsfilePILOTING	\FIMM\Settings\PilotingList.txt
+Settings	SettingsfilePILOTING	\FIMM\Settings\Local\PilotingList.txt
 Settings	alias	\FIMM\Alias\alias.txt
 Settings	airlines	\FIMM\ICAO\ICAO_Airlines.txt
 Settings	airports	\FIMM\ICAO\ICAO_Airports.txt
@@ -29,12 +29,12 @@ Plugins	Plugin2	\FIMM\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin2Display0	Ground Radar display
 Plugins	Plugin1	\FIMM\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-Settings	SettingsfileORIGPLANE	\FIMM\Settings\General.txt
-Settings	SettingsfileSTUP	\FIMM\Settings\General.txt
-Settings	SettingsfileTAXIOUT	\FIMM\Settings\General.txt
-Settings	SettingsfileTAKEOFF	\FIMM\Settings\General.txt
-Settings	SettingsfileADCS	\FIMM\Settings\General.txt
-Settings	SettingsfileTAXIIN	\FIMM\Settings\General.txt
+Settings	SettingsfileORIGPLANE	\FIMM\Settings\Local\General.txt
+Settings	SettingsfileSTUP	\FIMM\Settings\Local\General.txt
+Settings	SettingsfileTAXIOUT	\FIMM\Settings\Local\General.txt
+Settings	SettingsfileTAKEOFF	\FIMM\Settings\Local\General.txt
+Settings	SettingsfileADCS	\FIMM\Settings\Local\General.txt
+Settings	SettingsfileTAXIIN	\FIMM\Settings\Local\General.txt
 Settings	sector	\FIMM-Package_20220811180352-220801-0001.sct
 Plugins	Plugin0	\FIMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
