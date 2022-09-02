@@ -40,21 +40,18 @@ Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4	\FVHF\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin4Display0	Ground Radar display
-Plugins	Plugin5	\FVHF\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin5	\FVHF\Plugins\PushbackFlorian\PushbackFlorian.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
-Plugins	Plugin6	\FVHF\Plugins\PushbackFlorian\PushbackFlorian.dll
-Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin6Display1	Standard ES radar screen
-Plugins	Plugin7	\FVHF\Plugins\TopSky\TopSky.dll
-Plugins	Plugin7Display0	Standard ES radar screen
-Plugins	Plugin7Display1	Ground Radar display
-Plugins	Plugin8	\FVHF\Plugins\vCH\VCH.dll
+Plugins	Plugin6	\FVHF\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FVHF\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FVHF\Plugins\vFPC\VFPC.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
-Plugins	Plugin9	\FVHF\Plugins\vFPC\VFPC.dll
-Plugins	Plugin9Display0	Ground Radar display
-Plugins	Plugin9Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
