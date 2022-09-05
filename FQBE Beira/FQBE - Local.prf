@@ -19,16 +19,41 @@ Settings	airports	\FQBE\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FQBE\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FQBE\NavData\airway.txt
 Settings	airportcoords	\FQBE\NavData\icao.txt
-RecentFiles	Recent1	\FQBE\ASR\1_CTR.asr
-RecentFiles	Recent2	\FQBE\ASR\2_APP.asr
-RecentFiles	Recent3	\FQBE\ASR\3_TWR.asr
-ASRFastKeys	1	\FQBE\ASR\1_CTR.asr
-ASRFastKeys	2	\FQBE\ASR\2_APP.asr
-ASRFastKeys	3	\FQBE\ASR\3_TWR.asr
+ASRFastKeys	1	\FQBE\ASR\1 FQBE CTR TS.asr
+ASRFastKeys	2	\FQBE\ASR\FQMA APP TS.asr
+ASRFastKeys	3	\FQBE\ASR\FQMA AD GR.asr
+ASRFastKeys	4	\FQBE\ASR\FQBR APP TS.asr
+ASRFastKeys	5	\FQBE\ASR\FQBR AD GR.asr
+RecentFiles	Recent1	\FQBE\ASR\1 FQBE CTR TS.asr
+RecentFiles	Recent2	\FQBE\ASR\FQMA APP TS.asr
+RecentFiles	Recent3	\FQBE\ASR\FQMA AD GR.asr
 Settings	sector	\FQBE-Package_20220811173252-220801-0001.sct
 Plugins	Plugin0	\FQBE\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FQBE\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FQBE\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FQBE\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FQBE\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FQBE\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FQBE\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FQBE\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FQBE\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.

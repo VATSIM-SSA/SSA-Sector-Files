@@ -1,36 +1,34 @@
+Settings	sector	\GVSC-Package_20220811151842-220801-0001.sct
+Settings	Settingsfile	\GVSC\Settings\Common\VATSSA_General.txt
 Settings	SettingsfileSYMBOLOGY	\GVSC\Settings\Common\VATSSA_Symbology.txt
-Settings	SettingsfileVOICE	\GVSC\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\GVSC\Settings\Profiles.txt
 Settings	SettingsfileTAGS	\GVSC\Settings\Common\VATSSA_Tags.txt
 Settings	SettingsfileSIL	\GVSC\Settings\Common\VATSSA_SectorInboundList.txt
 Settings	SettingsfileSEL	\GVSC\Settings\Common\VATSSA_SectorExitList.txt
 Settings	SettingsfileDEP	\GVSC\Settings\Common\VATSSA_DepartureList.txt
 Settings	SettingsfileARR	\GVSC\Settings\Common\VATSSA_ArrivalList.txt
 Settings	SettingsfileFP	\GVSC\Settings\Common\VATSSA_FPList.txt
-Settings	SettingsfilePLUGINS	\GVSC\Settings\Common\VATSSA_Plugins.txt
-Settings	Settingsfile	\GVSC\Settings\Common\VATSSA_General.txt
-Settings	SettingsfileSCREEN	\GVSC\Settings\Common\VATSSA_Screen.txt
 Settings	SettingsfileCONFLICT	\GVSC\Settings\Common\VATSSA_Conflict.txt
-Settings	SettingsfileVCCS	\GVSC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\GVSC\Settings\Common\VATSSA_PilotingList.txt
+Settings	SettingsfilePLUGINS	\GVSC\Settings\Common\VATSSA_Plugins.txt
+Settings	SettingsfileSCREEN	\GVSC\Settings\Common\VATSSA_Screen.txt
+Settings	SettingsfilePROFILE	\GVSC\Settings\Profiles.txt
+Settings	SettingsfileVOICE	\GVSC\Settings\VoiceChannels.txt
+Settings	SettingsfileVCCS	\GVSC\Settings\VCCS.txt
 Settings	alias	\GVSC\Alias\alias.txt
 Settings	airlines	\GVSC\ICAO\ICAO_Airlines.txt
 Settings	airports	\GVSC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\GVSC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\GVSC\NavData\airway.txt
 Settings	airportcoords	\GVSC\NavData\icao.txt
-RecentFiles	Recent1	\GVSC\ASR\GVSC APP TS.asr
-RecentFiles	Recent2	\GVSC\ASR\GVAC AD GR.asr
-RecentFiles	Recent3	\GVSC\ASR\GVBA AD GR.asr
-RecentFiles	Recent4	\GVSC\ASR\GVNP AD GR.asr
-RecentFiles	Recent2	\GVSC\ASR\GVSV AD GR.asr
 ASRFastKeys	1	\GVSC\ASR\1 GVSC CTR TS.asr
 ASRFastKeys	2	\GVSC\ASR\GVSC APP TS.asr
 ASRFastKeys	3	\GVSC\ASR\GVAC AD GR.asr
 ASRFastKeys	4	\GVSC\ASR\GVBA AD GR.asr
 ASRFastKeys	5	\GVSC\ASR\GVNP AD GR.asr
 ASRFastKeys	6	\GVSC\ASR\GVSV AD GR.asr
-Settings	sector	\GVSC-Package_20220811151842-220801-0001.sct
+RecentFiles	Recent1	\GVSC\ASR\1 GVSC CTR TS.asr
+RecentFiles	Recent2	\GVSC\ASR\GVSC APP TS.asr
+LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
 LastSession	facility	0

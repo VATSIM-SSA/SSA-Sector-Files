@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FASA | TopSky | Airspace
 // ##################################################################
 
-// Version v0.2
-// Update Date 30/07/2022
+// Version v0.3
+// Update Date 04/09/2022
 
 
 // ##################################################################
@@ -49,20 +49,36 @@ QNHTL:FAPG:87,995,82,1013,77,1031,72,1049,67,1060,67
 QNHTL:FAUT:95,995,90,1013,85,1031,80,1049,75,1060,75
 
 
-// INITIAL CLIMB FACT SIDS FL090
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
 
+// FACT
 INITIAL_CFL:9000
+CFL_FRUL:I
+CFL_ADEP:FACT
+CFL_DRWY:01:19
 CFL_SID:IMSO1A:IMSO1B:KODE1A:KODE1B:OKTE1A:OKTE1B:OKTE1C:TETA1A:TETA1B:TETA1C
+//CFL_VIA:
+//CFL_AHDG:
 
-// INITIAL CLIMB FAOR SIDS 8000FT
-
+// FAOR
 INITIAL_CFL:8000
+CFL_FRUL:I
+CFL_ADEP:FAOR
+CFL_DRWY:*
 CFL_SID:APDA1B:APDA1D:EGME1C:EGME1D:GERO1C:APDA3A:APDA2B:EGME2A:EGME2B:EXOB1A:EXOB3B:GAV5B:GAV6C:HGV5D:LIV1C:NESA1A:NORV2A:OVAL1A:OVAL1V:REGU3A:REGU3B:VASU3A:VASU3B
+//CFL_VIA:
+//CFL_AHDG:
 
-// INITIAL CLIMB FALE SIDS 7000FT
-
+// FALE
 INITIAL_CFL:7000
+CFL_FRUL:I
+CFL_ADEP:FALE
+CFL_DRWY:*
 CFL_SID:GYV1A:GYV2B:ITMI1C:OKTA1A:TUBI1A:TUBI1B
+//CFL_VIA:
+//CFL_AHDG:
 
 
 // ##################################################################
