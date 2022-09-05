@@ -19,16 +19,38 @@ Settings	airports	\FIMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FIMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FIMM\NavData\airway.txt
 Settings	airportcoords	\FIMM\NavData\icao.txt
-RecentFiles	Recent1	\FIMM\ASR\FIMM_CTR.asr
-RecentFiles	Recent2	\FIMM\ASR\FIMP_TWR.asr
-ASRFastKeys	1	\FIMM\ASR\FIMM_CTR.asr
-ASRFastKeys	2	\FIMM\ASR\FIMP_TWR.asr
-ASRFastKeys	3	\FIMM\ASR\FIMR_TWR.asr
-ASRFastKeys	4	\FIMM\ASR\FJDG_TWR.asr
-Plugins	Plugin2	\FIMM\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin1	\FIMM\Plugins\TopSky\TopSky.dll
+ASRFastKeys	1	\FIMM\ASR\1 FIMM CTR TS.asr
+ASRFastKeys	2	\FIMM\ASR\FIMP APP TS.asr
+ASRFastKeys	3	\FIMM\ASR\FIMP AD GR.asr
+RecentFiles	Recent1	\FIMM\ASR\1 FIMM CTR TS.asr
+RecentFiles	Recent2	\FIMM\ASR\FIMP APP TS.asr
+RecentFiles	Recent3	\FIMM\ASR\FIMP AD GR.asr
+Plugins	Plugin0	\FIMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FIMM\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FIMM\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FIMM\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FIMM\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FIMM\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FIMM\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FIMM\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FIMM\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 Settings	SettingsfileORIGPLANE	\FIMM\Settings\Local\General.txt
 Settings	SettingsfileSTUP	\FIMM\Settings\Local\General.txt
 Settings	SettingsfileTAXIOUT	\FIMM\Settings\Local\General.txt

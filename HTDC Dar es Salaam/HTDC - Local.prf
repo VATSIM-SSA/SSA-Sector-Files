@@ -19,19 +19,45 @@ Settings	airports	\HTDC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HTDC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HTDC\NavData\airway.txt
 Settings	airportcoords	\HTDC\NavData\icao.txt
-RecentFiles	Recent1	\HTDC\ASR\1_CTR.asr
-RecentFiles	Recent2	\HTDC\ASR\2_APP.asr
-RecentFiles	Recent3	\HTDC\ASR\3_TWR.asr
-ASRFastKeys	1	\HTDC\ASR\1_CTR.asr
-ASRFastKeys	2	\HTDC\ASR\2_APP.asr
-ASRFastKeys	3	\HTDC\ASR\3_TWR.asr
+ASRFastKeys	1	\HTDC\ASR\1 HTDC CTR TS.asr
+ASRFastKeys	2	\HTDC\ASR\HTDA APP TS.asr
+ASRFastKeys	3	\HTDC\ASR\HTDA AD GR.asr
+ASRFastKeys	4	\HTDC\ASR\HRYR APP TS.asr
+ASRFastKeys	5	\HTDC\ASR\HRYR AD GR.asr
+ASRFastKeys	6	\HTDC\ASR\HBBA APP TS GR.asr
+ASRFastKeys	7	\HTDC\ASR\HBBA AD GR.asr
+ASRFastKeys	8	\HTDC\ASR\HTKJ APP TS.asr
+ASRFastKeys	9	\HTDC\ASR\HTKJ AD GR.asr
+RecentFiles	Recent1	\HTDC\ASR\1 HTDC CTR TS.asr
+RecentFiles	Recent2	\HTDC\ASR\HTDA APP TS.asr
+RecentFiles	Recent3	\HTDC\ASR\HTDA AD GR.asr
 Settings	sector	\HTDC-Package_20220811150333-220801-0001.sct
 Plugins	Plugin0	\HTDC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\HTDC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\HTDC\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\HTDC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\HTDC\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\HTDC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\HTDC\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\HTDC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\HTDC\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\HTDC\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.

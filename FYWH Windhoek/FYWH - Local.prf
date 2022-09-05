@@ -19,16 +19,42 @@ Settings	airports	\FYWH\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FYWH\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FYWH\NavData\airway.txt
 Settings	airportcoords	\FYWH\NavData\icao.txt
-RecentFiles	Recent1	\FYWH\ASR\1_CTR.asr
-RecentFiles	Recent2	\FYWH\ASR\2_APP.asr
-RecentFiles	Recent3	\FYWH\ASR\3_TWR.asr
-ASRFastKeys	1	\FYWH\ASR\1_CTR.asr
-ASRFastKeys	2	\FYWH\ASR\2_APP.asr
-ASRFastKeys	3	\FYWH\ASR\3_TWR.asr
+ASRFastKeys	1	\FYWH\ASR\1 FYWH CTR TS.asr
+ASRFastKeys	2	\FYWH\ASR\FYWH APP TS.asr
+ASRFastKeys	3	\FYWH\ASR\FYWH AD GR.asr
+ASRFastKeys	4	\FYWH\ASR\FYWE AD GR.asr
+ASRFastKeys	5	\FYWH\ASR\FYWB APP TS.asr
+ASRFastKeys	6	\FYWH\ASR\FYWB AD GR.asr
+RecentFiles	Recent1	\FYWH\ASR\1 FYWH CTR TS.asr
+RecentFiles	Recent2	\FYWH\ASR\FYWH APP TS.asr
+RecentFiles	Recent3	\FYWH\ASR\FYWH AD GR.asr
 Settings	sector	\FYWH-Package_20220811155512-220801-0001.sct
 Plugins	Plugin0	\FYWH\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FYWH\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FYWH\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FYWH\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FYWH\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FYWH\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FYWH\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FYWH\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FYWH\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.

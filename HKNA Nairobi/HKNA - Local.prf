@@ -19,23 +19,41 @@ Settings	airports	\HKNA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HKNA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HKNA\NavData\airway.txt
 Settings	airportcoords	\HKNA\NavData\icao.txt
-RecentFiles	Recent1	\HKNA\ASR\1_CTR.asr
-RecentFiles	Recent2	\HKNA\ASR\3_TWR.asr
-RecentFiles	Recent3	\HKNA\ASR\2_APP.asr
-ASRFastKeys	1	\HKNA\ASR\1_CTR.asr
-ASRFastKeys	2	\HKNA\ASR\2_APP.asr
-ASRFastKeys	3	\HKNA\ASR\3_TWR.asr
+ASRFastKeys	1	\HKNA\ASR\1 HKNA CTR TS.asr
+ASRFastKeys	2	\HKNA\ASR\HKJK APP TS.asr
+ASRFastKeys	3	\HKNA\ASR\HKJK AD GR.asr
+ASRFastKeys	4	\HKNA\ASR\HKMO APP TS.asr
+ASRFastKeys	5	\HKNA\ASR\HKMO AD GR.asr
+RecentFiles	Recent1	\HKNA\ASR\1 HKNA CTR TS.asr
+RecentFiles	Recent2	\HKNA\ASR\HKJK APP TS.asr
+RecentFiles	Recent3	\HKNA\ASR\HKJK AD GR.asr
 Settings	sector	\HKNA-Package_20220811150941-220801-0001.sct
 Plugins	Plugin0	\HKNA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\HKNA\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin1Display1	Standard ES radar screen
-Plugins	Plugin1Display2	SMR radar display
-Plugins	Plugin2	\HKNA\Plugins\TopSky\TopSky.dll
-Plugins	Plugin2Display0	Standard ES radar screen
-Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin1	\HKNA\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\HKNA\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\HKNA\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\HKNA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\HKNA\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\HKNA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\HKNA\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\HKNA\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.

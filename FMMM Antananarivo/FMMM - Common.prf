@@ -1,29 +1,46 @@
+Settings	sector	\FMMM-Package_20220811174930-220801-0001.sct
+Settings	Settingsfile	\FMMM\Settings\Common\VATSSA_General.txt
 Settings	SettingsfileSYMBOLOGY	\FMMM\Settings\Common\VATSSA_Symbology.txt
-Settings	SettingsfileVOICE	\FMMM\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\FMMM\Settings\Profiles.txt
 Settings	SettingsfileTAGS	\FMMM\Settings\Common\VATSSA_Tags.txt
 Settings	SettingsfileSIL	\FMMM\Settings\Common\VATSSA_SectorInboundList.txt
 Settings	SettingsfileSEL	\FMMM\Settings\Common\VATSSA_SectorExitList.txt
 Settings	SettingsfileDEP	\FMMM\Settings\Common\VATSSA_DepartureList.txt
 Settings	SettingsfileARR	\FMMM\Settings\Common\VATSSA_ArrivalList.txt
 Settings	SettingsfileFP	\FMMM\Settings\Common\VATSSA_FPList.txt
-Settings	SettingsfilePLUGINS	\FMMM\Settings\Common\VATSSA_Plugins.txt
-Settings	Settingsfile	\FMMM\Settings\Common\VATSSA_General.txt
-Settings	SettingsfileSCREEN	\FMMM\Settings\Common\VATSSA_Screen.txt
 Settings	SettingsfileCONFLICT	\FMMM\Settings\Common\VATSSA_Conflict.txt
-Settings	SettingsfileVCCS	\FMMM\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FMMM\Settings\Common\VATSSA_PilotingList.txt
+Settings	SettingsfilePLUGINS	\FMMM\Settings\Common\VATSSA_Plugins.txt
+Settings	SettingsfileSCREEN	\FMMM\Settings\Common\VATSSA_Screen.txt
+Settings	SettingsfilePROFILE	\FMMM\Settings\Profiles.txt
+Settings	SettingsfileVOICE	\FMMM\Settings\VoiceChannels.txt
+Settings	SettingsfileVCCS	\FMMM\Settings\VCCS.txt
 Settings	alias	\FMMM\Alias\alias.txt
 Settings	airlines	\FMMM\ICAO\ICAO_Airlines.txt
 Settings	airports	\FMMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FMMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FMMM\NavData\airway.txt
 Settings	airportcoords	\FMMM\NavData\icao.txt
+ASRFastKeys	1	\FMMM\ASR\1 FMMM CTR TS.asr
+ASRFastKeys	2	\FMMM\ASR\FMMI APP TS.asr
+ASRFastKeys	3	\FMMM\ASR\FMMI AD GR.asr
+ASRFastKeys	4	\FMMM\ASR\FMEE APP TS.asr
+ASRFastKeys	5	\FMMM\ASR\FMEE AD GR.asr
+ASRFastKeys	6	\FMMM\ASR\FMCZ APP TS.asr
+ASRFastKeys	7	\FMMM\ASR\FMCZ AD GR.asr
 RecentFiles	Recent1	\FMMM\ASR\1 FMMM CTR TS.asr
-ASRFastKeys	1	\FMMM\ASR\1_CTR.asr
-ASRFastKeys	2	\FMMM\ASR\2_APP.asr
-ASRFastKeys	3	\FMMM\ASR\3_TWR.asr
-Settings	sector	\FMMM-Package_20220811174930-220801-0001.sct
+RecentFiles	Recent2	\FMMM\ASR\FMMI APP TS.asr
+RecentFiles	Recent3	\FMMM\ASR\FMMI AD GR.asr
+LastSession	connecttype	0
+LastSession	callsign	Open Dropdown ------>
+LastSession	realname	and select your callsign.
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
+LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
 Plugins	Plugin0	\FMMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
@@ -38,39 +55,18 @@ Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
 Plugins	Plugin4	\FMMM\Plugins\GroundRadar\GRplugin.dll
 Plugins	Plugin4Display0	Ground Radar display
-Plugins	Plugin5	\FMMM\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
+Plugins	Plugin5	\FMMM\Plugins\PushbackFlorian\PushbackFlorian.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin5Display1	Standard ES radar screen
-Plugins	Plugin6	\FMMM\Plugins\PushbackFlorian\PushbackFlorian.dll
-Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin6Display1	Standard ES radar screen
-Plugins	Plugin7	\FMMM\Plugins\TopSky\TopSky.dll
-Plugins	Plugin7Display0	Standard ES radar screen
-Plugins	Plugin7Display1	Ground Radar display
-Plugins	Plugin8	\FMMM\Plugins\vCH\VCH.dll
+Plugins	Plugin6	\FMMM\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FMMM\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FMMM\Plugins\vFPC\VFPC.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
-Plugins	Plugin9	\FMMM\Plugins\vFPC\VFPC.dll
-Plugins	Plugin9Display0	Ground Radar display
-Plugins	Plugin9Display1	Standard ES radar screen
-LastSession	connecttype	0
-LastSession	callsign	Open Dropdown ------>
-LastSession	realname	and select your callsign.
-LastSession	facility	0
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	atis2	Select an appropriate Callsign from the dropdown before connecting.
-LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
-LastSession	range	50
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-RecentFiles	Recent2	\FMMM\ASR\FMCZ APP TS.asr
-RecentFiles	Recent3	\FMMM\ASR\FMCZ AD GR.asr
-RecentFiles	Recent4	\FMMM\ASR\FMEE AD GR.asr
-RecentFiles	Recent5	\FMMM\ASR\FMEE APP TS.asr
-RecentFiles	Recent6	\FMMM\ASR\FMMI AD GR.asr
-RecentFiles	Recent7	\FMMM\ASR\FMMI APP TS.asr
-RecentFiles	Recent8	\FMMM\ASR\1_CTR.asr
 Sounds	Sound1	\FMMM\Sounds\handoff_accept.wav
 Sounds	Sound2	\FMMM\Sounds\conflict_alert.wav
 Sounds	Sound3	\FMMM\Sounds\radio_message.wav

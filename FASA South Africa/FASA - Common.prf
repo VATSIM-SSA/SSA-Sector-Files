@@ -1,45 +1,33 @@
+Settings	sector	\FASA-Package_20220811185358-220801-0004.sct
+Settings	Settingsfile	\FASA\Settings\Common\VATSSA_General.txt
 Settings	SettingsfileSYMBOLOGY	\FASA\Settings\Common\VATSSA_Symbology.txt
-Settings	SettingsfileVOICE	\FASA\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\FASA\Settings\Profiles.txt
 Settings	SettingsfileTAGS	\FASA\Settings\Common\VATSSA_Tags.txt
 Settings	SettingsfileSIL	\FASA\Settings\Common\VATSSA_SectorInboundList.txt
 Settings	SettingsfileSEL	\FASA\Settings\Common\VATSSA_SectorExitList.txt
 Settings	SettingsfileDEP	\FASA\Settings\Common\VATSSA_DepartureList.txt
 Settings	SettingsfileARR	\FASA\Settings\Common\VATSSA_ArrivalList.txt
 Settings	SettingsfileFP	\FASA\Settings\Common\VATSSA_FPList.txt
-Settings	SettingsfilePLUGINS	\FASA\Settings\Common\VATSSA_Plugins.txt
-Settings	Settingsfile	\FASA\Settings\Common\VATSSA_General.txt
-Settings	SettingsfileSCREEN	\FASA\Settings\Common\VATSSA_Screen.txt
 Settings	SettingsfileCONFLICT	\FASA\Settings\Common\VATSSA_Conflict.txt
-Settings	SettingsfileVCCS	\FASA\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FASA\Settings\Common\VATSSA_PilotingList.txt
+Settings	SettingsfilePLUGINS	\FASA\Settings\Common\VATSSA_Plugins.txt
+Settings	SettingsfileSCREEN	\FASA\Settings\Common\VATSSA_Screen.txt
+Settings	SettingsfilePROFILE	\FASA\Settings\Profiles.txt
+Settings	SettingsfileVOICE	\FASA\Settings\VoiceChannels.txt
+Settings	SettingsfileVCCS	\FASA\Settings\VCCS.txt
 Settings	alias	\FASA\Alias\alias.txt
 Settings	airlines	\FASA\ICAO\ICAO_Airlines.txt
 Settings	airports	\FASA\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FASA\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FASA\NavData\airway.txt
 Settings	airportcoords	\FASA\NavData\icao.txt
-RecentFiles	Recent1	\FASA\ASR\1_GEN.asr
-RecentFiles	Recent1	\FASA\ASR\2_TWR.asr
 ASRFastKeys	1	\FASA\ASR\1_GEN.asr
-ASRFastKeys	2	\FASA\ASR\FAOR_TWR GR.asr
-ASRFastKeys	3	\FASA\ASR\FACT_TWR GR.asr
-ASRFastKeys	4	\FASA\ASR\FAPE_TWR GR.asr
-Settings	sector	\FASA-Package_20220811185358-220801-0004.sct
-Plugins	Plugin0	\FASA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\FASA\Plugins\DiscordEuroScope\DiscordEuroscope.dll
-Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin1Display1	Ground Radar display
-Plugins	Plugin2	\FASA\Plugins\EasyTag\EasyTag.dll
-Plugins	Plugin2Display0	Ground Radar display
-Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin3	\FASA\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin4	\FASA\Plugins\TopSky\TopSky.dll
-Plugins	Plugin4Display0	Standard ES radar screen
-Plugins	Plugin4Display1	Ground Radar display
+ASRFastKeys	2	\FASA\ASR\Common\FACT APP TS.asr
+ASRFastKeys	3	\FASA\ASR\Common\FACT AD GR.asr
+ASRFastKeys	4	\FASA\ASR\Common\FAOR APP TS.asr
+ASRFastKeys	5	\FASA\ASR\Common\FAOR AD GR.asr
+RecentFiles	Recent1	\FASA\ASR\1_GEN.asr
+RecentFiles	Recent2	\FASA\ASR\Common\FACT APP TS.asr
+RecentFiles	Recent3	\FASA\ASR\Common\FACT AD GR.asr
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
@@ -51,6 +39,32 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+Plugins	Plugin0	\FASA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FASA\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FASA\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FASA\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FASA\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FASA\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FASA\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FASA\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FASA\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 Sounds	Sound1	\FASA\Sounds\handoff_accept.wav
 Sounds	Sound2	\FASA\Sounds\conflict_alert.wav
 Sounds	Sound3	\FASA\Sounds\radio_message.wav

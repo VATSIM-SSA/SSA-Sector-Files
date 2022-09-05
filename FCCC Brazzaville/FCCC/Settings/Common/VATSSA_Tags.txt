@@ -46,6 +46,7 @@ TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:72::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
+TAGITEM:170::0:1:0:0:EasyTag:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:15::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:67::0:1:0:0:TopSky plugin:0:1:::1

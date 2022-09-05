@@ -497,6 +497,8 @@ Shortcut_SEP_Combo=0x00A2
 //                 #99 AIRSPACE v0.1
 // ##################################################################
 
+Airspace_NOTAM_Remove=DBBB,DG,DR,DRMM,DRRN,DRRT,DRZR,DX,DXXX,GV,GO,FG,FGSL,FK,FKKD,FP,FT
+
 Airspace_SIGMET_Areas=DNKK
 
 [DNKK_CTR]
@@ -505,8 +507,8 @@ Setup_Informed=*:*:DNMM
 
 Airspace_C_Flag=DNMM
 
-Airspace_NOTAM_Add=DNKK,DNAA,DNMM
-Airspace_NOTAM_Remove=DB,DG,DR,DX,GV,GO,FK,FP,FT,DNAN,DNBE,DNBY,DNCA,DNEN,DNKN,DNMM,DNPO
+Airspace_NOTAM_Add=DNKK,DNAA,DNBE,DNKN,DNMM,DNPO
+Airspace_NOTAM_Remove=DB,DG,DR,DX,GV,GO,FK,FP,FT
 
 [DNAA_APP]
 Setup_LoadView=DNAA TMA

@@ -2,8 +2,8 @@
 //                 VATSSA | FIR DNKK | TopSky | Airspace
 // ##################################################################
 
-// Version v0.6
-// Update Date 17/08/2022
+// Version v0.7
+// Update Date 04/09/2022
 
 
 // ##################################################################
@@ -43,10 +43,69 @@ LEVELS:DNKN:32,34
 LEVELS:DNPO:24
 LEVELS:DNYO:25,30,35,39,41,49
 
-// INITIAL CFL
+
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+// DNAA | ABUJA NNAMDI AZIKIWE INTL
+INITIAL_CFL:9000
+CFL_FRUL:I
+CFL_ADEP:DNAA
+CFL_DRWY:04:22
+CFL_SID:IKSEM:IKVAD:OXORU
+//CFL_VIA:
+//CFL_AHDG:
+
+// DNBE | BENIN
+INITIAL_CFL:9000
+CFL_FRUL:I
+CFL_ADEP:DNBE
+CFL_DRWY:05:23
+CFL_SID:DEKUX
+//CFL_VIA:
+//CFL_AHDG:
+
+// DNKN | KANO MALLAM AMINU KANO INTL
+INITIAL_CFL:7000
+CFL_FRUL:I
+CFL_ADEP:DNKN
+CFL_DRWY:06:24
+CFL_SID:BOMVO:DETAR
+//CFL_VIA:
+//CFL_AHDG:
+
+// DNMM | LAGOS MURTALA MUHAMMED INTL
+INITIAL_CFL:7000
+CFL_FRUL:I
+CFL_ADEP:DNMM
+CFL_DRWY:18R
+CFL_SID:BUDSI:IBA:ILKEL:UMUNA:POLTO:BOTBO:PISBA1Q
+//CFL_VIA:
+//CFL_AHDG:
+
+INITIAL_CFL:7000
+CFL_FRUL:I
+CFL_ADEP:DNMM
+CFL_DRWY:18L
+CFL_SID:BUSI:IBA:UMUNA:BOTBO
+//CFL_VIA:
+//CFL_AHDG:
+
 INITIAL_CFL:1500
 CFL_FRUL:V
 CFL_ADEP:DNMM
+CFL_DRWY:18L:18R
+
+// DNPO | PORT HARCOURT INTL
+INITIAL_CFL:7000
+CFL_FRUL:I
+CFL_ADEP:DNPO
+CFL_DRWY:21
+CFL_SID:AKDIT:ETVUN
+//CFL_VIA:
+//CFL_AHDG:
+
 
 // ##################################################################
 //                 THE END

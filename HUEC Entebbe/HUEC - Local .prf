@@ -14,18 +14,17 @@ Settings	SettingsfileCONFLICT	\HUEC\Settings\Local\Conflict.txt
 Settings	SettingsfileVCCS	\HUEC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\HUEC\Settings\Local\PilotingList.txt
 Settings	alias	\HUEC\Alias\alias.txt
-Settings	AtisFolder	\HUEC\ATIS\atisfiles.txt
 Settings	airlines	\HUEC\ICAO\ICAO_Airlines.txt
 Settings	airports	\HUEC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\HUEC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\HUEC\NavData\airway.txt
 Settings	airportcoords	\HUEC\NavData\icao.txt
-RecentFiles	Recent1	\HUEC\ASR\1_CTR.asr
-RecentFiles	Recent2	\HUEC\ASR\3_TWR.asr
-RecentFiles	Recent3	\HUEC\ASR\2_APP.asr
-ASRFastKeys	1	\HUEC\ASR\1_CTR.asr
-ASRFastKeys	2	\HUEC\ASR\2_APP.asr
-ASRFastKeys	3	\HUEC\ASR\3_TWR.asr
+ASRFastKeys	1	\HUEC\ASR\1 HUEC CTR TS.asr
+ASRFastKeys	2	\HUEC\ASR\HUEN APP TS.asr
+ASRFastKeys	3	\HUEC\ASR\HUEN AD GR.asr
+RecentFiles	Recent1	\HUEC\ASR\1 HUEC CTR TS.asr
+RecentFiles	Recent2	\HUEC\ASR\HUEN APP TS.asr
+RecentFiles	Recent3	\HUEC\ASR\HUEN AD GR.asr
 Settings	sector	\HUEC-Package_20220811145442-220801-0001.sct
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
@@ -35,12 +34,26 @@ Plugins	Plugin0Display1	Ground Radar display
 Plugins	Plugin1	\HUEC\Plugins\DiscordEuroScope\DiscordEuroscope.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin1Display1	Ground Radar display
-Plugins	Plugin2	\HUEC\Plugins\TopSky\TopSky.dll
-Plugins	Plugin2Display0	Standard ES radar screen
-Plugins	Plugin2Display1	Ground Radar display
-Plugins	Plugin3	\HUEC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin2	\HUEC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\HUEC\Plugins\ESTimers\ESTimers.dll
 Plugins	Plugin3Display0	Ground Radar display
 Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\HUEC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\HUEC\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\HUEC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\HUEC\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\HUEC\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.

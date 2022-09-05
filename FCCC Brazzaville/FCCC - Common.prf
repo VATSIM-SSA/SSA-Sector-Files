@@ -1,79 +1,35 @@
+Settings	sector	\FCCC-Install-Package_20220811180909-220801-0001.sct
+Settings	Settingsfile	\FCCC\Settings\Common\VATSSA_General.txt
 Settings	SettingsfileSYMBOLOGY	\FCCC\Settings\Common\VATSSA_Symbology.txt
-Settings	SettingsfileVOICE	\FCCC\Settings\VoiceChannels.txt
-Settings	SettingsfilePROFILE	\FCCC\Settings\Profiles.txt
 Settings	SettingsfileTAGS	\FCCC\Settings\Common\VATSSA_Tags.txt
 Settings	SettingsfileSIL	\FCCC\Settings\Common\VATSSA_SectorInboundList.txt
 Settings	SettingsfileSEL	\FCCC\Settings\Common\VATSSA_SectorExitList.txt
 Settings	SettingsfileDEP	\FCCC\Settings\Common\VATSSA_DepartureList.txt
 Settings	SettingsfileARR	\FCCC\Settings\Common\VATSSA_ArrivalList.txt
 Settings	SettingsfileFP	\FCCC\Settings\Common\VATSSA_FPList.txt
-Settings	SettingsfilePLUGINS	\FCCC\Settings\Common\VATSSA_Plugins.txt
-Settings	Settingsfile	\FCCC\Settings\Common\VATSSA_General.txt
-Settings	SettingsfileSCREEN	\FCCC\Settings\Common\VATSSA_Screen.txt
 Settings	SettingsfileCONFLICT	\FCCC\Settings\Common\VATSSA_Conflict.txt
-Settings	SettingsfileVCCS	\FCCC\Settings\VCCS.txt
 Settings	SettingsfilePILOTING	\FCCC\Settings\Common\VATSSA_PilotingList.txt
+Settings	SettingsfilePLUGINS	\FCCC\Settings\Common\VATSSA_Plugins.txt
+Settings	SettingsfileSCREEN	\FCCC\Settings\Common\VATSSA_Screen.txt
+Settings	SettingsfilePROFILE	\FCCC\Settings\Profiles.txt
+Settings	SettingsfileVOICE	\FCCC\Settings\VoiceChannels.txt
+Settings	SettingsfileVCCS	\FCCC\Settings\VCCS.txt
 Settings	alias	\FCCC\Alias\alias.txt
 Settings	airlines	\FCCC\ICAO\ICAO_Airlines.txt
 Settings	airports	\FCCC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FCCC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FCCC\NavData\airway.txt
 Settings	airportcoords	\FCCC\NavData\icao.txt
-RecentFiles	Recent1	\FCCC\ASR\FPST APP TS.asr
-RecentFiles	Recent2	\FCCC\ASR\FPST AD GR.asr
-RecentFiles	Recent3	\FCCC\ASR\1 FCCC CTR TS.asr
-RecentFiles	Recent4	\FCCC\ASR\FCBB AD GR.asr
-RecentFiles	Recent5	\FCCC\ASR\FCCB APP TS.asr
-RecentFiles	Recent6	\FCCC\ASR\F1 FCCC CTR TS.asr
-RecentFiles	Recent7	\FCCC\ASR\FEFF AD GR.asr
-RecentFiles	Recent8	\FCCC\ASR\FEFF APP TS.asr.asr
-RecentFiles	Recent9	\FCCC\ASR\FGSL AD GR.asr
-RecentFiles	Recent10	\FCCC\ASR\FGSL AD GR.asr
-RecentFiles	Recent11	\FCCC\ASR\FGSL AD GR.asr
-RecentFiles	Recent12	\FCCC\ASR\FOOL APP TS.asr
-RecentFiles	Recent13	\FCCC\ASR\FPST AD GR.asr
-RecentFiles	Recent14	\FCCC\ASR\FPST APP TS.asr
 ASRFastKeys	1	\FCCC\ASR\1 FCCC CTR TS.asr
-ASRFastKeys	1	\FCCC\ASR\FCBB AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FCCB APP TS.asr
-ASRFastKeys	1	\FCCC\ASR\FEFF AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FEFF APP TS.asr.asr
-ASRFastKeys	1	\FCCC\ASR\FGSL AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FGSL APP TS.asr
-ASRFastKeys	1	\FCCC\ASR\FKKD AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FKKD APP TS.asr
-ASRFastKeys	1	\FCCC\ASR\FOOG AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FOOL AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FOOL APP TS.asr
-ASRFastKeys	1	\FCCC\ASR\FPST AD GR.asr
-ASRFastKeys	1	\FCCC\ASR\FPST APP TS.asr
-Settings	sector	\FCCC-Install-Package_20220811180909-220801-0001.sct
-Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
-Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin0Display1	Ground Radar display
-Plugins	Plugin1	\FCCC\Plugins\GroundRadar\GRplugin.dll
-Plugins	Plugin1Display0	Ground Radar display
-Plugins	Plugin2	\FCCC\Plugins\TopSky\TopSky.dll
-Plugins	Plugin2Display1	Ground Radar display
-Plugins	Plugin2Display0	Standard ES radar screen
-Plugins	Plugin3	\FCCC\Plugins\EasyTag\EasyTag.dll
-Plugins	Plugin3Display0	Ground Radar display
-Plugins	Plugin3Display1	Standard ES radar screen
-Plugins	Plugin4	\FCCC\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
-Plugins	Plugin4Display0	Ground Radar display
-Plugins	Plugin4Display1	Standard ES radar screen
-Plugins	Plugin5	\FCCC\Plugins\vCH\VCH.dll
-Plugins	Plugin5Display0	Ground Radar display
-Plugins	Plugin5Display1	Standard ES radar screen
-Plugins	Plugin6	\FCCC\Plugins\ESTimers\ESTimers.dll
-Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin6Display1	Standard ES radar screen
-Plugins	Plugin7	\FCCC\Plugins\vFPC\VFPC.dll
-Plugins	Plugin7Display0	Ground Radar display
-Plugins	Plugin7Display1	Standard ES radar screen
-Plugins	Plugin8	\FCCC\Plugins\PushbackFlorian\PushbackFlorian.dll
-Plugins	Plugin8Display0	Ground Radar display
-Plugins	Plugin8Display1	Standard ES radar screen
+ASRFastKeys	2	\FCCC\ASR\FCBB APP TS.asr
+ASRFastKeys	3	\FCCC\ASR\FCBB AD GR.asr
+ASRFastKeys	4	\FCCC\ASR\FGSL  APP TS.asr
+ASRFastKeys	5	\FCCC\ASR\FGSL AD GR.asr
+ASRFastKeys	6	\FCCC\ASR\FKKD  APP TS.asr
+ASRFastKeys	7	\FCCC\ASR\FKKD AD GR.asr
+RecentFiles	Recent1	\FCCC\ASR\1 FCCC CTR TS.asr
+RecentFiles	Recent2	\FCCC\ASR\FCBB APP TS.asr
+RecentFiles	Recent3	\FCCC\ASR\FCBB AD GR.asr
 LastSession	connecttype	0
 LastSession	callsign	Open Dropdown ------>
 LastSession	realname	and select your callsign.
@@ -85,6 +41,32 @@ LastSession	atis3	*** DO NOT CONNECT WITH THIS SELECTION!***
 LastSession	range	50
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+Plugins	Plugin0	\FCCC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+Plugins	Plugin1	\FCCC\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin2	\FCCC\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display0	Ground Radar display
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin3	\FCCC\Plugins\ESTimers\ESTimers.dll
+Plugins	Plugin3Display0	Ground Radar display
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FCCC\Plugins\GroundRadar\GRplugin.dll
+Plugins	Plugin4Display0	Ground Radar display
+Plugins	Plugin5	\FCCC\Plugins\PushbackFlorian\PushbackFlorian.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+Plugins	Plugin6	\FCCC\Plugins\TopSky\TopSky.dll
+Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin6Display1	Ground Radar display
+Plugins	Plugin7	\FCCC\Plugins\vCH\VCH.dll
+Plugins	Plugin7Display0	Ground Radar display
+Plugins	Plugin7Display1	Standard ES radar screen
+Plugins	Plugin8	\FCCC\Plugins\vFPC\VFPC.dll
+Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin8Display1	Standard ES radar screen
 Sounds	Sound1	\FCCC\Sounds\handoff_accept.wav
 Sounds	Sound2	\FCCC\Sounds\conflict_alert.wav
 Sounds	Sound3	\FCCC\Sounds\radio_message.wav
