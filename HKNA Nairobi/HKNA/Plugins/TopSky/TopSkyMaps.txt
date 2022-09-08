@@ -2,12 +2,12 @@
 //                 VATSSA | FIR HKNA | TopSky | Maps
 // ##################################################################
 
-// Version v0.1
-// Update Date 18/07/2022
+// Version v0.2
+// Update Date 08/09/2022
 
 
 // ##################################################################
-//                 #1 COLORS v0.3
+//                 #1 COLORS v0.5
 // ##################################################################
 
 // ACTIVE
@@ -18,11 +18,11 @@ COLORDEF:WHITE:255:255:255
 COLORDEF:MINT:110:153:110
 COLORDEF:LIGHTBLUE:0:175:157
 COLORDEF:GREY:134:134:135
-COLORDEF:FRA:115:0:0
-COLORDEF:MSA:128:0:0
-COLORDEF:AIRSPACE:200:145:200
+COLORDEF:FRA:255:229:204
+COLORDEF:MSA:255:255:255
+COLORDEF:AIRSPACE:224:224:224
 COLORDEF:RMK:200:200:200
-COLOR:WATER:0:145:255
+COLORDEF:WATER:0:145:255
 
 COLORDEF:BACKGROUND:25:25:25
 COLORDEF:TWY:43:43:43
