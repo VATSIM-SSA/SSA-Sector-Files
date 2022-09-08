@@ -27,14 +27,14 @@ INITIAL_CFL:6900
 CFL_FRUL:I
 CFL_ADEP:FWCL
 CFL_DRWY:10:28
-CFL_SID:*
+//CFL_SID:
 
 // FWKI | LILONGWE KAMUZU INTL
 INITIAL_CFL:6700
 CFL_FRUL:I
 CFL_ADEP:FWKI
 CFL_DRWY:14:32
-CFL_SID:*
+//CFL_SID:
 
 
 // ##################################################################
