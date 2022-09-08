@@ -1,7 +1,7 @@
 Settings	SettingsfileSYMBOLOGY	\HKNA\Settings\Local\ACCRAC_SYMBOLOGY.txt
 Settings	SettingsfileVOICE	\HKNA\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\HKNA\Settings\Profiles.txt
-Settings	SettingsfileTAGS	\HKNA\Settings\Local\VATSSA_Tags_Prev.txt
+Settings	SettingsfileTAGS	\HKNA\Settings\Local\Tags.txt
 Settings	SettingsfileSIL	\HKNA\Settings\Local\SectorInboundList.txt
 Settings	SettingsfileSEL	\HKNA\Settings\Local\SectorExitList.txt
 Settings	SettingsfileDEP	\HKNA\Settings\Local\DepartureList.txt
@@ -27,7 +27,7 @@ ASRFastKeys	5	\HKNA\ASR\HKMO AD GR.asr
 RecentFiles	Recent1	\HKNA\ASR\1 HKNA CTR TS.asr
 RecentFiles	Recent2	\HKNA\ASR\HKJK APP TS.asr
 RecentFiles	Recent3	\HKNA\ASR\HKJK AD GR.asr
-Settings	sector	\HKNA-Package_20220811150941-220801-0001.sct
+Settings	sector	\HKNA-Package_20220908212500-220901-0001.sct
 Plugins	Plugin0	\HKNA\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display

@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2208/1  ++  Valid period: 11/AUG/2022 - 07/SEP/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
+;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
 ;=========================================================================================================================;
 VOICE
 AG:FMCH_TWR Moroni Tower:118.100:novoice:FMCH_TWR

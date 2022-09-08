@@ -1109,29 +1109,31 @@
       }
    },
 	{
-      "icao": "DNMM",
+      "icao": "EDXW",
       "sids": {
-         "BUDSI": [
+         "VCT": [
+            {
+               "direction": "ANY"
+            }
+         ],
+         "OLDIP": [
 			{
-               "direction": "EVEN",
-               "max_fl": 460,
-               "airways": [
-                  "UR981",
-                  "R981"
+               "direction": "ODD",
+               "max_fl": 230,
+               "destinations": [
+                  "EDDH",
+                  "EDDW"
+               ]
+            },
+			{
+               "direction": "ODD",
+               "destinations": [
+                  "EDDV"
                ]
             },
             {
                "direction": "ANY"
 			}
-         ],
-         "BOTBO": [
-            {
-               "airways": [
-                  "UR984"
-               ],
-               "direction": "ODD",
-               "min_fl": 245
-            }
          ]
       }
    }

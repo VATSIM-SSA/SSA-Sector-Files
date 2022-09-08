@@ -1,7 +1,7 @@
 Settings	SettingsfileVOICE	\FASA\Settings\VoiceChannels.txt
 Settings	SettingsfileSYMBOLOGY	\FASA\Settings\Local\Symbology.txt
 Settings	SettingsfilePROFILE	\FASA\Settings\Profiles.txt
-Settings	SettingsfileTAGS	\FASA\Settings\Tags_TS.txt
+Settings	SettingsfileTAGS	\FASA\Settings\Local\Tags_TS.txt
 Settings	SettingsfileSIL	\FASA\Settings\Local\SectorInboundList.txt
 Settings	SettingsfileSEL	\FASA\Settings\Local\SectorExitList.txt
 Settings	SettingsfileDEP	\FASA\Settings\Local\DepartureList.txt
@@ -50,7 +50,7 @@ ASRFastKeys	1	\FASA\ASR\1_GEN.asr
 ASRFastKeys	2	\FASA\ASR\FAOR_TWR GR.asr
 ASRFastKeys	3	\FASA\ASR\FACT_TWR GR.asr
 ASRFastKeys	4	\FASA\ASR\FAPE_TWR GR.asr
-Settings	sector	\FASA-Package_20220811185358-220801-0004.sct
+Settings	sector	\FASA-Package_20220908215609-220901-0001.sct
 Sounds	Sound1	\FASA\Sounds\handoff_accept.wav
 Sounds	Sound2	\FASA\Sounds\conflict_alert.wav
 Sounds	Sound3	\FASA\Sounds\radio_message.wav
