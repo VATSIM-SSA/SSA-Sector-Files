@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2208/1  ++  Valid period: 11/AUG/2022 - 07/SEP/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Kano 2208/1-2 DNKK 20220902
+VATSSA Kano 2209/1-1 DNKK 20220908
 AERO_NAV
 ZZZZ
 N009.00.24.466
@@ -468,7 +468,7 @@ BE800 N006.19.34.489 E005.43.43.230
 BEN25 N006.15.18.280 E005.31.38.539
 BF58  N005.27.13.190 E010.24.26.729
 BF65  N005.37.36.098 E010.17.45.160
-BIDER N009.20.57.299 E013.34.48.399
+BIDER N009.20.57.321 E013.34.48.399
 BIDOG N005.23.03.998 E000.20.07.000
 BIGUG N010.34.04.479 E007.10.02.978
 BIKAB N006.47.26.908 E002.22.55.959
@@ -1594,8 +1594,8 @@ SAGVI N001.27.05.731 E007.36.48.700
 SAKDO N006.26.29.670 E006.59.18.301
 SAKNI N003.45.45.810 E009.07.31.630
 SASSA N007.37.51.898 E013.41.43.198
-SDF   N012.01.08.230 E008.30.06.919
 SDF   N006.27.39.639 E007.29.16.310
+SDF   N012.01.08.230 E008.30.06.919
 SE    N013.17.39.998 E002.20.39.998
 SEMEB N006.43.54.120 E002.01.12.000
 SEMIR N010.41.21.998 E014.03.47.998

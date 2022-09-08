@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2208/1  ++  Valid period: 11/AUG/2022 - 07/SEP/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 
@@ -504,15 +504,11 @@ STAR:FKKR:09:SIBED1V·ILSxY:SIBED 25TJR R173M TJR 60TJR 84GRA 64GRA
 STAR:FKKR:09:TOBEL1V·ILSxY:TOBEL R087Y TJR 60TJR 84GRA 64GRA
 STAR:FKKR:09:VISNA1V·ILSxY:VISNA R132M TJR 60TJR 84GRA 64GRA
 STAR:FKKR:09:EPUTA1L·ILSxZ:EPUTA TJR R279P LITAV 64GRA
-STAR:FKKR:09:ETRIS2L·ILSxZ:ETRIS LITAV 64GRA
 STAR:FKKR:09:TOBEL1L·ILSxZ:TOBEL R087Y TJR R279P LITAV 64GRA
 STAR:FKKR:09:TOBEL1L·ILSxY:TOBEL R087Y TJR 60TJR 84GRA 64GRA
 STAR:FKKR:09:EPUTA1L·ILSxX:EPUTA TJR R279P LITAV KR501
-STAR:FKKR:09:ETRIS2L·ILSxX:ETRIS LITAV KR501
 STAR:FKKR:09:TOBEL1L·ILSxX:TOBEL R087Y TJR R279P LITAV KR501
-STAR:FKKR:27:EPUTA2B·VORDMExZ:EPUTA R068P BIDER TJR83
 STAR:FKKR:27:ETRIS1B·VORDMExZ:ETRIS TJR R097S BIDER TJR83
-STAR:FKKR:27:TOBEL2B·VORDMExZ:TOBEL R087Y BIDER TJR83
 STAR:FTTJ:05:BOLBE1V·ILSxY:BOLBE FL D06FL CF05 IFL49 IFL2
 STAR:FTTJ:05:CHARI1V·ILSxY:CHARI FL D06FL CF05 IFL49 IFL2
 STAR:FTTJ:05:DEPOS1V·ILSxY:DEPOS FL D06FL CF05 IFL49 IFL2

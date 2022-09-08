@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2208/1  ++  Valid period: 11/AUG/2022 - 07/SEP/2022  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
+;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Gaborone 2208/1-1 FBGR 20220829
+VATSSA Gaborone 2209/1-1 FBGR 20220908
 AERO_NAV
 ZZZZ
 S022.00.00.000
@@ -457,8 +457,8 @@ EKBON S028.18.34.941 E017.37.06.301
 EKBOT S024.16.04.850 E022.43.48.910
 EKBUG S017.13.54.001 E026.26.53.998
 EP08  S019.58.46.160 E023.24.54.471
-EP10  S017.48.56.289 E025.48.07.498
 EP10  S015.19.44.918 E028.26.03.670
+EP10  S017.48.56.289 E025.48.07.498
 EP26  S019.58.11.258 E023.26.59.589
 EP28  S017.49.20.229 E025.49.52.129
 EPLOK S020.58.24.841 E027.22.47.560
@@ -936,7 +936,6 @@ PABLO S017.58.44.320 E019.55.39.759
 PARAG S025.07.00.001 E017.53.59.999
 PEDIL S025.39.33.670 E026.51.34.048
 PK112 S025.32.29.961 E030.58.51.218
-PKI11 S025.32.29.169 E030.59.12.980
 PKI14 S025.34.47.211 E030.57.03.430
 PKI18 S025.38.13.048 E030.54.21.621
 PKI95 S025.31.06.621 E030.59.56.619
