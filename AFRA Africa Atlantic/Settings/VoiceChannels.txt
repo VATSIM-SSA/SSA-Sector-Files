@@ -1,5 +1,0 @@
-VOICE
-AG:FAJO_FSS Johannesburg Oceanic:120.850
-AG:GOOC_FSS Dakar Radio:122.500
-AG:DGAO_CTR Accra Radio:136.650
-END

@@ -1,0 +1,21 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\MA\6 vController Mike\5 VATSSA\1 SSA Sector Files\AFOW Oceanic West\DevOps.sct
+SECTORTITLE:DevOps.sct
+ARTCC high boundary:DGAO:
+ARTCC high boundary:GOOC:
+SHOWC:1
+SHOWSB:0
+BELOW:20000
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-19.925501:-56.599481:26.134584:26.983318
