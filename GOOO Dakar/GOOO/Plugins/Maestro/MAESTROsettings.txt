@@ -25,6 +25,7 @@ Color_WM_Frame=255,255,255
 
 [GOBD]
 FEEDER:LIMAX:LIMAX
+FEEDER:SLO:SLO
 
 // ##################################################################
 //                 THE END
