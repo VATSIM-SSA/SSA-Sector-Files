@@ -1,0 +1,70 @@
+Settings	SettingsfileSYMBOLOGY	\FAJO\Settings\Oceanic\VATSSA_Symbology.txt
+Settings	SettingsfileVOICE	\FAJO\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\FAJO\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\FAJO\Settings\Oceanic\VATSSA_Tags.txt
+Settings	SettingsfileSIL	\FAJO\Settings\Oceanic\VATSSA_SectorInboundList.txt
+Settings	SettingsfileSEL	\FAJO\Settings\Oceanic\VATSSA_SectorExitList.txt
+Settings	SettingsfileDEP	\FAJO\Settings\Oceanic\VATSSA_DepartureList.txt
+Settings	SettingsfileARR	\FAJO\Settings\Oceanic\VATSSA_ArrivalList.txt
+Settings	SettingsfileFP	\FAJO\Settings\Oceanic\VATSSA_FPList.txt
+Settings	SettingsfilePLUGINS	\FAJO\Settings\Oceanic\VATSSA_Plugins.txt
+Settings	Settingsfile	\FAJO\Settings\Oceanic\VATSSA_General.txt
+Settings	SettingsfileSCREEN	\FAJO\Settings\Oceanic\VATSSA_Screen.txt
+Settings	SettingsfileCONFLICT	\FAJO\Settings\Oceanic\VATSSA_Conflict.txt
+Settings	SettingsfileVCCS	\FAJO\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\FAJO\Settings\Oceanic\VATSSA_PilotingList.txt
+Settings	alias	\FAJO\Alias\alias.txt
+Settings	airlines	\FAJO\ICAO\ICAO_Airlines.txt
+Settings	airports	\FAJO\ICAO\ICAO_Airports.txt
+Settings	aircraft	\FAJO\ICAO\ICAO_Aircraft.txt
+Settings	airways	\FAJO\NavData\airway.txt
+Settings	airportcoords	\FAJO\NavData\icao.txt
+Settings	sector	\DevOps.sct
+RecentFiles	Recent1	\FAJO\ASR\FAJO.asr
+ASRFastKeys	1	\FAJO\ASR\AFRW.asr
+Plugins	Plugin0	\FAJO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\FAJO\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\FAJO\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin6	\FAJO\Plugins\vCH\VCH.dll
+Plugins	Plugin6Display1	Standard ES radar screen
+LastSession	connecttype	2
+LastSession	callsign	DGAO_CTR
+LastSession	facility	6
+LastSession	tovatsim	1
+LastSession	atis2	$radioname, covering only DGAO (Oceanic) airspace
+LastSession	atis3	Part of Sub-Sahara Africa Division
+LastSession	atis4	Visit us at vatssa.com
+LastSession	range	600
+Sounds	Sound1	\FAJO\Sounds\handoff_accept.wav
+Sounds	Sound2	\FAJO\Sounds\conflict_alert.wav
+Sounds	Sound3	\FAJO\Sounds\radio_message.wav
+Sounds	Sound4	\FAJO\Sounds\private_message.wav
+Sounds	Sound5	\FAJO\Sounds\atc_message.wav
+Sounds	Sound6	\FAJO\Sounds\broadcast_message.wav
+Sounds	Sound7	\FAJO\Sounds\landline_request.wav
+Sounds	Sound8	\FAJO\Sounds\supervisor_message.wav
+Sounds	Sound9	\FAJO\Sounds\connected.wav
+Sounds	Sound10	\FAJO\Sounds\disconnected.wav
+Sounds	Sound11	\FAJO\Sounds\ongoing_request.wav
+Sounds	Sound12	\FAJO\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\FAJO\Sounds\ongoing_refused.wav
+Sounds	Sound14	\FAJO\Sounds\ongoing_manual.wav
+Sounds	Sound15	\FAJO\Sounds\new_atis.wav
+Sounds	Sound16	\FAJO\Sounds\handoff_refused.wav
+Sounds	Sound17	\FAJO\Sounds\pointout.wav
+Sounds	Sound18	\FAJO\Sounds\startup.wav
+Sounds	Sound19	\FAJO\Sounds\startup.wav
+Sounds	Sound20	\FAJO\Sounds\supervisor_message.wav
+Sounds	Sound0	\FAJO\Sounds\handoff_request.wav
+RecentFiles	Recent2	\FAJO\ASR\FAJO.asr
+LastSession	realname	810471
+LastSession	certificate	810471
+LastSession	password	YetTpiX!N5DroAh5
+LastSession	rating	3
+LastSession	server	SweatBox
+LastSession	scenario	D:\MA\6 vController Mike\5 VATSSA\7 SSA Code Studio\SSA SB Environment\AFOW.txt
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

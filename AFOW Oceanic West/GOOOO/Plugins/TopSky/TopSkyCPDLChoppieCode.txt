@@ -1,0 +1,1 @@
+Delete this text and replace it with your Hoppie's Logon code. This will allow the plugin to autofill your code for quicker login.

@@ -1,0 +1,70 @@
+Settings	SettingsfileSYMBOLOGY	\GOOOO\Settings\Oceanic\VATSSA_Symbology.txt
+Settings	SettingsfileVOICE	\GOOOO\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\GOOOO\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\GOOOO\Settings\Oceanic\VATSSA_Tags.txt
+Settings	SettingsfileSIL	\GOOOO\Settings\Oceanic\VATSSA_SectorInboundList.txt
+Settings	SettingsfileSEL	\GOOOO\Settings\Oceanic\VATSSA_SectorExitList.txt
+Settings	SettingsfileDEP	\GOOOO\Settings\Oceanic\VATSSA_DepartureList.txt
+Settings	SettingsfileARR	\GOOOO\Settings\Oceanic\VATSSA_ArrivalList.txt
+Settings	SettingsfileFP	\GOOOO\Settings\Oceanic\VATSSA_FPList.txt
+Settings	SettingsfilePLUGINS	\GOOOO\Settings\Oceanic\VATSSA_Plugins.txt
+Settings	Settingsfile	\GOOOO\Settings\Oceanic\VATSSA_General.txt
+Settings	SettingsfileSCREEN	\GOOOO\Settings\Oceanic\VATSSA_Screen.txt
+Settings	SettingsfileCONFLICT	\GOOOO\Settings\Oceanic\VATSSA_Conflict.txt
+Settings	SettingsfileVCCS	\GOOOO\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\GOOOO\Settings\Oceanic\VATSSA_PilotingList.txt
+Settings	alias	\GOOOO\Alias\alias.txt
+Settings	airlines	\GOOOO\ICAO\ICAO_Airlines.txt
+Settings	airports	\GOOOO\ICAO\ICAO_Airports.txt
+Settings	aircraft	\GOOOO\ICAO\ICAO_Aircraft.txt
+Settings	airways	\GOOOO\NavData\airway.txt
+Settings	airportcoords	\GOOOO\NavData\icao.txt
+Settings	sector	\DevOps.sct
+RecentFiles	Recent1	\GOOOO\ASR\GOOC.asr
+ASRFastKeys	1	\GOOOO\ASR\AFRW.asr
+Plugins	Plugin0	\GOOOO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\GOOOO\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\GOOOO\Plugins\EasyTag\EasyTag.dll
+Plugins	Plugin2Display1	Standard ES radar screen
+Plugins	Plugin6	\GOOOO\Plugins\vCH\VCH.dll
+Plugins	Plugin6Display1	Standard ES radar screen
+LastSession	connecttype	2
+LastSession	callsign	DGAO_CTR
+LastSession	facility	6
+LastSession	tovatsim	1
+LastSession	atis2	$radioname, covering only DGAO (Oceanic) airspace
+LastSession	atis3	Part of Sub-Sahara Africa Division
+LastSession	atis4	Visit us at vatssa.com
+LastSession	range	600
+Sounds	Sound1	\GOOOO\Sounds\handoff_accept.wav
+Sounds	Sound2	\GOOOO\Sounds\conflict_alert.wav
+Sounds	Sound3	\GOOOO\Sounds\radio_message.wav
+Sounds	Sound4	\GOOOO\Sounds\private_message.wav
+Sounds	Sound5	\GOOOO\Sounds\atc_message.wav
+Sounds	Sound6	\GOOOO\Sounds\broadcast_message.wav
+Sounds	Sound7	\GOOOO\Sounds\landline_request.wav
+Sounds	Sound8	\GOOOO\Sounds\supervisor_message.wav
+Sounds	Sound9	\GOOOO\Sounds\connected.wav
+Sounds	Sound10	\GOOOO\Sounds\disconnected.wav
+Sounds	Sound11	\GOOOO\Sounds\ongoing_request.wav
+Sounds	Sound12	\GOOOO\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\GOOOO\Sounds\ongoing_refused.wav
+Sounds	Sound14	\GOOOO\Sounds\ongoing_manual.wav
+Sounds	Sound15	\GOOOO\Sounds\new_atis.wav
+Sounds	Sound16	\GOOOO\Sounds\handoff_refused.wav
+Sounds	Sound17	\GOOOO\Sounds\pointout.wav
+Sounds	Sound18	\GOOOO\Sounds\startup.wav
+Sounds	Sound19	\GOOOO\Sounds\startup.wav
+Sounds	Sound20	\GOOOO\Sounds\supervisor_message.wav
+Sounds	Sound0	\GOOOO\Sounds\handoff_request.wav
+RecentFiles	Recent2	\GOOOO\ASR\GOOC.asr
+LastSession	realname	810471
+LastSession	certificate	810471
+LastSession	password	YetTpiX!N5DroAh5
+LastSession	rating	3
+LastSession	server	SweatBox
+LastSession	scenario	D:\MA\6 vController Mike\5 VATSSA\7 SSA Code Studio\SSA SB Environment\AFOW.txt
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
