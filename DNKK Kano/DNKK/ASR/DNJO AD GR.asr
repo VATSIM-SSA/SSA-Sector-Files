@@ -1,0 +1,26 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:D:\MA\6 vController Mike\5 VATSSA\1 SSA Sector Files\DNKK Kano\DNKK-DevOps.sct
+SECTORTITLE:DNKK-DevOps.sct
+Geo:DNJO Groundlayout:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:354.70000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:9.631933:8.853097:9.649999:8.886275
+PLUGIN:Ground Radar plugin:AirportElevation:4229
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:DNJO
+PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:DNJO

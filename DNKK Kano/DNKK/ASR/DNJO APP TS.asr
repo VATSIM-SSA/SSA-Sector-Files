@@ -1,0 +1,82 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:DNIB:name
+Airports:DNIB:symbol
+Fixes:BOTBO:name
+Fixes:BOTBO:symbol
+Fixes:BUDSI:name
+Fixes:BUDSI:symbol
+Fixes:EBSEX:name
+Fixes:EBSEX:symbol
+Fixes:EDGOT:name
+Fixes:EDGOT:symbol
+Fixes:EDKUV:name
+Fixes:EDKUV:symbol
+Fixes:ERSED:name
+Fixes:ERSED:symbol
+Fixes:ETVOV:name
+Fixes:ETVOV:symbol
+Fixes:GUMOM:name
+Fixes:GUMOM:symbol
+Fixes:ILKEL:name
+Fixes:ILKEL:symbol
+Fixes:KIPSA:name
+Fixes:KIPSA:symbol
+Fixes:MM504:name
+Fixes:MM504:symbol
+Fixes:MOLOP:name
+Fixes:MOLOP:symbol
+Fixes:OPALA:name
+Fixes:OPALA:symbol
+Fixes:OVNIK:name
+Fixes:OVNIK:symbol
+Fixes:PISBA:name
+Fixes:PISBA:symbol
+Fixes:POLTO:name
+Fixes:POLTO:symbol
+Fixes:UMUNA:name
+Fixes:UMUNA:symbol
+Fixes:XUVET:name
+Fixes:XUVET:symbol
+Geo:DNJO Groundlayout:
+Runways:DNMM 18R-36L:centerline
+Runways:DNMM 18R-36L:extended centerline 1
+Runways:DNMM 18R-36L:extended centerline 1 left base
+Runways:DNMM 18R-36L:extended centerline 1 left ticks
+Runways:DNMM 18R-36L:extended centerline 1 left vectoring
+Runways:DNMM 18R-36L:extended centerline 1 right base
+Runways:DNMM 18R-36L:extended centerline 1 right ticks
+Runways:DNMM 18R-36L:extended centerline 1 right vectoring
+Runways:DNMM 18R-36L:extended centerline 2
+Runways:DNMM 18R-36L:extended centerline 2 left base
+Runways:DNMM 18R-36L:extended centerline 2 left ticks
+Runways:DNMM 18R-36L:extended centerline 2 left vectoring
+Runways:DNMM 18R-36L:extended centerline 2 right base
+Runways:DNMM 18R-36L:extended centerline 2 right ticks
+Runways:DNMM 18R-36L:extended centerline 2 right vectoring
+Runways:DNMM 18R-36L:name
+VORs:IBA:frequency
+VORs:IBA:name
+VORs:IBA:symbol
+VORs:LAG:frequency
+VORs:LAG:name
+VORs:LAG:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:8.873834:7.278128:10.473834:10.216438
+PLUGIN:TopSky plugin:HideMapData:DNKK
+PLUGIN:TopSky plugin:ShowMapData:DNJO

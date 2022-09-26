@@ -217,6 +217,18 @@ Window_APP_AltFilter=6122
 AppPath=DNAA:DNAA 04:N008.59.36.398:E007.15.13.460:035:R:1087:3.0
 AppPath=DNAA:DNAA 22:N009.01.12.529:E007.16.21.399:215:L:1121:3.0
 
+[DNJO]
+Airport_Elevation=4229
+Airport_Radius=3
+
+Window_APP=1,200,650,500,300
+Window_APP_Rotation=354.7
+Window_APP_Scale=10
+Window_APP_Extensions=1
+Window_APP_AltFilter=9229
+
+AppPath=DNJO:DNJO 10:N009.38.27.808:E008.51.19.641:099:R:4227:3.0
+
 [DNMM]
 Airport_Elevation=138
 Airport_Radius=3
