@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Harare - FVHF                    ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Harare - FVHF                    ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Harare 2209/1-1 FVHF 20220908
+VATSSA Harare 2210/1-1 FVHF 20221006
 AERO_NAV
 ZZZZ
 S019.00.00.000
@@ -322,8 +322,8 @@ EKEOT S023.22.23.998 E032.52.59.998
 ELEPA S014.56.42.000 E033.04.36.001
 ENAKU S016.42.46.000 E032.49.12.000
 ENORA S017.10.00.001 E033.32.12.001
-EP10  S017.48.56.289 E025.48.07.498
 EP10  S015.19.44.918 E028.26.03.670
+EP10  S017.48.56.289 E025.48.07.498
 EP28  S017.49.20.229 E025.49.52.129
 EPLOK S020.58.24.841 E027.22.47.560
 EPNAB S019.46.19.358 E034.48.40.431
