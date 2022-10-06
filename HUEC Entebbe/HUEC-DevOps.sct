@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Entebbe - HUEC                   ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Entebbe - HUEC                   ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Entebbe 2209/1-1 HUEC 20220908
+VATSSA Entebbe 2210/1-1 HUEC 20221006
 AERO_NAV
 ZZZZ
 N000.01.30.000
@@ -360,8 +360,8 @@ EAST2 N004.25.48.889 E034.32.47.551
 EAST3 N004.12.12.999 E034.29.09.999
 EBAKO S003.06.59.821 E025.50.49.959
 EBERA S002.58.54.001 E028.54.06.001
-EBNEL S002.33.38.588 E028.32.54.898
 EBNEL S002.27.00.000 E028.10.00.001
+EBNEL S002.33.38.588 E028.32.54.898
 EDAGA N002.31.05.998 E028.13.11.999
 EDBIV N004.36.25.200 E025.11.54.301
 EDGOX S000.20.41.999 E029.17.06.000
