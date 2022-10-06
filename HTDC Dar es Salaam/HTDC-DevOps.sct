@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Dar es Salaam 2209/1-1 HTDC 20220908
+VATSSA Dar es Salaam 2210/1-1 HTDC 20221006
 AERO_NAV
 ZZZZ
 S006.00.00.000
@@ -508,8 +508,8 @@ DZP80 S012.41.29.911 E045.13.08.331
 E1    S012.47.00.999 E045.17.57.998
 EBAKO S003.06.59.821 E025.50.49.959
 EBERA S002.58.54.001 E028.54.06.001
-EBNEL S002.33.38.588 E028.32.54.898
 EBNEL S002.27.00.000 E028.10.00.001
+EBNEL S002.33.38.588 E028.32.54.898
 EDGOX S000.20.41.999 E029.17.06.000
 EGLOX S001.51.23.288 E034.59.43.641
 EGMIL S003.58.49.080 E035.43.57.280
