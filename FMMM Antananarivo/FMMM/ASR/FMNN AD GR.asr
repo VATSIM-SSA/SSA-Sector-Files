@@ -1,0 +1,60 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:FMMI Parkings\11:freetext
+Free Text:FMMI Parkings\1A:freetext
+Free Text:FMMI Parkings\2:freetext
+Free Text:FMMI Parkings\21R-21-21L:freetext
+Free Text:FMMI Parkings\22R-22-22L:freetext
+Free Text:FMMI Parkings\23R-23-23L:freetext
+Free Text:FMMI Parkings\24:freetext
+Free Text:FMMI Parkings\25:freetext
+Free Text:FMMI Parkings\26:freetext
+Free Text:FMMI Parkings\27:freetext
+Free Text:FMMI Parkings\29:freetext
+Free Text:FMMI Parkings\3:freetext
+Free Text:FMMI Parkings\4:freetext
+Free Text:FMMI Parkings\5:freetext
+Free Text:FMMI Parkings\6:freetext
+Free Text:FMMI Parkings\7:freetext
+Free Text:FMMI Parkings\8:freetext
+Free Text:FMMI Parkings\9:freetext
+Free Text:FMMI Parkings\C:freetext
+Free Text:FMMI Parkings\E:freetext
+Free Text:FMMI Parkings\N:freetext
+Free Text:FMMI Parkings\R1:freetext
+Free Text:FMMI Parkings\R2:freetext
+Free Text:FMMI Parkings\S1:freetext
+Free Text:FMMI Parkings\S10:freetext
+Free Text:FMMI Parkings\S12:freetext
+Free Text:FMMI Parkings\S2:freetext
+Free Text:FMMI Parkings\S3:freetext
+Free Text:FMMI Parkings\S4:freetext
+Free Text:FMMI Parkings\S5:freetext
+Free Text:FMMI Parkings\S6:freetext
+Free Text:FMMI Parkings\S8:freetext
+Free Text:FMMI Parkings\W:freetext
+Free Text:FMMI Parkings\Z:freetext
+Geo:FMNN Groundlayout:
+Regions:FMMI FMMI Airport Regions:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:48.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-13.315764:48.301078:-13.303866:48.324044
+PLUGIN:Ground Radar plugin:AirportElevation:37
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FMNN
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FMNN

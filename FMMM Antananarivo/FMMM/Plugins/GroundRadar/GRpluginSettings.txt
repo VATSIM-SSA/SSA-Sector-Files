@@ -216,6 +216,16 @@ Window_APP_AltFilter=9198
 
 AppPath=FMMI:FMMI 11:S018.47.41.139:E047.27.51.350:114:R:4197:3.0
 
+[FMNN]
+Airport_Elevation=37
+Airport_Radius=3
+
+Window_APP=1,650,450,500,300
+Window_APP_Rotation=48
+Window_APP_Scale=15
+Window_APP_Extensions=1
+Window_APP_AltFilter=5037
+
 
 // ##################################################################
 //                 FM MAYOTTE

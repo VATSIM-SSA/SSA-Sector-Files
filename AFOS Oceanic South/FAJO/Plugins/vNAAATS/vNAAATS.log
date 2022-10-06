@@ -1,0 +1,178 @@
+[INIT 15:09:42.817] ***** LOG INITIALISED FOR vNAAATS VERSION 1.3b2 *****
+COPYRIGHT (C) 2021 Andrew Ogden vNAAATS
+RAM (MB): 33554
+Alpha?: TRUE
+----------------------------------
+[LOG 15:10:55.359] [MENUBAR] Finished instantiation.
+[LOG 15:10:55.360] [CRadarDisplay] Finished initialisation.
+[LOG 15:11:00.572] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:00.572] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:05.397] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:11:05.572] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:05.573] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:05.575] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:05.577] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:05.584] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:05.584] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:11.524] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:11.524] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:13.195] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:13.308] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:13.483] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:15.573] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:11:16.571] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:16.571] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:21.573] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:21.573] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:21.579] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:21.579] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:26.572] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:11:26.631] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:26.631] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:30.200] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:30.322] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:30.323] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:32.264] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:32.264] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:35.473] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:35.582] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:35.582] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:37.567] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:37.567] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:37.569] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:11:42.570] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:42.570] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:44.833] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:44.944] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:44.944] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:46.35] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:46.172] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:46.172] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:47.572] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:11:47.572] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:47.573] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:47.573] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:47.574] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:47.604] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:47.606] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:47.606] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:47.721] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:47.721] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:51.201] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:51.331] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:51.332] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:52.228] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:52.345] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:52.346] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:52.752] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:52.753] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:53.453] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:53.557] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:53.557] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:54.281] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:54.394] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:54.394] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:55.411] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:55.514] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:55.514] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:56.349] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:56.432] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:56.433] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:56.899] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:56.976] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:56.976] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:57.598] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:11:57.817] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:57.819] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:11:57.819] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:11:57.938] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:57.938] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:11:59.441] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:11:59.544] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:11:59.544] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:03.569] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:03.569] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:04.111] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:04.195] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:04.195] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:05.454] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:05.559] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:05.559] [CRadarDisplay::OnClickScreenObject] Extended tags enabled.
+[LOG 15:12:05.559] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:06.954] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:07.70] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:07.156] [CRadarDisplay::OnClickScreenObject] Extended tags enabled.
+[LOG 15:12:07.156] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:07.673] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:12:08.78] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:08.180] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:08.180] [CRadarDisplay::OnClickScreenObject] QDM enabled. Increasing refresh resolution to 0.200000.
+[LOG 15:12:08.180] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:09.120] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:09.121] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:10.494] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:10.571] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:10.571] [CRadarDisplay::OnClickScreenObject] QDM disabled. Resetting refresh resolution to 0.040000 and clearing lat/lon values.
+[LOG 15:12:10.571] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:14.170] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:14.170] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:18.572] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:12:19.570] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:19.570] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:24.572] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:24.573] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:24.573] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:24.574] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:25.571] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:25.571] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:29.572] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:12:31.499] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:31.499] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:36.568] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:36.568] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:40.573] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:12:41.594] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:41.594] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:41.595] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:41.596] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:46.717] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:46.717] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:46.718] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:46.718] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:47.927] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:48.40] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:48.40] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:48.435] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:48.555] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:48.555] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:51.172] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:51.175] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:12:51.285] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:51.286] [CRadarDisplay::OnClickScreenObject] Detailed tag enabled for currently selected aircraft. Current ASEL: .
+[LOG 15:12:51.286] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:52.290] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:52.290] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:12:53.132] [CRadarDisplay::OnButtonDownScreenObject] Screen refresh forced.
+[LOG 15:12:53.217] [CRadarDisplay::OnButtonUpScreenObject] Screen refresh forced.
+[LOG 15:12:53.217] [CRadarDisplay::OnClickScreenObject] Detailed tag enabled for currently selected aircraft. Current ASEL: .
+[LOG 15:12:53.217] [CRadarDisplay::OnClickScreenObject] Screen refresh forced.
+[LOG 15:12:57.568] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:12:57.568] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:01.519] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:13:02.580] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:02.580] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:08.85] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:08.85] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:11.570] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:13:13.570] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:13.570] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:18.572] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:18.573] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:18.574] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:18.574] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:19.568] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:19.568] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:21.572] [CRadarDisplay::OnRefresh] Recalculating STCA.
+[LOG 15:13:24.570] [CRadarDisplay::OnRefresh] Refreshing controller list.
+[LOG 15:13:24.570] [CRadarDisplay::OnRefresh] Current cursor position: (0, 0)
+[LOG 15:13:26.46] [CRadarDisplay::OnAsrContentToBeSaved] Saving plugin data...

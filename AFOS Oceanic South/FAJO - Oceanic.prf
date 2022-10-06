@@ -31,13 +31,13 @@ Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin6	\FAJO\Plugins\vCH\VCH.dll
 Plugins	Plugin6Display1	Standard ES radar screen
 LastSession	connecttype	2
-LastSession	callsign	DGAO_CTR
+LastSession	callsign	FAJO_FSS
 LastSession	facility	6
 LastSession	tovatsim	1
-LastSession	atis2	$radioname, covering only DGAO (Oceanic) airspace
+LastSession	atis2	$radioname()
 LastSession	atis3	Part of Sub-Sahara Africa Division
 LastSession	atis4	Visit us at vatssa.com
-LastSession	range	600
+LastSession	range	1500
 Sounds	Sound1	\FAJO\Sounds\handoff_accept.wav
 Sounds	Sound2	\FAJO\Sounds\conflict_alert.wav
 Sounds	Sound3	\FAJO\Sounds\radio_message.wav
@@ -68,3 +68,7 @@ LastSession	server	SweatBox
 LastSession	scenario	D:\MA\6 vController Mike\5 VATSSA\7 SSA Code Studio\SSA SB Environment\AFOW.txt
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+Plugins	Plugin3	\FAJO\Plugins\VATCANBookings\VATCANBookings.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin4	\FAJO\Plugins\vNAAATS\VatsimNAAATS.dll
+Plugins	Plugin4Display0	vNAAATS Display

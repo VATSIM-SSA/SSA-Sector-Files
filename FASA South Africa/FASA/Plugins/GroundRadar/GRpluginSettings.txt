@@ -226,6 +226,7 @@ Window_APP_Extensions=1
 Window_APP_AltFilter=5160
 
 AppPath=FACT:FACT 01:S033.59.15.860:E018.36.32.011:009:L:144:3.0
+AppPath=FACT:FACT 19:S033.57.35.431:E018.36.00.179:189:R:143:3.0
 
 [FAEL]
 Airport_Elevation=435
