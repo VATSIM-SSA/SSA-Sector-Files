@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
 ;=========================================================================================================================;
 
 
@@ -5555,7 +5555,8 @@ COORD:S020.31.01.912:E029.21.39.635
 
 SECTORLINE:132
 COORD:S027.30.00.000:E015.00.00.000
-COORD:S022.29.30.000:E013.02.00.000
+COORD:S027.30.00.000:E010.00.00.000
+COORD:S018.00.00.000:E010.00.00.000
 COORD:S017.30.00.000:E011.13.00.000
 
 SECTORLINE:133
