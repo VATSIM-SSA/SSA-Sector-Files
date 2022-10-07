@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\MA\6 vController Mike\5 VATSSA\1 SSA Sector Files\DNKK Kano\DNKK-DevOps.sct
-SECTORTITLE:DNKK-DevOps.sct
+SECTORFILE:
+SECTORTITLE:
 Geo:DNJO Groundlayout:
 SHOWC:1
 SHOWSB:1
