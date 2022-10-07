@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -3840,6 +3840,7 @@ MYD	MAYA ISLAND AIR	MYLAND	BELIZE
 MYF	MYFLIGHT, S.A. DE C.V.	MY FLIGHT	MEXICO
 MYI	MAYAIR, S.A. DE C.V.	MAYAIR	MEXICO
 MYK	BEIJING MYKYLIN GENERAL AVIATION CO., LTD.	MYLIN	CHINA
+MYM	MYAIRLINE SDN. BHD.	MYAIR	MALAYSIA
 MYO	DOMINGUEZ TOLEDO, S.A. (GRUPO MAYORAL)	MAYORAL	SPAIN
 MYP	MANN YADANARPON AIRLINES CO.LTD	MANN ROYAL	MYANMAR
 MYR	MAYAN AIR, S.A. DE C.V.	MAYAN	MEXICO
