@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Beira - FQBE                     ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Beira - FQBE                     ;
 ;=========================================================================================================================;
 
 
@@ -41,7 +41,7 @@ FAJA_CTR:Johannesburg Area:134.400:JA::FAJA:CTR:::4400:4477:S024.35.46.011:E031.
 FAJA_C_CTR:Johannesburg Area Central:120.300:JC:C:FAJA:CTR:::4700:4777:S028.24.06.339:E021.15.37.542:S029.30.00.000:E031.00.00.000
 FAJA_E_CTR:Johannesburg Area East:129.100:JE:E:FAJA:CTR:::4700:4777:S029.30.00.000:E031.00.00.000
 FAJA_NW_CTR:Johannesburg Area North West:126.700:JN:NW:FAJA:CTR:::4500:4577:S026.09.25.560:E028.13.51.730
-FAJO_FSS:Johannesburg Oceanic:120.850:JO::FAJO:FSS:::0000:0000:S070.00.00.000:E030.00.00.000:S033.00.00.000:E024.00.00.00:S055.00.00.000:E040.00.00.000
+FAJO_FSS:Johannesburg Oceanic:120.850:JO::FAJO:FSS:::0000:0000:S038.30.25.864:E004.53.10.502:S047.15.35.061:E050.17.47.953:S068.49.46.481:E019.57.17.789:S070.18.25.887:E051.48.24.979
 FASA_CTR:South Africa Control:128.325:SA::FASA:CTR:::0000:0000:S029.30.00.000:E031.00.00.000:S029.30.00.000:E021.00.00.000
 FDSK_APP:Sikhuphe Approach:128.000:SIA::FDSK:APP:::0000:0000
 FLFI_CTR:Lusaka Control:120.500:FL::FLFI:CTR:::3300:3477
@@ -1981,8 +1981,7 @@ COORD:S037.00.00.000:E022.00.00.000
 COORD:S037.00.00.000:E015.00.00.000
 COORD:S030.30.00.000:E015.00.00.000
 COORD:S027.30.00.000:E015.00.00.000
-COORD:S022.29.30.000:E013.02.00.000
-COORD:S017.30.00.000:E011.13.00.000
+COORD:S027.30.00.000:E010.00.00.000
 COORD:S018.00.00.000:E010.00.00.000
 COORD:S018.00.00.000:W005.00.00.000
 COORD:S020.00.00.000:W010.00.00.000
@@ -2020,8 +2019,7 @@ DISPLAY:FQBE·FQBE_MID·145·245:FQBE·FQBE_MID·145·245:FASA·FAJAE·195·245
 SECTORLINE:104
 COORD:S028.00.23.000:E027.45.55.000
 COORD:S030.55.13.613:E026.00.13.327
-COORD:S030.31.35.300:E028.02.00.700
-COORD:S030.29.47.400:E028.18.45.900
+COORD:S030.28.22.739:E028.17.18.602
 COORD:S031.36.21.400:E029.30.59.800
 COORD:S033.00.00.000:E032.00.00.000
 
