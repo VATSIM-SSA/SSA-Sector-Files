@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
 ;=========================================================================================================================;
 VOICE
 AG:FCBB_APP Brazza Approach:121.100:novoice:FCBB_APP
