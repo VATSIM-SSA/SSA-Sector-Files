@@ -23,8 +23,10 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
 ;=========================================================================================================================;
 VOICE
+AG:FAJO_224_FSS Johannesburg Oceanic:120.900:novoice:FAJO_224_FSS
 AG:FAJO_FSS Johannesburg Oceanic:120.850:novoice:FAJO_FSS
+AG:FNAN_CTR Luanda Control:118.500:novoice:FNAN_CTR
 END
