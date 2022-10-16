@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 ;*** Arrival ***
 .star Cleared FL$1, Comply $star arrival runway $arrrwy, report ready for descent.
@@ -31,8 +31,9 @@
 ;*** Clearance ***
 .clrsid Cleared to $arr as filed, FL$1 on request, after departure runway $deprwy($dep) comply $sid, climb intially to FL$ squawk $squawk
 .clrrwy Cleared to $arr as filed, FL$1 on request, after departure runway $deprwy($dep) maintain runway heading, climb intialy to FL$2 squawk $squawk
-.clrrwy Cleared to $arr as filed, FL$1 on request, after departure runway $deprwy($dep)turn $2 heading $3, climb intialy to FL$4 squawk $squawk
+.clrrwy2 Cleared to $arr as filed, FL$1 on request, after departure runway $deprwy($dep) turn $2 heading $3, climb intialy to FL$4 squawk $squawk
 .read Readback correct. Report ready for Push and start.
+.notstd01 Cleared to $arr as filed, FL$1 on request, after departure runway 01, fly runway heading to 3 DME CTV, then turn left heading 330 degrees to intercept the 354 radial, climb FL90, squawk $squawk
 
 ;*** Handoffs ***
 .ho Contact $radioname($1) ($atccallsign($1)) $freq($1)
