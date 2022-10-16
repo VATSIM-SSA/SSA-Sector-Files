@@ -23,5 +23,5 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2208/1  ++  Valid period: 11/AUG/2022 - 07/SEP/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
 ;=========================================================================================================================;
