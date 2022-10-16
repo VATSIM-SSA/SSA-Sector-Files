@@ -26,7 +26,9 @@
 ;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
 ;=========================================================================================================================;
 VOICE
-AG:FAJO_224_FSS Johannesburg Oceanic:120.900:novoice:FAJO_224_FSS
+AG:FAJO_1_FSS Johannesburg Oceanic:120.650:novoice:FAJO_1_FSS
+AG:FAJO_2_FSS Johannesburg Oceanic:120.450:novoice:FAJO_2_FSS
+AG:FAJO_3_FSS Johannesburg Oceanic:120.900:novoice:FAJO_3_FSS
 AG:FAJO_FSS Johannesburg Oceanic:120.850:novoice:FAJO_FSS
 AG:FNAN_CTR Luanda Control:118.500:novoice:FNAN_CTR
 END
