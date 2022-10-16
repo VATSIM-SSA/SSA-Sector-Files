@@ -1,18 +1,18 @@
 PROFILE
 PROFILE:FAJO_FSS:1500:7
-ATIS2:$radioname()
+ATIS2:$radioname
 ATIS3:Part of Sub-Sahara Africa Division
 ATIS4:Visit us at vatssa.com
 PROFILE:FAJO_1_FSS:1500:7
-ATIS2:$radioname()
+ATIS2:$radioname
 ATIS3:Part of Sub-Sahara Africa Division
 ATIS4:Visit us at vatssa.com
 PROFILE:FAJO_2_FSS:1500:7
-ATIS2:$radioname()
+ATIS2:$radioname
 ATIS3:Part of Sub-Sahara Africa Division
 ATIS4:Visit us at vatssa.com
 PROFILE:FAJO_3_FSS:1500:7
-ATIS2:$radioname()
+ATIS2:$radioname
 ATIS3:Part of Sub-Sahara Africa Division
 ATIS4:Visit us at vatssa.com
 END
