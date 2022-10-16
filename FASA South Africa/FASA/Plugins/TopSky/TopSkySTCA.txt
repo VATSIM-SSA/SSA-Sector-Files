@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FASA | TopSky | STCA
 // ##################################################################
 
-// Version v0.1
-// Update Date 11/08/2022
+// Version v0.2
+// Update Date 16/10/2022
 
 
 // ##################################################################
@@ -13,6 +13,12 @@
 // FALE
 FINALAPP:FALE:06
 FINALAPP:FALE:24
+
+// FAOR
+FINALAPP:FAOR:03L
+FINALAPP:FAOR:03R
+FINALAPP:FAOR:21L
+FINALAPP:FAOR:21R
 
 
 // ##################################################################

@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2209/1  ++  Valid period: 08/SEP/2022 - 05/OCT/2022  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 VOICE
 AG:FABE_TWR Bhisho Tower:120.600:novoice:FABE_TWR
@@ -49,6 +49,7 @@ AG:FAGG_ATIS:126.225:novoice:FAGG_ATIS
 AG:FAGG_TWR George Tower:118.900:novoice:FAGG_TWR
 AG:FAGM_TWR Rand Tower:118.700:novoice:FAGM_TWR
 AG:FAHS_APP Hoedspruit Approach:126.400:novoice:FAHS_APP
+AG:FAHS_ATIS:118.000:novoice:FAHS_ATIS
 AG:FAHS_GND Hoedspruit Ground:134.350:novoice:FAHS_GND
 AG:FAHS_I_CTR Lowveld Info:119.000:novoice:FAHS_I_CTR
 AG:FAHS_TWR Hoedspruit Tower:119.600:novoice:FAHS_TWR
@@ -73,13 +74,16 @@ AG:FALE_GND King Shaka Ground:121.650:novoice:FALE_GND
 AG:FALE_I_APP Durban Radio:124.200:novoice:FALE_I_APP
 AG:FALE_TWR King Shaka Tower:118.450:novoice:FALE_TWR
 AG:FALM_APP Makhado Approach:121.200:novoice:FALM_APP
+AG:FALM_ATIS:118.000:novoice:FALM_ATIS
 AG:FALM_GND Makhado Ground:121.750:novoice:FALM_GND
 AG:FALM_TWR Makhado Tower:119.800:novoice:FALM_TWR
 AG:FALW_APP Langebaan Approach:122.500:novoice:FALW_APP
+AG:FALW_ATIS:118.000:novoice:FALW_ATIS
 AG:FALW_GND Langebaan Ground:121.750:novoice:FALW_GND
 AG:FALW_TWR Langebaan Tower:128.800:novoice:FALW_TWR
 AG:FAMM_TWR Mafikeng Tower:119.300:novoice:FAMM_TWR
 AG:FAOB_APP Overberg Approach:119.800:novoice:FAOB_APP
+AG:FAOB_ATIS:118.000:novoice:FAOB_ATIS
 AG:FAOH_I_TWR Oudshoorn Radio:131.100:novoice:FAOH_I_TWR
 AG:FAOR_APP Johannesburg Radar:124.500:novoice:FAOR_APP
 AG:FAOR_ATIS:126.200:novoice:FAOR_ATIS
@@ -97,7 +101,7 @@ AG:FAPE_DEL Port Elizabeth Delivery:122.100:novoice:FAPE_DEL
 AG:FAPE_TWR Port Elizabeth Tower:118.100:novoice:FAPE_TWR
 AG:FAPM_TWR Pietermaritzburg Tower:122.000:novoice:FAPM_TWR
 AG:FAPN_TWR Pilanesberg Tower:118.400:novoice:FAPN_TWR
-AG:FAPP_TWR Polokwane:119.750:novoice:FAPP_TWR
+AG:FAPP_TWR Polokwane Tower:119.750:novoice:FAPP_TWR
 AG:FARB_TWR Richards Bay Tower:118.900:novoice:FARB_TWR
 AG:FASA_CTR South Africa Control:128.325:novoice:FASA_CTR
 AG:FASK_TWR Swartkop Tower:123.200:novoice:FASK_TWR
@@ -107,6 +111,7 @@ AG:FAUT_TWR Mthatha Tower:121.300:novoice:FAUT_TWR
 AG:FAVG_TWR Virgina Tower:120.600:novoice:FAVG_TWR
 AG:FAWB_GND Wonderboom Ground:120.600:novoice:FAWB_GND
 AG:FAWB_TWR Wonderboom Tower:118.350:novoice:FAWB_TWR
+AG:FAWK_ATIS:118.000:novoice:FAWK_ATIS
 AG:FAWK_GND Waterkloof Ground:121.850:novoice:FAWK_GND
 AG:FAWK_TWR Waterkloof Tower:124.100:novoice:FAWK_TWR
 AG:FAYP_GND Ysterplaat Ground:121.850:novoice:FAYP_GND
@@ -116,5 +121,6 @@ AG:FDMS_TWR Manzini Tower:124.900:novoice:FDMS_TWR
 AG:FDSK_APP Sikhuphe Approach:128.000:novoice:FDSK_APP
 AG:FDSK_GND Sikhuphe Ground:121.800:novoice:FDSK_GND
 AG:FXMM_APP Maseru Approach:120.700:novoice:FXMM_APP
+AG:FXMM_GND Maseru Ground:121.700:novoice:FXMM_GND
 AG:FXMM_TWR Maseru Tower:118.500:novoice:FXMM_TWR
 END
