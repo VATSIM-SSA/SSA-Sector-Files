@@ -19,22 +19,27 @@ Settings	airports	\FAJO\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FAJO\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FAJO\NavData\airway.txt
 Settings	airportcoords	\FAJO\NavData\icao.txt
-Settings	sector	\DevOps.sct
+Settings	sector	\FAJO-Package_20221008103053-221001-0001.sct
 RecentFiles	Recent1	\FAJO\ASR\FAJO.asr
-ASRFastKeys	1	\FAJO\ASR\AFRW.asr
+ASRFastKeys	1	\FAJO\ASR\FAJO.asr
 Plugins	Plugin0	\FAJO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\FAJO\Plugins\TopSky\TopSky.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2	\FAJO\Plugins\EasyTag\EasyTag.dll
 Plugins	Plugin2Display1	Standard ES radar screen
-Plugins	Plugin6	\FAJO\Plugins\vCH\VCH.dll
-Plugins	Plugin6Display1	Standard ES radar screen
-LastSession	connecttype	2
+Plugins	Plugin3	\FAJO\Plugins\vCH\VCH.dll
+Plugins	Plugin3Display1	Standard ES radar screen
+Plugins	Plugin4	\FAJO\Plugins\VATCANBookings\VATCANBookings.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin5	\FASA\Plugins\DiscordEuroScope\DiscordEuroscope.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin5Display1	Ground Radar display
+LastSession	connecttype	0
 LastSession	callsign	FAJO_FSS
-LastSession	facility	6
+LastSession	facility	0
 LastSession	tovatsim	1
-LastSession	atis2	$radioname()
+LastSession	atis2	$radioname
 LastSession	atis3	Part of Sub-Sahara Africa Division
 LastSession	atis4	Visit us at vatssa.com
 LastSession	range	1500
@@ -59,16 +64,4 @@ Sounds	Sound18	\FAJO\Sounds\startup.wav
 Sounds	Sound19	\FAJO\Sounds\startup.wav
 Sounds	Sound20	\FAJO\Sounds\supervisor_message.wav
 Sounds	Sound0	\FAJO\Sounds\handoff_request.wav
-RecentFiles	Recent2	\FAJO\ASR\FAJO.asr
-LastSession	realname	810471
-LastSession	certificate	810471
-LastSession	password	YetTpiX!N5DroAh5
-LastSession	rating	3
-LastSession	server	SweatBox
-LastSession	scenario	D:\MA\6 vController Mike\5 VATSSA\7 SSA Code Studio\SSA SB Environment\AFOW.txt
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-Plugins	Plugin3	\FAJO\Plugins\VATCANBookings\VATCANBookings.dll
-Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin4	\FAJO\Plugins\vNAAATS\VatsimNAAATS.dll
-Plugins	Plugin4Display0	vNAAATS Display
+
