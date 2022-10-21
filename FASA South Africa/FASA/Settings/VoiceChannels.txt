@@ -87,6 +87,7 @@ AG:FAOB_ATIS:118.000:novoice:FAOB_ATIS
 AG:FAOH_I_TWR Oudshoorn Radio:131.100:novoice:FAOH_I_TWR
 AG:FAOR_APP Johannesburg Radar:124.500:novoice:FAOR_APP
 AG:FAOR_ATIS:126.200:novoice:FAOR_ATIS
+AG:FAOR_A_GND OR Tambo Apron:122.650:novoice:FAOR_A_GND
 AG:FAOR_DEL OR Tambo Clearance Delivery:121.700:novoice:FAOR_DEL
 AG:FAOR_E_TWR OR Tambo Tower East:118.600:novoice:FAOR_E_TWR
 AG:FAOR_F_APP Johannesburg Director:121.400:novoice:FAOR_F_APP
