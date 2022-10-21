@@ -2,8 +2,10 @@
 //                 VATSSA | FIR AFOS | TopSky | Settings
 // ##################################################################
 
-// Version v0.1
-// Update Date 26/09/2022
+// TopSky Version 2.4.1 (Stable)
+
+// Version v0.2
+// Update Date 21/10/2022
 
 
 // ##################################################################
@@ -157,22 +159,22 @@ Vector_QDM_Font=EuroScope
 //                 #3 VISUAL v0.3
 // ##################################################################
 
-Window_WxMsgs=1,1460,46,438,200
+Window_WxMsgs=0,1460,46,438,200
 Window_WxMsgs_MetarRefreshInterval=600
 Window_WxMsgs_HighlightNew=1
 
 
-Window_QNHTL=1,1728,250
+Window_QNHTL=0,1728,250
 Window_QNHTL_HighlightChanges=1
 
-Window_LFUNCFP=0,1728,420
+Window_LFUNCFP=1,1728,420
 
 Window_CPDLC_Setting=1,1300,650
 Window_ATCmsg=1,1460,650,438,120
 Window_PrimFreqMsg=1,1460,775,438,120
 Window_CPDLC_Current=1,1460,900
 
-Window_NOTAM=3
+Window_NOTAM=0
 
 
 // ##################################################################
@@ -225,20 +227,23 @@ Malrt_Irregular=IRR
 // ##################################################################
 
 CPDLC_Default=1
-CPDLC_MinLevel=195
+CPDLC_MinLevel=245
 CPDLC_Server=http://www.hoppie.nl/
 CPDLC_MiniServer=localhost
 CPDLC_Page=acars/system/connect.html
 CPDLC_PlaySound=1
 CPDLC_PDC_PlaySound=1
 CPDLC_PDC_Timeout_Pilot=600
-CPDLC_Send_FSM_RCD=1
+CPDLC_Send_FSM_RCD=0
 
 CPDLC_CFL=1
 CPDLC_DCT=1
 CPDLC_AHDG=1
 CPDLC_ASP=1
 CPDLC_Transfer=1
+CPDLC_AutoAcceptLogon=1
+CPDLC_AutoAcceptLogon_Time=60
+
 
 CPDLC_FSM_PDC_Fail=NO PDC AVAILABLE FOR <callsign>
 CPDLC_FSM_PDC_Fail_ATYP=PDC REQUEST REJECTED @TYPE MISMATCH @UPDATE REQUEST AND RESEND
