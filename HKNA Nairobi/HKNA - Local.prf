@@ -1,7 +1,7 @@
 Settings	SettingsfileSYMBOLOGY	\HKNA\Settings\Local\ACCRAC_SYMBOLOGY.txt
 Settings	SettingsfileVOICE	\HKNA\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\HKNA\Settings\Profiles.txt
-Settings	SettingsfileTAGS	\HKNA\Settings\Local\Tags.txt
+Settings	SettingsfileTAGS	\HKNA\Settings\Local\VATSSA_Tags.txt
 Settings	SettingsfileSIL	\HKNA\Settings\Local\SectorInboundList.txt
 Settings	SettingsfileSEL	\HKNA\Settings\Local\SectorExitList.txt
 Settings	SettingsfileDEP	\HKNA\Settings\Local\DepartureList.txt
