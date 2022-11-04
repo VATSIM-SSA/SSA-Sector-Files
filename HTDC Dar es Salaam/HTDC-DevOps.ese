@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
 ;=========================================================================================================================;
 
 
@@ -5213,7 +5213,9 @@ FIR_COPX:*:*:NESAL:HUEN:*:HTDC·HTDCW_HIGH·245·660:HUEC·HUEC_HIGH·245·660:*:27000
 FIR_COPX:*:*:OKTEX:HUEN:*:HTDC·HTDCW_MID·105·245:HUEC·HUEC_MID·145·245:*:24000:OKTEX
 FIR_COPX:*:*:APNAD:HUEN:*:HTDC·HTDCW_MID·105·245:HUEC·HUEC_MID·145·245:*:15000:APNAD
 FIR_COPX:*:*:KISAK:*:*:HTDC·HTDCE·245·660:FSSS·FSSS_FSS_S·245·660:*:*:KISAK
+FIR_COPX:*:*:EPTEL:*:*:HKNA·HKNA_HIGH_S·245·660:HTDC·HTDCE·245·660:*:*:EPTEL
 FIR_COPX:*:*:AMSAD:*:*:HTDC·HTDCE·245·660:FSSS·FSSS_FSS_S·245·660:*:*:AMSAD
+FIR_COPX:*:*:KINAN:*:*:HTDC·HTDCE·245·660:FMMM·FMMM_HIGH·245·660:*:*:KINAN
 FIR_COPX:*:*:TABNO:*:*:HTDC·HTDCE·245·660:FMMM·FMMM_HIGH·245·660:*:*:TABNO
 FIR_COPX:*:*:DUSKA:*:*:HTDC·HTDCE·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:DUSKA
 FIR_COPX:*:*:EGTAN:*:*:HTDC·HTDCE·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:EGTAN
