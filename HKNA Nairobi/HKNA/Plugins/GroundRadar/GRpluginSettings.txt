@@ -4,8 +4,8 @@
 
 // GroundRadar Version 1.5 Stable
 
-// Version v0.2
-// Update Date 10/08/2022
+// Version v0.3
+// Update Date 03/11/2022
 
 
 // ##################################################################
@@ -223,7 +223,7 @@ Airport_Radius=3
 Window_APP=1,1200,610,600,300
 Window_APP_Rotation=36
 Window_APP_Scale=10
-Window_APP_Extensions=10
+Window_APP_Extensions=1
 Window_APP_AltFilter=10330
 
 AppPath=HKJK:HKJK 06:S001.19.39.331:E036.54.58.888:053:R:5330:3.0
