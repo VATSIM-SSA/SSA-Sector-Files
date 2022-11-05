@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
 ;=========================================================================================================================;
 ;*** 01 Before initial contact ***
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when 
