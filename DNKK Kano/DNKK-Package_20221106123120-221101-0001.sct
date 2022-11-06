@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Kano 2210/1-1 DNKK 20221007
+VATSSA Kano 2211/1-1 DNKK 20221106
 AERO_NAV
 ZZZZ
 N009.00.24.466
@@ -196,7 +196,7 @@ BC   388.000 N006.19.01.829 E005.35.57.278
 BE   272.000 N006.19.48.010 E005.36.45.820
 BT   274.000 N004.33.02.001 E013.43.01.999
 BU   323.000 N010.30.28.090 E009.44.22.559
-BY   340.500 N004.58.08.580 E006.13.24.319
+BY   430.000 N004.58.08.580 E006.13.24.319
 CO   284.000 N006.22.14.901 E002.24.08.999
 CR   317.000 N004.58.02.200 E008.20.52.850
 DE   362.000 N003.47.26.761 E010.08.17.001
