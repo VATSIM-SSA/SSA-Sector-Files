@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
 ;=========================================================================================================================;
 
 
@@ -14417,6 +14417,8 @@ FIR_COPX:*:*:EXOBO:*:*:FBGR·FBGR_LOW_N·000·245:FVHF·FVHFW_LOW·000·155:*:*:EXOBO
 FIR_COPX:*:*:EXOBO:*:*:FBGR·FBGR_HIGH·245·660:FVHF·FVHFW_HIGH·245·660:*:*:EXOBO
 FIR_COPX:*:*:EXOBO:*:*:FBGR·FBGR_HIGH·245·660:FVHF·FVHFW_MID·155·245:*:*:EXOBO
 FIR_COPX:*:*:NERAX:*:*:FAJO·FAJO_HIGH·245·660:FASA·FACA-E-HI·245·660:*:*:NERAX
+FIR_COPX:*:*:EROPA:*:*:FMMM·FMMM_HIGH·245·660:FQBE·FQBE_HIGH_S·245·660:*:*:EROPA
+FIR_COPX:*:*:KINAN:*:*:HTDC·HTDCE·245·660:FMMM·FMMM_HIGH·245·660:*:*:KINAN
 FIR_COPX:*:*:AVANA:*:*:FAJO·FAJO_HIGH·245·660:FASA·FACA-E-HI·245·660:*:*:AVANA
 FIR_COPX:*:*:TABNO:*:*:HTDC·HTDCE·245·660:FMMM·FMMM_HIGH·245·660:*:*:TABNO
 FIR_COPX:*:*:UVGOD:*:*:FAJO·FAJO_W_2_FSS·245·660:FASA·FAJANW_HIGH·245·660:*:*:UVGOD
@@ -14433,6 +14435,13 @@ FIR_COPX:*:*:ITMEK:*:*:FAJO·FAJO_HIGH·245·660:FASA·FACA-W-HI·245·660:*:*:ITMEK
 FIR_COPX:*:*:OKDOG:*:*:FAJO·FAJO_HIGH·245·660:FASA·FACA-W-HI·245·660:*:*:OKDOG
 FIR_COPX:*:*:BUXIR:*:*:FAJO·FAJO_HIGH·245·660:FASA·FACA-W-HI·245·660:*:*:BUXIR
 FIR_COPX:*:*:ALDOV:*:*:FAJO·FAJO_HIGH·245·660:FASA·FACA-W-HI·245·660:*:*:ALDOV
+FIR_COPX:*:*:TONKA:*:*:FQBE·FQBE_HIGH_S·245·660:FASA·FAJANE·245·660:*:*:TONKA
+FIR_COPX:*:*:EGNOR:*:*:FASA·FAJANW_HIGH·245·660:FYWH·FYWH·245·660:*:*:EGNOR
+FIR_COPX:*:*:ANVAG:*:*:FYWH·FYWH·245·660:FNAN·FNAN_HIGH·245·660:*:*:ANVAG
+COPX:*:*:EGRUP:*:*:FASA·FACA-W-HI·245·660:FASA·FAJAC·245·660:*:*:EGRUP
+COPX:*:*:EPTOP:*:*:FASA·FAJAC·245·660:FASA·FAJAE·245·660:*:*:EPTOP
+COPX:*:*:IMGEV:*:*:FASA·FAJAE·245·660:FASA·FAJASE·245·660:*:*:IMGEV
+COPX:*:*:TEXIP:*:*:FASA·FAJANW_HIGH·245·660:FASA·FAJASW·245·660:*:*:TEXIP
 
 
 

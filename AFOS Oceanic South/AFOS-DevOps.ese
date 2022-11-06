@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
 ;=========================================================================================================================;
 
 
@@ -56,10 +56,10 @@ FNAN_CTR:Luanda Control:118.500:NA::FNAN:CTR:::3300:3477:S012.00.00.000:E018.00.
 FQBE_CTR:Beira Control:127.700:FQ::FQBE:CTR:::3330:3477:S014.30.00.000:E037.00.00.000:S024.00.00.000:E036.00.00.000
 FQBE_S_CTR:Maputo Control:127.300:FQS:S:FQBE:CTR:::3300:3477:S022.30.00.000:E033.30.00.000
 FYWH_CTR:Windhoek Radar:124.700:FY::FYWH:CTR:::3410:3477:S019.30.00.000:E018.30.00.000:S025.00.00.000:E017.00.00.000
-GCCC_CTR:Canarias Control:129.100:CC::GCCC:CTR:::1400:1477:N028.15.18.341:W015.56.45.501
-GCCC_E_CTR:Canarias Control:127.900:CCE:E:GCCC:CTR:::1400:1477:N028.18.16.197:W014.29.17.848
-GCCC_I_CTR:Canarias Control:123.650:CCI:I:GCCC:CTR:::1400:1477
-GCCC_L_CTR:Canarias Control:126.100:CAL:L:GCCC:CTR:::1400:1477
+GCCC_CTR:Canarias Control:127.900:CC::GCCC:CTR:::1400:1477:N028.15.18.341:W015.56.45.501
+GCCC_INB_CTR:Canarias Control:126.500:CAL:INB:GCCC:CTR:::1400:1477
+GCCC_R6_CTR:Canarias Control:123.650:CCI:R6:GCCC:CTR:::1400:1477
+GCCC_RES_CTR:Canarias Control:129.100:CCE:RES:GCCC:CTR:::1400:1477:N028.18.16.197:W014.29.17.848
 GCCO_CTR:Canarias Radio:130.950:CCO::GCCO:CTR:::1400:1477
 GMMM_CTR:Casablanca Radar:126.550:CR::GMMM:CTR:::0000:0000
 GMMM_E_CTR:Casablanca Radar:125.100:CRE:E:GMMM:CTR:::0000:0000
