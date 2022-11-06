@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Sal 2210/1-1 GVSC 20221008
+VATSSA Sal 2211/1-1 GVSC 20221106
 AERO_NAV
 ZZZZ
 N016.00.00.000
@@ -387,8 +387,8 @@ FF10  N012.32.53.159 W016.22.55.300
 FF36  N015.57.59.360 W016.27.09.489
 FN03  N014.48.54.989 W023.32.14.128
 FN18  N016.07.55.120 W016.28.54.300
-FN21  N016.13.52.438 W022.51.53.528
 FN21  N015.02.03.328 W023.26.45.689
+FN21  N016.13.52.438 W022.51.53.528
 GAKSA N010.21.26.999 W018.14.34.980
 GAMBA N018.57.06.001 W026.03.42.001
 GANAK N016.00.00.000 W037.30.00.000

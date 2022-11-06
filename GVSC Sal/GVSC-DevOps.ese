@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2210/1  ++  Valid period: 06/OCT/2022 - 02/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 
 
@@ -39,12 +39,13 @@ AFRW_FSS:Africa West Control:132.225:AW::AFRW:FSS:::0500:0577:N007.13.15.162:W01
 CARE_FSS:Caribbean Control East:131.500:CAE::CARE:FSS:::5500:5777
 CARI_FSS:Caribbean Control:131.300:CA::CARI:FSS:::5500:5777
 EURW_FSS:Eurocontrol West:135.250:EUW::EURW:FSS:::0600:0677:N047.08.30.000:E000.32.22.000:N040.46.00.000:E001.55.32.000:N040.56.42.000:W011.56.12.000:N035.36.10.000:W014.08.23.000
-GCCC_CTR:Canarias Control:129.100:CC::GCCC:CTR:::1400:1477:N028.15.18.341:W015.56.45.501
-GCCC_E_CTR:Canarias Control:127.900:CCE:E:GCCC:CTR:::1400:1477:N028.18.16.197:W014.29.17.848
+GCCC_CTR:Canarias Control:127.900:CC::GCCC:CTR:::1400:1477:N028.15.18.341:W015.56.45.501
+GCCC_RES_CTR:Canarias Control:129.100:CCE:RES:GCCC:CTR:::1400:1477:N028.18.16.197:W014.29.17.848
 GCCO_CTR:Canarias Radio:130.950:CCO::GCCO:CTR:::1400:1477
 GOOC_FSS:Dakar Radio:122.500:GOO::GOOC:FSS:::2000:2000:N002.30.00.000:W017.30.00.000
 GOOO_CTR:Dakar Control:129.500:GO::GOOO:CTR:::3101:3177:N012.00.00.000:W017.00.00.000:N020.40.00.000:W011.10.00.000:N005.00.00.000:W005.00.00.000:N013.40.00.000:W007.30.00.000
 GVAC_ATIS:Amilcabral ATIS:127.600:ACI::GVAC:ATIS:::0000:0000
+GVAC_GND:Amilcabral Ground:122.650:ACA::GVAC:GND:::0000:0000
 GVAC_TWR:Amilcabral Tower:119.700:ACT::GVAC:TWR:::7601:7617
 GVBA_ATIS:Boavista ATIS:127.000:BAI::GVBA:ATIS:::0000:0000
 GVBA_TWR:Boavista Tower:118.900:BA::GVBA:TWR:::7620:7627
