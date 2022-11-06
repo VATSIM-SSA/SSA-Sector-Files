@@ -3,66 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Fixes:AKUMU:name
-Fixes:AKUMU:symbol
-Fixes:ALEMU:name
-Fixes:ALEMU:symbol
-Fixes:ALKON:name
-Fixes:ALKON:symbol
-Fixes:AMSAD:name
-Fixes:AMSAD:symbol
-Fixes:ANTAX:name
-Fixes:ANTAX:symbol
-Fixes:ANVET:name
-Fixes:ANVET:symbol
-Fixes:APLOG:name
-Fixes:APLOG:symbol
-Fixes:AVAGI:name
-Fixes:AVAGI:symbol
-Fixes:AVEDI:name
-Fixes:AVEDI:symbol
-Fixes:AVIGO:name
-Fixes:AVIGO:symbol
-Fixes:EKBUL:name
-Fixes:EKBUL:symbol
-Fixes:ELAVA:name
-Fixes:ELAVA:symbol
-Fixes:ENABO:name
-Fixes:ENABO:symbol
-Fixes:EPLAS:name
-Fixes:EPLAS:symbol
-Fixes:ETKOP:name
-Fixes:ETKOP:symbol
-Fixes:EVATO:name
-Fixes:EVATO:symbol
-Fixes:GETAT:name
-Fixes:GETAT:symbol
-Fixes:GONGU:name
-Fixes:GONGU:symbol
-Fixes:ITMAR:name
-Fixes:ITMAR:symbol
-Fixes:KESOM:name
-Fixes:KESOM:symbol
-Fixes:KISAK:name
-Fixes:KISAK:symbol
-Fixes:LUDOL:name
-Fixes:LUDOL:symbol
-Fixes:MAGAD:name
-Fixes:MAGAD:symbol
-Fixes:NETAR:name
-Fixes:NETAR:symbol
-Fixes:PARIN:name
-Fixes:PARIN:symbol
-Fixes:PATAR:name
-Fixes:PATAR:symbol
-Fixes:UTATA:name
-Fixes:UTATA:symbol
-Fixes:UVUKO:name
-Fixes:UVUKO:symbol
-Fixes:XABON:name
-Fixes:XABON:symbol
-Fixes:XAKRI:name
-Fixes:XAKRI:symbol
 Free Text:HKJK Areas\Apron 1:freetext
 Free Text:HKJK Areas\Apron 2:freetext
 Free Text:HKJK Areas\Apron 3:freetext
@@ -264,71 +204,6 @@ Regions:HKKI Groundlayout:polygon
 Regions:HKLK Groundlayout:polygon
 Regions:HKMO Groundlayout:polygon
 Regions:HKWJ Groundlayout:polygon
-Runways:HKEL 08-26:centerline
-Runways:HKEM 14-32:centerline
-Runways:HKHB 14-32:centerline
-Runways:HKJK 06-24:centerline
-Runways:HKKI 06-24:centerline
-Runways:HKLK 09-27:centerline
-Runways:HKLO 09-27:centerline
-Runways:HKLU 08-26:centerline
-Runways:HKLU 15-33:centerline
-Runways:HKML 08-26:centerline
-Runways:HKML 17-35:centerline
-Runways:HKMO 03-21:centerline
-Runways:HKMO 15-33:centerline
-Runways:HKNL 03-21:centerline
-Runways:HKNW 07-25:centerline
-Runways:HKNW 14-32:centerline
-Runways:HKNY 02-20:centerline
-Runways:HKOK 09-27:centerline
-Runways:HKRE 06-24:centerline
-Runways:HKWJ 15-33:centerline
-Runways:KQVF 16-34:centerline
-VORs:DV:name
-VORs:DV:symbol
-VORs:ELD:name
-VORs:ELD:symbol
-VORs:GV:name
-VORs:GV:symbol
-VORs:JUB:name
-VORs:JUB:symbol
-VORs:KI:name
-VORs:KI:symbol
-VORs:KIV:name
-VORs:KIV:symbol
-VORs:KV:name
-VORs:KV:symbol
-VORs:LOV:name
-VORs:LOV:symbol
-VORs:MAV:name
-VORs:MAV:symbol
-VORs:MG:name
-VORs:MG:symbol
-VORs:MGU:name
-VORs:MGU:symbol
-VORs:MLD:name
-VORs:MLD:symbol
-VORs:MOV:name
-VORs:MOV:symbol
-VORs:MV:name
-VORs:MV:symbol
-VORs:NAK:name
-VORs:NAK:symbol
-VORs:NN:name
-VORs:NN:symbol
-VORs:NV:name
-VORs:NV:symbol
-VORs:SV:name
-VORs:SV:symbol
-VORs:TV:name
-VORs:TV:symbol
-VORs:VKA:name
-VORs:VKA:symbol
-VORs:WAV:name
-VORs:WAV:symbol
-VORs:ZV:name
-VORs:ZV:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0

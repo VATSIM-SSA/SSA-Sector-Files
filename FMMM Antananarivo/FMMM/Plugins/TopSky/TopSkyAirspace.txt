@@ -59,7 +59,7 @@ APPLINE:FMEE:12:107:FMEE/12
 // ##################################################################
 
 // FMMI | ANTANANARIVO IVATO
-INITIAL_CFL:6000
+INITIAL_CFL:15000
 CFL_FRUL:I
 CFL_ADEP:FMMI
 CFL_DRWY:11:29
