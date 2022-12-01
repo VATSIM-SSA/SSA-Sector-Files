@@ -211,7 +211,7 @@ Airport_Radius=3
 Window_APP=1,1200,610,600,300
 Window_APP_Rotation=61
 Window_APP_Scale=10
-Window_APP_Extensions=10
+Window_APP_Extensions=1
 Window_APP_AltFilter=5200
 
 AppPath=HKMO:HKMO 21:S004.00.47.048:E039.36.23.220:210:L:200:3.0
