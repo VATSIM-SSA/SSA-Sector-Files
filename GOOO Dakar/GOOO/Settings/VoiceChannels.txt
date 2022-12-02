@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
 ;=========================================================================================================================;
 VOICE
 AG:DIAP_APP Abidjan Approach:121.100:novoice:DIAP_APP
@@ -48,6 +48,7 @@ AG:GLRB_GND Roberts Ground:121.900:novoice:GLRB_GND
 AG:GLRB_TWR Roberts Tower:118.300:novoice:GLRB_TWR
 AG:GOBD_APP Diass Approach:120.500:novoice:GOBD_APP
 AG:GOBD_ATIS:126.200:novoice:GOBD_ATIS
+AG:GOBD_DEL Diass Delivery:122.100:novoice:GOBD_DEL
 AG:GOBD_GND Diass Ground:121.800:novoice:GOBD_GND
 AG:GOBD_TWR Diass Tower:118.800:novoice:GOBD_TWR
 AG:GOGG_TWR Ziguinchor Tower:118.700:novoice:GOGG_TWR
