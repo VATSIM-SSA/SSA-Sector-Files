@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Lilongwe - FWLL                  ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Lilongwe - FWLL                  ;
 ;=========================================================================================================================;
 VOICE
 AG:FWCL_APP Chileka Approach:124.900:novoice:FWCL_APP
