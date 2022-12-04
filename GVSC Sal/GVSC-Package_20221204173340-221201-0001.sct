@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Sal 2211/1-1 GVSC 20221106
+VATSSA Sal 2212/1-1 GVSC 20221204
 AERO_NAV
 ZZZZ
 N016.00.00.000
@@ -24314,6 +24314,9 @@ COLOR_Stopbar              N016.50.11.413 W025.03.06.812
 
 
 [HIGH AIRWAY]
+CR12       N020.54.51.998 W017.02.05.881 N019.30.00.000 W016.29.07.000
+CR9        N018.25.05.001 W017.13.00.001 N016.44.54.999 W017.20.07.000
+CR9        N020.54.51.998 W017.02.05.881 N018.25.05.001 W017.13.00.001
 UA302      N013.19.54.998 W018.25.40.000 N013.58.08.000 W018.00.00.000
 UA302      N013.58.08.000 W018.00.00.000 N014.44.41.398 W017.28.29.200
 UA302      N011.27.53.999 W019.40.00.001 N013.19.54.998 W018.25.40.000

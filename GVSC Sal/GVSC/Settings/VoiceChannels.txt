@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 VOICE
+AG:GVAC_0_GND Amilcabral Ground:122.650:novoice:GVAC_0_GND
 AG:GVAC_ATIS:127.600:novoice:GVAC_ATIS
-AG:GVAC_GND Amilcabral Ground:122.650:novoice:GVAC_GND
 AG:GVAC_TWR Amilcabral Tower:119.700:novoice:GVAC_TWR
 AG:GVBA_ATIS:127.000:novoice:GVBA_ATIS
 AG:GVBA_TWR Boavista Tower:118.900:novoice:GVBA_TWR

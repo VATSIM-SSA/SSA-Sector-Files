@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 
 
@@ -44,8 +44,8 @@ GCCC_RES_CTR:Canarias Control:129.100:CCE:RES:GCCC:CTR:::1400:1477:N028.18.16.19
 GCCO_CTR:Canarias Radio:130.950:CCO::GCCO:CTR:::1400:1477
 GOOC_FSS:Dakar Radio:122.500:GOO::GOOC:FSS:::2000:2000:N002.30.00.000:W017.30.00.000
 GOOO_CTR:Dakar Control:129.500:GO::GOOO:CTR:::3101:3177:N012.00.00.000:W017.00.00.000:N020.40.00.000:W011.10.00.000:N005.00.00.000:W005.00.00.000:N013.40.00.000:W007.30.00.000
+GVAC_0_GND:Amilcabral Ground:122.650:ACA:0:GVAC:GND:::0000:0000
 GVAC_ATIS:Amilcabral ATIS:127.600:ACI::GVAC:ATIS:::0000:0000
-GVAC_GND:Amilcabral Ground:122.650:ACA::GVAC:GND:::0000:0000
 GVAC_TWR:Amilcabral Tower:119.700:ACT::GVAC:TWR:::7601:7617
 GVBA_ATIS:Boavista ATIS:127.000:BAI::GVBA:ATIS:::0000:0000
 GVBA_TWR:Boavista Tower:118.900:BA::GVBA:TWR:::7620:7627
