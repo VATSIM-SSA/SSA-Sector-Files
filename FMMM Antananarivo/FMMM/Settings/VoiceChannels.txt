@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
 ;=========================================================================================================================;
 VOICE
 AG:FMCH_TWR Moroni Tower:118.100:novoice:FMCH_TWR
@@ -33,8 +33,8 @@ AG:FMEE_APP Roland Garros Approach:119.400:novoice:FMEE_APP
 AG:FMEE_ATIS:126.800:novoice:FMEE_ATIS
 AG:FMEE_GND Roland Garros Ground:121.900:novoice:FMEE_GND
 AG:FMEE_TWR Roland Garros Tower:118.400:novoice:FMEE_TWR
+AG:FMMI_0_GND Ivato Ground:122.650:novoice:FMMI_0_GND
 AG:FMMI_APP Antananarivo Approach:125.700:novoice:FMMI_APP
-AG:FMMI_GND Ivato Ground:122.650:novoice:FMMI_GND
 AG:FMMI_TWR Ivato Tower:120.100:novoice:FMMI_TWR
 AG:FMMM_CTR Antananarivo Control:128.900:novoice:FMMM_CTR
 AG:FMMT_TWR Toamasina Tower:118.300:novoice:FMMT_TWR
