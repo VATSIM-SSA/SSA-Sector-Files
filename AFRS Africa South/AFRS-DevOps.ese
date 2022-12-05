@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2211/1  ++  Valid period: 03/NOV/2022 - 30/NOV/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
+;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
 ;=========================================================================================================================;
 
 
@@ -14442,6 +14442,13 @@ COPX:*:*:EGRUP:*:*:FASA·FACA-W-HI·245·660:FASA·FAJAC·245·660:*:*:EGRUP
 COPX:*:*:EPTOP:*:*:FASA·FAJAC·245·660:FASA·FAJAE·245·660:*:*:EPTOP
 COPX:*:*:IMGEV:*:*:FASA·FAJAE·245·660:FASA·FAJASE·245·660:*:*:IMGEV
 COPX:*:*:TEXIP:*:*:FASA·FAJANW_HIGH·245·660:FASA·FAJASW·245·660:*:*:TEXIP
+COPX:*:*:UVGAD:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:UVGAD
+COPX:*:*:GATLA:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:GATLA
+COPX:*:*:IXAVA:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:IXAVA
+COPX:*:*:IXENI:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:IXENI
+COPX:*:*:TIGUR:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:TIGUR
+COPX:*:*:IXAGU:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:IXAGU
+COPX:*:*:TIDAL:*:*:FMMM·FMMM_HIGH·245·660:FMMM·FMMI_TMA·000·245:*:*:TIDAL
 
 
 
