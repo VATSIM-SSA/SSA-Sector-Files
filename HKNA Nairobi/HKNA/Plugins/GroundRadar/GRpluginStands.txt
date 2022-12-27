@@ -2,8 +2,8 @@
 //                 VATSSA | FIR HKNA | GroundRadar | Stands
 // ##################################################################
 
-// Version v0.1
-// Update Date 25/06/2022
+// Version v0.2
+// Update Date 27/12/2022
 
 // Active Airports
 // HK | HKMO
