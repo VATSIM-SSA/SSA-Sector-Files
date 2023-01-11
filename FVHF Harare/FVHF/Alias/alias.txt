@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Harare - FVHF                    ;
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Harare - FVHF                    ;
 ;=========================================================================================================================;
 ;*** 01 Before initial contact ***
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when 
