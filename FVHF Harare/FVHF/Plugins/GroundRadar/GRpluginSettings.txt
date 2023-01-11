@@ -4,8 +4,8 @@
 
 // GroundRadar Version 1.5 Stable
 
-// Version v0.1
-// Update Date 30/06/2022
+// Version v0.2
+// Update Date 10/01/2023
 
 
 // ##################################################################
@@ -213,6 +213,8 @@ Window_APP_Rotation=340
 Window_APP_Scale=20
 Window_APP_Extensions=1
 Window_APP_AltFilter=8500
+
+AppPath=FVFA:FVFA 12:S018.05.26.908:E025.49.05.008:118:R:3500:3.0
 
 [FVRG]
 Airport_Elevation=4901
