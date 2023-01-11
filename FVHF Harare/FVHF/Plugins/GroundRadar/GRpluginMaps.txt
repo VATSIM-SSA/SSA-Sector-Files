@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FVHF | GroundRadar | Maps
 // ##################################################################
 
-// Version v0.1
-// Update Date 24/07/2022
+// Version v0.2
+// Update Date 11/01/2023
 
 
 // ##################################################################
@@ -36,7 +36,7 @@ COLORDEF:CENTERLINES:111:111:60
 
 
 // ##################################################################
-//                 #2 SYMBOLS v0.2
+//                 #2 SYMBOLS v0.4
 // ##################################################################
 
 // VFR FIXES
@@ -58,6 +58,25 @@ POLYGON:0:-5:-5:0:0:5
 // DEPARTURE -->
 SYMBOLDEF:DEPR
 POLYGON:0:5:5:0:0:-5
+
+// WAYPOINT
+SYMBOLDEF:WPT
+MOVETO:-4:4
+LINETO:5:4
+MOVETO:-3:3
+LINETO:4:3
+MOVETO:-3:2
+LINETO:4:2
+MOVETO:-2:1
+LINETO:3:1
+MOVETO:-2:0
+LINETO:3:0
+MOVETO:-1:-1
+LINETO:2:-1
+MOVETO:-1:-2
+LINETO:2:-2
+MOVETO:0:-3
+LINETO:0:-5
 
 // VOR
 SYMBOLDEF:VOR
@@ -96,6 +115,15 @@ LINETO:-1:1
 LINETO:-2:1
 LINETO:-2:-1
 LINETO:0:-1
+
+// OBSTACLES
+SYMBOLDEF:OBSTACLE
+MOVETO:-4:3
+LINETO:-3:-1
+LINETO:0:-4
+LINETO:3:-1
+LINETO:4:2
+LINETO:4:4
 
 
 // ##################################################################
