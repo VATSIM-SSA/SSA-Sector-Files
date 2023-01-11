@@ -23,8 +23,72 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
+AG:AFRE_FSS East Africa Control:135.050:novoice:AFRE_FSS
+AG:AFRN_FSS North Africa Control:134.520:novoice:AFRN_FSS
+AG:AFRS_FSS Africa South Control:134.575:novoice:AFRS_FSS
+AG:AFRW_FSS Africa West Control:132.225:novoice:AFRW_FSS
+AG:ASIA_W_FSS West Asia Control:135.400:novoice:ASIA_W_FSS
+AG:DGAO_CTR Accra Radio:136.650:novoice:DGAO_CTR
+AG:FAJO_FSS Johannesburg Oceanic:120.850:novoice:FAJO_FSS
+AG:FBGR_CTR Gaborone Center:126.100:novoice:FBGR_CTR
+AG:FCCC_CTR Brazzaville Control:127.100:novoice:FCCC_CTR
+AG:FHSH_APP St Helena Approach:119.500:novoice:FHSH_APP
+AG:FIMM_CTR Mauritius Centre:129.300:novoice:FIMM_CTR
+AG:FLFI_CTR Lusaka Control:120.500:novoice:FLFI_CTR
+AG:FLHN_APP Livingstone Approach:124.300:novoice:FLHN_APP
+AG:FLKK_APP Lusaka Approach:121.300:novoice:FLKK_APP
+AG:FLMF_APP Mfuwe Approach:120.700:novoice:FLMF_APP
+AG:FLND_APP Ndola Approach:119.700:novoice:FLND_APP
+AG:FMMM_CTR Antananarivo Control:128.900:novoice:FMMM_CTR
+AG:FNAN_CTR Luanda Control:118.500:novoice:FNAN_CTR
+AG:FNLU_APP Luanda Approach:119.100:novoice:FNLU_APP
+AG:FQBE_CTR Beira Control:127.700:novoice:FQBE_CTR
+AG:FQBE_S_CTR Maputo Control:127.300:novoice:FQBE_S_CTR
+AG:FSIA_APP Seychelles Approach:119.700:novoice:FSIA_APP
+AG:FSSS_CTR Seychelles Control:120.200:novoice:FSSS_CTR
+AG:FSSS_FSS Seychelles Control:132.900:novoice:FSSS_FSS
+AG:FVHF_CTR Harare East Control:131.500:novoice:FVHF_CTR
+AG:FVHF_W_CTR Harare West Control:129.500:novoice:FVHF_W_CTR
+AG:FWCL_APP Chileka Approach:124.900:novoice:FWCL_APP
+AG:FWKI_APP Lilongwe Approach:124.700:novoice:FWKI_APP
+AG:FWLL_CTR Lilongwe Control:120.600:novoice:FWLL_CTR
+AG:FYWH_CTR Windhoek Radar:124.700:novoice:FYWH_CTR
+AG:FZAA_APP Kinshasa Approach:119.700:novoice:FZAA_APP
+AG:FZQA_APP Lubumbashi Approach:126.700:novoice:FZQA_APP
+AG:FZWA_APP Mbuji-Mayi Approach:124.100:novoice:FZWA_APP
+AG:FZZA_CTR Kinshasa Control:126.100:novoice:FZZA_CTR
+AG:FZZA_E_CTR Kisangani Control:130.100:novoice:FZZA_E_CTR
+AG:FZZA_S_CTR Lubumbashi Control:128.100:novoice:FZZA_S_CTR
+AG:GOOC_FSS Dakar Radio:122.500:novoice:GOOC_FSS
+AG:GOOO_CTR Dakar Control:129.500:novoice:GOOO_CTR
+AG:HAAA_1_CTR Addis Control:125.100:novoice:HAAA_1_CTR
+AG:HAAA_2_CTR Addis Control:125.200:novoice:HAAA_2_CTR
+AG:HBBA_APP Bujumbura Approach:119.700:novoice:HBBA_APP
+AG:HCSM_CTR Mogadishu Control:132.500:novoice:HCSM_CTR
+AG:HJJJ_1_CTR Juba Control:123.900:novoice:HJJJ_1_CTR
+AG:HKEL_APP Eldoret Approach:119.400:novoice:HKEL_APP
+AG:HKJK_APP Nairobi Radar:122.300:novoice:HKJK_APP
+AG:HKMO_APP Mombasa Radar:122.700:novoice:HKMO_APP
+AG:HKNA_CTR Nairobi Control:121.300:novoice:HKNA_CTR
+AG:HKNL_APP Nanyuki Approach:124.300:novoice:HKNL_APP
+AG:HRYR_APP Kigali Approach:124.300:novoice:HRYR_APP
+AG:HSSS_1_CTR Khartoum Center:125.400:novoice:HSSS_1_CTR
+AG:HSSS_2_CTR Khartoum Center:125.700:novoice:HSSS_2_CTR
+AG:HTDA_APP Dar-Es-Salaam Approach:119.600:novoice:HTDA_APP
+AG:HTDC_CTR Dar-Es-Salaam Control:123.300:novoice:HTDC_CTR
+AG:HTDO_APP Dodoma Approach:119.200:novoice:HTDO_APP
+AG:HTKJ_APP Kilimanjaro Approach:120.100:novoice:HTKJ_APP
+AG:HTMW_APP Mwanza Approach:132.100:novoice:HTMW_APP
+AG:HTZA_APP Zanzibar Approach:121.200:novoice:HTZA_APP
+AG:HUEC_CTR Entebbe Control:128.500:novoice:HUEC_CTR
+AG:HUEN_APP Entebbe Approach:126.600:novoice:HUEN_APP
+AG:HUSO_APP Soroti Approach:121.100:novoice:HUSO_APP
+AG:SBAO_FSS SBAO_FSS:133.500:novoice:SBAO_FSS
+AG:VABB_CTR Mumbai Control:120.500:novoice:VABB_CTR
+AG:VABF_CTR Mumbai Control:132.700:novoice:VABF_CTR
+AG:VABX_CTR Mumbai Oceanic:132.600:novoice:VABX_CTR
 END
