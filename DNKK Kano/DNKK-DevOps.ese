@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 
@@ -83,7 +83,7 @@ DNZA_TWR:Zaria Tower:122.500:ZAT::DNZA:TWR:::4210:4217
 DRRR_CTR:Niamey Control:126.100:RR::DRRR:CTR:::0000:0000
 DRRR_W_CTR:Niamey Control:131.100:RRW:W:DRRR:CTR:::0000:0000
 DXXX_CTR:Lome Control:124.600:XX::DXXX:CTR:::2601:2677:N007.20.00.000:E001.50.00.000
-FCCC_CTR:Brazzaville Control:127.100:CC::FCCC:CTR:::5301:5330
+FCCC_CTR:Brazzaville Control:127.100:CC::FCCC:CTR:::5301:5330:S000.42.3.00:E010.10.7:N004.23.9.00:E018.31.2.00
 FKKK_CTR:Douala Control:129.500:KK::FKKK:CTR:::5331:5343
 FKKL_TWR:Salak Tower:118.900:KLT::FKKL:TWR:::0000:0000
 FKKR_TWR:Garoua Tower:118.300:KRT::FKKR:TWR:::0000:0000

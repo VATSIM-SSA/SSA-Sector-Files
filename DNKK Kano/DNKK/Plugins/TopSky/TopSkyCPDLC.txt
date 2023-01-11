@@ -1,7 +1,7 @@
 [DCL]
 
-// Version v0.3
-// Update Date 19/12/2022
+// Version v0.2
+// Update Date 19/07/2022
 
 DCL:*:SID:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> VIA  <sid> ALT <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
 DCL:*:AHDG:<adep2> PDC <number> . . . . . CLD <hour><min> <day><month3><year2> <adep2> <callsign><endheader> CLRD TO <ades> OFF <drwy> FLY RUNWAY HEADING. CLIMB TO <cfl> SQUAWK <assr>. <qnh>HPA. <nfreq>. REPORT ACFT TYPE AND STAND NUMBER ON <freq> WHEN FULLY READY.
@@ -94,7 +94,7 @@ LOGIN:FQBS:MAPUTO CONTROL:FQS
 
 // FSSS SEYCHELLES FIR
 LOGIN:FSSS:SEYCHELLES CONTROL:FS
-LOGIN:FSSF:SEYCHELLES CONTROL:FSO
+LOGIN:FSSA:SEYCHELLES CONTROL:FSO
 
 // FVHF HARARE FIR
 LOGIN:FVHF:HARARE CONTROL:FV

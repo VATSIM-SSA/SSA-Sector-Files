@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
 ;=========================================================================================================================;
 
 
@@ -5075,7 +5075,9 @@ FIR_COPX:*:*:BULVO:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOC_HIGH·245·660:*:*:BULVO
 FIR_COPX:*:*:ONOBI:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOC_HIGH·245·660:*:*:ONOBI
 FIR_COPX:*:*:ECHED:*:*:GMMM·GMMM-ACC-S-U·195·999:GOOO·GQQQ_HIGH·245·660:*:*:ECHED
 FIR_COPX:*:*:BULIS:*:*:GMMM·GMMM-ACC-S-U·195·999:GOOO·GQQQ_HIGH·245·660:*:*:BULIS
+FIR_COPX:*:*:AMPAS:*:*:GLRB·GLRB_HIGH·245·600:GOOO·DIII_HIGH·245·660:*:*:AMPAS
 FIR_COPX:*:*:MOGSA:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOY_HIGH·245·660:*:*:MOGSA
+FIR_COPX:*:*:GUNET:*:*:GOOO·GOOY_HIGH·245·660:GCCC·GCCC_CTR_OCE_4·245·660:*:*:GUNET
 FIR_COPX:*:*:BORTA:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOY_HIGH·245·660:*:*:BORTA
 FIR_COPX:*:*:SEPOM:*:*:GOOO·GOOY_HIGH·245·660:GVSC·GVSC_HIGH·245·600:*:*:SEPOM
 FIR_COPX:*:*:ILGAS:*:*:GOOO·GOOY_HIGH·245·660:GVSC·GVSC_HIGH·245·600:*:*:ILGAS

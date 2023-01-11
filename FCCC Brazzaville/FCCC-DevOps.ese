@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
 ;=========================================================================================================================;
 
 
@@ -46,7 +46,7 @@ DNKK_CTR:Kano East:124.100:NK::DNKK:CTR:::2401:2477
 DNMM_CTR:Lagos West:120.900:NMW::DNMM:CTR:::2401:2477
 FCBB_APP:Brazza Approach:121.100:BBA::FCBB:APP:::6201:6217
 FCBB_TWR:Brazza Tower:118.700:BBT::FCBB:TWR:::7201:7217
-FCCC_CTR:Brazzaville Control:127.100:CC::FCCC:CTR:::5301:5330
+FCCC_CTR:Brazzaville Control:127.100:CC::FCCC:CTR:::5301:5330:S000.42.3.00:E010.10.7:N004.23.9.00:E018.31.2.00
 FCPD_TWR:Dolisie Tower:118.900:PDT::FCPD:TWR:::7220:7227
 FCPP_APP:Pointe Noire Approach:124.300:PPA::FCPP:APP:::6220:6227
 FCPP_TWR:Pointe Noire Tower:118.300:PPT::FCPP:TWR:::7230:7237
