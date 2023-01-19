@@ -1,0 +1,66 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:M:\6 vController Mike\1 Sector Files\SSA\SSA ATC\FASA South Africa\FASA-DevOps.sct
+SECTORTITLE:FASA-DevOps.sct
+ARTCC low boundary:FDSK-CTR:
+Fixes:45VSK:symbol
+Fixes:55VSK:symbol
+Fixes:APNON:symbol
+Fixes:D105:symbol
+Fixes:DUKRA:symbol
+Fixes:ELAND:symbol
+Fixes:ESRAS:symbol
+Fixes:GERAX:symbol
+Fixes:NEXIS:symbol
+Fixes:TETAK:symbol
+Fixes:TONKA:symbol
+Fixes:VSK25:symbol
+Free Text:FDSK Taxiways & Apron\A:freetext
+Free Text:FDSK Taxiways & Apron\A1:freetext
+Free Text:FDSK Taxiways & Apron\A2:freetext
+Free Text:FDSK Taxiways & Apron\A3:freetext
+Free Text:FDSK Taxiways & Apron\A4:freetext
+Free Text:FDSK Taxiways & Apron\A5:freetext
+Free Text:FDSK Taxiways & Apron\C:freetext
+Free Text:FDSK Taxiways & Apron\D:freetext
+Free Text:FDSK Taxiways & Apron\D3:freetext
+Free Text:FDSK Taxiways & Apron\D4:freetext
+Free Text:FDSK Taxiways & Apron\Terminal:freetext
+Free Text:FDSK Taxiways & Apron\VIP Terminal:freetext
+Geo:FDSK Groundlayout Ground Markers:
+Geo:GEO:
+Geo:MRVA MRVA FACT:
+Regions:FDSK Ground Layout:polygon
+Runways:FDSK 02-20:centerline
+Runways:FDSK 02-20:extended centerline 1
+Runways:FDSK 02-20:extended centerline 1 left base
+Runways:FDSK 02-20:extended centerline 1 left ticks
+Runways:FDSK 02-20:extended centerline 1 left vectoring
+Runways:FDSK 02-20:extended centerline 1 right base
+Runways:FDSK 02-20:extended centerline 1 right ticks
+Runways:FDSK 02-20:extended centerline 1 right vectoring
+Runways:FDSK 02-20:extended centerline 2
+Runways:FDSK 02-20:extended centerline 2 left base
+Runways:FDSK 02-20:extended centerline 2 left ticks
+Runways:FDSK 02-20:extended centerline 2 left vectoring
+Runways:FDSK 02-20:extended centerline 2 right base
+Runways:FDSK 02-20:extended centerline 2 right ticks
+Runways:FDSK 02-20:extended centerline 2 right vectoring
+Runways:FDSK 02-20:name
+VORs:VSK:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:900
+ABOVE:40000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:21.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-36.910697:10.714179:-29.488870:26.118111
+PLUGIN:TopSky plugin:ShowMapData:FDSK_APP
