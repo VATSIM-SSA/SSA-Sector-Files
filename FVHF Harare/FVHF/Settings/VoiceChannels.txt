@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Harare - FVHF                    ;
+;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Harare - FVHF                    ;
 ;=========================================================================================================================;
 VOICE
 AG:FVCP_TWR Prince Tower:118.900:novoice:FVCP_TWR
@@ -38,7 +38,8 @@ AG:FVKB_APP Kariba Approach:125.300:novoice:FVKB_APP
 AG:FVMV_APP Masvingo Approach:119.600:novoice:FVMV_APP
 AG:FVRG_APP Harare Approach:119.100:novoice:FVRG_APP
 AG:FVRG_ATIS:126.200:novoice:FVRG_ATIS
-AG:FVRG_TWR Harare Tower:118.100:novoice:FVRG_TWR
+AG:FVRG_GND Mugabe Ground:127.300:novoice:FVRG_GND
+AG:FVRG_TWR Mugabe Tower:118.100:novoice:FVRG_TWR
 AG:FVTL_APP Thornhill Approach:126.500:novoice:FVTL_APP
 AG:FVWN_APP Park Approach:119.900:novoice:FVWN_APP
 END
