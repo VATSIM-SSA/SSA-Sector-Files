@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Beira - FQBE                     ;
+;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Beira - FQBE                     ;
 ;=========================================================================================================================;
 
 
@@ -78,14 +78,6 @@ HTDC_CTR:Dar-Es-Salaam Control:123.300:HT::HTDC:CTR:::3300:3477:S006.00.00.000:E
 ;======================================================== ~~  ~~ =========================================================;
 ;================================================ ~~ SID&STAR-Section ~~ =================================================;
 [SIDSSTARS]
-STAR:FDSK:02:TETAKxVORDME:TETAK D105 55VSK 45VSK
-STAR:FDSK:02:VSKxVORDME:VSK D105 55VSK 45VSK
-STAR:FDSK:20:UVOTAxILS:UVOTA ELAND ISK60
-STAR:FDSK:20:VSKxILS:VSK ELAND ISK60
-STAR:FDSK:20:UVOTAxLOC:UVOTA ELAND ISK60
-STAR:FDSK:20:VSKxLOC:VSK ELAND ISK60
-STAR:FDSK:20:UVOTAxVORDME:UVOTA ELAND VSK8
-STAR:FDSK:20:VSKxVORDME:VSK ELAND VSK8
 STAR:FQBR:12:ETLAM1A:ETLAM AVUNU EGLUK EPNAB
 STAR:FQBR:12:IBMOG1A:IBMOG ERDIL ERDET EGLUK EPNAB
 STAR:FQBR:12:NESEG1A:NESEG EXADU EGLUK EPNAB
@@ -4522,6 +4514,22 @@ FIR_COPX:*:*:EGTAN:*:*:HTDC·HTDCE·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:EGTAN
 FIR_COPX:*:*:BONAP:*:*:HTDC·HTDCE·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:BONAP
 FIR_COPX:*:*:ROVUM:*:*:HTDC·HTDCE·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:ROVUM
 FIR_COPX:*:*:TONKA:*:*:FQBE·FQBE_HIGH_S·245·660:FASA·FAJANE·245·660:*:*:TONKA
+FIR_COPX:*:*:ESPOK:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:ESPOK
+FIR_COPX:*:*:ESPOK:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:ESPOK
+FIR_COPX:*:*:MAKIR:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:MAKIR
+FIR_COPX:*:*:MAKIR:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:MAKIR
+FIR_COPX:*:*:KOBOD:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:KOBOD
+FIR_COPX:*:*:KOBOD:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:KOBOD
+FIR_COPX:*:*:USUBI:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:USUBI
+FIR_COPX:*:*:USUBI:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:USUBI
+FIR_COPX:*:*:ENAKU:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:ENAKU
+FIR_COPX:*:*:ENAKU:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:ENAKU
+FIR_COPX:*:*:KATAK:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:KATAK
+FIR_COPX:*:*:KATAK:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:KATAK
+FIR_COPX:*:*:MENSO:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:MENSO
+FIR_COPX:*:*:MENSO:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:MENSO
+FIR_COPX:*:*:KURLA:*:*:FVHF·FVHFE_HIGH·245·660:FQBE·FQBE_HIGH_N·245·660:*:*:KURLA
+FIR_COPX:*:*:KURLA:*:*:FQBE·FQBE_HIGH_N·245·660:FVHF·FVHFE_HIGH·245·660:*:*:KURLA
 
 
 
