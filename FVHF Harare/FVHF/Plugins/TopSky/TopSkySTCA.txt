@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FVHF | TopSky | STCA
 // ##################################################################
 
-// Version v0.2
-// Update Date 28/08/2022
+// Version v0.3
+// Update Date 12/01/2023
 
 
 // ##################################################################
@@ -25,8 +25,8 @@ FINALAPP:FVRG:05
 FINALAPP:FVRG:23
 
 // FVWN | HWANGE NATIONAL PARK
-FINALAPP:FVWN:05
-FINALAPP:FVWN:23
+FINALAPP:FVWN:08
+FINALAPP:FVWN:26
 
 
 // ##################################################################
