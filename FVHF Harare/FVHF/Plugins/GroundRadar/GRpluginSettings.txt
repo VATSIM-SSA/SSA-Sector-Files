@@ -4,8 +4,8 @@
 
 // GroundRadar Version 1.5 Stable
 
-// Version v0.3
-// Update Date 12/01/2023
+// Version v0.3b
+// Update Date 02/02/2023
 
 
 // ##################################################################
