@@ -286,11 +286,11 @@ MSAW_PredictionTime=45
 
 
 // ##################################################################
-//                   #10 NOTAMs v0.4
+//                   #10 NOTAMs v0.2
 // ##################################################################
 
 HTTP_NOTAM_Server=https://www.notams.faa.gov/
-HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
+HTTP_NOTAM_Page_Prefix=PilotWeb/notamRetrievalByICAOAction.do?method=displayByICAOs&reportType=RAW&formatType=DOMESTIC&retrieveLocId=
 HTTP_NOTAM_Page_Suffix=&actionType=notamRetrievalByICAOs
 HTTP_NOTAM_Data_Prefix=<PRE>
 HTTP_NOTAM_Data_Suffix=</PRE>
