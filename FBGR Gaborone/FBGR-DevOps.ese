@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
->>>>>>> airac-updates
 ;=========================================================================================================================;
 
 
@@ -93,7 +89,6 @@ STAR:FBMN:26:AVITIxVORDMExZ:AVITI MAV86
 STAR:FBMN:26:ESREPxVORDMExZ:ESREP AVITI MAV86
 STAR:FBMN:26:UDBINxVORDMExZ:UDBIN AVITI MAV86
 STAR:FBMN:26:MAVxVORDMExY:MAV MAV86
-<<<<<<< HEAD
 STAR:FBPM:13:AXIKO1K:AXIKO FT404 GAGDA FT400 FT401
 STAR:FBPM:13:GEVOM1K:GEVOM FT404 GAGDA FT400 FT401
 STAR:FBPM:13:KULBU1K:KULBU ETLAD FT400 FT401
@@ -112,8 +107,6 @@ STAR:FBPM:31:XALEN1M:XALEN FT424 DUDMO FT420 FT421
 STAR:FBPM:31:EGSEPxVORDMExZ:EGSEP DUTRI FNV90
 STAR:FBPM:31:UVLEXxVORDMExZ:UVLEX DUTRI FNV90
 STAR:FBPM:31:FNVxVORDMExY:FNV FNV13 FNV90
-=======
->>>>>>> airac-updates
 STAR:FBSK:08:DULTO2C:DULTO ESVON SK401 SK402
 STAR:FBSK:08:DUSLI2C:DUSLI SK409 BONDY 3NM SK401 SK402
 STAR:FBSK:08:UTVIN2C:UTVIN SK408 OKPEX SK401 SK402
@@ -146,7 +139,6 @@ SID:FBMN:26:APGAR1H:MN520 MN522 APGAR
 SID:FBMN:26:EGMIR1H:MN520 MN522 EGMIR
 SID:FBMN:26:ETLON1H:MN520 MN521 ETLON
 SID:FBMN:26:NEREX1H:MN520 MN521 NEREX
-<<<<<<< HEAD
 SID:FBPM:13:AXIKO1G:FT510 FT511 AXIKO
 SID:FBPM:13:GEVOM1G:FT510 FT511 FT514 GEVOM
 SID:FBPM:13:KULBU1G:FT510 FT511 KULBU
@@ -159,8 +151,6 @@ SID:FBPM:31:KULBU1H:FT520 FT521 KULBU
 SID:FBPM:31:UNPET1H:FT520 FT522 FT523 UNPET
 SID:FBPM:31:UTAXA1H:FT520 FT522 FT523 UTAXA
 SID:FBPM:31:XALEN1H:FT524 XALEN
-=======
->>>>>>> airac-updates
 SID:FBSK:08:TESOS2A:SK502 TESOS
 SID:FBSK:08:UDBUL2A:SK503 UDBUL
 SID:FBSK:08:UDMOT2A:SK501 UDMOT

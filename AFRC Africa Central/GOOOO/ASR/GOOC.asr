@@ -1,0 +1,33 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:DGAC:
+ARTCC high boundary:DIII:
+ARTCC high boundary:DNKN:
+ARTCC high boundary:DNKNW:
+ARTCC high boundary:DNMMW:
+ARTCC high boundary:FCCC:
+ARTCC high boundary:FKKK:
+ARTCC high boundary:FOOO:
+ARTCC high boundary:GAAA:
+ARTCC high boundary:GLRB:
+ARTCC high boundary:GOOOC:
+ARTCC high boundary:GOOOF:
+ARTCC high boundary:GQQQ:
+ARTCC high boundary:GVSC:
+SHOWC:1
+SHOWSB:0
+BELOW:20000
+ABOVE:0
+LEADER:-5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-19.235565:-75.040900:32.284541:63.185525

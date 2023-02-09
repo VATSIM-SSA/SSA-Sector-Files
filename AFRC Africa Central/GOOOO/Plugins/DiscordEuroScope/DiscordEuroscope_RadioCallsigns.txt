@@ -1,0 +1,6 @@
+AFRC_FSS Africa Central Control
+AFRS_FSS Africa South Control
+AFRW_FSS Africa West Control
+DGAO_CTR Accra Radio
+FAJO_FSS Johannesburg Oceanic
+GOOC_FSS Dakar Radar

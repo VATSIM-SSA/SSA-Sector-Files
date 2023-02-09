@@ -23,19 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
 ;=========================================================================================================================;
 
 [INFO]
 VATSSA Nairobi 2301/1-1 HKNA 20230209
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
-;=========================================================================================================================;
-
-[INFO]
-VATSSA Nairobi 2213/1-1 HKNA 20230111
->>>>>>> airac-updates
 AERO_NAV
 ZZZZ
 S001.19.09.000

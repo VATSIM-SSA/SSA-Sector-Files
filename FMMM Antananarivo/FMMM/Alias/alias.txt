@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
->>>>>>> airac-updates
 ;=========================================================================================================================;
 ;*** 01 Before initial contact ***
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when 

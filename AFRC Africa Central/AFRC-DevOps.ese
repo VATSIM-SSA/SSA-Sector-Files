@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
->>>>>>> airac-updates
 ;=========================================================================================================================;
 
 
@@ -16587,7 +16583,6 @@ FIR_COPX:*:*:AXINA:*:*:FSSS·FSSS_FSS_N·245·660:HCSM·HCSM_S_U·145·660:*:*:AXINA
 FIR_COPX:*:*:AXINA:*:*:HCSM·HCSM_S_U·145·660:FSSS·FSSS_FSS_N·245·660:*:*:AXINA
 FIR_COPX:*:*:UNRED:*:*:FSSS·FSSS_FSS_N·245·660:HCSM·HCSM_S_U·145·660:*:*:UNRED
 FIR_COPX:*:*:LOXIN:*:*:FSSS·FSSS_FSS_N·245·660:HCSM·HCSM_S_U·145·660:*:*:LOXIN
-<<<<<<< HEAD
 FIR_COPX:*:*:ESTAK:*:*:FLFI·FLFI·245·660:FVHF·FVHFW_HIGH·245·660:*:*:ESTAK
 FIR_COPX:*:*:ESTAK:*:*:FVHF·FVHFW_HIGH·245·660:FLFI·FLFI·245·660:*:*:ESTAK
 FIR_COPX:*:*:RETAR:*:*:FVHF·FVHFW_HIGH·245·660:FLFI·FLFI·245·660:*:*:RETAR
@@ -16596,8 +16591,6 @@ FIR_COPX:*:*:GADBA:*:*:FVHF·FVHFW_HIGH·245·660:FLFI·FLFI·245·660:*:*:GADBA
 FIR_COPX:*:*:GADBA:*:*:FLFI·FLFI·245·660:FVHF·FVHFW_HIGH·245·660:*:*:GADBA
 FIR_COPX:*:*:AVIVA:*:*:FVHF·FVHFW_HIGH·245·660:FLFI·FLFI·245·660:*:*:AVIVA
 FIR_COPX:*:*:AVIVA:*:*:FLFI·FLFI·245·660:FVHF·FVHFE_HIGH·245·660:*:*:AVIVA
-=======
->>>>>>> airac-updates
 COPX:*:*:UDLET:*:*:FSSS·FSSS_FSS_N·245·660:FSSS·FSSS_FSIA_HI·245·660:*:*:UDLET
 COPX:*:*:UTEPI:*:*:HKNA·HKJK_TMA_HIGH·090·195:HKNA·HKNA_LOW_C·000·195:*:*:UTEPI
 COPX:*:*:UVOVA:*:*:HKNA·HKJK_TMA_HIGH·090·195:HKNA·HKNA_LOW_C·000·195:*:*:UVOVA

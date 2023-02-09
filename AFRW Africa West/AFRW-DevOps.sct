@@ -23,19 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 
 [INFO]
 VATSSA Africa Control Centre 2301/1-1 AFRW 20230209
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
-;=========================================================================================================================;
-
-[INFO]
-VATSSA Africa Control Centre 2213/1-1 AFRW 20230104
->>>>>>> airac-updates
 AERO_NAV
 ZZZZ
 N005.15.16.2
@@ -2458,15 +2450,9 @@ EV05  N012.07.31.940 E015.01.26.511
 EV05  N014.30.18.838 W004.05.18.459
 EV07L N016.57.39.369 E007.59.13.750
 EV12  N008.37.16.741 W013.12.33.451
-<<<<<<< HEAD
 EV12  S010.58.55.869 W037.04.49.738
 EV12  S005.54.28.238 W035.15.20.429
 EV12  S009.30.27.450 W035.48.11.318
-=======
-EV12  S009.30.27.450 W035.48.11.318
-EV12  S005.54.28.238 W035.15.20.429
-EV12  S010.58.55.869 W037.04.49.738
->>>>>>> airac-updates
 EV14  N013.20.50.438 W016.39.57.481
 EV16  S006.06.47.750 E023.33.50.821
 EV16L S005.54.10.108 W035.15.10.170

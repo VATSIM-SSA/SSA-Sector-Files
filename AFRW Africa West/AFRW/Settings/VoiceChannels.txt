@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
->>>>>>> airac-updates
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
@@ -85,11 +81,7 @@ AG:GFLL_APP Freetown Approach:119.100:novoice:GFLL_APP
 AG:GGOV_APP Bissau Approach:123.900:novoice:GGOV_APP
 AG:GLRB_APP Roberts Approach:124.500:novoice:GLRB_APP
 AG:GLRB_CTR Roberts Control:128.100:novoice:GLRB_CTR
-<<<<<<< HEAD
 AG:GMMM_CTR Casablanca Radar:125.550:novoice:GMMM_CTR
-=======
-AG:GMMM_CTR Casablanca Radar:126.550:novoice:GMMM_CTR
->>>>>>> airac-updates
 AG:GMMM_E_CTR Casablanca Radar:125.100:novoice:GMMM_E_CTR
 AG:GMMM_N_CTR Casablanca Radar:125.500:novoice:GMMM_N_CTR
 AG:GMMM_S_CTR Casablanca Radar:126.700:novoice:GMMM_S_CTR
@@ -99,11 +91,7 @@ AG:GOOO_CTR Dakar Control:129.500:novoice:GOOO_CTR
 AG:GQQQ_CTR Nouakchott Control:124.200:novoice:GQQQ_CTR
 AG:GUCY_APP Conakry Approach:119.700:novoice:GUCY_APP
 AG:GVSC_APP Sal Approach:126.400:novoice:GVSC_APP
-<<<<<<< HEAD
 AG:GVSC_CTR Sal Control:127.100:novoice:GVSC_CTR
-=======
-AG:GVSC_CTR Sal Control:128.300:novoice:GVSC_CTR
->>>>>>> airac-updates
 AG:HJJJ_1_CTR Juba Control:123.900:novoice:HJJJ_1_CTR
 AG:HSSS_1X_CTR Khartoum Center:127.300:novoice:HSSS_1X_CTR
 AG:HSSS_1_CTR Khartoum Center:125.400:novoice:HSSS_1_CTR

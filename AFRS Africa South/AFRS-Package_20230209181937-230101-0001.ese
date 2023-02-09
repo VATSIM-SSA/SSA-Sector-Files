@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<<< HEAD:AFRS Africa South/AFRS-Package_20230209181937-230101-0001.ese
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
-========
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
->>>>>>>> airac-updates:AFRS Africa South/AFRS-Package_20230108181224-221301-0001.ese
 ;=========================================================================================================================;
 
 
@@ -14448,7 +14444,6 @@ FIR_COPX:*:*:EGNOR:*:*:FASA·FAJANW_HIGH·245·660:FYWH·FYWH·245·660:*:*:EGNOR
 FIR_COPX:*:*:ANVAG:*:*:FYWH·FYWH·245·660:FNAN·FNAN_HIGH·245·660:*:*:ANVAG
 FIR_COPX:*:*:NESAM:*:*:FSSS·FSSS_FSS_S·245·660:FMMM·FMMM_HIGH·245·660:*:*:NESAM
 FIR_COPX:*:*:DENLI:*:*:FSSS·FSSS_FSS_S·245·660:FMMM·FMMM_HIGH·245·660:*:*:DENLI
-<<<<<<<< HEAD:AFRS Africa South/AFRS-Package_20230209181937-230101-0001.ese
 FIR_COPX:*:*:ESTAK:*:*:FLFI·FLFI·245·660:FVHF·FVHFW_HIGH·245·660:*:*:ESTAK
 FIR_COPX:*:*:ESTAK:*:*:FVHF·FVHFW_HIGH·245·660:FLFI·FLFI·245·660:*:*:ESTAK
 FIR_COPX:*:*:RETAR:*:*:FVHF·FVHFW_HIGH·245·660:FLFI·FLFI·245·660:*:*:RETAR
@@ -14495,8 +14490,6 @@ FIR_COPX:*:*:EPSEG:*:*:FVHF·FVHFW_HIGH·245·660:FBGR·FBGR_HIGH·245·660:*:*:EPSEG
 FIR_COPX:*:*:EPSEG:*:*:FBGR·FBGR_HIGH·245·660:FVHF·FVHFW_HIGH·245·660:*:*:EPSEG
 FIR_COPX:*:*:BONAL:*:*:FVHF·FVHFW_HIGH·245·660:FBGR·FBGR_HIGH·245·660:*:*:BONAL
 FIR_COPX:*:*:BONAL:*:*:FBGR·FBGR_HIGH·245·660:FVHF·FVHFW_HIGH·245·660:*:*:BONAL
-========
->>>>>>>> airac-updates:AFRS Africa South/AFRS-Package_20230108181224-221301-0001.ese
 COPX:*:*:EGRUP:*:*:FASA·FACA-W-HI·245·660:FASA·FAJAC·245·660:*:*:EGRUP
 COPX:*:*:EPTOP:*:*:FASA·FAJAC·245·660:FASA·FAJAE·245·660:*:*:EPTOP
 COPX:*:*:IMGEV:*:*:FASA·FAJAE·245·660:FASA·FAJASE·245·660:*:*:IMGEV
