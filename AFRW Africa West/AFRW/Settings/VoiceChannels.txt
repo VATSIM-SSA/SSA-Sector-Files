@@ -23,8 +23,94 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 VOICE
+AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
+AG:AFRE_FSS East Africa Control:135.050:novoice:AFRE_FSS
+AG:AFRN_FSS North Africa Control:134.520:novoice:AFRN_FSS
+AG:AFRS_FSS Africa South Control:134.575:novoice:AFRS_FSS
 AG:AFRW_FSS Africa West Control:132.225:novoice:AFRW_FSS
+AG:CARE_FSS Caribbean Control East:131.500:novoice:CARE_FSS
+AG:CARI_FSS Caribbean Control:131.300:novoice:CARI_FSS
+AG:DAAA_CTR Alger Control:127.300:novoice:DAAA_CTR
+AG:DAAA_C_CTR Alger Control:131.300:novoice:DAAA_C_CTR
+AG:DAAA_E_CTR Alger Control:124.100:novoice:DAAA_E_CTR
+AG:DAAA_S_CTR Alger Control:123.800:novoice:DAAA_S_CTR
+AG:DAAA_W_CTR Alger Control:128.100:novoice:DAAA_W_CTR
+AG:DBBB_APP Cotonou Approach:125.900:novoice:DBBB_APP
+AG:DFFF_CTR Ouaga Control:120.300:novoice:DFFF_CTR
+AG:DGAA_APP Accra Approach:119.500:novoice:DGAA_APP
+AG:DGAC_CTR Accra Control:130.900:novoice:DGAC_CTR
+AG:DGAC_N_CTR Accra North Control:126.700:novoice:DGAC_N_CTR
+AG:DGAO_CTR Accra Radio:136.650:novoice:DGAO_CTR
+AG:DGLE_APP Tamale Approach/Tower:120.400:novoice:DGLE_APP
+AG:DIAP_APP Abidjan Approach:121.100:novoice:DIAP_APP
+AG:DIII_CTR Abidjan Control:129.100:novoice:DIII_CTR
+AG:DNAA_APP Abuja Approach:127.900:novoice:DNAA_APP
+AG:DNCA_APP Calabar Approach/Tower:124.500:novoice:DNCA_APP
+AG:DNIL_APP Ilorin Approach/Tower:119.600:novoice:DNIL_APP
+AG:DNKA_APP Kaduna Approach/Tower:118.800:novoice:DNKA_APP
+AG:DNKK_CTR Kano East:124.100:novoice:DNKK_CTR
+AG:DNKK_W_CTR Kano West:128.500:novoice:DNKK_W_CTR
+AG:DNKN_APP Kano Approach:125.700:novoice:DNKN_APP
+AG:DNMA_APP Maiduguri Approach/Tower:118.400:novoice:DNMA_APP
+AG:DNMM_APP Lagos Approach:124.700:novoice:DNMM_APP
+AG:DNMM_CTR Lagos West:120.900:novoice:DNMM_CTR
+AG:DNPO_APP Port Harcourt Approach:124.900:novoice:DNPO_APP
+AG:DRRR_CTR Niamey Control:126.100:novoice:DRRR_CTR
+AG:DRRR_W_CTR Niamey Control:131.100:novoice:DRRR_W_CTR
+AG:DXXX_CTR Lome Control:124.600:novoice:DXXX_CTR
+AG:FCBB_APP Brazza Approach:121.100:novoice:FCBB_APP
+AG:FCCC_CTR Brazzaville Control:127.100:novoice:FCCC_CTR
+AG:FCPP_APP Pointe Noire Approach:124.300:novoice:FCPP_APP
+AG:FKKK_CTR Douala Control:129.500:novoice:FKKK_CTR
+AG:FKYS_APP Yaounde Approach:121.300:novoice:FKYS_APP
+AG:FNAN_CTR Luanda Control:118.500:novoice:FNAN_CTR
+AG:FOOG_APP Port-Gentil Tower:123.700:novoice:FOOG_APP
+AG:FOOO_CTR Libreville Control:126.500:novoice:FOOO_CTR
+AG:FPST_APP São Tomé Control:127.500:novoice:FPST_APP
+AG:FTTT_1_CTR N'Djamena Control:120.500:novoice:FTTT_1_CTR
+AG:FZZA_CTR Kinshasa Control:126.100:novoice:FZZA_CTR
+AG:FZZA_E_CTR Kisangani Control:130.100:novoice:FZZA_E_CTR
+AG:FZZA_S_CTR Lubumbashi Control:128.100:novoice:FZZA_S_CTR
+AG:GAAA_CTR Bamako Control:125.400:novoice:GAAA_CTR
+AG:GBYD_APP Banjul Approach:121.300:novoice:GBYD_APP
+AG:GCCO_CTR Canarias Radio:130.950:novoice:GCCO_CTR
+AG:GFLL_APP Freetown Approach:119.100:novoice:GFLL_APP
+AG:GGOV_APP Bissau Approach:123.900:novoice:GGOV_APP
+AG:GLRB_APP Roberts Approach:124.500:novoice:GLRB_APP
+AG:GLRB_CTR Roberts Control:128.100:novoice:GLRB_CTR
+AG:GMMM_CTR Casablanca Radar:125.550:novoice:GMMM_CTR
+AG:GMMM_E_CTR Casablanca Radar:125.100:novoice:GMMM_E_CTR
+AG:GMMM_N_CTR Casablanca Radar:125.500:novoice:GMMM_N_CTR
+AG:GMMM_S_CTR Casablanca Radar:126.700:novoice:GMMM_S_CTR
+AG:GOBD_APP Diass Approach:120.500:novoice:GOBD_APP
+AG:GOOC_FSS Dakar Radio:122.500:novoice:GOOC_FSS
+AG:GOOO_CTR Dakar Control:129.500:novoice:GOOO_CTR
+AG:GQQQ_CTR Nouakchott Control:124.200:novoice:GQQQ_CTR
+AG:GUCY_APP Conakry Approach:119.700:novoice:GUCY_APP
+AG:GVSC_APP Sal Approach:126.400:novoice:GVSC_APP
+AG:GVSC_CTR Sal Control:127.100:novoice:GVSC_CTR
+AG:HJJJ_1_CTR Juba Control:123.900:novoice:HJJJ_1_CTR
+AG:HSSS_1X_CTR Khartoum Center:127.300:novoice:HSSS_1X_CTR
+AG:HSSS_1_CTR Khartoum Center:125.400:novoice:HSSS_1_CTR
+AG:HSSS_2_CTR Khartoum Center:125.700:novoice:HSSS_2_CTR
+AG:LPPO_1_FSS Santa Maria Radio:124.850:novoice:LPPO_1_FSS
+AG:LPPO_2_FSS Santa Maria Radio:132.000:novoice:LPPO_2_FSS
+AG:LPPO_3_FSS Santa Maria Radio:132.025:novoice:LPPO_3_FSS
+AG:LPPO_FSS Santa Maria Radio:132.075:novoice:LPPO_FSS
+AG:SAEZ_FSS Ezeiza Torre:118.600:novoice:SAEZ_FSS
+AG:SAM-E_FSS South America Control:134.150:novoice:SAM-E_FSS
+AG:SAM-N_FSS South America Control:134.250:novoice:SAM-N_FSS
+AG:SAM-S_FSS South America Control:134.700:novoice:SAM-S_FSS
+AG:SAM-W_FSS South America Control:134.050:novoice:SAM-W_FSS
+AG:SAVF_FSS Comodoro Oceanic:122.800:novoice:SAVF_FSS
+AG:SBAO_3BE_FSS Atlantico Center:133.325:novoice:SBAO_3BE_FSS
+AG:SBAO_3BW_FSS Atlantico Center:133.450:novoice:SBAO_3BW_FSS
+AG:SBAO_FSS SBAO_FSS:133.500:novoice:SBAO_FSS
+AG:SBAO_M_FSS SBAO_M_FSS:133.850:novoice:SBAO_M_FSS
+AG:SOOO_CTR Cayenne Control:126.900:novoice:SOOO_CTR
+AG:TTZO_B_FSS Piarco Oceanic:133.100:novoice:TTZO_B_FSS
+AG:TTZO_FSS Piarco Oceanic:126.500:novoice:TTZO_FSS
 END
