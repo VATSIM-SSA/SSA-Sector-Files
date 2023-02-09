@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
+;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
 ;=========================================================================================================================;
 
 
@@ -75,7 +75,7 @@ GLRB_APP:Roberts Approach:124.500:RBA::GLRB:APP:::3130:3177
 GLRB_CTR:Roberts Control:128.100:GL::GLRB:CTR:::2101:2177:N006.14.30.000:W010.21.30.000
 GLRB_GND:Roberts Ground:121.900:RBG::GLRB:GND:::3101:3127
 GLRB_TWR:Roberts Tower:118.300:RBT::GLRB:TWR:::3101:3127
-GMMM_CTR:Casablanca Radar:126.550:GM::GMMM:CTR:::0000:0000
+GMMM_CTR:Casablanca Radar:125.550:GM::GMMM:CTR:::0000:0000
 GMMM_S_CTR:Casablanca Radar:126.700:GMS:S:GMMM:CTR:::0000:0000
 GOBD_APP:Diass Approach:120.500:BDA::GOBD:APP:::5064:5077
 GOBD_ATIS:Diass ATIS:126.200:BDI::GOBD:ATIS:::0000:0000
@@ -94,7 +94,7 @@ GQQQ_CTR:Nouakchott Control:124.200:GQ::GQQQ:CTR:::3060:3077:N020.40.00.000:W011
 GUCY_APP:Conakry Approach:119.700:CYA::GUCY:APP:::3240:3257
 GUCY_TWR:Conakry Tower:118.700:CYT::GUCY:TWR:::3260:3267
 GUOK_TWR:Boke Tower:119.700:OKT::GUOK:TWR:::3270:3277
-GVSC_CTR:Sal Control:128.300:GV::GVSC:CTR:::7701:7776:N018.07.20.000:W024.02.50.000:N018.00.00.000:W032.00.00.000
+GVSC_CTR:Sal Control:127.100:GV::GVSC:CTR:::7701:7776:N018.07.20.000:W024.02.50.000:N018.00.00.000:W032.00.00.000
 LPPO_1_DEL:Santa Maria Radio:127.900:PD1:1:LPPO:DEL:::0701:0777
 LPPO_1_FSS:Santa Maria Radio:124.850:PO1:1:LPPO:FSS:::0701:0777
 LPPO_2_DEL:Santa Maria Radio:129.400:PD2:2:LPPO:DEL:::0701:0777
@@ -5075,7 +5075,9 @@ FIR_COPX:*:*:BULVO:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOC_HIGH·245·660:*:*:BULVO
 FIR_COPX:*:*:ONOBI:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOC_HIGH·245·660:*:*:ONOBI
 FIR_COPX:*:*:ECHED:*:*:GMMM·GMMM-ACC-S-U·195·999:GOOO·GQQQ_HIGH·245·660:*:*:ECHED
 FIR_COPX:*:*:BULIS:*:*:GMMM·GMMM-ACC-S-U·195·999:GOOO·GQQQ_HIGH·245·660:*:*:BULIS
+FIR_COPX:*:*:AMPAS:*:*:GLRB·GLRB_HIGH·245·600:GOOO·DIII_HIGH·245·660:*:*:AMPAS
 FIR_COPX:*:*:MOGSA:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOY_HIGH·245·660:*:*:MOGSA
+FIR_COPX:*:*:GUNET:*:*:GOOO·GOOY_HIGH·245·660:GCCC·GCCC_CTR_OCE_4·245·660:*:*:GUNET
 FIR_COPX:*:*:BORTA:*:*:GVSC·GVSC_HIGH·245·600:GOOO·GOOY_HIGH·245·660:*:*:BORTA
 FIR_COPX:*:*:SEPOM:*:*:GOOO·GOOY_HIGH·245·660:GVSC·GVSC_HIGH·245·600:*:*:SEPOM
 FIR_COPX:*:*:ILGAS:*:*:GOOO·GOOY_HIGH·245·660:GVSC·GVSC_HIGH·245·600:*:*:ILGAS
