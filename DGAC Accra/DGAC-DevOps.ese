@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Accra - DGAC                     ;
+;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
 ;=========================================================================================================================;
 
 
@@ -67,7 +67,7 @@ DRRR_W_CTR:Niamey Control:131.100:RRW:W:DRRR:CTR:::0000:0000
 DXNG_TWR:Niamtougou Tower:118.300:NGT::DXNG:TWR:::1351:1360
 DXXX_CTR:Lome Control:124.600:XX::DXXX:CTR:::2601:2677:N007.20.00.000:E001.50.00.000
 DXXX_TWR:Lome Tower:120.700:XXT::DXXX:TWR:::1101:1127
-FCCC_CTR:Brazzaville Control:127.100:FC::FCCC:CTR:::5301:5330
+FCCC_CTR:Brazzaville Control:127.100:FC::FCCC:CTR:::5301:5330:S000.42.3.00:E010.10.7:N004.23.9.00:E018.31.2.00
 FNAN_CTR:Luanda Control:118.500:FN::FNAN:CTR:::3300:3477:S012.00.00.000:E018.00.00.000:S012.00.00.000:E008.00.00.000:S016.00.00.000:W004.00.00.000
 FOOO_CTR:Libreville Control:126.500:OO::FOOO:CTR:::5344:5377
 FPST_APP:São Tomé Control:127.500:PS::FPST:APP:::6260:6277
