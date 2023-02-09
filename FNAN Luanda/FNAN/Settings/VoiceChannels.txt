@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2212/1  ++  Valid period: 01/DEC/2022 - 28/DEC/2022  ++  File-Publisher: VATSSA Luanda - FNAN                    ;
+;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Luanda - FNAN                    ;
 ;=========================================================================================================================;
 VOICE
 AG:FHAW_M_TWR Wideawake Tower:126.200:novoice:FHAW_M_TWR
