@@ -23,7 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
+<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
+=======
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
+>>>>>>> airac-updates
 ;=========================================================================================================================;
 00AA	LEOTI/AERO B RANCH	United States
 00AR	BENNINGTON/ARLAND	United States
@@ -17846,7 +17850,11 @@ UTSA	NAVOI INTL	Uzbekistan, Turkmenistan and Tadjikistan
 UTSB	BUKHARA INTL	Uzbekistan, Turkmenistan and Tadjikistan
 UTSK	KARSHI	Uzbekistan, Turkmenistan and Tadjikistan
 UTSS	SAMARKAND	Uzbekistan, Turkmenistan and Tadjikistan
+<<<<<<< HEAD
 UTST	TERMEZ INTL	Uzbekistan, Turkmenistan and Tadjikistan
+=======
+UTST	TERMEZ	Uzbekistan, Turkmenistan and Tadjikistan
+>>>>>>> airac-updates
 UTTC	CHIRCHIK	Uzbekistan, Turkmenistan and Tadjikistan
 UTTT	TASHKENT/ISLAM KARIMOV INTL	Uzbekistan, Turkmenistan and Tadjikistan
 UUBA	KOSTROMA/SOKERKINO	Russian Federation
@@ -18955,14 +18963,20 @@ YCOO	COOINDA	Australia
 YCOR	COROWA	Australia
 YCPR	CAPE PRESTON	Australia
 YCPT	CARRAPATEENA	Australia
+<<<<<<< HEAD
 YCRE	CRESSY	Australia
+=======
+>>>>>>> airac-updates
 YCRF	WESTBURY/CROFTON FARM	Australia
 YCRG	CORRYONG	Australia
 YCRL	CROOKWELL	Australia
 YCRN	CRANBOURN	Australia
 YCRY	CROYDON	Australia
 YCSV	COLLINSVILLE	Australia
+<<<<<<< HEAD
 YCTA	COOLATAI	Australia
+=======
+>>>>>>> airac-updates
 YCTI	COCKATOO ISLAND	Australia
 YCTM	COOTAMUNDRA	Australia
 YCTN	CASTERTON	Australia

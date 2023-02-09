@@ -23,7 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
+<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+=======
+;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+>>>>>>> airac-updates
 ;=========================================================================================================================;
 
 
@@ -89,7 +93,11 @@ GFLL_APP:Freetown Approach:119.100:LLA::GFLL:APP:::3220:3237
 GGOV_APP:Bissau Approach:123.900:OVA::GGOV:APP:::5050:5063
 GLRB_APP:Roberts Approach:124.500:RBA::GLRB:APP:::3130:3177
 GLRB_CTR:Roberts Control:128.100:GLC::GLRB:CTR:::2101:2177:N006.14.30.000:W010.21.30.000
+<<<<<<< HEAD
 GMMM_CTR:Casablanca Radar:125.550:CR::GMMM:CTR:::0000:0000
+=======
+GMMM_CTR:Casablanca Radar:126.550:CR::GMMM:CTR:::0000:0000
+>>>>>>> airac-updates
 GMMM_E_CTR:Casablanca Radar:125.100:CRE:E:GMMM:CTR:::0000:0000
 GMMM_N_CTR:Casablanca Radar:125.500:CRN:N:GMMM:CTR:::0000:0000
 GMMM_S_CTR:Casablanca Radar:126.700:CRS:S:GMMM:CTR:::0000:0000
@@ -99,7 +107,11 @@ GOOO_CTR:Dakar Control:129.500:GO::GOOO:CTR:::3101:3177:N012.00.00.000:W017.00.0
 GQQQ_CTR:Nouakchott Control:124.200:GQ::GQQQ:CTR:::3060:3077:N020.40.00.000:W011.10.00.000
 GUCY_APP:Conakry Approach:119.700:CYA::GUCY:APP:::3240:3257
 GVSC_APP:Sal Approach:126.400:SCA::GVSC:APP:::6701:6737:N016.44.15.320:W022.57.00.061:N014.56.27.999:W023.29.04.999:N016.50.00.999:W025.03.15.998
+<<<<<<< HEAD
 GVSC_CTR:Sal Control:127.100:VS::GVSC:CTR:::7701:7776:N018.07.20.000:W024.02.50.000:N018.00.00.000:W032.00.00.000
+=======
+GVSC_CTR:Sal Control:128.300:VS::GVSC:CTR:::7701:7776:N018.07.20.000:W024.02.50.000:N018.00.00.000:W032.00.00.000
+>>>>>>> airac-updates
 HJJJ_1_CTR:Juba Control:123.900:JC:1:HJJJ:CTR:::0000:0000:N009.31.43.478:E031.41.00.041:N005.38.03.860:E031.20.56.372:N007.49.49.659:E028.03.58.528:N009.58.04.638:E028.42.16.442
 HSSS_1X_CTR:Khartoum Center:127.300:KSX:1X:HSSS:CTR:::0000:0000:N007.43.02.089:E030.46.25.185:N016.53.15.022:E028.26.24.887:N006.41.18.643:E029.15.06.083:N010.34.41.976:E027.09.03.538
 HSSS_1_CTR:Khartoum Center:125.400:KS2:1:HSSS:CTR:::0000:0000:N019.24.04.118:E037.14.30.210:N004.52.33.999:E031.35.58.999:N013.06.40.528:E030.13.35.248:N013.35.54.088:E025.18.10.659
