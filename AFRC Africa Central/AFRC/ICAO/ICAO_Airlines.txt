@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
 ;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
->>>>>>> airac-updates
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -6047,10 +6043,7 @@ UNA	BUSINESS AVIATION ASIA LIMITED	UNITED ASIA	CHINA
 UNC	UNI-FLY A/S	UNICOPTER	DENMARK
 UND	ATUNEROS UNIDOS DE CALIFORNIA, S.A. DE C.V.	ATUNEROS UNIDOS	MEXICO
 UNF	UNION FLIGHTS (SACRAMENTO, CA)	UNION FLIGHTS	UNITED STATES
-<<<<<<< HEAD
 UNI	UNICAIR GMBH	UNICAIR	GERMANY
-=======
->>>>>>> airac-updates
 UNO	UNITED NATIONS ORGANIZATION	UNITED NATIONS	-
 UNQ	UNIQUE AIR CHARTER (PTY) LTD	UNIQUE	SOUTH AFRICA
 UNS	UNSPED PAKET SERVISI INC.	UNSPED	TURKEY
