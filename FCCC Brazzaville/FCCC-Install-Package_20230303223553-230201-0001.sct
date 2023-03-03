@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Brazzaville 2301/1-2 FCCC 20230202
+VATSSA Brazzaville 2302/1-1 FCCC 20230303
 AERO_NAV
 ZZZZ
 N004.0.22.0
@@ -1524,7 +1524,7 @@ KR421 N009.25.15.459 E013.20.54.621
 KR501 N009.19.42.279 E013.15.03.690
 KR502 N009.20.25.270 E013.26.19.201
 KR503 N009.20.35.278 E013.28.58.349
-KR504 N009.19.53.698 E013.18.02.991
+KR504 N009.19.53.558 E013.18.01.040
 KSA10 S004.17.38.198 E015.32.44.368
 KSA11 S004.30.07.959 E015.15.51.289
 KSA13 S004.22.24.049 E015.38.00.650
@@ -12410,9 +12410,9 @@ FKYS ILS19-Z                             N004.01.23.001 E011.36.21.599 N003.50.4
                                          N004.01.18.721 E011.48.15.469 N004.01.14.012 E011.48.11.145 COLOR_APP
                                          N004.01.14.012 E011.48.11.145 N003.57.24.199 E011.44.57.901 COLOR_APP
 
-FKYS LOC19-W BOSKI                       N004.01.59.998 E011.31.23.300 N004.01.07.798 E011.36.19.000 COLOR_APP
-
 FKYS LOC19-W POKUS                       N004.00.15.501 E011.41.14.600 N004.01.07.798 E011.36.19.000 COLOR_APP
+
+FKYS LOC19-W TINET                       N004.01.59.998 E011.31.23.300 N004.01.07.798 E011.36.19.000 COLOR_APP
 
 FKYS LOC19-W                             N004.01.07.798 E011.36.19.000 N003.50.42.900 E011.34.29.398 COLOR_APP
                                          N003.50.42.900 E011.34.29.398 N003.47.13.851 E011.33.52.891 COLOR_APP
