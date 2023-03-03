@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
@@ -70,26 +70,35 @@ AG:FNAN_CTR Luanda Control:118.500:novoice:FNAN_CTR
 AG:FOOG_APP Port-Gentil Tower:123.700:novoice:FOOG_APP
 AG:FOOO_CTR Libreville Control:126.500:novoice:FOOO_CTR
 AG:FPST_APP São Tomé Control:127.500:novoice:FPST_APP
+AG:FTTJ_APP N'Djamena Approach:119.700:novoice:FTTJ_APP
 AG:FTTT_1_CTR N'Djamena Control:120.500:novoice:FTTT_1_CTR
+AG:FZAA_APP Kinshasa Approach:119.700:novoice:FZAA_APP
 AG:FZZA_CTR Kinshasa Control:126.100:novoice:FZZA_CTR
 AG:FZZA_E_CTR Kisangani Control:130.100:novoice:FZZA_E_CTR
 AG:FZZA_S_CTR Lubumbashi Control:128.100:novoice:FZZA_S_CTR
 AG:GAAA_CTR Bamako Control:125.400:novoice:GAAA_CTR
 AG:GBYD_APP Banjul Approach:121.300:novoice:GBYD_APP
+AG:GCCC_CTR Canarias Control:127.900:novoice:GCCC_CTR
+AG:GCCC_INB_CTR Canarias Control:126.500:novoice:GCCC_INB_CTR
+AG:GCCC_R6_CTR Canarias Control:123.650:novoice:GCCC_R6_CTR
+AG:GCCC_RES_CTR Canarias Control:129.100:novoice:GCCC_RES_CTR
+AG:GCCC_RW3_CTR Canarias Control:126.100:novoice:GCCC_RW3_CTR
 AG:GCCO_CTR Canarias Radio:130.950:novoice:GCCO_CTR
 AG:GFLL_APP Freetown Approach:119.100:novoice:GFLL_APP
 AG:GGOV_APP Bissau Approach:123.900:novoice:GGOV_APP
 AG:GLRB_APP Roberts Approach:124.500:novoice:GLRB_APP
 AG:GLRB_CTR Roberts Control:128.100:novoice:GLRB_CTR
-AG:GMMM_CTR Casablanca Radar:125.550:novoice:GMMM_CTR
+AG:GMMM_CTR Casablanca Radar:126.500:novoice:GMMM_CTR
 AG:GMMM_E_CTR Casablanca Radar:125.100:novoice:GMMM_E_CTR
 AG:GMMM_N_CTR Casablanca Radar:125.500:novoice:GMMM_N_CTR
 AG:GMMM_S_CTR Casablanca Radar:126.700:novoice:GMMM_S_CTR
 AG:GOBD_APP Diass Approach:120.500:novoice:GOBD_APP
+AG:GOBD_TWR Diass Tower:118.800:novoice:GOBD_TWR
 AG:GOOC_FSS Dakar Radio:122.500:novoice:GOOC_FSS
 AG:GOOO_CTR Dakar Control:129.500:novoice:GOOO_CTR
 AG:GQQQ_CTR Nouakchott Control:124.200:novoice:GQQQ_CTR
 AG:GUCY_APP Conakry Approach:119.700:novoice:GUCY_APP
+AG:GVAC_TWR Amilcabral Tower:119.700:novoice:GVAC_TWR
 AG:GVSC_APP Sal Approach:126.400:novoice:GVSC_APP
 AG:GVSC_CTR Sal Control:127.100:novoice:GVSC_CTR
 AG:HJJJ_1_CTR Juba Control:123.900:novoice:HJJJ_1_CTR
@@ -108,8 +117,8 @@ AG:SAM-W_FSS South America Control:134.050:novoice:SAM-W_FSS
 AG:SAVF_FSS Comodoro Oceanic:122.800:novoice:SAVF_FSS
 AG:SBAO_3BE_FSS Atlantico Center:133.325:novoice:SBAO_3BE_FSS
 AG:SBAO_3BW_FSS Atlantico Center:133.450:novoice:SBAO_3BW_FSS
-AG:SBAO_FSS SBAO_FSS:133.500:novoice:SBAO_FSS
-AG:SBAO_M_FSS SBAO_M_FSS:133.850:novoice:SBAO_M_FSS
+AG:SBAO_FSS Atlantico Center:133.500:novoice:SBAO_FSS
+AG:SBAO_M_FSS Atlantico Air Defense:133.850:novoice:SBAO_M_FSS
 AG:SOOO_CTR Cayenne Control:126.900:novoice:SOOO_CTR
 AG:TTZO_B_FSS Piarco Oceanic:133.100:novoice:TTZO_B_FSS
 AG:TTZO_FSS Piarco Oceanic:126.500:novoice:TTZO_FSS

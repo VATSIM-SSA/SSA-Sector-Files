@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -1538,6 +1538,7 @@ DWG	VALKYRIE AERO, LLC	DARK WING	UNITED STATES
 DWI	DOMINICAN WINGS	DOMINICAN	DOMINICAN REPUBLIC
 DWR	DELAWARE SKYWAYS, LLC (NEW CASTLE, DE)	DELAWARE	UNITED STATES
 DWT	DARWIN AIRLINE SA	DARWIN	SWITZERLAND
+DWW	DAS PRIVATE JETS GMBH	PRIVATE JET	GERMANY
 DXH	EAST STAR AIRLINES CO., LTD	EAST STAR	CHINA
 DXT	AIR MANAGEMENT GROUP,CJSC	DEXTER	RUSSIAN FEDERATION
 DYA	DYNAMIC AIRWAYS, LLC (WINSTON-SALEM, NC)	DYNAMIC AIR	UNITED STATES

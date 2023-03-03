@@ -23,11 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-<<<<<<< HEAD
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
-=======
-;  AIRAC 2213/1  ++  Valid period: 29/DEC/2022 - 25/JAN/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
->>>>>>> airac-updates
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
@@ -91,7 +87,7 @@ AG:HTZA_APP Zanzibar Approach:121.200:novoice:HTZA_APP
 AG:HUEC_CTR Entebbe Control:128.500:novoice:HUEC_CTR
 AG:HUEN_APP Entebbe Approach:126.600:novoice:HUEN_APP
 AG:HUSO_APP Soroti Approach:121.100:novoice:HUSO_APP
-AG:SBAO_FSS SBAO_FSS:133.500:novoice:SBAO_FSS
+AG:SBAO_FSS Atlantico Center:133.500:novoice:SBAO_FSS
 AG:VABB_CTR Mumbai Control:120.500:novoice:VABB_CTR
 AG:VABF_CTR Mumbai Control:132.700:novoice:VABF_CTR
 AG:VABX_CTR Mumbai Oceanic:132.600:novoice:VABX_CTR

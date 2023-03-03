@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Luanda - FNAN                    ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Luanda - FNAN                    ;
 ;=========================================================================================================================;
 
 
@@ -70,7 +70,7 @@ FZZA_CTR:Kinshasa Control:126.100:FZ::FZZA:CTR:::0000:0000
 FZZA_S_CTR:Lubumbashi Control:128.100:FZS:S:FZZA:CTR:::0000:0000
 GOOC_FSS:Dakar Radio:122.500:GOO::GOOC:FSS:::2000:2000:N002.30.00.000:W017.30.00.000
 GOOO_CTR:Dakar Control:129.500:GO::GOOO:CTR:::3101:3177:N012.00.00.000:W017.00.00.000:N020.40.00.000:W011.10.00.000:N005.00.00.000:W005.00.00.000:N013.40.00.000:W007.30.00.000
-SBAO_FSS:SBAO_FSS:133.500:SB::SBAO:FSS:::2000:2000:N001.40.10.403:W035.17.43.525:S011.37.48.708:W018.39.06.001:S030.41.22.867:W015.15.25.979:S027.26.35.840:W038.41.23.546
+SBAO_FSS:Atlantico Center:133.500:SB::SBAO:FSS:::2000:2000:N001.40.10.403:W035.17.43.525:S011.37.48.708:W018.39.06.001:S030.41.22.867:W015.15.25.979:S027.26.35.840:W038.41.23.546
 
 
 
