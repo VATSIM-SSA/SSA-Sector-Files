@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Gaborone - FBGR                  ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Gaborone 2301/1-2 FBGR 20230202
+VATSSA Gaborone 2302/1-1 FBGR 20230303
 AERO_NAV
 ZZZZ
 S022.00.00.000
@@ -459,8 +459,8 @@ EKBON S028.18.34.941 E017.37.06.301
 EKBOT S024.16.04.850 E022.43.48.910
 EKBUG S017.13.54.001 E026.26.53.998
 EP08  S019.58.46.160 E023.24.54.471
-EP10  S015.19.44.878 E028.26.03.238
 EP10  S017.48.56.239 E025.48.07.718
+EP10  S015.19.44.878 E028.26.03.238
 EP26  S019.58.11.258 E023.26.59.589
 EP28  S017.49.20.229 E025.49.52.129
 EP28  S015.19.56.100 E028.28.15.571
