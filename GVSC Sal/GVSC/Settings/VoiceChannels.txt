@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 VOICE
 AG:GVAC_0_GND Amilcabral Ground:122.650:novoice:GVAC_0_GND
@@ -36,6 +36,8 @@ AG:GVNP_ATIS:127.700:novoice:GVNP_ATIS
 AG:GVNP_TWR Praia Tower:118.200:novoice:GVNP_TWR
 AG:GVSC_APP Sal Approach:126.400:novoice:GVSC_APP
 AG:GVSC_CTR Sal Control:127.100:novoice:GVSC_CTR
+AG:GVSC_DEL Sal Delivery:122.100:novoice:GVSC_DEL
+AG:GVSC_U_APP Sal Approach:128.300:novoice:GVSC_U_APP
 AG:GVSF_I_TWR Sanfilipe Information:118.600:novoice:GVSF_I_TWR
 AG:GVSN_I_TWR Sanicolau Information:118.700:novoice:GVSN_I_TWR
 AG:GVSV_ATIS:127.500:novoice:GVSV_ATIS

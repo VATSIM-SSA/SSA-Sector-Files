@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 
 
@@ -54,6 +54,8 @@ GVNP_ATIS:Praia ATIS:127.700:NPI::GVNP:ATIS:::0000:0000
 GVNP_TWR:Praia Tower:118.200:NPT::GVNP:TWR:::7640:7647
 GVSC_APP:Sal Approach:126.400:SCA::GVSC:APP:::6701:6737:N016.44.15.320:W022.57.00.061:N014.56.27.999:W023.29.04.999:N016.50.00.999:W025.03.15.998
 GVSC_CTR:Sal Control:127.100:VS::GVSC:CTR:::7701:7776:N018.07.20.000:W024.02.50.000:N018.00.00.000:W032.00.00.000
+GVSC_DEL:Sal Delivery:122.100:SCD::GVSC:DEL:::0000:0000:N016.44.15.320:W022.57.00.061:N014.56.27.999:W023.29.04.999:N016.50.00.999:W025.03.15.998
+GVSC_U_APP:Sal Approach:128.300:SCU:U:GVSC:APP:::0000:0000:N016.44.15.320:W022.57.00.061:N014.56.27.999:W023.29.04.999:N016.50.00.999:W025.03.15.998
 GVSF_I_TWR:Sanfilipe Information:118.600:SF:I:GVSF:TWR:::7650:7657
 GVSN_I_TWR:Sanicolau Information:118.700:SN:I:GVSN:TWR:::7660:7667
 GVSV_ATIS:San Vicente ATIS:127.500:SVI::GVSV:ATIS:::0000:0000
