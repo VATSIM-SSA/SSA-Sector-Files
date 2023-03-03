@@ -67,6 +67,14 @@ PROFILE:GGOV_APP:150:5
 ATIS2:$radioname
 ATIS3:Welcome to Guinea, part of Sub-Saharan Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
+PROFILE:GOBD_DEL:5:2
+ATIS2:$radioname
+ATIS3:Welcome to Senegal, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
+PROFILE:GOBD_GND:10:4
+ATIS2:$radioname
+ATIS3:Welcome to Senegal, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
 PROFILE:GOBD_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Senegal, part of Sub-Saharan Africa Division (SSA)

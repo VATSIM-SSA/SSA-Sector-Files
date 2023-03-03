@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
 ;=========================================================================================================================;
 
 
@@ -75,11 +75,11 @@ GLRB_APP:Roberts Approach:124.500:RBA::GLRB:APP:::3130:3177
 GLRB_CTR:Roberts Control:128.100:GL::GLRB:CTR:::2101:2177:N006.14.30.000:W010.21.30.000
 GLRB_GND:Roberts Ground:121.900:RBG::GLRB:GND:::3101:3127
 GLRB_TWR:Roberts Tower:118.300:RBT::GLRB:TWR:::3101:3127
-GMMM_CTR:Casablanca Radar:125.550:GM::GMMM:CTR:::0000:0000
-GMMM_S_CTR:Casablanca Radar:126.700:GMS:S:GMMM:CTR:::0000:0000
+GMMM_CTR:Casablanca Radar:126.500:GM::GMMM:CTR:::0000:0000:N033.20.12.600:W007.35.34.900:N034.43.43.420:W002.04.19.710:N028.28.40.000:W011.12.07.700:N032.57.48.000:W011.59.32.000
+GMMM_S_CTR:Casablanca Radar:126.700:GMS:S:GMMM:CTR:::0000:0000:N031.33.20.000:W008.05.50.000:N028.28.40.000:W011.12.07.700
 GOBD_APP:Diass Approach:120.500:BDA::GOBD:APP:::5064:5077
 GOBD_ATIS:Diass ATIS:126.200:BDI::GOBD:ATIS:::0000:0000
-GOBD_DEL:Diass Delivery:122.100:BDD::GOBD:DEL:::0000:0000
+GOBD_DEL:Dakar Delivery:122.100:BDD::GOBD:DEL:::0000:0000
 GOBD_GND:Diass Ground:121.800:BDG::GOBD:GND:::6064:6077
 GOBD_TWR:Diass Tower:118.800:BDT::GOBD:TWR:::6064:6077
 GOGG_TWR:Ziguinchor Tower:118.700:GG::GOGG:TWR:::5160:5167
@@ -102,7 +102,7 @@ LPPO_2_FSS:Santa Maria Radio:132.000:PO2:2:LPPO:FSS:::0701:0777
 LPPO_CTR:Santa Maria Radar:132.150:POC::LPPO:CTR:::0701:0777:N036.58.45.980:W025.05.26.850:N033.05.03.560:W016.19.29.090
 LPPO_FSS:Santa Maria Radio:132.075:POO::LPPO:FSS:::0701:0777
 SAM-N_FSS:South America Control:134.250:SAM::SAM-N:FSS:::0000:0000
-SBAO_FSS:SBAO_FSS:133.500:SB::SBAO:FSS:::2000:2000:N001.40.10.403:W035.17.43.525:S011.37.48.708:W018.39.06.001:S030.41.22.867:W015.15.25.979:S027.26.35.840:W038.41.23.546
+SBAO_FSS:Atlantico Center:133.500:SB::SBAO:FSS:::2000:2000:N001.40.10.403:W035.17.43.525:S011.37.48.708:W018.39.06.001:S030.41.22.867:W015.15.25.979:S027.26.35.840:W038.41.23.546
 SOOO_CTR:Cayenne Control:126.900:SO::SOOO:CTR:::5300:5377:N004.49.11.000:W052.21.43.000:N008.00.00.000:W046.00.00.000:N009.00.00.000:W040.00.00.000
 TTZO_B_FSS:Piarco Oceanic:133.100:TTB:B:TTZO:FSS:::6000:6077:N014.00.00.000:W058.00.00.000:N014.00.00.000:W052.00.00.000:N014.00.00.000:W046.00.00.000:N017.00.00.000:W040.00.00.000
 TTZO_FSS:Piarco Oceanic:126.500:TT::TTZO:FSS:::6000:6077:N014.00.00.000:W058.00.00.000:N014.00.00.000:W052.00.00.000:N014.00.00.000:W046.00.00.000:N017.00.00.000:W040.00.00.000
