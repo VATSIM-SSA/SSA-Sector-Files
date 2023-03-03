@@ -3,25 +3,42 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-ARTCC high boundary:DGAC:
-ARTCC high boundary:DIII:
-ARTCC high boundary:DNKN:
-ARTCC high boundary:DNKNW:
-ARTCC high boundary:DNMMW:
-ARTCC high boundary:FCCC:
-ARTCC high boundary:FKKK:
-ARTCC high boundary:FOOO:
-ARTCC high boundary:GAAA:
-ARTCC high boundary:GLRB:
-ARTCC high boundary:GOOOC:
-ARTCC high boundary:GOOOF:
-ARTCC high boundary:GQQQ:
-ARTCC high boundary:GVSC:
+ARTCC high boundary:GOOC:
+Fixes:1120N:name
+Fixes:1120N:symbol
+Fixes:AMDOL:name
+Fixes:AMDOL:symbol
+Fixes:ASOBU:name
+Fixes:ASOBU:symbol
+Fixes:BUXON:name
+Fixes:BUXON:symbol
+Fixes:DEKON:name
+Fixes:DEKON:symbol
+Fixes:KODOS:name
+Fixes:KODOS:symbol
+Fixes:NELTO:name
+Fixes:NELTO:symbol
+Fixes:SEROD:name
+Fixes:SEROD:symbol
+Fixes:TURUP:name
+Fixes:TURUP:symbol
+High airways:UB623:line
+High airways:UB623:name
+High airways:UL435:line
+High airways:UL435:name
+High airways:UN741:line
+High airways:UN741:name
+High airways:UN857:line
+High airways:UN857:name
+High airways:UN866:line
+High airways:UN866:name
+High airways:UN873:line
+High airways:UN873:name
 SHOWC:1
 SHOWSB:0
 BELOW:20000
 ABOVE:0
-LEADER:-5
+LEADER:-10
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
@@ -29,5 +46,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:-19.235565:-75.040900:32.284541:63.185525
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-18.200517:-57.738932:20.818088:13.032997
