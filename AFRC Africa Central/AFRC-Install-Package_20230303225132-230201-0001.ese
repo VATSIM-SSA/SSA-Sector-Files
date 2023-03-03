@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
 ;=========================================================================================================================;
 
 
@@ -95,7 +95,7 @@ HTZA_APP:Zanzibar Approach:121.200:ZAA::HTZA:APP:::3300:3477
 HUEC_CTR:Entebbe Control:128.500:HU::HUEC:CTR:::3300:3477:N000.01.30.000:E032.00.00.000
 HUEN_APP:Entebbe Approach:126.600:ENA::HUEN:APP:::3300:3477
 HUSO_APP:Soroti Approach:121.100:SOA::HUSO:APP:::3300:3477
-SBAO_FSS:SBAO_FSS:133.500:AO::SBAO:FSS:::2000:2000:N001.40.10.403:W035.17.43.525:S011.37.48.708:W018.39.06.001:S030.41.22.867:W015.15.25.979:S027.26.35.840:W038.41.23.546
+SBAO_FSS:Atlantico Center:133.500:AO::SBAO:FSS:::2000:2000:N001.40.10.403:W035.17.43.525:S011.37.48.708:W018.39.06.001:S030.41.22.867:W015.15.25.979:S027.26.35.840:W038.41.23.546
 VABB_CTR:Mumbai Control:120.500:BBC::VABB:CTR:::0240:0360
 VABF_CTR:Mumbai Control:132.700:BFC::VABF:CTR:::0000:3377
 VABX_CTR:Mumbai Oceanic:132.600:BXC::VABX:CTR:::0240:0277
