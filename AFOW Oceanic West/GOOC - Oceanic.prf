@@ -19,7 +19,7 @@ Settings	airports	\GOOOO\ICAO\ICAO_Airports.txt
 Settings	aircraft	\GOOOO\ICAO\ICAO_Aircraft.txt
 Settings	airways	\GOOOO\NavData\airway.txt
 Settings	airportcoords	\GOOOO\NavData\icao.txt
-Settings	sector	\DevOps.sct
+Settings	sector	\GOOOO-Install-Package_20230303201936-230201-0001.sct
 RecentFiles	Recent1	\GOOOO\ASR\GOOC.asr
 ASRFastKeys	1	\GOOOO\ASR\AFRW.asr
 Plugins	Plugin0	\GOOOO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
@@ -30,14 +30,14 @@ Plugins	Plugin2	\GOOOO\Plugins\EasyTag\EasyTag.dll
 Plugins	Plugin2Display1	Standard ES radar screen
 Plugins	Plugin6	\GOOOO\Plugins\vCH\VCH.dll
 Plugins	Plugin6Display1	Standard ES radar screen
-LastSession	connecttype	2
-LastSession	callsign	DGAO_CTR
-LastSession	facility	6
+LastSession	connecttype	0
+LastSession	callsign	GOOC_FSS
+LastSession	facility	1
 LastSession	tovatsim	1
-LastSession	atis2	$radioname, covering only DGAO (Oceanic) airspace
+LastSession	atis2	$radioname, covering only GOOC (Oceanic) airspace
 LastSession	atis3	Part of Sub-Sahara Africa Division
 LastSession	atis4	Visit us at vatssa.com
-LastSession	range	600
+LastSession	range	1500
 Sounds	Sound1	\GOOOO\Sounds\handoff_accept.wav
 Sounds	Sound2	\GOOOO\Sounds\conflict_alert.wav
 Sounds	Sound3	\GOOOO\Sounds\radio_message.wav
@@ -62,9 +62,9 @@ Sounds	Sound0	\GOOOO\Sounds\handoff_request.wav
 RecentFiles	Recent2	\GOOOO\ASR\GOOC.asr
 LastSession	realname	810471
 LastSession	certificate	810471
-LastSession	password	YetTpiX!N5DroAh5
-LastSession	rating	3
-LastSession	server	SweatBox
+LastSession	password	qfg?8T@AjE&4MyCh
+LastSession	rating	4
+LastSession	server	AUTOMATIC
 LastSession	scenario	D:\MA\6 vController Mike\5 VATSSA\7 SSA Code Studio\SSA SB Environment\AFOW.txt
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
