@@ -23,8 +23,14 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
 ;=========================================================================================================================;
+;*** 00 Custom ***
+.cm .msg $aircraft Please contact $radioname ($atccallsign) on $freq. Please do not respond via private message. Use the frequency for all communications.
+.pdc1 .msg $aircraft PDC | $aircraft $type | Approved Route: $route | Approved Flight Level: $cruise |
+.pdc2 .msg $aircraft Cleared to $arr via $SID runway $deprwy | Initial Climb $alt | Squawk Code $asquawk |
+.pdc3 .msg $aircraft This message is your departure clearance. No need to reply. 10 minutes before departure, contact ATC by voice or text with questions.
+
 ;*** 01 Before initial contact ***
 .cw .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when 
 .cp .msg $aircraft Hello. You will enter my airspace shortly. Please contact me on $freq when passing $uc($1).
