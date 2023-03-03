@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2301/1  ++  Valid period: 26/JAN/2023 - 22/FEB/2023  ++  File-Publisher: VATSSA Mauritius - FIMM                 ;
+;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Mauritius - FIMM                 ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Mauritius 2301/1-1 FIMM 20230209
+VATSSA Mauritius 2302/1-1 FIMM 20230303
 AERO_NAV
 ZZZZ
 S020.25.48.000
@@ -659,7 +659,7 @@ FMEP 000.000 S021.19.18.001 E055.25.32.001 D
 13  31  128 308 S007.18.16.491 E072.23.49.070 S007.19.19.070 E072.25.30.550 FJDG
 14  32  135 315 S020.53.04.941 E055.30.18.651 S020.53.36.751 E055.31.26.738 FMEE
 12  30  121 301 S020.53.10.388 E055.30.20.761 S020.53.31.559 E055.32.04.920 FMEE
-15  33  148 328 S021.18.48.261 E055.24.53.409 S021.19.29.359 E055.25.47.650 FMEP
+15  33  149 329 S021.18.48.261 E055.24.53.409 S021.19.29.359 E055.25.47.650 FMEP
 
 [SID]
 FIMP SID 32 ARIGO1B                      S020.25.25.828 E057.40.13.139 S020.25.16.352 E057.39.53.295
