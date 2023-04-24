@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
 ;=========================================================================================================================;
 VOICE
 AG:FAJO_1_FSS Johannesburg Oceanic:120.650:novoice:FAJO_1_FSS
