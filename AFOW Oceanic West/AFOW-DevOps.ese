@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
 ;=========================================================================================================================;
 
 
@@ -37,6 +37,8 @@
 AFRW_FSS:Africa West Control:132.225:AFW::AFRW:FSS:::0500:0577:N007.13.15.162:W015.03.03.829:N003.20.54.807:E003.03.57.722
 DGAO_CTR:Accra Radio:136.650:GAO::DGAO:CTR:::2000:2000:N000.20.00.000:E001.45.00.000:S005.16.00.000:E001.45.00.000
 GLRB_CTR:Roberts Control:128.100:GLC::GLRB:CTR:::2101:2177:N006.14.30.000:W010.21.30.000
+GOOC_A_FSS:Dakar Radio:123.500:GO1:A:GOOC:FSS:::0000:0000:N002.30.00.000:W017.30.00.000
+GOOC_B_FSS:Dakar Radio:124.500:GO2:B:GOOC:FSS:::0000:0000:N002.30.00.000:W017.30.00.000
 GOOC_FSS:Dakar Radio:122.500:GOO::GOOC:FSS:::2000:2000:N002.30.00.000:W017.30.00.000
 GOOO_CTR:Dakar Control:129.500:GOC::GOOO:CTR:::3101:3177:N012.00.00.000:W017.00.00.000:N020.40.00.000:W011.10.00.000:N005.00.00.000:W005.00.00.000:N013.40.00.000:W007.30.00.000
 SOOO_CTR:Cayenne Control:126.900:SOC::SOOO:CTR:::5300:5377:N004.49.11.000:W052.21.43.000:N008.00.00.000:W046.00.00.000:N009.00.00.000:W040.00.00.000
@@ -1989,7 +1991,9 @@ SECTORLINE:107
 COORD:S000.17.14.000:W024.13.04.000
 COORD:S004.16.36.000:W027.08.41.000
 COORD:S009.27.02.000:W031.11.09.000
-COORD:S013.45.10.560:W022.40.00.000
+COORD:S010.00.52.300:W030.05.26.400
+COORD:S012.25.59.400:W026.45.01.200
+COORD:S016.13.00.000:W018.22.30.000
 COORD:S020.00.00.000:W010.00.00.000
 
 SECTORLINE:108
@@ -2378,7 +2382,7 @@ SECTOR:SBAO·SBAO_S1B·245·600:24500:60000
 BORDER:81:105:106
 
 SECTOR:SBAO·SBAO_S3C·245·600:24500:60000
-BORDER:107:52:77:78:79
+BORDER:52:77:78:79:107
 
 SECTOR:SOOO·SOOO_HIGH·245·600:24500:60000
 OWNER:SOC
