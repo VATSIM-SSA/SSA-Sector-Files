@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
 ;=========================================================================================================================;
 
 
@@ -43,7 +43,6 @@ FACA_CTR:Cape Town Area:125.100:CW::FACA:CTR:::1300:1377:S033.58.10.573:E018.36.
 FACA_E_CTR:Cape Town Area East:124.700:CE:E:FACA:CTR:::1400:1477:S033.59.30.176:E025.36.21.252
 FACT_APP:Cape Town Approach:119.700:CTA::FACT:APP:::1200:1277
 FACT_F_APP:Cape Town Director:124.350:CTF:F:FACT:APP:::1000:1077
-FACT_V_APP:Cape Town Radio:135.000:CTV:V:FACT:APP:::7430:7457
 FAEL_APP:East London Approach:120.100:ELA::FAEL:APP:::6200:6277
 FAGG_APP:George Approach:128.200:GGA::FAGG:APP:::3200:3277
 FAHS_APP:Hoedspruit Approach:126.400:HSA::FAHS:APP:::0000:0000
@@ -8493,12 +8492,10 @@ DISPLAY:FIMM·FIMM_FSS_LOW·000·245:FIMM·FIMM_FSS_LOW·000·245:FAJO·FAJO_LOW·000·24
 SECTORLINE:401
 COORD:S045.00.00.000:E075.00.00.000
 COORD:S090.00.00.000:E075.00.00.000
-COORD:S090.00.00.000:E000.00.00.000
-COORD:S046.00.00.000:W010.00.00.000
 
 SECTORLINE:402
 COORD:S046.00.00.000:E000.00.00.000
-COORD:S046.00.00.000:W010.00.00.000
+COORD:S090.00.00.000:E075.00.00.000
 
 SECTORLINE:403
 COORD:S046.00.00.000:E000.00.00.000
@@ -8549,7 +8546,7 @@ COORD:S020.00.00.000:W010.00.00.000
 COORD:S032.56.00.000:W010.00.00.000
 COORD:S034.00.00.000:W010.00.00.000
 COORD:S039.00.00.000:W010.00.00.000
-COORD:S046.00.00.000:W010.00.00.000
+COORD:S090.00.00.000:E075.00.00.000
 
 SECTORLINE:408
 COORD:S020.00.00.000:W010.00.00.000
