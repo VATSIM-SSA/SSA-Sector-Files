@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 
@@ -70,7 +70,10 @@ DNMA_APP:Maiduguri Approach/Tower:118.400:MAA::DNMA:APP:::3520:3537
 DNMM_APP:Lagos Approach:124.700:MMA::DNMM:APP:::3401:3437
 DNMM_ATIS:Lagos ATIS:123.800:MMI::DNMM:ATIS:::0000:0000
 DNMM_CTR:Lagos West:120.900:MMW::DNMM:CTR:::2401:2477
-DNMM_GND:Lagos Ground Control:121.900:MMG::DNMM:GND:::3440:3477
+DNMM_DEL:Lagos Delivery:119.100:MMD::DNMM:DEL:::0000:0000
+DNMM_E_GND:Lagos Ground:121.100:MME:E:DNMM:GND:::0000:0000
+DNMM_GND:Lagos Ground:121.900:MMG::DNMM:GND:::3440:3477
+DNMM_P_DEL:Lagos Planner:119.700:MMP:P:DNMM:DEL:::0000:0000
 DNMM_TWR:Lagos Tower:118.100:MMT::DNMM:TWR:::3440:3477
 DNMN_TWR:Minna Tower:118.300:MNT::DNMN:TWR:::4150:4157
 DNPO_APP:Port Harcourt Approach:124.900:POA::DNPO:APP:::3501:3517
@@ -4879,7 +4882,7 @@ OWNER:TT
 BORDER:145:137:134:135:143:146
 
 SECTOR:DGAC·DGACO_HIGH·245·660:24500:66000
-OWNER:GAO:AW
+OWNER:GAO:GA:AW
 BORDER:147:60:148:149:150:151:152
 
 SECTOR:DGAC·DGACO_LOW·000·245:00000:24500
