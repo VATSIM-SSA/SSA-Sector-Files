@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRC     ;
 ;=========================================================================================================================;
 ;*** 00 Custom ***
 .cm .msg $aircraft Please contact $radioname ($atccallsign) on $freq. Please do not respond via private message. Use the frequency for all communications.

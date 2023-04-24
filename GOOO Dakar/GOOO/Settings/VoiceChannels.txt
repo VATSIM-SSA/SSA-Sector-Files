@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
 ;=========================================================================================================================;
 VOICE
 AG:DIAP_APP Abidjan Approach:121.100:novoice:DIAP_APP
@@ -53,8 +53,11 @@ AG:GOBD_GND Diass Ground:121.800:novoice:GOBD_GND
 AG:GOBD_TWR Diass Tower:118.800:novoice:GOBD_TWR
 AG:GOGG_TWR Ziguinchor Tower:118.700:novoice:GOGG_TWR
 AG:GOGS_TWR Cap-Skirring Tower:118.900:novoice:GOGS_TWR
+AG:GOOC_A_FSS Dakar Radio:123.500:novoice:GOOC_A_FSS
+AG:GOOC_B_FSS Dakar Radio:124.500:novoice:GOOC_B_FSS
 AG:GOOC_FSS Dakar Radio:122.500:novoice:GOOC_FSS
 AG:GOOO_CTR Dakar Control:129.500:novoice:GOOO_CTR
+AG:GOOY_GND Yoff Ground:121.900:novoice:GOOY_GND
 AG:GOOY_TWR Yoff Tower:118.100:novoice:GOOY_TWR
 AG:GOSS_TWR Saint Louis Tower:118.700:novoice:GOSS_TWR
 AG:GQNO_TWR Nouakchott Tower:118.400:novoice:GQNO_TWR

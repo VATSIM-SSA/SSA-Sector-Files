@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 VOICE
 AG:FABE_TWR Bhisho Tower:120.600:novoice:FABE_TWR
@@ -36,10 +36,11 @@ AG:FACA_E_CTR Cape Town Area East:124.700:novoice:FACA_E_CTR
 AG:FACT_APP Cape Town Approach:119.700:novoice:FACT_APP
 AG:FACT_ATIS:127.000:novoice:FACT_ATIS
 AG:FACT_DEL Cape Town Delivery:122.100:novoice:FACT_DEL
+AG:FACT_E_GND Cape Town Radio:120.700:novoice:FACT_E_GND
 AG:FACT_F_APP Cape Town Director:124.350:novoice:FACT_F_APP
 AG:FACT_GND Cape Town Ground:121.900:novoice:FACT_GND
+AG:FACT_P_DEL Cape Town Planner:119.100:novoice:FACT_P_DEL
 AG:FACT_TWR Cape Town Tower:118.100:novoice:FACT_TWR
-AG:FACT_V_APP Cape Town Radio:135.000:novoice:FACT_V_APP
 AG:FAEL_APP East London Approach:120.100:novoice:FAEL_APP
 AG:FAEL_ATIS:126.650:novoice:FAEL_ATIS
 AG:FAEL_TWR East London Tower:118.300:novoice:FAEL_TWR

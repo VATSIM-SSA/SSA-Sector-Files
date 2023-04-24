@@ -2,8 +2,8 @@
 //                 VATSSA | FIR FWLL | TopSky | Airspace
 // ##################################################################
 
-// Version v0.3
-// Update Date 25/08/2022
+// Version v0.4
+// Update Date 04/04/2023
 
 
 // ##################################################################
@@ -23,14 +23,14 @@ LEVELS:FWKI:52,55,57
 // ##################################################################
 
 // FWCL | BLANTYRE CHILEKA INTL
-INITIAL_CFL:6900
+INITIAL_CFL:7000
 CFL_FRUL:I
 CFL_ADEP:FWCL
 CFL_DRWY:10:28
 //CFL_SID:
 
 // FWKI | LILONGWE KAMUZU INTL
-INITIAL_CFL:6700
+INITIAL_CFL:7000
 CFL_FRUL:I
 CFL_ADEP:FWKI
 CFL_DRWY:14:32

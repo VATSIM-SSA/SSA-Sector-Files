@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 VOICE
 AG:DNAA_APP Abuja Approach:127.900:novoice:DNAA_APP
@@ -56,7 +56,10 @@ AG:DNMA_APP Maiduguri Approach/Tower:118.400:novoice:DNMA_APP
 AG:DNMM_APP Lagos Approach:124.700:novoice:DNMM_APP
 AG:DNMM_ATIS:123.800:novoice:DNMM_ATIS
 AG:DNMM_CTR Lagos West:120.900:novoice:DNMM_CTR
-AG:DNMM_GND Lagos Ground Control:121.900:novoice:DNMM_GND
+AG:DNMM_DEL Lagos Delivery:119.100:novoice:DNMM_DEL
+AG:DNMM_E_GND Lagos Ground:121.100:novoice:DNMM_E_GND
+AG:DNMM_GND Lagos Ground:121.900:novoice:DNMM_GND
+AG:DNMM_P_DEL Lagos Planner:119.700:novoice:DNMM_P_DEL
 AG:DNMM_TWR Lagos Tower:118.100:novoice:DNMM_TWR
 AG:DNMN_TWR Minna Tower:118.300:novoice:DNMN_TWR
 AG:DNPO_APP Port Harcourt Approach:124.900:novoice:DNPO_APP

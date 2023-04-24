@@ -91,6 +91,10 @@ PROFILE:GOGS_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Senegal, part of Sub-Saharan Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
+PROFILE:GOOY_GND:10:4
+ATIS2:$radioname
+ATIS3:Welcome to Senegal, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
 PROFILE:GOOY_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Senegal, part of Sub-Saharan Africa Division (SSA)
