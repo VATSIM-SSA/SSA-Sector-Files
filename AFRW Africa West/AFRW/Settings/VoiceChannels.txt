@@ -23,13 +23,15 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
 AG:AFRE_FSS East Africa Control:135.050:novoice:AFRE_FSS
 AG:AFRN_FSS North Africa Control:134.520:novoice:AFRN_FSS
 AG:AFRS_FSS Africa South Control:134.575:novoice:AFRS_FSS
+AG:AFRW_A_FSS Africa West Control:131.225:novoice:AFRW_A_FSS
+AG:AFRW_B_FSS Africa West Control:130.225:novoice:AFRW_B_FSS
 AG:AFRW_FSS Africa West Control:132.225:novoice:AFRW_FSS
 AG:CARE_FSS Caribbean Control East:131.500:novoice:CARE_FSS
 AG:CARI_FSS Caribbean Control:131.300:novoice:CARI_FSS
@@ -109,7 +111,7 @@ AG:LPPO_1_FSS Santa Maria Radio:124.850:novoice:LPPO_1_FSS
 AG:LPPO_2_FSS Santa Maria Radio:132.000:novoice:LPPO_2_FSS
 AG:LPPO_3_FSS Santa Maria Radio:132.025:novoice:LPPO_3_FSS
 AG:LPPO_FSS Santa Maria Radio:132.075:novoice:LPPO_FSS
-AG:SAEZ_FSS Ezeiza Torre:118.600:novoice:SAEZ_FSS
+AG:SAEZ_TWR Ezeiza Torre:118.600:novoice:SAEZ_TWR
 AG:SAM-E_FSS South America Control:134.150:novoice:SAM-E_FSS
 AG:SAM-N_FSS South America Control:134.250:novoice:SAM-N_FSS
 AG:SAM-S_FSS South America Control:134.700:novoice:SAM-S_FSS
