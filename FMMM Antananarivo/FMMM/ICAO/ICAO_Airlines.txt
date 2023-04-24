@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Antananarivo - FMMM              ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -599,7 +599,7 @@ BCJ	BLUE JET CHARTERS SP. Z.O.O.	BLUE BOY	POLAND
 BCK	PRIORITY AVIATION COMPANY, INC (KANSAS CITY, MO)	BANKCHECK	UNITED STATES
 BCN	OCEAN AIR	BLUE OCEAN	MAURITANIA
 BCR	BRITISH CHARTER	BACKER	UNITED KINGDOM
-BCS	EUROPEAN AIR TRANSPORT, LEIPZIG	EUROTRANS	GERMANY
+BCS	EUROPEAN AIR TRANSPORT, LEIPZIG	POSTMAN	GERMANY
 BCT	BCT AVIATION	BOBCAT	UNITED KINGDOM
 BCU	BOND AIR CARGO	BACAIR	UNITED STATES
 BCV	TRANSPORTES INTERILHAS DE CABO VERDE, SOCIEDADE UNIPESSOAL, SA. TICV	MORABEST	CABO VERDE
@@ -5138,6 +5138,7 @@ SFA	ENAC	SEFA	FRANCE
 SFD	SPEED FLY	DRACO	SPAIN
 SFE	TRAVIS COUNTY EMS	STAR FLIGHT	UNITED STATES
 SFF	SAFEWING AVIATION COMPANY, INC. (KANSAS CITY, MO)	SWIFTWING	UNITED STATES
+SFG	SPREE FLUG LUFTFAHRT GMBH	COLORSKY	GERMANY
 SFH	NORTH AMERICAN JET CHARTER GROUP, LLC (WHEELING, IL)	STARFISH	UNITED STATES
 SFI	THE SKY, INC.	SPACE STAR	REPUBLIC OF KOREA
 SFJ	STAR FLYER INC	STARFLYER	JAPAN
