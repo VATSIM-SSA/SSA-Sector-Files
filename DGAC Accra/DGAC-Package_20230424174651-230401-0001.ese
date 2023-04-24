@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Accra - DGAC                     ;
 ;=========================================================================================================================;
 
 
@@ -3376,7 +3376,7 @@ DEPAPT:DGLN:DGLW:DGSN
 ARRAPT:DGLN:DGLW:DGSN
 
 SECTOR:DGAC·DGACO_HIGH·245·660:24500:66000
-OWNER:GAO:AW
+OWNER:GAO:GA:AW
 BORDER:57:10:58:59:36:60:61:62:63:64:65
 
 SECTOR:DGAC·DGACO_LOW·000·245:00000:24500
