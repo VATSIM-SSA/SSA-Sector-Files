@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<initialClimb>
+	<apt icao="FACT">
+		<runway name="01">
+			<sid name="IMSOM">
+				<alt>090</alt>
+			</sid>
+		</runway>
+		<runway name="19">
+			<sid name="IMSOM">
+				<alt>090</alt>
+			</sid>
+		</runway>
+    </apt>
+</initialClimb>

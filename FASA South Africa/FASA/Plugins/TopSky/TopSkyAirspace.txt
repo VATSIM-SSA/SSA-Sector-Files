@@ -53,7 +53,7 @@ QNHTL:FAUT:95,995,90,1013,85,1031,80,1049,75,1060,75
 //                 INITIAL CLIMB ALTITUDES v0.1
 // ##################################################################
 
-// FACT
+// FACT | CAPE TOWN INTL
 INITIAL_CFL:9000
 CFL_FRUL:I
 CFL_ADEP:FACT

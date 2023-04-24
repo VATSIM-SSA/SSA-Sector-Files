@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 
 
@@ -45,10 +45,11 @@ FACA_E_CTR:Cape Town Area East:124.700:CAE:E:FACA:CTR:::1400:1477:S033.59.30.176
 FACT_APP:Cape Town Approach:119.700:CTA::FACT:APP:::1200:1277
 FACT_ATIS:Cape Town ATIS:127.000:CTY::FACT:ATIS:::0000:0000
 FACT_DEL:Cape Town Delivery:122.100:CTD::FACT:DEL:::1000:1077
+FACT_E_GND:Cape Town Radio:120.700:MMH:E:FACT:GND:::0000:0000
 FACT_F_APP:Cape Town Director:124.350:CTF:F:FACT:APP:::1000:1077
 FACT_GND:Cape Town Ground:121.900:CTG::FACT:GND:::1000:1077
+FACT_P_DEL:Cape Town Planner:119.100:MMP:P:FACT:DEL:::0000:0000
 FACT_TWR:Cape Town Tower:118.100:CTT::FACT:TWR:::1100:1177
-FACT_V_APP:Cape Town Radio:135.000:CTI:V:FACT:APP:::7430:7457
 FAEL_APP:East London Approach:120.100:ELA::FAEL:APP:::6200:6277
 FAEL_ATIS:East London ATIS:126.650:ELY::FAEL:ATIS:::0000:0000
 FAEL_TWR:East London Tower:118.300:ELT::FAEL:TWR:::6100:6177
@@ -4156,12 +4157,10 @@ COORD:S030.00.00.000:E057.00.00.000
 COORD:S045.00.00.000:E057.00.00.000
 COORD:S045.00.00.000:E075.00.00.000
 COORD:S090.00.00.000:E075.00.00.000
-COORD:S090.00.00.000:E000.00.00.000
-COORD:S046.00.00.000:W010.00.00.000
 
 SECTORLINE:162
 COORD:S046.00.00.000:E000.00.00.000
-COORD:S046.00.00.000:W010.00.00.000
+COORD:S090.00.00.000:E075.00.00.000
 
 SECTORLINE:163
 COORD:S046.00.00.000:E000.00.00.000
@@ -4214,7 +4213,7 @@ COORD:S020.00.00.000:W010.00.00.000
 COORD:S032.56.00.000:W010.00.00.000
 COORD:S034.00.00.000:W010.00.00.000
 COORD:S039.00.00.000:W010.00.00.000
-COORD:S046.00.00.000:W010.00.00.000
+COORD:S090.00.00.000:E075.00.00.000
 
 SECTORLINE:168
 COORD:S018.00.00.000:E000.00.00.000
