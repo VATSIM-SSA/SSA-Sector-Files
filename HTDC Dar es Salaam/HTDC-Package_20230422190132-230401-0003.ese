@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
 ;=========================================================================================================================;
 
 
@@ -70,6 +70,7 @@ HBBA_APP:Bujumbura Approach:119.700:BAA::HBBA:APP:::3300:3477
 HBBA_TWR:Bujumbura Tower:118.100:BAT::HBBA:TWR:::3300:3477
 HRYG_TWR:Gisenyl Tower:121.800:YGT::HRYG:TWR:::3300:3477
 HRYR_APP:Kigali Approach:124.300:YRA::HRYR:APP:::3300:3477
+HRYR_ATIS:Kigali ATIS:128.700:YRI::HRYR:ATIS:::0000:0000
 HRYR_TWR:Kigali Tower:118.300:YRT::HRYR:TWR:::3300:3477
 HRZA_TWR:Kamembe Tower:120.700:ZAT::HRZA:TWR:::3300:3477
 
@@ -196,6 +197,7 @@ SID:HRYR:10:EGREK1D:IMTIT EGREK
 SID:HRYR:10:GAVDA1D:IMTIT XABOB GAVDA
 SID:HRYR:10:KAROS1D:IMTIT GADBO KAROS
 SID:HRYR:10:RANAG1D:IMTIT APMUM RANAG
+SID:HRZA:02:KAROS2D:KAROS
 SID:HTDA:05:AVIGO1A:AVIGO
 SID:HTDA:05:BOTEN1A:BOTEN
 SID:HTDA:05:ELAVA1A:ELAVA
