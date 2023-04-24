@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2302/1  ++  Valid period: 23/FEB/2023 - 22/MAR/2023  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
+;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Brazzaville - FCCC               ;
 ;=========================================================================================================================;
 
 
@@ -5935,7 +5935,7 @@ OWNER:ZZE:ZZ
 BORDER:135:136:137
 
 SECTOR:DGAC·DGACO_HIGH·245·660:24500:66000
-OWNER:GAO:AW
+OWNER:GAO:GA:AW
 BORDER:138:139:140:102:141:142:143:144:145
 
 SECTOR:DGAC·DGACO_LOW·000·245:00000:24500
