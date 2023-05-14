@@ -17830,18 +17830,24 @@ UHWQ	ARTYOM/OZK-AQUARESSURSY	Russian Federation
 UHWT	TERNEY	Russian Federation
 UHWW	VLADIVOSTOK/KNEVICHI	Russian Federation
 UIAA	CHITA/KADALA	Russian Federation
+UIAC	UIAC	Russian Federation
 UIAD	KRASNY TSIKOY	Russian Federation
 UIAK	KYRA	Russian Federation
 UIAM	MOGOCHA	Russian Federation
+UIAO	UIAO	Russian Federation
 UIAR	CHARA	Russian Federation
 UIAS	GAZIMURSKI ZAVOD	Russian Federation
 UIAY	USUGLI	Russian Federation
 UIBB	BRATSK	Russian Federation
+UIBM	UIBM	Russian Federation
 UIBS	UST-ILIMSK	Russian Federation
+UIBV	UIBV	Russian Federation
 UICH	KHILOK	Russian Federation
 UICP	PETROVSK-ZABAYKALSKIY	Russian Federation
 UICS	SRETENSK	Russian Federation
 UICT	TUPIK	Russian Federation
+UICU	UICU	Russian Federation
+UIIB	UIIB	Russian Federation
 UIII	IRKUTSK	Russian Federation
 UIIR	IRKUTSK-2/VOSTOCHNY	Russian Federation
 UIKB	BODAYBO	Russian Federation
