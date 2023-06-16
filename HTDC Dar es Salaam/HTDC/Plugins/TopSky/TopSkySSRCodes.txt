@@ -2,8 +2,8 @@
 //                 VATSSA | FIR HTDC | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.2
-// Update Date 19/08/2022
+// Version v0.3
+// Update Date 17/05/2023
 
 
 // ##################################################################
@@ -65,7 +65,61 @@ NOTADEP:HT
 ADES:HT
 IFR
 
+// KIGALI DOMESTIC I
+RANGE:1220:1237
+PRIORITY:1
+ADEP:HR
+ADES:HR
+IFR
 
+// KIGALI DOMESTIC II
+RANGE:6700:6777
+PRIORITY:2
+ADEP:HR
+ADES:HR
+IFR
+
+// KIGALI INTERNATIONAL I
+RANGE:1000:1017
+PRIORITY:1
+ADEP:HR
+NOTADES:HR
+IFR
+
+// KIGALI INTERNATIONAL II
+RANGE:6000:6077
+PRIORITY:2
+ADEP:HR
+NOTADES:HR
+IFR
+
+// KIGALI INTERNATIONAL INBOUND
+RANGE:6000:6077
+PRIORITY:2
+NOTADEP:HR
+ADES:HR
+IFR
+
+// BUJUMBURA DOMESTIC I
+RANGE:1240:1257
+PRIORITY:2
+ADEP:HB
+ADES:HB
+IFR
+
+// BUJUMBURA INTERNATIONAL I
+RANGE:1300:1317
+PRIORITY:2
+ADEP:HB
+NOTADES:HB
+IFR
+
+// BUJUMBURA INTERNATIONAL INBOUND
+RANGE:1300:1317
+PRIORITY:2
+NOTADEP:HB
+ADES:HB
+IFR
 // ##################################################################
 //                 THE END
 // ##################################################################

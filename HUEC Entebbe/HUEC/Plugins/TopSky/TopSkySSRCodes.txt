@@ -2,8 +2,8 @@
 //                 VATSSA | FIR HUEC | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.3
-// Update Date 19/08/2022
+// Version v0.4
+// Update Date 17/05/2023
 
 
 // ##################################################################
@@ -24,28 +24,28 @@ IFR
 
 // DOMESTIC I
 RANGE:0600:0677
-PRIORITY:+3
+PRIORITY:3
 ADEP:HU
 ADES:HU
 IFR
 
 // DOMESTIC II
 RANGE:5200:5277
-PRIORITY:+3
+PRIORITY:2
 ADEP:HU
 ADES:HU
 IFR
 
 // INTERNATIONAL OUTBOUND
 RANGE:2300:2377
-PRIORITY:+3
+PRIORITY:3
 ADEP:HU
 NOTADES:HU
 IFR
 
 // INTERNATIONAL INBOUND
 RANGE:2300:2377
-PRIORITY:+3
+PRIORITY:3
 NOTADEP:HU
 ADES:HU
 IFR

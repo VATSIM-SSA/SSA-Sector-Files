@@ -3,8 +3,8 @@ DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
-Geo:HTDA Groundlayout:
-Regions:HTDA Groundlayout:polygon
+Geo:HTZA Groundlayout:
+Regions:HTZA Groundlayout:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -21,7 +21,7 @@ TAGFAMILY:VATSSA TopSky
 WINDOWAREA:-6.878896:39.186635:-6.859662:39.221715
 PLUGIN:Ground Radar plugin:AirportElevation:182
 PLUGIN:Ground Radar plugin:AirportRadius:3
-PLUGIN:Ground Radar plugin:GroundMode:HTDA
+PLUGIN:Ground Radar plugin:GroundMode:HTZA
 PLUGIN:TopSky plugin:HideMapData:ICAO
 PLUGIN:TopSky plugin:NoDraw:1
-PLUGIN:TopSky plugin:ShowMapData:HTDA
+PLUGIN:TopSky plugin:ShowMapData:HTZA

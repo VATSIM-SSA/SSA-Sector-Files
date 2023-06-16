@@ -1,0 +1,58 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\kalai\Documents\ES Sector\normal\nairobi main\HKNA-Package_20230303203759-230201-0001.sct
+SECTORTITLE:HKNA-Package_20230303203759-230201-0001.sct
+Geo:HK Landmark Lake Turkana:
+Geo:HK Prohibited area P5 Eldoret:
+Geo:HK Prohibited area P6 Kisumu:
+Geo:HKEL Groundlayout:
+Regions:HKEL Groundlayout:polygon
+Regions:HKKI Groundlayout:polygon
+Runways:HKEL 08-26:centerline
+Runways:HKEL 08-26:extended centerline 1
+Runways:HKEL 08-26:extended centerline 1 left base
+Runways:HKEL 08-26:extended centerline 1 left ticks
+Runways:HKEL 08-26:extended centerline 1 left vectoring
+Runways:HKEL 08-26:extended centerline 1 right base
+Runways:HKEL 08-26:extended centerline 1 right ticks
+Runways:HKEL 08-26:extended centerline 1 right vectoring
+Runways:HKEL 08-26:extended centerline 2
+Runways:HKEL 08-26:extended centerline 2 left base
+Runways:HKEL 08-26:extended centerline 2 left ticks
+Runways:HKEL 08-26:extended centerline 2 left vectoring
+Runways:HKEL 08-26:extended centerline 2 right base
+Runways:HKEL 08-26:extended centerline 2 right ticks
+Runways:HKEL 08-26:extended centerline 2 right vectoring
+Runways:HKEL 08-26:name
+Runways:HKKI 06-24:centerline
+Runways:HKKI 06-24:extended centerline 1
+Runways:HKKI 06-24:extended centerline 1 left base
+Runways:HKKI 06-24:extended centerline 1 left ticks
+Runways:HKKI 06-24:extended centerline 1 left vectoring
+Runways:HKKI 06-24:extended centerline 1 right base
+Runways:HKKI 06-24:extended centerline 1 right ticks
+Runways:HKKI 06-24:extended centerline 1 right vectoring
+Runways:HKKI 06-24:extended centerline 2
+Runways:HKKI 06-24:extended centerline 2 left base
+Runways:HKKI 06-24:extended centerline 2 left ticks
+Runways:HKKI 06-24:extended centerline 2 left vectoring
+Runways:HKKI 06-24:extended centerline 2 right base
+Runways:HKKI 06-24:extended centerline 2 right ticks
+Runways:HKKI 06-24:extended centerline 2 right vectoring
+Runways:HKKI 06-24:name
+SHOWC:1
+SHOWSB:1
+BELOW:500
+ABOVE:25000
+LEADER:3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:VATSSA TopSky
+WINDOWAREA:-0.369232:33.994751:0.619262:35.797292
+PLUGIN:TopSky plugin:ShowMapData:HKKI,HKEL
