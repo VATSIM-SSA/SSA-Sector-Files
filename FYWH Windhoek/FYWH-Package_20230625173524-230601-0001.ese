@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Windhoek - FYWH                  ;
+;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Windhoek - FYWH                  ;
 ;=========================================================================================================================;
 
 
@@ -90,6 +90,9 @@ STAR:FYWB:09:PERCY:PERCY WB09I WB09F
 STAR:FYWB:27:ETLAXxVORDME:ETLAX NEXET X083Q SCANO WBV63 WBV42
 STAR:FYWB:27:NEXETxVORDME:NEXET X083Q SCANO WBV63 WBV42
 STAR:FYWB:27:WBVxVORDME:WBV NEXET X083Q SCANO WBV63 WBV42
+STAR:FYWB:27:GUNDUxRNP:GUNDU WB27I WB27F
+STAR:FYWB:27:NEXETxRNP:NEXET GUNDU WB27I WB27F
+STAR:FYWB:27:PIERExRNP:PIERE WB27I WB27F
 STAR:FYWH:08:ATUPI1AxOLLIExRNP:ATUPI EGLIK UNDID OLLIE WH08I WH08F WH08S
 STAR:FYWH:08:AXODO1AxOLLIExRNP:AXODO SUDOG DUNBA TETUR OLLIE WH08I WH08F WH08S
 STAR:FYWH:26:ATUPI1BxJOWEExILS:ATUPI ANTAV NIKER GLAMA GETET FRITZ WHV88
