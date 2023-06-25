@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Beira - FQBE                     ;
+;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Beira - FQBE                     ;
 ;=========================================================================================================================;
 
 
@@ -181,12 +181,11 @@ STAR:FQQL:18:GEVADxRNAV:GEVAD TEXAX IBKOX
 STAR:FQQL:18:NEVORxRNAV:NEVOR TEXAX IBKOX
 STAR:FQTT:19:EPTUVxRNAV:EPTUV OKSUR UVIXA TT500
 STAR:FQTT:19:NETEPxRNAV:NETEP UVIXA TT500
-STAR:FQVL:17:ITKOPxRNAV:ITKOP VL500
 STAR:FQVL:17:NESUBxRNAV:NESUB ITKOP VL500
 STAR:FQVL:17:UNPATxRNAV:UNPAT ITKOP VL500
+STAR:FQVL:17:VLxNDB:VL IN17 VL
 STAR:FQVL:35:EGTODxRNAV:EGTOD NEXOM VL700
 STAR:FQVL:35:GETUKxRNAV:GETUK NEXOM VL700
-STAR:FQVL:35:NEXOMxRNAV:NEXOM VL700
 STAR:FWKI:14:ELEPA2A:ELEPA R215T I230 DVL KG 91DVL OM14
 STAR:FWKI:14:ELEPA2B:ELEPA R215T I230 KG 91DVL OM14
 STAR:FWKI:14:ESPOP2A:ESPOP R208T I230 DVL KG 91DVL OM14
