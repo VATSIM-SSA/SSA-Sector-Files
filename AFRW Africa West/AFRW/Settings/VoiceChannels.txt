@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
@@ -116,7 +116,7 @@ AG:SAM-E_FSS South America Control:134.150:novoice:SAM-E_FSS
 AG:SAM-N_FSS South America Control:134.250:novoice:SAM-N_FSS
 AG:SAM-S_FSS South America Control:134.700:novoice:SAM-S_FSS
 AG:SAM-W_FSS South America Control:134.050:novoice:SAM-W_FSS
-AG:SAVF_FSS Comodoro Oceanic:122.800:novoice:SAVF_FSS
+AG:SAVF_FSS Comodoro Oceanic:133.850:novoice:SAVF_FSS
 AG:SBAO_3BE_FSS Atlantico Center:133.325:novoice:SBAO_3BE_FSS
 AG:SBAO_3BW_FSS Atlantico Center:133.450:novoice:SBAO_3BW_FSS
 AG:SBAO_FSS Atlantico Center:133.500:novoice:SBAO_FSS
