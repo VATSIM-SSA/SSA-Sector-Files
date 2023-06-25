@@ -19,7 +19,7 @@ Settings	airports	\FAJO\ICAO\ICAO_Airports.txt
 Settings	aircraft	\FAJO\ICAO\ICAO_Aircraft.txt
 Settings	airways	\FAJO\NavData\airway.txt
 Settings	airportcoords	\FAJO\NavData\icao.txt
-Settings	sector	\FAJO-Package_20230421081707-230401-0001.sct
+Settings	sector	\FAJO-Package_20230625185334-230601-0001.sct
 RecentFiles	Recent1	\FAJO\ASR\FAJO.asr
 ASRFastKeys	1	\FAJO\ASR\FAJO.asr
 Plugins	Plugin0	\FAJO\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
