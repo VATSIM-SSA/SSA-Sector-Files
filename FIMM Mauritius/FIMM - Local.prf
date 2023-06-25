@@ -57,7 +57,7 @@ Settings	SettingsfileTAXIOUT	\FIMM\Settings\Local\General.txt
 Settings	SettingsfileTAKEOFF	\FIMM\Settings\Local\General.txt
 Settings	SettingsfileADCS	\FIMM\Settings\Local\General.txt
 Settings	SettingsfileTAXIIN	\FIMM\Settings\Local\General.txt
-Settings	sector	\FIMM-Package_20230514100558-230401-0002.sct
+Settings	sector	\FIMM-Package_20230625181712-230601-0001.sct
 Plugins	Plugin0	\FIMM\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
