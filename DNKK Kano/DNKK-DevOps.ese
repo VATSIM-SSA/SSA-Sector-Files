@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 
@@ -4022,7 +4022,7 @@ COORD:N018.58.05.300:E003.21.27.500
 COORD:N019.09.00.000:E003.07.00.000
 COORD:N019.22.00.000:E003.15.00.000
 COORD:N019.50.00.000:E003.13.00.000
-COORD:N019.58.00.000:E002.54.00.000
+COORD:N019.58.00.000:E003.00.00.000
 COORD:N020.02.30.000:E002.27.30.000
 COORD:N020.18.00.000:E002.12.00.000
 COORD:N020.14.00.000:E002.07.00.000

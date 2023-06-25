@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
+;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Kano - DNKK                      ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Kano 2304/1-1 DNKK 20230424
+VATSSA Kano 2306/1-1 DNKK 20230625
 AERO_NAV
 ZZZZ
 N009.00.24.466
@@ -1586,8 +1586,8 @@ SAGVI N001.27.05.731 E007.36.48.700
 SAKDO N006.26.29.670 E006.59.18.301
 SAKNI N003.45.45.810 E009.07.31.630
 SASSA N007.37.51.898 E013.41.43.198
-SDF   N005.38.36.600 E005.09.01.911
 SDF   N012.01.08.230 E008.30.06.919
+SDF   N005.38.36.600 E005.09.01.911
 SE    N013.17.39.998 E002.20.39.998
 SEMEB N006.43.54.120 E002.01.12.000
 SEMIR N010.41.21.998 E014.03.47.998
