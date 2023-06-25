@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Sal - GVSC                       ;
+;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Sal - GVSC                       ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Sal 2304/1-1 GVSC 20230421
+VATSSA Sal 2306/1-1 GVSC 20230625
 AERO_NAV
 ZZZZ
 N016.00.00.000
@@ -357,8 +357,8 @@ DEPAL N014.22.35.500 W017.04.12.100
 DESAX N014.56.15.500 W017.25.06.600
 DETEK N014.23.13.171 W017.15.17.611
 DILBI N017.59.32.398 W016.08.43.000
-DME10 N016.54.14.479 W022.57.00.619
 DME10 N015.05.43.630 W023.25.13.940
+DME10 N016.54.14.479 W022.57.00.619
 DME3  N014.59.12.569 W023.27.56.559
 DME5  N015.01.04.299 W023.27.10.119
 DME6  N016.50.13.469 W022.56.58.869
