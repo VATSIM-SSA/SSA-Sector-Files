@@ -1,8 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\kalai\Documents\ES Sector\normal\nairobi main\HKNA-Package_20230303203759-230201-0001.sct
-SECTORTITLE:HKNA-Package_20230303203759-230201-0001.sct
+SECTORFILE:
+SECTORTITLE:
 Geo:HK Landmark Lake Turkana:
 Geo:HK Prohibited area P5 Eldoret:
 Geo:HK Prohibited area P6 Kisumu:
