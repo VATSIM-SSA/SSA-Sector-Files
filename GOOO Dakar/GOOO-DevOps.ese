@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Dakar - GOOO                     ;
 ;=========================================================================================================================;
 
 
@@ -40,10 +40,7 @@ AFRS_FSS:Africa South Control:134.575:AS::AFRS:FSS:::0700:0777:S025.13.09.915:E0
 AFRW_FSS:Africa West Control:132.225:AW::AFRW:FSS:::0500:0577:N007.13.15.162:W015.03.03.829:N003.20.54.807:E003.03.57.722
 CARE_FSS:Caribbean Control East:131.500:CAE::CARE:FSS:::5500:5777
 CARI_FSS:Caribbean Control:131.300:CA::CARI:FSS:::5500:5777
-DAAA_CTR:Alger Control:127.300:DA::DAAA:CTR:::1500:1577:N027.30.00.000:W001.30.00.000:N024.00.00.000:E005.45.00.000:N032.00.00.000:E003.15.00.000:N036.30.00.000:E003.15.00.000
-DAAA_E_CTR:Alger Control:124.100:DAE:E:DAAA:CTR:::1500:1577:N027.30.00.000:W001.30.00.000:N024.00.00.000:E005.45.00.000:N030.30.00.000:E007.30.00.000
-DAAA_S_CTR:Alger Control:123.800:DAS:S:DAAA:CTR:::1500:1577:N027.30.00.000:W001.30.00.000:N024.00.00.000:E005.45.00.000
-DAAA_W_CTR:Alger Control:128.100:DAW:W:DAAA:CTR:::1500:1577:N027.30.00.000:W001.30.00.000:N024.00.00.000:E005.45.00.000:N031.00.00.000:W001.00.00.000
+DAAA_CTR:Secteur Centre:127.300:DA::DAAA:CTR:::0000:0000:N027.30.00.000:W001.30.00.000:N024.00.00.000:E005.45.00.000:N032.00.00.000:E003.15.00.000:N036.30.00.000:E003.15.00.000
 DFFF_CTR:Ouaga Control:120.300:DF::DFFF:CTR:::0000:0000
 DFOO_TWR:Bobo Tower:119.700:OOT::DFOO:TWR:::0000:0000
 DGAC_CTR:Accra Control:130.900:DG::DGAC:CTR:::2601:2677:N004.50.00.000:E000.37.00.000:N008.54.00.000:E000.24.00.000:N000.20.00.000:E001.45.00.000:S005.16.00.000:E001.45.00.000

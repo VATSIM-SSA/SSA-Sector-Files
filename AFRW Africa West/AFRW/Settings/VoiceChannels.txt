@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
@@ -35,11 +35,7 @@ AG:AFRW_B_FSS Africa West Control:130.225:novoice:AFRW_B_FSS
 AG:AFRW_FSS Africa West Control:132.225:novoice:AFRW_FSS
 AG:CARE_FSS Caribbean Control East:131.500:novoice:CARE_FSS
 AG:CARI_FSS Caribbean Control:131.300:novoice:CARI_FSS
-AG:DAAA_CTR Alger Control:127.300:novoice:DAAA_CTR
-AG:DAAA_C_CTR Alger Control:131.300:novoice:DAAA_C_CTR
-AG:DAAA_E_CTR Alger Control:124.100:novoice:DAAA_E_CTR
-AG:DAAA_S_CTR Alger Control:123.800:novoice:DAAA_S_CTR
-AG:DAAA_W_CTR Alger Control:128.100:novoice:DAAA_W_CTR
+AG:DAAA_CTR Secteur Centre:127.300:novoice:DAAA_CTR
 AG:DBBB_APP Cotonou Approach:125.900:novoice:DBBB_APP
 AG:DFFF_CTR Ouaga Control:120.300:novoice:DFFF_CTR
 AG:DGAA_APP Accra Approach:119.500:novoice:DGAA_APP

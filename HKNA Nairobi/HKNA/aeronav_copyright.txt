@@ -23,5 +23,5 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
 ;=========================================================================================================================;
