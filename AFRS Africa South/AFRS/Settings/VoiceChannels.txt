@@ -23,8 +23,73 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRS     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRS_FSS Africa South Control:134.575:novoice:AFRS_FSS
+AG:FABL_APP Bloemfontein Approach:124.300:novoice:FABL_APP
+AG:FACA_CTR Cape Town Area:125.100:novoice:FACA_CTR
+AG:FACA_E_CTR Cape Town Area East:124.700:novoice:FACA_E_CTR
+AG:FACT_APP Cape Town Approach:119.700:novoice:FACT_APP
+AG:FACT_F_APP Cape Town Director:124.350:novoice:FACT_F_APP
+AG:FAEL_APP East London Approach:120.100:novoice:FAEL_APP
+AG:FAGG_APP George Approach:128.200:novoice:FAGG_APP
+AG:FAHS_APP Hoedspruit Approach:126.400:novoice:FAHS_APP
+AG:FAHS_I_CTR Lowveld Info:119.000:novoice:FAHS_I_CTR
+AG:FAJA_CTR Johannesburg Area:134.400:novoice:FAJA_CTR
+AG:FAJA_C_CTR Johannesburg Area Central:120.300:novoice:FAJA_C_CTR
+AG:FAJA_E_CTR Johannesburg Area East:129.100:novoice:FAJA_E_CTR
+AG:FAJA_NW_CTR Johannesburg Area North West:126.700:novoice:FAJA_NW_CTR
+AG:FAJA_SE_CTR Johannesburg Area South East:132.150:novoice:FAJA_SE_CTR
+AG:FAJA_SW_CTR Johannesburg Area South West:128.300:novoice:FAJA_SW_CTR
+AG:FAJA_W_CTR Johannesburg Area West:118.550:novoice:FAJA_W_CTR
+AG:FAKM_APP Kimberley Approach:119.400:novoice:FAKM_APP
+AG:FAKN_APP Kruger Approach:119.200:novoice:FAKN_APP
+AG:FAKN_I_APP Kruger Radio:130.350:novoice:FAKN_I_APP
+AG:FALE_APP Durban Approach:125.750:novoice:FALE_APP
+AG:FALE_I_APP Durban Radio:124.200:novoice:FALE_I_APP
+AG:FALM_APP Makhado Approach:121.200:novoice:FALM_APP
+AG:FAOB_APP Overberg Approach:119.800:novoice:FAOB_APP
+AG:FAOR_APP Johannesburg Radar:124.500:novoice:FAOR_APP
+AG:FAOR_F_APP Johannesburg Director:121.400:novoice:FAOR_F_APP
+AG:FAOR_V_APP Johannesburg Radio:135.000:novoice:FAOR_V_APP
+AG:FAOR_W_APP Johannesburg WEST Radar:123.700:novoice:FAOR_W_APP
+AG:FAPE_APP Port Elizabeth Approach:120.400:novoice:FAPE_APP
+AG:FASA_CTR South Africa Control:128.325:novoice:FASA_CTR
+AG:FBGR_CTR Gaborone Center:126.100:novoice:FBGR_CTR
+AG:FBKE_APP Kasane Approach:127.200:novoice:FBKE_APP
+AG:FBMN_APP Maun Approach:126.000:novoice:FBMN_APP
+AG:FBPM_APP Francistown Approach:125.700:novoice:FBPM_APP
+AG:FBSK_APP Gaborone Approach:128.200:novoice:FBSK_APP
+AG:FDSK_APP Sikhuphe Approach:128.000:novoice:FDSK_APP
+AG:FIMM_CTR Mauritius Centre:129.300:novoice:FIMM_CTR
+AG:FIMP_APP Mauritius Approach:119.100:novoice:FIMP_APP
+AG:FMEE_APP Roland Garros Approach:119.400:novoice:FMEE_APP
+AG:FMMI_APP Antananarivo Approach:125.700:novoice:FMMI_APP
+AG:FMMM_CTR Antananarivo Control:128.900:novoice:FMMM_CTR
+AG:FQBE_CTR Beira Control:127.700:novoice:FQBE_CTR
+AG:FQBE_S_CTR Maputo Control:127.300:novoice:FQBE_S_CTR
+AG:FQBR_APP Beira Approach:119.700:novoice:FQBR_APP
+AG:FQMA_APP Maputo Approach:121.300:novoice:FQMA_APP
+AG:FQNC_APP Nacala Approach:119.100:novoice:FQNC_APP
+AG:FQNP_APP Nampula Approach:128.800:novoice:FQNP_APP
+AG:FQPB_APP Pemba Approach:118.400:novoice:FQPB_APP
+AG:FQQL_APP Quelimane Approach:118.300:novoice:FQQL_APP
+AG:FQTT_APP Tete Approach:118.600:novoice:FQTT_APP
+AG:FQVL_APP Vilankulo Approach:118.300:novoice:FQVL_APP
+AG:FVCZ_APP Buffalo Approach:122.600:novoice:FVCZ_APP
+AG:FVFA_APP Falls Approach:121.100:novoice:FVFA_APP
+AG:FVHF_CTR Harare East Control:131.500:novoice:FVHF_CTR
+AG:FVHF_W_CTR Harare West Control:129.500:novoice:FVHF_W_CTR
+AG:FVJN_APP Nkomo Approach:119.700:novoice:FVJN_APP
+AG:FVKB_APP Kariba Approach:125.300:novoice:FVKB_APP
+AG:FVMV_APP Masvingo Approach:119.600:novoice:FVMV_APP
+AG:FVRG_APP Harare Approach:119.100:novoice:FVRG_APP
+AG:FVTL_APP Thornhill Approach:126.500:novoice:FVTL_APP
+AG:FVWN_APP Park Approach:119.900:novoice:FVWN_APP
+AG:FXMM_APP Maseru Approach:120.700:novoice:FXMM_APP
+AG:FYOA_APP Ondangwa Approach/Tower:125.600:novoice:FYOA_APP
+AG:FYWB_APP Walvis Bay Approach/Tower:122.500:novoice:FYWB_APP
+AG:FYWH_APP Windhoek Approach:120.500:novoice:FYWH_APP
+AG:FYWH_CTR Windhoek Radar:124.700:novoice:FYWH_CTR
 END

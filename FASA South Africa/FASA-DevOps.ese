@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2304/1  ++  Valid period: 20/APR/2023 - 17/MAY/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 
 
@@ -161,7 +161,6 @@ STAR:FACT:01:ERDAS1A:ERDAS D30 R065H FACT
 STAR:FACT:01:GETEN1A:GETEN 40D CTV9 FACT
 STAR:FACT:19:ASPIK1B:ASPIK CTV80 FACT
 STAR:FACT:19:ERDAS1B:ERDAS D30 11CTV FACT
-STAR:FACT:19:EVUKI1B:EVUKI 20CTV 11KSI
 STAR:FACT:19:GETEN1B:GETEN 30CTV CTV8 FACT
 STAR:FAGG:11:AXEMU1A:AXEMU EGMEP
 STAR:FAGG:11:GABGO1A:GABGO XALIN GG362 GG364 UTELU

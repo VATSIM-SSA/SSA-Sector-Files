@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Entebbe - HUEC                   ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Entebbe - HUEC                   ;
 ;=========================================================================================================================;
 
 
@@ -67,22 +67,6 @@ HUSO_TWR:Soroti Tower:118.300:SOT::HUSO:TWR:::3300:3477
 ;======================================================== ~~  ~~ =========================================================;
 ;================================================ ~~ SID&STAR-Section ~~ =================================================;
 [SIDSSTARS]
-STAR:HUEN:17:APNAD1A:APNAD EN123 UTAXI UVDEK AVULI IBSET
-STAR:HUEN:17:BETAF1A:BETAF EN120 EN121 ETKUL AVULI IBSET
-STAR:HUEN:17:IMPOG1A:IMPOG ETKUL AVULI IBSET
-STAR:HUEN:17:IMVIP1A:IMVIP EN114 ETKUL AVULI IBSET
-STAR:HUEN:17:MANDY1A:MANDY UTAXI UVDEK AVULI IBSET
-STAR:HUEN:17:OKSUM1A:OKSUM EN115 EN116 ETKUL AVULI IBSET
-STAR:HUEN:17:SEZIM1A:SEZIM AVEXO AVULI IBSET
-STAR:HUEN:17:UVBAX1A:UVBAX AVEXO AVULI IBSET
-STAR:HUEN:35:APNAD1C:APNAD EN314 AVAMA IBKUD UTSAS
-STAR:HUEN:35:BETAF1C:BETAF OKPET EPMIS IBKUD UTSAS
-STAR:HUEN:35:IMPOG1C:IMPOG EN312 EPMIS IBKUD UTSAS
-STAR:HUEN:35:IMVIP1C:IMVIP EN310 EN311 EPMIS IBKUD UTSAS
-STAR:HUEN:35:MANDY1C:MANDY EN317 GESEM IBKUD UTSAS
-STAR:HUEN:35:OKSUM1C:OKSUM OKPET EPMIS IBKUD UTSAS
-STAR:HUEN:35:SEZIM1C:SEZIM ETGIN GESEM IBKUD UTSAS
-STAR:HUEN:35:UVBAX1C:UVBAX EN315 ETGIN GESEM IBKUD UTSAS
 STAR:HUEN:17:APNAD1AxILSxZ:APNAD EN123 UTAXI UVDEK AVULI EXEDO
 STAR:HUEN:17:BETAF1AxILSxZ:BETAF EN120 EN121 ETKUL AVULI EXEDO
 STAR:HUEN:17:IMPOG1AxILSxZ:IMPOG ETKUL AVULI EXEDO

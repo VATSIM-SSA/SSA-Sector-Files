@@ -23,11 +23,11 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Windhoek - FYWH                  ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Windhoek - FYWH                  ;
 ;=========================================================================================================================;
 
 [INFO]
-VATSSA Windhoek 2306/1-1 FYWH 20230625
+VATSSA Windhoek 2307/1-1 FYWH 20230803
 AERO_NAV
 ZZZZ
 S022.00.00.000
@@ -256,6 +256,7 @@ EKBON S028.18.34.941 E017.37.06.301
 EKBOT S024.16.04.850 E022.43.48.910
 EP08  S019.58.46.160 E023.24.54.471
 EP26  S019.58.11.258 E023.26.59.589
+EP35  S028.25.12.759 E021.16.22.641
 EPMAG S017.34.59.001 E023.41.12.998
 EPMAX S024.49.50.160 E023.36.08.999
 EPMED S019.12.53.999 E022.42.36.000

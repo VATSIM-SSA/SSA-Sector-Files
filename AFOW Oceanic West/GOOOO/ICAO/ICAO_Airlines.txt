@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
 ;=========================================================================================================================;
 AAB	ABELAG AVIATION	ABELAG	BELGIUM
 AAC	ARMY AIR CORPS	ARMYAIR	UNITED KINGDOM
@@ -3375,6 +3375,7 @@ LHG	AVIATION LEADER GENERAL AVIATION CO., LTD	AIR LEADER	CHINA
 LHK	LAHAK	LAHAK	ISRAEL
 LHN	EXPRESS ONE INTERNATIONAL, INC. (DALLAS, TX)	LONGHORN	UNITED STATES
 LHT	LUFTHANSA TECHNIK AG, HAMBURG	LUFTHANSA TECHNIK	GERMANY
+LHX	CITY AIRLINES GMBH	CITYAIR	GERMANY
 LIA	LEEWARD ISLANDS AIR TRANSPORT (1974) LTD.	LIAT	ANTIGUA AND BARBUDA
 LIB	POLIZEIHUBSCHRAUBERSTAFFEL HAMBURG, HAMBURG	LIBELLE	GERMANY
 LIC	ASIA SKY LINES	ASIASLINE	TAJIKISTAN
