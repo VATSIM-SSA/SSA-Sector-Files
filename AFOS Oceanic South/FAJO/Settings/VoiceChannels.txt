@@ -23,9 +23,10 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
+;  AIRAC 2311/1  ++  Valid period: 02/NOV/2023 - 29/NOV/2023  ++  File-Publisher: VATSSA Johannesburg Oceanic - FAJO      ;
 ;=========================================================================================================================;
 VOICE
+AG:AT98_I_FSS Wolfs Fang Information:119.500:novoice:AT98_I_FSS
 AG:FAJO_1_FSS Johannesburg Oceanic:120.650:novoice:FAJO_1_FSS
 AG:FAJO_2_FSS Johannesburg Oceanic:120.450:novoice:FAJO_2_FSS
 AG:FAJO_3_FSS Johannesburg Oceanic:120.900:novoice:FAJO_3_FSS
