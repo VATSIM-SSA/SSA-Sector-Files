@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
+;  AIRAC 2312/1  ++  Valid period: 30/NOV/2023 - 27/DEC/2023  ++  File-Publisher: VATSSA Nairobi - HKNA                   ;
 ;=========================================================================================================================;
 VOICE
 AG:HKEL_APP Eldoret Approach:119.400:novoice:HKEL_APP
@@ -44,6 +44,7 @@ AG:HKMO_ATIS:126.300:novoice:HKMO_ATIS
 AG:HKMO_GND Mombasa Ground:121.600:novoice:HKMO_GND
 AG:HKMO_TWR Mombasa Tower:118.600:novoice:HKMO_TWR
 AG:HKNA_CTR Nairobi Control:121.300:novoice:HKNA_CTR
+AG:HKNA_S_CTR Nairobi South:125.300:novoice:HKNA_S_CTR
 AG:HKNL_APP Nanyuki Approach:124.300:novoice:HKNL_APP
 AG:HKNW_GND Wilson Ground:121.900:novoice:HKNW_GND
 AG:HKNW_TWR Wilson Tower:118.100:novoice:HKNW_TWR

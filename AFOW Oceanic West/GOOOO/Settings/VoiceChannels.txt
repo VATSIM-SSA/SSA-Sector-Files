@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
+;  AIRAC 2312/1  ++  Valid period: 30/NOV/2023 - 27/DEC/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
 ;=========================================================================================================================;
 VOICE
 AG:DGAO_CTR Accra Radio:136.650:novoice:DGAO_CTR

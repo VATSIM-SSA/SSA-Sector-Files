@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2312/1  ++  Valid period: 30/NOV/2023 - 27/DEC/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 
 
@@ -279,8 +279,6 @@ SID:FAOR:21L:RAGUL3B:JSV09 RAGUL
 SID:FAOR:21L:VASUR3B:JSV09 LIV VASUR
 SID:FASS:17:XASMI:UNGEX XASMI IMSUL
 SID:FASS:35:XATKU:IXEPI XATKU IMSUL
-SID:FATW:18:NEXUP1A:TW001 NEXUP
-SID:FATW:36:NEXUP1B:TW002 NEXUP
 SID:FDSK:02:ALENI:ALENI
 SID:FDSK:02:DUKRA:DUKRA
 SID:FDSK:02:GERAX:GERAX

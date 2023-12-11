@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
+;  AIRAC 2312/1  ++  Valid period: 30/NOV/2023 - 27/DEC/2023  ++  File-Publisher: VATSSA Africa Control Centre - AFRW     ;
 ;=========================================================================================================================;
 VOICE
 AG:AFRC_FSS Africa Central Control:129.075:novoice:AFRC_FSS
@@ -35,7 +35,7 @@ AG:AFRW_B_FSS Africa West Control:130.225:novoice:AFRW_B_FSS
 AG:AFRW_FSS Africa West Control:132.225:novoice:AFRW_FSS
 AG:CARE_FSS Caribbean Control East:131.500:novoice:CARE_FSS
 AG:CARI_FSS Caribbean Control:131.300:novoice:CARI_FSS
-AG:DAAA_CTR Secteur Centre:127.300:novoice:DAAA_CTR
+AG:DAAA_CTR Algiers Control:127.300:novoice:DAAA_CTR
 AG:DBBB_APP Cotonou Approach:125.900:novoice:DBBB_APP
 AG:DFFF_CTR Ouaga Control:120.300:novoice:DFFF_CTR
 AG:DGAA_APP Accra Approach:119.500:novoice:DGAA_APP
@@ -76,11 +76,10 @@ AG:FZZA_E_CTR Kisangani Control:130.100:novoice:FZZA_E_CTR
 AG:FZZA_S_CTR Lubumbashi Control:128.100:novoice:FZZA_S_CTR
 AG:GAAA_CTR Bamako Control:125.400:novoice:GAAA_CTR
 AG:GBYD_APP Banjul Approach:121.300:novoice:GBYD_APP
-AG:GCCC_CTR Canarias Control:127.900:novoice:GCCC_CTR
-AG:GCCC_INB_CTR Canarias Control:126.500:novoice:GCCC_INB_CTR
+AG:GCCC_INB_CTR Canarias Control:126.100:novoice:GCCC_INB_CTR
 AG:GCCC_R6_CTR Canarias Control:123.650:novoice:GCCC_R6_CTR
 AG:GCCC_RES_CTR Canarias Control:129.100:novoice:GCCC_RES_CTR
-AG:GCCC_RW3_CTR Canarias Control:126.100:novoice:GCCC_RW3_CTR
+AG:GCCC_RW3_CTR Canarias Control:126.500:novoice:GCCC_RW3_CTR
 AG:GCCO_CTR Canarias Radio:130.950:novoice:GCCO_CTR
 AG:GFLL_APP Freetown Approach:119.100:novoice:GFLL_APP
 AG:GGOV_APP Bissau Approach:123.900:novoice:GGOV_APP
