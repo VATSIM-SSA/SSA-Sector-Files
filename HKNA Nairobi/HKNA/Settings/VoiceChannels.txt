@@ -44,6 +44,7 @@ AG:HKMO_ATIS:126.300:novoice:HKMO_ATIS
 AG:HKMO_GND Mombasa Ground:121.600:novoice:HKMO_GND
 AG:HKMO_TWR Mombasa Tower:118.600:novoice:HKMO_TWR
 AG:HKNA_CTR Nairobi Control:121.300:novoice:HKNA_CTR
+AG:HKNA_S_CTR Nairobi South:125.300:novoice:HKNA_S_CTR
 AG:HKNL_APP Nanyuki Approach:124.300:novoice:HKNL_APP
 AG:HKNW_GND Wilson Ground:121.900:novoice:HKNW_GND
 AG:HKNW_TWR Wilson Tower:118.100:novoice:HKNW_TWR
