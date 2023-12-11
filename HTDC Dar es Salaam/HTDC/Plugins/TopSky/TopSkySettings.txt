@@ -165,7 +165,7 @@ Window_WxMsgs_HighlightNew=1
 Window_QNHTL=1,1728,250
 Window_QNHTL_HighlightChanges=1
 
-Window_LFUNCFP=0,1728,420
+Window_LFUNCFP=1,1728,420
 
 Window_CPDLC_Setting=1,1300,650
 Window_ATCmsg=1,1460,650,438,120
