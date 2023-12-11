@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
+;  AIRAC 2312/1  ++  Valid period: 30/NOV/2023 - 27/DEC/2023  ++  File-Publisher: VATSSA Dakar Oceanic - GOOOO            ;
 ;=========================================================================================================================;
 
 
@@ -1979,11 +1979,11 @@ DISPLAY:SOOO·SOOO_HIGH·245·600:SOOO·SOOO_HIGH·245·600:SBAO·SBAO_S1B·245·600
 
 SECTORLINE:106
 COORD:N007.01.02.000:W034.06.11.000
-COORD:S000.29.00.030:W037.57.00.011
+COORD:S000.29.30.000:W037.57.11.000
 COORD:S000.00.02.000:W038.59.50.000
-COORD:N000.30.12.600:W039.55.59.400
-COORD:N000.33.51.000:W040.03.01.000
-COORD:N000.55.39.000:W040.46.45.000
+COORD:N000.00.00.000:W039.00.00.000
+COORD:N000.30.13.000:W039.55.59.000
+COORD:N000.55.49.000:W040.46.56.000
 COORD:N005.44.24.302:W038.36.24.959
 COORD:N006.35.17.000:W037.04.36.000
 
