@@ -4,8 +4,8 @@
 
 // GroundRadar Version 1.5 Stable
 
-// Version v0.5
-// Update Date 30/06/2022
+// Version v0.6
+// Update Date 12/12/2023
 
 
 // ##################################################################
@@ -163,11 +163,11 @@ List_Outbound_ExpiryTime=600
 
 
 // ##################################################################
-//                 #7B TIMERS | TTT v0.1
+//                 #7B TIMERS | TTT v0.2
 // ##################################################################
 
 List_Inbound_DefPos=1100,150
-List_Inbound_DTT=0
+List_Inbound_DTT=1
 List_Inbound_TYPE=1
 List_Inbound_WTC=1
 List_Inbound_WTC_Type=2
@@ -217,6 +217,8 @@ Window_APP_AltFilter=6122
 AppPath=DNAA:DNAA 04:N008.59.36.398:E007.15.13.460:035:R:1087:3.0
 AppPath=DNAA:DNAA 22:N009.01.12.529:E007.16.21.399:215:L:1121:3.0
 
+List_Inbound=*,2,1100,150
+
 [DNJO]
 Airport_Elevation=4229
 Airport_Radius=3
@@ -228,6 +230,8 @@ Window_APP_Extensions=1
 Window_APP_AltFilter=9229
 
 AppPath=DNJO:DNJO 10:N009.38.27.808:E008.51.19.641:099:R:4227:3.0
+
+List_Inbound=*,2,1100,150
 
 [DNMM]
 Airport_Elevation=138
@@ -241,6 +245,8 @@ Window_APP_AltFilter=5000
 
 AppPath=DNMM:DNMM 18R:N006.35.16.018:E003.18.47.271:181:L:65:3.0
 AppPath=DNMM:DNMM 18L:N006.35.49.250:E003.19.43.791:181:L:138:3.0
+
+List_Inbound=*,2,1100,150
 
 [DNKN]
 Airport_Elevation=1562
@@ -257,6 +263,8 @@ Window_APW_MaxDist=15
 AppPath=DNKN:DNKN 06:N012.02.30.69:E008.30.25.37:062:R:1562:3.0
 AppPath=DNKN:DNKN 24:N012.03.21.05:E008.31.58.00:242:L:1562:3.0
 
+List_Inbound=*,2,1100,150
+
 [DNPO]
 Airport_Elevation=91
 Airport_Radius=3
@@ -269,6 +277,8 @@ Window_APP_AltFilter=5000
 
 Window_APW_MaxDist=15
 
+List_Inbound=*,2,1100,150
+
 [DNYO]
 Airport_Elevation=613
 Airport_Radius=3
@@ -280,6 +290,9 @@ Window_APP_Extensions=10
 Window_APP_AltFilter=5000
 
 Window_APW_MaxDist=15
+
+List_Inbound=*,2,1100,150
+
 
 // ##################################################################
 //                 THE END
