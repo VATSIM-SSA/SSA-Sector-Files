@@ -40,12 +40,12 @@ m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://uniatis.net/atis.php?arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&apptype=ILS&info=$atiscode&metar=$metar($atisairport)
 m_DoNotUseAcceptedColor:0
 m_DoNotUseRefusedColor:0
-SET_TransparentAcListBackground:0
+SET_TransparentAcListBackground:1
 m_PutIncomingCoordinationToFirst:1
 m_AutoProxyMode:1
 m_TransparentAcListSelectedBackground:0
-m_TransparentDetailedTagBackground:1
-m_TransparentDetailedTagSelectedItemBackground:1
+m_TransparentDetailedTagBackground:0
+m_TransparentDetailedTagSelectedItemBackground:0
 m_AllowDirectBeyondCOPX:0
 m_ShowAtisLetterInMETAR:1
 m_ShowCLAMWarnings:0
@@ -113,7 +113,7 @@ m_STCA_ShowCFL:1
 m_STCA_PlaySoundOnCFL:0
 m_STCA_PlaySoundOnTrackedOnly:1
 m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
-m_DontAutoCorrelateDuplicated:0
+m_DontAutoCorrelateDuplicated:1
 m_AcceptPilotSquawkForCorrelation:1
 m_MTCA_Floor:10000
 m_MTCA_AltitudeDifference:2000
@@ -123,7 +123,7 @@ m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
 m_RubberHeadingRounding:5
 SqawkForSModeTransponder:
-m_TransparentTagBackground:1
+m_TransparentTagBackground:0
 m_UseArrDepTagBgColor:1
 SET_MTCA_Show:1
 m_TaxiOutTime:7
