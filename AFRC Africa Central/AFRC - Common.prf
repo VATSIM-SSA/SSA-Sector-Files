@@ -19,7 +19,7 @@ Settings	airports	\AFRC\ICAO\ICAO_Airports.txt
 Settings	aircraft	\AFRC\ICAO\ICAO_Aircraft.txt
 Settings	airways	\AFRC\NavData\airway.txt
 Settings	airportcoords	\AFRC\NavData\icao.txt
-Settings	sector	\AFRC-Install-Package_20231211144419-231201-0001.sct
+Settings	sector	\AFRC-Install-Package_20240222231209-240201-0001.sct
 RecentFiles	Recent1	\AFRC\ASR\AFRC.asr
 ASRFastKeys	1	\AFRC\ASR\AFRC.asr
 Plugins	Plugin0	\AFRC\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
