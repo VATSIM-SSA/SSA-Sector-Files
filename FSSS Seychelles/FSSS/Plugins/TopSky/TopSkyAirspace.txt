@@ -20,11 +20,16 @@ LEVELS:FSIA:20,22,25,35,45
 // APPLINES
 APPLINE:FSIA:13:145:OLIVA
 
-// FSSS | SEYCHELLES
+
+// ##################################################################
+//             	INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+// FSIA | SEYCHELLES INTL
 
 CFL_FRUL:I
 CFL_DRWY:13:31
-CFL_ADEP:FSSS
+CFL_ADEP:FSIA
 
 // FL 60
 INITIAL_CFL:6000

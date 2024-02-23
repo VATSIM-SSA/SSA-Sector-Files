@@ -23,6 +23,36 @@ QNHTL:HTZA:40
 LEVELS:HTDA:18,19,20,22,23
 LEVELS:HTKJ:46,47,50,51,55,60,61,65,69,70
 
+
+
+
+// ##################################################################
+//                 HR RWANDA
+// ##################################################################
+
+// TL Transition Level
+QNHTL:HRYR:110
+
+// LEVELS
+LEVELS:ICAO:17,20,22,23,25,28,30
+
+
+
+// ##################################################################
+//                 HB BURUNDI
+// ##################################################################
+
+// TL Transition Level
+QNHTL:HBBA:100
+
+// LEVELS
+LEVELS:ICAO:17,20,22,23,25,28,30
+
+
+// ##################################################################
+//             	INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
 // HTDA | DAR ES SALAAM
 CFL_FRUL:I
 CFL_DRWY:05:23
@@ -63,38 +93,23 @@ CFL_SID:ATBAL1A:ATBAL1E:AVATU1A:AVATU1E:EVATO1A:EVATO1E
 
 // FL 220
 INITIAL_CFL:22000
-CFL_SID:GABSO1A:GABSO1B:GABSO1E:GEREN1A:GEREN1E:UTATA1A:UTATA1E:none
-// ##################################################################
-//                 HR RWANDA
-// ##################################################################
+CFL_SID:GABSO1A:GABSO1B:GABSO1E:GEREN1A:GEREN1E:UTATA1A:UTATA1E
 
-// TL Transition Level
-QNHTL:HRYR:110
-
-// LEVELS
-LEVELS:ICAO:17,20,22,23,25,28,30
 
 // HRYR | KIGALI
 CFL_FRUL:I
 CFL_DRWY:10:28
 // FL 110
 INITIAL_CFL:11000
-CFL_SID:ALSAR1D:BOSAD1D:DATAN1D:EGREK1D:GAVDA1D:KAROS1D:RANAG1D:none
-// ##################################################################
-//                 HB BURUNDI
-// ##################################################################
+CFL_SID:ALSAR1D:BOSAD1D:DATAN1D:EGREK1D:GAVDA1D:KAROS1D:RANAG1D
 
-// TL Transition Level
-QNHTL:HBBA:100
-
-// LEVELS
-LEVELS:ICAO:17,20,22,23,25,28,30
 
 // HBBA | BUJUMBURA
 CFL_FRUL:I
 CFL_DRWY:17:35
 INITIAL_CFL:13000
-CFL_SID:none
+//CFL_SID
+
 // ##################################################################
 //                 END
 // ##################################################################

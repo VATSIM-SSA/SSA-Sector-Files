@@ -21,13 +21,20 @@ LEVELS:HUEN:58,77
 CFL_FRUL:I
 CFL_DRWY:17:35
 
-// FL 160
-INITIAL_CFL:16000
-CFL_SID:PASAN1B:APNAD1B:MANDY1B:MANDY1D:SEZIM1B:UVBAX1B:SEZIM1D:UVBAX1D:none
 
-// FL 170
+// ##################################################################
+//                 INITIAL CLIMB ALTITUDES v0.1
+// ##################################################################
+
+
+// HUEN | ENTEBBE INTL
+INITIAL_CFL:16000
+CFL_ADEP:HUEN
+CFL_SID:PASAN1B:APNAD1B:MANDY1B:MANDY1D:SEZIM1B:UVBAX1B:SEZIM1D:UVBAX1D
 INITIAL_CFL:17000
 CFL_SID:IMVIP1B:IMVIP1D:PASAN1D:BETAF1B:OKSUM1B:BETAF1D:OKSUM1D:APNAD1D
+
+
 // ##################################################################
 //                 THE END
 // ##################################################################
