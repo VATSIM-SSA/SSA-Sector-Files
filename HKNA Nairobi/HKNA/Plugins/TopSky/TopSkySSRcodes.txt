@@ -2,8 +2,8 @@
 //                 VATSSA | FIR HKNA | TopSky | SSRCodes
 // ##################################################################
 
-// Version v0.3
-// Update Date 17/05/2023
+// Version v0.4
+// Update Date 23/02/2024
 
 
 // ##################################################################
@@ -45,7 +45,6 @@ RANGE:5400:5477
 PRIORITY:2
 ADEP:HK
 ADES:HK
-IFR
 
 // HK INTERNATIONAL OUTBOUND
 RANGE:0500:0577
