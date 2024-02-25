@@ -23,11 +23,15 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
+;  AIRAC 2402/1  ++  Valid period: 22/FEB/2024 - 20/MAR/2024  ++  File-Publisher: VATSSA Dar es Salaam - HTDC             ;
 ;=========================================================================================================================;
 VOICE
 AG:HBBA_APP Bujumbura Approach:119.700:novoice:HBBA_APP
 AG:HBBA_TWR Bujumbura Tower:118.100:novoice:HBBA_TWR
+AG:HKJK_APP Nairobi Radar:122.300:novoice:HKJK_APP
+AG:HKMO_APP Mombasa Radar:122.700:novoice:HKMO_APP
+AG:HKNA_CTR Nairobi Control:121.300:novoice:HKNA_CTR
+AG:HKNA_S_CTR Nairobi South:125.300:novoice:HKNA_S_CTR
 AG:HRYG_TWR Gisenyl Tower:121.800:novoice:HRYG_TWR
 AG:HRYR_APP Kigali Approach:124.300:novoice:HRYR_APP
 AG:HRYR_ATIS:128.700:novoice:HRYR_ATIS

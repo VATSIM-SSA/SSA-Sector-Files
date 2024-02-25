@@ -2,8 +2,64 @@
 //                 VATSSA | FIR DNKK | TopSky | MSAW
 // ##################################################################
 
-// Version v0.4
-// Update Date 17/08/2022
+// Version v0.5
+// Update Date 12/12/2023
+
+
+// ##################################################################
+//                 AD ARP ZERO MSA
+// ##################################################################
+
+// DNAA | ABUJA NNAMDI AZIKIWE INTL
+C:N009.00.24.001:E007.15.47.001:5:0
+
+// DNBE | BENIN
+C:N006.18.59.511:E005.35.56.198:5:0
+
+// DNCA | CALABAR MARGARET EKPO
+C:N004.58.33.769:E008.20.50.280:5:0
+
+// DNEN | ENUGU AKANU IBIAM INTL
+C:N006.28.24.740:E007.33.32.158:5:0
+
+// DNGO | GOMBE
+C:N010.17.53.339:E010.53.56.580:5:0
+
+// DNIL | ILORIN
+C:N008.26.24.421:E004.29.38.288:5:0
+
+// DNIM | OWERRI SAM MBAKWE
+C:N005.25.37.768:E007.12.21.690:5:0
+
+// DNJO | JOS YAKUBU GOWON
+C:N009.38.22.999:E008.52.09.001:5:0
+
+// DNKA | KADUNA NEW KADUNA
+C:N010.41.45.128:E007.19.12.529:5:0
+
+// DNKN | KANO MALLAM AMINU KANO INTL
+C:N012.02.53.001:E008.31.24.999:5:0
+
+// DNKT | KATSINA
+C:N013.00.26.758:E007.39.38.199:5:0
+
+// DNMA | MAIDUGURI
+C:N011.51.18.878:E013.04.52.629:5:0
+
+// DNMM | LAGOS MURTALA MUHAMMED INTL
+C:N006.34.43.129:E003.19.21.100:5:0
+
+// DNMN | MINNA
+C:N009.39.08.398:E006.27.44.398:5:0
+
+// DNPO | PORT HARCOURT INTL
+C:N005.00.55.648:E006.56.58.318:5:0
+
+// DNSO | SOKOTO SADDIQ ABUBAKAR ILL INTL
+C:N012.54.57.229:E005.12.24.829:5:0
+
+// DNYO | YOLA
+C:N009.15.27.709:E012.25.49.501:5:0
 
 
 // ##################################################################

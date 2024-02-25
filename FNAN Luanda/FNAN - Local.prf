@@ -53,7 +53,7 @@ Plugins	Plugin7Display1	Standard ES radar screen
 Plugins	Plugin8	\FNAN\Plugins\vFPC\VFPC.dll
 Plugins	Plugin8Display0	Ground Radar display
 Plugins	Plugin8Display1	Standard ES radar screen
-Settings	sector	\FNAN-Package_20230803072609-230701-0001.sct
+Settings	sector	\FNAN-Package_20240222224950-240201-0001.sct
 Plugins	Plugin0	\FNAN\Plugins\AfVEuroScopeBridge\AfvEuroScopeBridge.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
