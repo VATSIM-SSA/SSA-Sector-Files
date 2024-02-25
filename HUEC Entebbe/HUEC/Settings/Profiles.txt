@@ -11,6 +11,10 @@ PROFILE:HUEN_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
+PROFILE:HUEN_GND:10:4
+ATIS2:$radioname
+ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
 PROFILE:HUSO_TWR:50:4
 ATIS2:$radioname
 ATIS3:Welcome to Uganda, part of Sub-Saharan Africa Division (SSA)

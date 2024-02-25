@@ -23,5 +23,5 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA Windhoek - FYWH                  ;
+;  AIRAC 2402/1  ++  Valid period: 22/FEB/2024 - 20/MAR/2024  ++  File-Publisher: VATSSA Windhoek - FYWH                  ;
 ;=========================================================================================================================;

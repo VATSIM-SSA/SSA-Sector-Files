@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: VATSSA South Africa - FASA              ;
+;  AIRAC 2402/1  ++  Valid period: 22/FEB/2024 - 20/MAR/2024  ++  File-Publisher: VATSSA South Africa - FASA              ;
 ;=========================================================================================================================;
 VOICE
 AG:FABE_TWR Bhisho Tower:120.600:novoice:FABE_TWR
@@ -36,7 +36,7 @@ AG:FACA_E_CTR Cape Town Area East:124.700:novoice:FACA_E_CTR
 AG:FACT_APP Cape Town Approach:119.700:novoice:FACT_APP
 AG:FACT_ATIS:127.000:novoice:FACT_ATIS
 AG:FACT_DEL Cape Town Delivery:122.100:novoice:FACT_DEL
-AG:FACT_E_GND Cape Town Radio:120.700:novoice:FACT_E_GND
+AG:FACT_E_GND Cape Town Ground:120.700:novoice:FACT_E_GND
 AG:FACT_F_APP Cape Town Director:124.350:novoice:FACT_F_APP
 AG:FACT_GND Cape Town Ground:121.900:novoice:FACT_GND
 AG:FACT_P_DEL Cape Town Planner:119.100:novoice:FACT_P_DEL
@@ -108,7 +108,8 @@ AG:FARB_TWR Richards Bay Tower:118.900:novoice:FARB_TWR
 AG:FASA_CTR South Africa Control:128.325:novoice:FASA_CTR
 AG:FASK_TWR Swartkop Tower:123.200:novoice:FASK_TWR
 AG:FASZ_I_TWR Skukuza Radio:119.000:novoice:FASZ_I_TWR
-AG:FAUP_TWR Upington Tower:121.300:novoice:FAUP_TWR
+AG:FAUP_A_GND UPINGTON Apron:122.650:novoice:FAUP_A_GND
+AG:FAUP_TWR UPINGTON Tower:121.300:novoice:FAUP_TWR
 AG:FAUT_TWR Mthatha Tower:121.300:novoice:FAUT_TWR
 AG:FAVG_TWR Virgina Tower:120.600:novoice:FAVG_TWR
 AG:FAWB_GND Wonderboom Ground:120.600:novoice:FAWB_GND

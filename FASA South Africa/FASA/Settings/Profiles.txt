@@ -283,6 +283,10 @@ PROFILE:FARB_TWR:50:4
 ATIS2:$radioname
 ATIS3:Part of Sub-Sahara Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
+PROFILE:FAUP_A_GND:20:3
+ATIS2:$radioname
+ATIS3:Part of Sub-Sahara Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
 PROFILE:FAUP_TWR:50:4
 ATIS2:$radioname
 ATIS3:Part of Sub-Sahara Africa Division (SSA)
