@@ -71,46 +71,49 @@ Color_Text_Notes=166,166,166
 Color_Suite_Highlight=72,144,231
 Color_Heading_Vector=206,155,49
 Color_WM_Frame=255,255,255
+Color_Map_1=102,102,102
+
 
 /WEATHER RADAR *Rainview API does not cover airspace
 WXR_Brightness=30
 WXR_Gain=100
 WXR_Zoom=2
-WXR_Latitude=66
-WXR_Latitude_Max=70.3
-WXR_Latitude_Min=61
-WXR_Longitude=-30
-WXR_Longitude_Max=0
-WXR_Longitude_Min=-64
+WXR_Latitude=-25
+WXR_Latitude_Max=-23
+WXR_Latitude_Min=-28
+WXR_Longitude=28
+WXR_Longitude_Max=26
+WXR_Longitude_Min=11
 WXR_ImageSize=512
 Color_Weather_Map=9,18,20
-
-/Upper Winds and Tempreature data
-HTTP_GRIB_Server=https://nomads.ncep.noaa.gov/
-HTTP_GRIB_Page=cgi-bin/filter_gfs_1p00.pl?
-HTTP_GRIB_Latitude_Max=38
-HTTP_GRIB_Latitude_Min=20
-HTTP_GRIB_Longitude_Max=08
-HTTP_GRIB_Longitude_Min=26
 
 /AIRSPACE
 Airspace_C_Flag=FAOR,FACT,FALE,FABL,FAKN,FAKM
 Airspace_SIGMET_Areas=FAJA,FACA
 Airspace_ASSR_StartCode=4100
 Airspace_ASSR_EndCode=4137
-Areas_PreActiveTime=300
+Areas_PreActiveTime=100
 Maps_NOTAM_Activation=1
+Airspace_NOTAM_Add=FACA,FAJA
 Airspace_No_DUPE_Codes=1000,1200,2000,2200,7000,7700,7600,7500
 Label_DAPs=1
-Menu_DAPs=1
-System_RawVideo=0
+System_RawVideo=1
 System_MetarSourceVATSIM=1
 System_FPASD=1
 System_UseTSAborderHighlightColor-0
+HTTP_NOTAM_Server=https://www.notams.faa.gov/
+HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
+HTTP_NOTAM_Page_Suffix=&actionType=notamRetrievalByICAOs
+HTTP_NOTAM_Data_Prefix=<PRE>
+HTTP_NOTAM_Data_Suffix=</PRE>
+HTTP_NOTAM_Area_Sched_Text=ACTIVATED
+//HTTP_NOTAM_Area_Sched_Debug
+
 
 /Areas
 Areas_Label_Levels=1
 Areas_Altitude_Filtering=1
+Areas_NOTAM_Activation=1
 
 /AIW
 AIW=1
@@ -172,21 +175,22 @@ Label_AHDG_ShowExtra=0
 Label_ASP_Digits=2
 Label_CFL_DefaultValue=1
 Label_SI_ShowFreq=1
-Label_SI_FreqTime=1
+Label_SI_FreqTime=5
 Label_AFL_Buffer=300
 Track_PSR_Filter_GS=50
 Label_DAPs=1
 Label_DAPs_Prefix=@
 Label_GS_Digits=2
+Label_WTC_Highlight_WTC=HJ
 
 /Menus
 Menu_MaxListItems=18
 List_Holding_MaxItems=18
 System_UseAcceptedCoordColor=1
 System_UseRwyLockedColor=1
-//Color_Sid_Star_Allocation=191,185,92
 Color_Sid_Star_Allocation=15,185,15
 Color_Rwy_Locked=191,185,92
+Menu_DAPs=1
 
 
 
