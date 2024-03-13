@@ -68,7 +68,7 @@
 		</runway>
 		<runway name="21R">
 			<sid name="APDAK">
-				<alt>090</alt>
+				<alt>080</alt>
 			</sid>
 			<sid name="EGMEN1D">
 				<alt>090</alt>
@@ -216,6 +216,36 @@
 			</sid>
 			<sid name="PEV">
 				<alt>090</alt>
+			</sid>
+		</runway>
+	</apt>
+	<apt icao="FALE">
+		<runway name="06">
+			<sid name="GYV">
+				<alt>070</alt>
+			</sid>
+			<sid name="ITMIL">
+				<alt>070</alt>
+			</sid>
+			<sid name="OKTAN">
+				<alt>070</alt>
+			</sid>
+			<sid name="TUBIN">
+				<alt>070</alt>
+			</sid>
+		</runway>
+		<runway name="24">
+			<sid name="GYV">
+				<alt>070</alt>
+			</sid>
+			<sid name="ITMIL">
+				<alt>070</alt>
+			</sid>
+			<sid name="OKTAN">
+				<alt>070</alt>
+			</sid>
+			<sid name="TUBIN">
+				<alt>070</alt>
 			</sid>
 		</runway>
 	</apt>
