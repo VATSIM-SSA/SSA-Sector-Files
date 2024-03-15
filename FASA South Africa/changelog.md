@@ -3,7 +3,7 @@
 - [x] updated the TopSky Plugin to 2.5 beta 7
 - [x] The entire RSA airspace has been redrawn in TopSky maps. All the sectors are now rendered based on the ASD zoom levels, This allows us to declutter the ASD.
 - [x] All the significant RNAV waypoints are now drawn through TopSky Maps and are rendered based on ASD zoom levels. 
-- [x] All the RNAV GNSS and RNP inital fixes can now be toggled through TopSky Maps.
+- [x] All the RNAV GNSS and RNP initial fixes can now be toggled through TopSky Maps.
 - [x] The Lower levels of all the Class C Controlled airspace are displayed through TopSky Maps and are rendered based on ASD zoom level. 
 - [x] LASS (Lowveld Information Military Airspace) will now only display during the hours of service. Otherwise the Sector falls under FAJA North ACC.
 - [X] Reworked the track labels to more accurately represent the IRL TopSky ATM track Labels. More information on the function of the tags to follow in the eAIP.
