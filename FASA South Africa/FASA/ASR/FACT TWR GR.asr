@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:FASA-Package_20240222225456-240201-0001.sct
+SECTORTITLE:FASA-Package_20240222225456-240201-0001.sct
 Airports:FALW:name
 Airports:FALW:symbol
 Airports:FASH:name
@@ -95,9 +95,6 @@ Free Text:FACT Taxiways\Z:freetext
 Free Text:FAYP Taxiways\A:freetext
 Free Text:FAYP Taxiways\B:freetext
 Free Text:FAYP Taxiways\C:freetext
-Geo:FACT Groundlayout (New):
-Geo:FACT Landmark Kenilworth Racecourse:
-Geo:FACT Landmark Newlands Stadium:
 Geo:FAYP Groundlayout:
 Geo:GEO:
 Regions:FACT Groundlayout:polygon
@@ -142,7 +139,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:285.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-33.984265:18.580978:-33.959845:18.631143
+WINDOWAREA:-33.984391:18.579887:-33.959719:18.632234
 PLUGIN:Ground Radar plugin:AirportElevation:160
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FACT

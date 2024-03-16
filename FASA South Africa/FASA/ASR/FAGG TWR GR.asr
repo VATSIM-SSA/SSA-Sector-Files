@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:FASA-Package_20240222225456-240201-0001.sct
+SECTORTITLE:FASA-Package_20240222225456-240201-0001.sct
 Free Text:FAGG Apron\A1:freetext
 Free Text:FAGG Apron\A2:freetext
 Free Text:FAGG Apron\A3:freetext
@@ -54,7 +54,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:2.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-34.008481:22.365832:-33.996459:22.390527
+WINDOWAREA:-34.009431:22.361956:-33.994248:22.394169
 PLUGIN:Ground Radar plugin:AirportElevation:648
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FAGG
