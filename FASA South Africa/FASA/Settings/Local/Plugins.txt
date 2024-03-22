@@ -94,8 +94,8 @@ TopSky plugin:ACList/Traffic Management List 2/m_Resizable:1
 TopSky plugin:ACList/Traffic Management List 2/m_OrderingColumn:1
 TopSky plugin:ACList/Traffic Management List 2/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/Traffic Management List 2/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
-Euroscope timers plugin:x:2129
-Euroscope timers plugin:y:123
+Euroscope timers plugin:x:1711
+Euroscope timers plugin:y:44
 TopSky plugin:ACList/SECTOR LIST/m_Column_2:ATYP/:5:1:10028:0:0:1:TopSky plugin::
 TopSky plugin:ACList/SECTOR LIST/m_Column_3:/W:3:0:10032:0:0:1:TopSky plugin::
 TopSky plugin:ACList/SECTOR LIST/m_Column_4:C:3:1:11:32:0:1:::
