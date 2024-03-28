@@ -1,12 +1,10 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:FASA-Package_20240222225456-240201-0001.sct
+SECTORTITLE:FASA-Package_20240222225456-240201-0001.sct
 Airports:FALE:name
 Airports:FALE:symbol
-Airports:FAVG:name
-Airports:FAVG:symbol
 Free Text:FALE Stands\A1:freetext
 Free Text:FALE Stands\A10:freetext
 Free Text:FALE Stands\A11:freetext
@@ -75,27 +73,10 @@ Free Text:FALE Terrain\6500ft:freetext
 Free Text:FALE Terrain\7500ft:freetext
 Free Text:FALE Terrain\7500ft:freetext
 Geo:FA Landmark Coast NE:
-Geo:FA Landmark Lakes:
-Geo:FAJA Landmark Dams:
-Geo:FAJA Landmark Lakes (AP):
-Geo:FALE Groundlayout (New):
-Geo:FAVG Groundlayout:
 Geo:GEO:
 Regions:FALE Ground Layout:polygon
-Runways:FALE 06-24:extended centerline 1
-Runways:FALE 06-24:extended centerline 1 left base
-Runways:FALE 06-24:extended centerline 1 left ticks
-Runways:FALE 06-24:extended centerline 1 left vectoring
-Runways:FALE 06-24:extended centerline 1 right base
-Runways:FALE 06-24:extended centerline 1 right ticks
-Runways:FALE 06-24:extended centerline 1 right vectoring
-Runways:FALE 06-24:extended centerline 2
-Runways:FALE 06-24:extended centerline 2 left base
-Runways:FALE 06-24:extended centerline 2 left ticks
-Runways:FALE 06-24:extended centerline 2 left vectoring
-Runways:FALE 06-24:extended centerline 2 right base
-Runways:FALE 06-24:extended centerline 2 right ticks
-Runways:FALE 06-24:extended centerline 2 right vectoring
+Runways:FALE 06-24:centerline
+Runways:FALE 06-24:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -109,7 +90,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:52.50000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-29.618332:31.090049:-29.595008:31.137962
+WINDOWAREA:-29.620741:31.082109:-29.591284:31.144607
 PLUGIN:Ground Radar plugin:AirportElevation:310
 PLUGIN:Ground Radar plugin:AirportRadius:3
 PLUGIN:Ground Radar plugin:GroundMode:FALE

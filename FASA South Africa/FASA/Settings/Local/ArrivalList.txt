@@ -1,6 +1,6 @@
 ARR
-m_Visible:1
-m_X:1988
+m_Visible:0
+m_X:1545
 m_Y:44
 m_LineNumber:0
 m_Resizable:1

@@ -1,10 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
-Airports:FAPE:name
-Airports:FAPE:symbol
+SECTORFILE:FASA-Package_20240222225456-240201-0001.sct
+SECTORTITLE:FASA-Package_20240222225456-240201-0001.sct
 Free Text:FAPE Apron\A1:freetext
 Free Text:FAPE Apron\A10:freetext
 Free Text:FAPE Apron\A10A:freetext
@@ -38,15 +36,6 @@ Free Text:FAPE Terrain\4500:freetext
 Free Text:FAPE Terrain\5400:freetext
 Free Text:FAPE Terrain\5400:freetext
 Free Text:FAPE Terrain\7300:freetext
-Geo:FA Landmark Coast NE:
-Geo:FA Landmark Coast NW:
-Geo:FA Landmark Coast S:
-Geo:FA Landmark Lakes:
-Geo:FA Landmark National Roads:
-Geo:FAJA Landmark Dams:
-Geo:FAJA Landmark Lakes (AP):
-Geo:FAPE Groundlayout (New):
-Geo:GEO:
 Regions:FAPE Ground Layout:polygon
 Runways:FAPE 08-26:extended centerline 1
 Runways:FAPE 08-26:extended centerline 1 left base
@@ -89,7 +78,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:30.50000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-33.992225:25.595906:-33.979952:25.621118
+WINDOWAREA:-34.000527:25.581920:-33.970254:25.646150
 PLUGIN:Ground Radar plugin:AirportElevation:229
 PLUGIN:Ground Radar plugin:AirportRadius:5
 PLUGIN:Ground Radar plugin:GroundMode:FAPE
